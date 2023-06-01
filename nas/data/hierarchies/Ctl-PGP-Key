@@ -1,0 +1,2719 @@
+aioe	U usenet@aioe.org
+aioe	L http://news.aioe.org/hierarchy/aioe.txt
+aioe	F 2203 1AAC 51E7 C7FD 664F  1D80 90DF 6C71 2322 A7F8
+aioe	V GnuPG v1.4.6 (GNU/Linux)
+aioe	K------BEGIN PGP PUBLIC KEY BLOCK-----
+aioe	K-Version: GnuPG v1.4.6 (GNU/Linux)
+aioe	K-
+aioe	K-mQGiBEbun1oRBADlKELhfZgTCJcjssOTpmUqXEyUt+IKBzcOf8AYefcof3uzRJDH
+aioe	K-gqrEtKhQ8b0fp2+UUBpYGb6L27dBNAz0Zv6yNJzL0fiaNJrp781kXms69GSCB8sa
+aioe	K-we7BGtaVe0fHbJb2ry/wLmx+dzIBe5q2yvRIHlDssQKPOo6Co0BRyZwOrwCgvRR9
+aioe	K-bAcYzzOpwYlC6IHU+q57zVED/39RQSk9vxCLIeSes6v2ToXapdsYgeb7I4ta3bs6
+aioe	K-AcSaTDdXoUBQJK9Xd1sm571wXOKd1NYWSpOMw8J7yst8RooAm1wFDl956AuTKbKL
+aioe	K-I7EFJvInonsOLn5o5gsi+8K7VvRqGiP+Agku/mDSuJv0gRi4X7MaEnGFxm6DkYr5
+aioe	K-JQbCA/4+G87lUlQGHhEh4BOxyUmPIfeQqFP33DNf+Ajf8598KkXy5dfZlKbLLzj9
+aioe	K-bHDiO3U7Averv8/7r3YRTf4nFqAp6J9f1N7mJEwzaS9LUpOdyvmfUi64/YRYGVI3
+aioe	K-uUqA9xtijKj07FFWUjqi9wDJI6p8EH0ArYq+P2AsBeILehoVk7Q7dXNlbmV0QGFp
+aioe	K-b2Uub3JnIChBaW9lLm9yZyBTdGVlcmluZyBHcm91cCkgPHVzZW5ldEBhaW9lLm9y
+aioe	K-Zz6IZgQTEQIAJgUCRu6fWgIbAwUJBaOagAYLCQgHAwIEFQIIAwQWAgMBAh4BAheA
+aioe	K-AAoJEJDfbHEjIqf49ysAn3dbS97yxqUy58GcVWYT3WPifAysAJ45rwGyfMWjPzqP
+aioe	K-soNjdoSc5z1TLLkCDQRG7p9jEAgAjUtJvWyFkmk1zzrAVos3lcAB57aIzubmsgeg
+aioe	K-Iif/CHoRRPXGwGGgYTTxqjizv4RszdVI4uIlUYqxJS4K9hyX/nnKdN9lv0bW2HDJ
+aioe	K-JsSGQmdG+qD4+La6FcVmwibYUDtLciZ0jabj2qZjfWUP4Qgf70jIotzBVSV58WAD
+aioe	K-4OBDMLlzWabeRNTz1D1E1DvhLCIVlojuJJxSHA8FDKG3KInC4Yh0n0ZrEd8XY3mZ
+aioe	K-wceT07XucKS+bDjcTGYwR3B4afypmd8Qxggp+XsR3E7prkRZWnspjuGU1TZDdMjC
+aioe	K-KiIpjK1oAK7LFPCjDYcaZEdApybCIDljMalGI7K7sNBdouGS4wADBQf/Ukj6nMBj
+aioe	K-RYOkU5ug9uk1FN4sQdxNVJ2TCQ+EmYOzdRCmCOnkcQgvNyGBnSO8mEFXZePPM2yx
+aioe	K-vYrhdO9v9jfSGdc4ASielt9jhkWjd/tXw8Mnwy3/4Idr/yY9uF8suyeinGjLq7dZ
+aioe	K-6BENxE5KePQXfbw6NSV63ragmYt4xOgrh2EW0GN30KFkbBcH2QDScO+57V+1MItI
+aioe	K-jCW6H7AqlYmRvJDVZWH5LfnNneJK3dB0ZyV7UufRubszZGn+AaX15Mcd3oCnlXBn
+aioe	K-1GT2l443cqiCC5pb51MN7qERJNVFCF1cXfAnkvQJDex1JEXGhHpyyDAFt0m9j8Ot
+aioe	K-cJxd+sxZY/nobYhPBBgRAgAPBQJG7p9jAhsMBQkFo5qAAAoJEJDfbHEjIqf4/yMA
+aioe	K-oIz/ubTxNqW+DWjiEJxQAkdiDxgBAKCfsjw/Oi3iEDtRyQYj2fIemYs8Nw==
+aioe	K-=YBys
+aioe	K -----END PGP PUBLIC KEY BLOCK-----
+at	U control@usenet.backbone.at
+at	U austrian usenet coordinator <control@usenet.backbone.at>
+at	B 1024
+at	I AE548CCD
+at	L http://www.usenet.at/pgpkey.asc
+at	V 2.6.3ia
+at	K------BEGIN PGP PUBLIC KEY BLOCK-----
+at	K-Version: 2.6.3ia
+at	K-
+at	K-mQCNAzNNWQ4AAAEEAOhRTCZgt0kmugOwd4JspTOnKEY4wQ61kYMY51OCothRV+VY
+at	K-Jjd0vwG/76NuXmTJtTkrIQ93yiuPfiEcJAsk7FuLfREJPMgqXd1bXpza47+9xtOz
+at	K-qzFhZc/s0bGVtbf1ueoM4XK1L2HaWfb/jhesJH4NCVVgsw07u+u+HJWuVIzNAAUR
+at	K-tDhhdXN0cmlhbiB1c2VuZXQgY29vcmRpbmF0b3IgPGNvbnRyb2xAdXNlbmV0LmJh
+at	K-Y2tib25lLmF0PokAlQMFEDVnDjywIEo7Q/KVIQEBoCwEAIyDGO29583NMFBEEcZ1
+at	K-7SfT/PltJ24nFXcyyLlJkocVHzeTEGB5m2ey+wImR1v15x86aZuypjBEHehiRjIW
+at	K-zhtL5jLpvfgX2z2/9gYnstcLmJVPnnxT3zNogrC4EyTc9W+T6xR27sGEgfStEH+o
+at	K-puHRJOKdLV7bZl/fo55lwJ0siQCTAwUQM1R8w09+5qT1sJq1AQFi4APpAV6+gXCX
+at	K-jjRM0C6BBW/oZ+5pZwbyzbbA5Qbm1QLU43r5sqndmnflbjP67JMs106aB3tTdtFo
+at	K-kxEAb7GBRNbVngVWAkfLQ2voRLHaG8BClwSUIVezMs2bROy8vqvYvaCcW2iD9tIn
+at	K-7UhTo4+Hiq5itVgNNwALjjoyt7ZAlUlgiQCVAwUQM01ZDuu+HJWuVIzNAQE9fgP/
+at	K-dnzDLnQ3RC5QpjshJe3D+qBOkKnctxN/BO/zqPoqCJYPVYRu5jWVSV3kCBfDYh/Y
+at	K-MQfmS4jf9lsGxC5xQ2G0n0YFP7ejqXAi8YoUovWunUE097fmdqkL6RV44QmBF0ZQ
+at	K-7yH+LR1HM1US77DXF4ssG2bFi3nruSgQ7Y/6NXs/ajA=
+at	K-=q/ay
+at	K -----END PGP PUBLIC KEY BLOCK-----
+aus	U ausadmin@aus.news-admin.org
+aus	B 1024
+aus	I CB522BD1
+aus	L http://aus.news-admin.org/ausadmin.asc
+aus	V 2.6.3ia
+aus	K------BEGIN PGP PUBLIC KEY BLOCK-----
+aus	K-Version: 2.6.3ia
+aus	K-
+aus	K-mQCNAzV3rngAAAEEALmKaSxOB2MpJWPRzbDuYh1vOlE2qdtHIJvk9qKfE3ER8yAP
+aus	K-PVlHxs2aUYxpgFDt9ShVqcP3457zGUnbDQbzH3F9jVQKDIryYUvQHN3Saayr2pv9
+aus	K-17KXQmGK1TtDF2qSknyZeUubPjGSVYaNeVxALG35y2ZtMvtw2FL4gcrLUivRAAUR
+aus	K-tBthdXNhZG1pbkBhdXMubmV3cy1hZG1pbi5vcmeJAJUDBRA1iH+1UviBystSK9EB
+aus	K-AVfZBACCtHCzFS59eYCkpVwpSD+MfYnUQCr5B9QAn0sQoh+SauCAispP8nuObPd3
+aus	K-P+gV59T+fQoTda1IEUSeGtQaVZaJ/5p77C0vJOHt2sg5hOdSYdoa03cy3CxuqZtR
+aus	K-T3CwZN4GJkmHrcWcApIMnZS0GoIu5Ixt9tIpVkv6tEhbZehx4g==
+aus	K-=c+AC
+aus	K -----END PGP PUBLIC KEY BLOCK-----
+be	U be.announce.newgroups
+be	B 1024
+be	I BA8601A1
+be	L http://usenet.be/be.announce.newgroups.asc
+be	F 30 2A 45 94 70 DE 1F D5  81 8C 58 64 D2 F7 08 71
+be	V 2.6.3i
+be	K------BEGIN PGP PUBLIC KEY BLOCK-----
+be	K-Version: 2.6.3i
+be	K-
+be	K-mQCNAzLiE1oAAAEEAMx8KAOO9TJzY8A9scImT1CFTZHe7gzynsvlzDprmGRoWYBa
+be	K-xf1z61buwk24WnC/hXcHwKKxTi2gZ2UaFlrJLcsgtCo1+7000UYY1OrVSuojD5i6
+be	K-0Senfi45cTqD/I5UH6qrGgfs6dacWXk6Fauw7ivvWMcvKys6Tx4Em/q6hgGhAAUR
+be	K-tBViZS5hbm5vdW5jZS5uZXdncm91cHOJAJUDBRAy4hNaHgSb+rqGAaEBASoyA/sE
+be	K-nEec3XRO9CnycCUYlw6Ls38+rW4KZZws/saeXuzSC5YF0mKM0LewuvQ53eogepYD
+be	K-ybubtfdMjb2qvMQYHUvJzKiGymq02WTB6X+gZRKxywCroSU3057wLIAfX/GBe/zy
+be	K-EMJV16sienUOFC5kjkkMEde4MA/QohlEKnGyt7xlWA==
+be	K-=kCY2
+be	K -----END PGP PUBLIC KEY BLOCK-----
+belwue	U belwue-hir-control
+belwue	L http://www.belwue.de/fileadmin/belwue/Dokumente/Newsserver/belwue-hir-control.asc
+belwue	F 2E FF 2B 8A 89 1F E5 AA  6F 89 67 24 50 B5 42 D9
+belwue	V PGP Key Server 0.9.5
+belwue	K------BEGIN PGP PUBLIC KEY BLOCK-----
+belwue	K-Version: PGP Key Server 0.9.5
+belwue	K-
+belwue	K-mQCNAzyWNPkAAAEEANPl3LDEDsxJ7ZE+pz9Lh5j0JNGmy3KO8dDMH1G/3aw1LnEW
+belwue	K-Pt2PZ/Z00tmOyhb0H5a/c2m/WHG2tT0BssA/bqJMFax6tKvrMcm0qcbSksfqPhMz
+belwue	K-654Ci6ZfKuDdPN/XhqBDsDaUEQmiVSbQr1/JAnsyh9v+4xh0LfUAYCxJwwbhAAUR
+belwue	K-tBJiZWx3dWUtaGlyLWNvbnRyb2yJAJUDBRA8ljT59QBgLEnDBuEBAbLbA/9NVtWF
+belwue	K-RxWuqclD6ofHPmnoSTCYajhMglDVFe9Li0ROA9e2VyivzfXSag8+S1UTc+W0JASu
+belwue	K-ju4Xxqow9EGqCGn1n8IeLoTE5y75WijFZPgeqjmn0Aom3Bi41uYM1Wdqkbmgq+Rr
+belwue	K-j86b0nvSqCNqBHbJzlJNMwjVQcItZ/VpP2iDMA==
+belwue	K-=dNPR
+belwue	K -----END PGP PUBLIC KEY BLOCK-----
+bionet	U Biosci-control-key@net.bio.net
+bionet	F EB C0 F1 BA 26 0B C6 D6  FB 8D ED C4 AE 5D 10 54
+bionet	V 2.6.3i
+bionet	K------BEGIN PGP PUBLIC KEY BLOCK-----
+bionet	K-Version: 2.6.3i
+bionet	K-
+bionet	K-mQCNAzi749YAAAEEAOeP5jfujltxaQt8eFqEebuPHBJUgDQsSTfoA4MaDvRfT3pq
+bionet	K-pm5kpjmuqcxkgAqBxCYiAYpiMfdHfHSaUfAxlXgDigKBPaA9MehFP+0oM4K3iC/i
+bionet	K-9rrdTuNt0SAUG73VBxV1xzMgTml6DstmjDvr3H1o6s1W/Tu9YUTvH+UXzHMBAAUT
+bionet	K-tB5CaW9zY2ktY29udHJvbC1rZXlAbmV0LmJpby5uZXSJAJUDBRA47ICHeSdEm13x
+bionet	K-+NkBAWSqA/47yV2u0CrIagSADta03CnJu4HPVo3DbTjgB3+Wo9hWkc6HHcq3opBf
+bionet	K-ptbqqDo7A1P8gDvXmVimA5aVt7X/lQgOCT0qCnZX9+hLZpziYYGDptJFTUZ/bS9r
+bionet	K-kEThwgtSrjUOsYXeG9aZxcO2le4eL0xkvGOld9Bj2H4pwr2wAJwWeokAlQMFEDi7
+bionet	K-49ZE7x/lF8xzAQEBT6MD/iAnoxYSUMFlg90bbdLLsQTtKE9kHRZRSH+cCTs2YY6y
+bionet	K-mEujWnHybWPs+XT1tUaZKcNjYR93NwGBiBh630PLexQnX7m9OVb82EOTdr6bRAb+
+bionet	K-r5BiVh124UOVVZ8pZnXRVu+sqDlt4YnSFfsHL8Ub8BJQNzH+eFtAjidn5Xtiw6fL
+bionet	K-=KMOt
+bionet	K -----END PGP PUBLIC KEY BLOCK-----
+bit	U bit@newsadmin.com
+bit	V 2.6.2
+bit	K------BEGIN PGP PUBLIC KEY BLOCK-----
+bit	K-Version: 2.6.2
+bit	K-
+bit	K-mQCNAzpA/JMAAAEEALUuDA4puig52BrpAIuAAtJw37qbiOc+Q86EZt3uw8UBlcO6
+bit	K-kCTyXaHYCLyEJWU/a7F87v6U/aMSGz2A/ehouv9ut2/TlXayT3rKSEbEmlkksxxg
+bit	K-uO5TbYMzyNeLX/QLNssnwwIrORhykc7KL7OvIP7P/NcK73fDMWZsol7EuJDpAAUR
+bit	K-tBFiaXRAbmV3c2FkbWluLmNvbYkAlQMFEDpA/WxmbKJexLiQ6QEBtgkD/2wYbaqU
+bit	K-U6JQppbXtZNCzfDUpMYZ+K+TSKW6DPmJo7IoAfVTUvnS4s4GbULz8QQHiaX5GC7W
+bit	K-DOK6xsbzudrM9HNbFWSevbQzuZ1YN2fIMUxQv9Zk1fwnYqu4DlRNCnjy325tpBn2
+bit	K-fCHC7vNZQoBU60SU073DJ0oda7Dg7nXpJmqj
+bit	K-=J6Dq
+bit	K -----END PGP PUBLIC KEY BLOCK-----
+bne	L http://aus.news-admin.org/ausadmin.asc
+bofh	U bofh-control@lists.killfile.org
+bofh	B 4096
+bofh	I 7DC1A266
+bofh	F 40B5 8A56 1E00 6152 083E  38B3 CEF5 6980 7DC1 A266
+bofh	V GnuPG v1.4.12 (GNU/Linux)
+bofh	K------BEGIN PGP PUBLIC KEY BLOCK-----
+bofh	K-Version: GnuPG v1.4.12 (GNU/Linux)
+bofh	K-
+bofh	K-mQINBE8d5VQBEAC9j4e0Xzo85w/eqJdAjS5J4GdQ+zZOEcE3Hc8WfV/CAl5fbD7O
+bofh	K-lTu7nncB7klhbT2vs3lFfMULldfwVQj+Vr/mR8dB5018x+n2vKKrsUsBByzLAzvc
+bofh	K-/rhAkf8O5gahTQRElhOU+yhwwR0aknC7pzsWeWTpFO+yEH77bu8fNGgYwEc+2TmZ
+bofh	K-rONNOrXjfc10vjBFQVq1gk8CB0eOC40vOgQhLQxe0eeKgyBNIwehmWvoZjHUGUPC
+bofh	K-OukAYt1Jh7xog5uV9TBuR4wl9mOQm79OpkU/D0xCNLgY89H8uDGj9faTdE/vyN+X
+bofh	K-Au3Agp0G0oAAJM/QD4sLouFBJGUMmG3rT7u10RFBRzn3prGqDg/RrglX28OIzZVz
+bofh	K-lBhu42/UdDC98agrPnsEYuUoVF6PZiTXkyWKURlxKM3PWLEkeeOd/P3ZHMzEHllp
+bofh	K-SUOYFoDctshf/4BQMtGB/SvcJHJp2Ou0FcGiPgbUyaU0iXGoG3i+fn8/PBGIk0MV
+bofh	K-pla6/ug0VLeWoVG3bHXDYHc2j0DkHK/5mZY66avidvT7MeV2LVnu6LnCJUZEV+US
+bofh	K-DysCf99am0AYEme2rhzQXXq7hxD4M5uwodlmVSZT7g5MQ+GHAtz6wvcJPTL1F3nY
+bofh	K-fS3cxK2BoVLwGlLzXc5CAPMliJLhfiw0UKereHxD3ApkFmC17Sh79z9DnQARAQAB
+bofh	K-tB9ib2ZoLWNvbnRyb2xAbGlzdHMua2lsbGZpbGUub3JniQI4BBMBAgAiBQJPVF+j
+bofh	K-AhsDBgsJCAcDAgYVCAIJCgsEFgIDAQIeAQIXgAAKCRDO9WmAfcGiZuXDD/9ceQTP
+bofh	K-iUY2+WR0hxBxBWpCowOj1ojl81MsiHobizHg2c8UxXxgnpXKrY+RR0XxLlvtF6SU
+bofh	K-UTUDj9nmisG2JQlEA2eXoU7OA3aFdaQ+3EXzmojBOrbPRK7oUTb0wkA9SYOiWeWQ
+bofh	K-wg+whr6yo/bueuwA4rVv1Hpq/ie0Qig0o11yyS3MmcGL7R8ytOdi2QzMIDf3+qeU
+bofh	K-7H2itQMzk8KpygdPhCzgFNpiY0uAjaZMuvHm9BC5keyu9zqzNLFHWS16WfN5Ja6r
+bofh	K-Yh36mdmFbmEN5YNs2smVg0sVmxwkg97DBMzLWcc3PsXP39/9xkakYbhSbAuolDTS
+bofh	K-V1IfhMy6ywtnoGAwEDiQfna64pDBC9Kvlt/uywke8InRbMyIP00kx9cu0ThL06Mg
+bofh	K-f9GhMH36mumIMzmQG5hqRo8B4WID3bhrYxfwe/yPOYA+irJ8aLvhg4rhOs6pUFId
+bofh	K-SRziuuDz2ixb3FKWi86VlZisd0YlzbBrV3XJ7oGCDF+gwQn07jzUKpbTdUGBKl83
+bofh	K-JkIIzSQucQyAbPHaIh75WqvsLlEzQs3UWZmcwPd/90kj27aWURenoiX59SPfbGi2
+bofh	K-e3pUGo1PUXIM3HNzZTLh9Tj0EapxHzZEIIA8G6Sv9A0TtXQT0QibTMRtkgP1LGll
+bofh	K-ZmGUE8mC83u22xhESMHw+ntxdQhyc3LM50DgDYhGBBARAgAGBQJPVF/YAAoJEJMO
+bofh	K-xVMMLuId6+IAn1W0vUyKPMgOTBgzDoC5qwvPqWtMAJwL7chwQ4NRhiXnETJarxFG
+bofh	K-iMYOCLkCDQRPHeVUARAA4nXZrPx5dbu5fU5xdFXgu2cejLw06+YGpQyMsu9CyqKR
+bofh	K-GIA5mBX/Gvik/EkXoz73v7xpHoJzaXi1yG9KspzRm7UW/8OSOSx0uy+j9jsMGrd5
+bofh	K-QBYAWMGyRNRiM1g5Apa8GjQvPHp3sQMbrquFu98ee+gvjQCRzHApgSk7BO7owTY3
+bofh	K-9cULDQmx81mPDwjGTzKHd9Ke7awfy/LcnP4ojRhtELFrGXdiIbjuzsv0/KQr7wPo
+bofh	K-63HFM3fGz3WDcxTBCCHfBkeUz7LwHiH5wkyblDPsWZc9n5CKIdMrUgEXj0HKwiQL
+bofh	K-07w9VkwBdZYfTw9Pxp3R9fUu46Kiqfn9qzw0ee2nHpsGof+29XAe5naxJVEO8OW2
+bofh	K-HoUE3C/TYXNNgTglC0SLogkgCfgsZJ/M2p8bhemtikC8A+8EV5+2Bl6Z5tJsnHSB
+bofh	K-jNXgxEzHF7XQOQCDKVYdlZ/m/QCmtVBDxKZj/aM6cHwli60pjb3FziznA32dDqzk
+bofh	K-yapS1BUHl9uP7rItl67QqTCFnnNX8Kh7GSCg6BiqgYjwoXyx3Pd0ZuMuVv8Oyopa
+bofh	K-RT9Q2V1JxFacDUQgiVQdz34eUlvERcugffbsMtSDDmub97oQ7Vla6l8dQRdgdzYj
+bofh	K-Ygoa5W4XI9Ql0chWw9McEQLu5DIkD8MHnPwVZyJamsHCYDGQEdLw+lQQkFdgho8A
+bofh	K-EQEAAYkCHwQYAQIACQUCTx3lVAIbDAAKCRDO9WmAfcGiZhwFD/0bcL4J5s54kX/K
+bofh	K-NbKPALTkn/F7/CWVB5RIykdWw6SYvLs0luDT7IfAMgd18Ffp1HV9Ob1vqsmVhQB8
+bofh	K-11OovfqkRqopAUp45BRUaRBuH1shKfKDQMdDdy5CWnlBbFGitwYVcwncyrp9gek7
+bofh	K-6iH/cv6/oOrYNlpPfJufJT5Z3oXD391MWgaYyyyQ3jd8alRFygR6qeVaI7OHQvHo
+bofh	K-jklXCrah9JmwoISFigG3Uup+LQJcqLlxDXs7OOQZ3aGCSi6/HUzpCqVEu0t/4SDT
+bofh	K-avLMmdwcgWCGhnjsZELCDJZIp1Oxe/qrpNmhxrtNmIMDMDFFjLmp9TWWJK1mJaJG
+bofh	K-l87hMO1DVj1NXbmnvBVWnpvVVdwGdIHwXgM2vZareKmIjr+CdbWAhRB0rv+S/xKM
+bofh	K-JrdWfzX3+EX7tDv0vgVaJzEc2NKt/eTcvBv2pRdreaO9pO8z6ZQapnuZSKQf/XPv
+bofh	K-9ue/UKK0RWVNNITiFRmDpHYhsDHvNPVEjYN1HaYDAW3ePZ77uxa506ZIHqI0LojC
+bofh	K-SHKM1nxzpjaAtBPII1/NEpFKxC3QLTTXZtElmTiM6HK+uh6L6Idjilv2Tr/+iJLl
+bofh	K-9PuNpwxQj5fL0KjRCeY6zBND4cKeP6/+NGHaRuNjezRQu/jASFw28Xmxsp1NMfnQ
+bofh	K-0G+NlsRNgg5neWcumw2Vyio7RLLvEQ==
+bofh	K-=aevh
+bofh	K -----END PGP PUBLIC KEY BLOCK-----
+canb	L http://aus.news-admin.org/ausadmin.asc
+ch	U ch-news-admin@use-net.ch
+ch	B 1024
+ch	I EF6D6715
+ch	L http://www.use-net.ch/Usenet/adminkey.html
+ch	F 71 80 D6 8C A7 DE 2C 70  62 4A 48 6E D9 96 02 DF
+ch	V 2.6.3i
+ch	K------BEGIN PGP PUBLIC KEY BLOCK-----
+ch	K-Version: 2.6.3i
+ch	K-
+ch	K-mQCNAzOxjWsAAAEEALEaVl7kSMbwlv85DA7HY23DwIQgIpgzIfklYpjW7lQgh8IA
+ch	K-q2SI5JeB/xDPTybTA/+p0sWNBuR4b8BsTIKx/F1164WTU3Xz81CvraaiA8kp941s
+ch	K-8Kn++CNa8VcQZCpYsDG2pLs6Rgoq0jxRa4wUy0qRxQOJAC07wNXMrG7vbWcVAAUR
+ch	K-tBhjaC1uZXdzLWFkbWluQHVzZS1uZXQuY2iJAJUDBRAzsY1s1cysbu9tZxUBAZZr
+ch	K-A/9xV8LidNqYPJDRB0BeSJrJVTJ8X3e88pEyxOO8r759kZyTC+1Bb98hAEHFlaqi
+ch	K-rkfuCvaM/zbW4pbftbIBEeopm7eDj7qW0GFr4kBiKgPn7ugznh+yx0KrRqUpgEqk
+ch	K-OO/PtUgGjGhGPg/Yycg1oE4OGq+hbsKJzQ1miwPO2VxWCQ==
+ch	K-=S2AP
+ch	K -----END PGP PUBLIC KEY BLOCK-----
+cl	U cl.netz.infos
+cl	L http://www.cl-netz.de/control.txt
+cl	V GnuPG v1.4.6 (GNU/Linux)
+cl	K------BEGIN PGP PUBLIC KEY BLOCK-----
+cl	K-Version: GnuPG v1.4.6 (GNU/Linux)
+cl	K-
+cl	K-mQENAzfPVkEAAAEH/1/2E+E9DPNC5+R2+B3wlWfO2OhLVHdWRAKlY5B9IVdzeXS1
+cl	K-4R0ymZglZfvfdtfvKOT4h4uqC1nBIaYuGssBObDqCdIhuq9DsaGEv/9GUlT/dEqd
+cl	K-fX54XPlNj+OUfCVENPsh8IrptsDjBPQuIOYHwymOrMJs5pB6uAcCaxdaR6ZhLUuG
+cl	K-TGH4F06/0SUJ5WPVLDAT4pnLxROs6KhWmm8beWrr7Jk5gOZOPZBcADRiMzsGv/Ha
+cl	K-zCSPzS88di9gzYZe81WvBdC5D3g78ub6wU+iyuUTMWVlkIp8ywZPCwhTh1V/BB6J
+cl	K-CINntHUv0k3yUoXdBL0svwOThP/wK2gdxAaGlA0ABRG0DWNsLm5ldHouaW5mb3OJ
+cl	K-ARUDBRA3z1ZCK2gdxAaGlA0BATQwB/9Uv3YyguGzRCBgpCONbG9sm8X0P58+VRp/
+cl	K-YOQ9Ce2JPdZ6W763QU+13/4L5v3WbOILKLG/EQqJz8rCV73fidVOlMYCXqSJgjy1
+cl	K-+FHCQa7j3SUPXUYQAlbtmwQMqWTaiFIvxBS3JSj810bdoBvbC5y8LgnWUOJnU1ok
+cl	K-uH6BMJDRWH97vR7p++agS3L0zE335YFrW/l6+SoImU8js0QqfzGTuaWqXMxpBLvx
+cl	K-tJcHEMeccmA6PqHzuwQYWcQtphEZSIQSqK0eY1XpkKbRowidhkw2Y/LIgQnoV+op
+cl	K-3iCFUfDHtzr2Jid7ThF7u1cD/Yiswg5BFEiPczb4Ob4NFGthU0XjiQCVAwUQN89Y
+cl	K-b+UVKCUzHNpdAQF7JAP9G6dTg8cdsXFkJri2yFUDXLQjzDbnGsBfvU3TTBaOIwMY
+cl	K-lRxSea68iojdvD7+FKEVrDxfTBMPcC7rB+Zhp7caws5DWkI5B7AMIB8toIrSyYOd
+cl	K-1pVFPjq/q9wy5k+1QTVfoHmP++qYx93Uym2WdFPEQ/P65P/VwQK92knDukEnuHM=
+cl	K-=y3a6
+cl	K -----END PGP PUBLIC KEY BLOCK-----
+clari	U ClariNet.Group
+clari	L http://www.clari.net/tech/clarikey.txt
+clari	V 2.6.2
+clari	K------BEGIN PGP PUBLIC KEY BLOCK-----
+clari	K-Version: 2.6.2
+clari	K-
+clari	K-mQCNAzHhqEwAAAEEAK4YEXf3jB1ArKUs8bUMT666mjovSpCiuNGhTClxwLvSJrrB
+clari	K-K4n5ibvAPqAKh8T1AxqDdprDPWPdm/uGAF6/3gFHD8YFA1wU2EayYNWlQ1kvDRI7
+clari	K-bkmkq4QC2rtLnYpsOxwxyjTFsY1cvav+SSLziYauIlsOcHcix8rAq9eiL9vNAAUR
+clari	K-tA5DbGFyaU5ldC5Hcm91cIkAlQMFEDKjVJHKwKvXoi/bzQEBEA4D/095q7TCeLji
+clari	K-h1+qYHD52g2YuTRfL4NlGGmvEZjaHIe+Da6YBrCwKQVnZahckSv5VoHYhccKTtfz
+clari	K-6BJ6+EfdcqvJdXoTkP1IqKFKr4yHL/QS6TWUrC4pjAF7WTg0jKdPMbwjFR983sIi
+clari	K-KzhYhzUEfXdmNaooA+pYaDhl/SUGqh8q
+clari	K-=stal
+clari	K -----END PGP PUBLIC KEY BLOCK-----
+cn	U cn.admin.news.announce
+cn	B 1024
+cn	I E001A845
+cn	F 62 97 EE 33 F7 16 25 C1  A4 9E 47 BA C5 3E 5E 9E
+cn	V GnuPG v1.2.5 (GNU/Linux)
+cn	K------BEGIN PGP PUBLIC KEY BLOCK-----
+cn	K-Version: GnuPG v1.2.5 (GNU/Linux)
+cn	K-
+cn	K-mI0DO2JxdQAAAQQA62JWlMwVLSXdDAieRIhdl1XHuLBWXpXHJ6P0AFCzZJytc0Dc
+cn	K-z9gf9EolG/LXYIxhcVW5MOHdhcqj6yhlsRbepLV++6nAGjpjLsGkAir2FfkMJNDl
+cn	K-m3wqKTY9Z6sXUTa333o9Qz5VdTFNVR18+lx5E4vD4NkrRTdk8bagOeABqEUABRO0
+cn	K-FmNuLmFkbWluLm5ld3MuYW5ub3VuY2WJAJUDBRA7YnF28bagOeABqEUBAShmBADj
+cn	K-sM6L2NPIIqBeMm4TXfwy92VutRSmcw8leaksrUCyPaLDvG09mBTHCs/agL+aesFy
+cn	K-pyjHxtFkzpD1c1UsuDfTtwGNEc3rgfEpUH7aYTwzx8kkK5G7dLaA2v42owZG7ubl
+cn	K-1R6c730qO3DrSNkoTnykM2OXv89XuPq1EBUGjCFHQg==
+cn	K-=j3d+
+cn	K -----END PGP PUBLIC KEY BLOCK-----
+cn.bbs	U cn.bbs.admin.announce
+cn.bbs	B 1024
+cn.bbs	I D9662289
+cn.bbs	V 2.6.3ia
+cn.bbs	K------BEGIN PGP PUBLIC KEY BLOCK-----
+cn.bbs	K-Version: 2.6.3ia
+cn.bbs	K-
+cn.bbs	K-mQCNAz1Ni60AAAEEAMLeta8FnOvjGdC+FjHGapnBD0li/ODyNWbI5w9l6KyZj4rV
+cn.bbs	K-SVS+P3hpEL58S0cYVXfx1g9q5VuawMcDM1D0wwI74G7oBszq+aHrY8vsXabLkYV9
+cn.bbs	K-U3xJywXAF+Yl2JYBD6CSBQnKy3UImLO8Hke/T62lRYkxQCdZqJj5a0vZZiKJAAUT
+cn.bbs	K-tBVjbi5iYnMuYWRtaW4uYW5ub3VuY2WJAJUDBRA9TYutmPlrS9lmIokBARziA/9t
+cn.bbs	K-zBku4vIfOldeEXzydMdKxQadetS3OnlCca4fZ85oAQQmEsPrI/6DrhO7GcPBGIpJ
+cn.bbs	K-4Rar6DRrLbBf1aZI35qqRnP0UeL0gVLim4vZd6nY9COuP8mYUu1vf1QHB+TCp4iH
+cn.bbs	K-+yBI0I6qm7LZIj2Q3XtvS5oQsRe4NYP1pCBA1jGplg==
+cn.bbs	K-=YJgN
+cn.bbs	K -----END PGP PUBLIC KEY BLOCK-----
+comp	U news.announce.newgroups
+comp	F 8E18 1BEF 0BE6 3896 2C1A  5C98 FAFE 7B55 0C18 C8B7
+comp	K------BEGIN PGP PUBLIC KEY BLOCK-----
+comp	K-
+comp	K-mQINBGBOQfEBEAC+5dKbl6Vh+JeBx34xyRlmqJzIPIYJdcXbna6Pk6stnfa5J8UH
+comp	K-4ChMYdgCtM9/h33DH7dWX8/zKcABfRAC1784+ZlPFc+W8anEJoMZHeBdNfoY1qxP
+comp	K-D1ojC7jqaRiKt+Oc4vSl4fSRjPHAaZEIvhybduXWCTV5exbOnsDOnLLJ7d2sd08R
+comp	K-sIeQpNyCSKNcwDyHLH/UHdpHvYwuIlkjTSt0N9ghXArVWAgcFFaaihTpzGlp1+II
+comp	K-wn4n/zETzvVlFeXrzV+s/IqZ0oB2GzZaFOYlNa11vnIaCcrfEsHBig/PUDdwoIqB
+comp	K-YTVlE2KUIggf97bFUpLmat5kZpgbd7/n/tGWLD7HLcMwU/mjfsSG0w8BLjYZqIpV
+comp	K-JwbwEpioIbKKsH4qZBAMBq1c7p52wXJ2fZf+v7GRDMlIl5Lmt7A8HZgbVuMYxM/d
+comp	K-uAa6eGCMD2RKmHhInanTyYUgXYw8VRcW7NKOtSckHlBlIgsCa3R53lR+xQ/Ld8av
+comp	K-fA1zQD+82YehxSlmSqNteHDqxkN9pqqIGVaY0ajrHrjnVkGVxo7j9eT8u2ju0icy
+comp	K-Nf0te0OM8g/DfcpSqlDZPRgr5GZ0iN/yS1QACFudwLrmhpSrtZ8CWiK8UUmIpSBn
+comp	K-23w59WC4ZjkdRX2fR17shIjPl4UL02D1qe9OsbVn6aE0fUmVbfSi/6a9cwARAQAB
+comp	K-tBduZXdzLmFubm91bmNlLm5ld2dyb3Vwc4kCTgQTAQoAOBYhBI4YG+8L5jiWLBpc
+comp	K-mPr+e1UMGMi3BQJgTkHxAhsDBQsJCAcCBhUKCQgLAgQWAgMBAh4BAheAAAoJEPr+
+comp	K-e1UMGMi38YUP/RPrPfxiCAbzVzoPiMWA/aUzZVrAMCEH38r6N/QWyXgXye+6iUr5
+comp	K-DEELI0vQuZiayFKyooQIdXZfubqCZSuNx/OG2w4nK23K6hiLBFebmDoIX/oB/g1T
+comp	K-xp1nxwDW9jM3X2sxD6b8cf0zTzLvO3L8WThR2Hf94zIFiQtbrF3E+6eJNFb25JG0
+comp	K-NPzXhytqLrOCpmBQh2JbO5KYi/NVX34NmZPdd7YNlrhrUVG5pvv7AqrWY9v2J9ry
+comp	K-onugYYwEVnmwephjOaxFfb52R+qa7dDWpWzbV8fDMUu6N/e0nVRK8WgK+okE6st8
+comp	K-r9CdxDDX29iztP+kXh7xS/sVPgTzUyju8Zs9/cKBjdxtMvvXB3HAps6pNVb0sGJJ
+comp	K-h8grIAx1wJnejaR18tU6te8qFjgo5We4WNT6jBV2CMN2vxuTFrp+KNLSONlfHw2D
+comp	K-3CcX1azNAaYu5MHDylXZ8+KEiwZyKlHPVIfXOg9t3e1e+X7oOAcqX3O+DRDO9sGY
+comp	K-g4WYShOEJVVlKVC7bVgmAesDUN0WmmBWqQVjg6X0QVcyUwl8S/dgpDM7vQnaomPT
+comp	K-yARxUmJUQ7DvRmJpzZ+oXZ2pR7l+G/kR5WNVSLa9hjRfsRxhz+k4nHTWBzZrdXB8
+comp	K-7IMJ+b7Mi+JIB4KxQwTXZ8SBm8vUPYLWhv8az3MW3CRdIG8fRewmfZ/biJwEEAEI
+comp	K-AAYFAmBOSsQACgkQwl0607iNqcFN9wP/SMRzCWNe2o1MtNrqhBrC/c0XOhvn40Vm
+comp	K-ZnVMbHyzRuxxvbLpyGGn0qovOa47tSDwo8/KK/pCPyaN2YYYAHt+41+u0CK8fnu8
+comp	K-5R0VToARvlHefTTEo7yPv37+2t3ZOSCurR7eIHaLxBXFkSrUxsaMnqK095c11MlW
+comp	K-CIrXS50tJQ6JAjMEEAEKAB0WIQTnhDZOjd57s3D72erRXTE4ggBBcwUCYE5KmAAK
+comp	K-CRDRXTE4ggBBc330D/9PyuPL2JfEWuGCtmuyhrEpXVsU/Rr6ZZCcuIa6UnfmAoi+
+comp	K-9HOt0ae5dcTNNBybYq1c8nmMmzO+SP0zMprYTvP8O0VxnAZfoOi1TXScyO4GY18/
+comp	K-RknS1/5jxG5D+OJ5gIZ000d87Lil/ucJic2MbYZ+a6Zh/R+uC5fK0taPx0XdlgY5
+comp	K-7BEfdKMPa53I4QS32fVoznkoFAAeH0x2n22x1Kai7Lf4DOFoMg8d/pG8juoXex5H
+comp	K-Vs+LI52dsUAuNfNHLzMedccxlxSG2PVHDuL79ctxCSazC+VzMAUhBrhhal8H9YBP
+comp	K-pnse4LGA5eHB3j6ZpS+lGHwFt6fAyYXFcTnEXIjuBhveoVBHWC5g/YN3Amm9pwUE
+comp	K-yGxV13StEjoocsxnlrdpi6vAebRqJZGZTl0S1dlT/zBTo6oX0sLqSyzUzbi/YaoX
+comp	K-Xy2FV6onbVlTCrZW8wdirH5erveB5/cUatOxFfQFJx9Q3DnibZ06fOWfR5VImo8B
+comp	K-8kGgmsoRzZLswAyHysgTh65yTsGReLodwEH2I+SmH23TSgVinGQTD4kowJ1DWqtG
+comp	K-Oy09ycQgqp0aqe70DCmuAPBhP8+cTY5csYNhfvClD9q5lSClGq4tf2pTcFxXj6lr
+comp	K-vYQp+W5WDMo9m8XqhDEuW7lJsc7SZPAGzdomO+fSk66tWgh0uITGsu91fnNmNrkC
+comp	K-DQRgTkHxARAAuhdAV5qq2COAwxHLnVfwppToGvkIgYneHSrkUdXlKYj2hYAoS6YM
+comp	K-EIs3fr6LAAo94oiLFkxP530UuD5N02DOtzsK1XmoNCiEn2sSIk1+tSdh60EnUhGZ
+comp	K-GV65b4Gv4Zk2ReVoMyn6BtZR50vWeUy0wBvLWVg2hbpHLsHi02cD7/kZUov+pFk0
+comp	K-g5R++yR5Iabshcb+dboB0NCNZ/STg06K7lL5gragW37/bKif/1mBv3oqCzX31VLj
+comp	K-C4esx54AneIwVAflpE2p5o2zPlixxA9yDkJm2sFISbK5z8u8bFpZJWYaN0cX4E+2
+comp	K-S+eyhjQ+3/p1645jTD1E9ZDPtGHXwF4jeeZmCfN497g/qFezd1aAoKrR17Id4Hzd
+comp	K-2Mtlml4S8utYq54Sh0z74Sq+YGKWZ0eA4jsuULW0p7mK4Y5oqPeEebbWL/5rPDME
+comp	K-4JfWJzz8xhew9fw69sSTLsg9lc8srB6T3W5mGqDzxXlWhxIqinE/IH8o3WkMCQP1
+comp	K-KfHg1pEubfSn0KCwpwuj2pRmxBJcQCJG+ptuaxYHzPrDmUj7gNTnuvUm8fgmLw/o
+comp	K-yo7RzmF368HKszCvRsqccxvaZti1W5g2YikVUoIYLKOqsU6qz1m8U1Nn3OoRfmFU
+comp	K-ZqjTDJ/qoPhqy0zabQRjxHJDqEtzK9MU6WVHDHM/bZ8CPs8PczI9TgUAEQEAAYkC
+comp	K-NgQYAQoAIBYhBI4YG+8L5jiWLBpcmPr+e1UMGMi3BQJgTkHxAhsMAAoJEPr+e1UM
+comp	K-GMi3V2QQAKmqhyRWDuVdurOBX6CFy588RxJX0oH5v0Vcdb9TBWxtU9dScG86DB1u
+comp	K-7yqObli0yyIKko4HlaDCjcrJJRXAJsA/IddSyPT3zwPAQcn1guBiB+zsE/BM0u4A
+comp	K-1f2rgHEKR2RkXlHpFh/xtDTbgCY2h+DTvapD6975OzHQi9Jl/mLJeJyOOxHx52c1
+comp	K-SjCvsVPx0D9cagCN4hRmU7ka3LxFa4OrEhVY5qxWYfVTaQyTsZhAiXVGV93Jw/mm
+comp	K-HQRfUtdINGpYc6O+6ZwHbGENZ9YhHs2mciosbULnI/416220DnJA3FkcPDCcQc2d
+comp	K-IdwF5afWLnl0eDpj/f5vmDV0LZL05wltoSQ5KuBYKYG/LtHn5Uvqb3wwPJ1XHC1D
+comp	K-j6r0eDZZzhiWzR0u3nye24hAQaotoPlrSQ573Ytz+VB6Si2CD0iT8NvuwAD9fJGC
+comp	K-xn15AsOkdBbD8PY+BBZdt7UwPKT3ebOC2e8vbqOJGlDGEiZmYSkSm2Vl5Nhp+Le7
+comp	K-FzM9FfmqhjXV7ZrY/yk+a+ebQqaDCfd+sV+U3waEde6ysoMHQHfZlLS29sKSuapV
+comp	K-apT2NWMkcwFRpPE39lj8ESEVd039Tuvk87Er+fSzd3NAH01d7CaFoUgvvBR9MRAG
+comp	K-IFfp1dQnPMA8W5K/smDEmfGKnSoMZSH9pIR4360pReB5Jf1sCJJu
+comp	K-=oDzt
+comp	K -----END PGP PUBLIC KEY BLOCK-----
+de	U de.admin.news.announce
+de	U <moderator@dana.de>
+de	B 1024
+de	I D3033C99
+de	L http://www.dana.de/pgp/dana.txt
+de	F 5B B0 52 88 BF 55 19 4F  66 7D C2 AE 16 26 28 25
+de	V GnuPG v1.2.1 (GNU/Linux)
+de	K------BEGIN PGP PUBLIC KEY BLOCK-----
+de	K-Version: GnuPG v1.2.1 (GNU/Linux)
+de	K-
+de	K-mQCNAzGeB/YAAAEEALZ+Xfm/WDCEMXM48gK1PlKG6TkV3SLbXt4CnzpGM0tOMxsT
+de	K-HjlHaU6Xco5ijAuqM1wEGUHD5hw/BL/heR5Tq+C5IEyXQQmYwkrgeVFMOz/rA3Rf
+de	K-rd9aKQk1bXBxmavi9WxdXP2zxuSglc395StvmO+WxXbBCg1POnU26rXTAzyZAAUT
+de	K-tBZkZS5hZG1pbi5uZXdzLmFubm91bmNliQEVAwUQMb1eM/jDdqGixRdJAQEZhAf+
+de	K-JYC4Re0TrO5NUNcQ7hO53exJzR8tkPInr2Zh1fUyVrohZLSHw4pmCsZAkDTuxM2G
+de	K-F5Uu3i1N0X4+OsGYitRku+BqI1VvaSMIuXzUzaI62yJgXmSehyr/BEONX/i8nu7J
+de	K-bbWnj8L5hturs3RY5tm/ASlhUi12kMVkU9BuFrJgUfelwOcStDweKKBZ6B++1XmG
+de	K-u73QrkghHIaLLz1CyOd4yJ1NarJCEsDERlxN8lLEXZDrKXINxkDW+k/hIWP16crh
+de	K-XD0HvmxO1XfbeP6NLAqzkziazVgriZ5t0JvaAZak8d3SbUN5HQ9D8lhkKiutOPUQ
+de	K-wrOnhP3WaRMux7eWFmsuXokAlQMFEDGhJ8PyovL2APDV6QEBe5ED/2DWiB8Wh86k
+de	K-EMH3ExviAnaIiGpJmop22csh8DmFepxvrD5UZ5D55QvUT9iPsBPdaFqzx0C5Wb9W
+de	K-u/lZF7LZh7c1vic82mkBmh9vhPcDlzDCPe/+xrbAn4xClovDmTwxBEpaGR/om7Mj
+de	K-1wpzm+yz1MnxrofESvWlAJ2VBJgM4ttPiQB1AwUQMZ+73H2Yg7MiRkIdAQEb/gL6
+de	K-AlafFFJkPlLOTisBjWXy4FYzmt6PavzDAke3hnUd66lIky9t2FQ9rI+Py9pwZ8GB
+de	K-dLy5Ij4YawFTuxqv89vQ+YNr0FyXR9DR3OAgFKbNFJbOsPJ+VMt17nweAwkMf3+1
+de	K-iQEVAwUQMZ4JwgnccDk5839dAQHClAf/RfKclMhimHPCPZY96FMXtj4s/tw7U6Qc
+de	K-b3980MMpcRZ1oGfWcLqoV5ss4QXVJhpk/MZpNYzjSWcq0ej9/A/oeRHbmkNpiimt
+de	K-4jYGDML+UM4eVApGuzS15H8pbLlzghQzYUmmOI1OBy4COZ4C/ICSdey5wuYXlMOs
+de	K-rzvMMlMh+HFvK27+Tr/ttrf/XePMeOIb3B2WeGTlr2IfnUBgB+POLbCuwl6rx+UG
+de	K-B8XrVEqv6dppRLMX9Lc4BAKEPU2dPwIvaOf+h+xIBkUz0SzMSXfvx8vYibOEESP4
+de	K-Ao3anL8x49cB7S3FVohvqkGcSF3l/7uuuUHu2kkkqxi6e0DphZwKNYkAlQMFEDGe
+de	K-B/d1Nuq10wM8mQEBNCID/3U5664LFS0QGuYCWFVpkIEqpF2HLFYGLYrAaWhiUltv
+de	K-uYnw+72j7vVY+Gjb6juM8s3QKFl4qkSf6ol4KHhuw1dNbcPLNfe0RyAfg0OoS7hd
+de	K-CF+HbWxo6Yro2qcF0NLN33Lv1LiwUb+VCbTVPYQ/LxhZI/ZmAcwPC147cE7kFXwX
+de	K-=Ct43
+de	K -----END PGP PUBLIC KEY BLOCK-----
+demon	U demon.news
+demon	L ftp://ftp.demon.co.uk/pub/news/doc/demon.news.txt
+demon	V 2.6.3i
+demon	K------BEGIN PGP PUBLIC KEY BLOCK-----
+demon	K-Version: 2.6.3i
+demon	K-
+demon	K-mQCNAzQwCOYAAAEEAMnrmcoxEYJgPsujIZXbZHLt5yeyYjyepVW+E9F6FhzHimGd
+demon	K-1IdDMMKqIo8/ygwZh2TmWLtCLBwBw7Tg35uBZ4O8EDs2XIbYc2gJwY66bEFjC9m2
+demon	K-aJUrHxKYpRnyQRypULe2Hq9TO/z+x1oSwXjC5zGfaur4GbIea1Y+RptXNK8hAAUR
+demon	K-tApkZW1vbi5uZXdziQCVAwUQNDAI6VY+RptXNK8hAQE2SwP/antm/oPnGYxWAV8v
+demon	K-oSEIkxJqvAC0Zx8huqJJuO+M+PbZkbuRq3/aQKSZZrJE3rhONzSEONtwdBmZF1+Y
+demon	K-qGv6TaWWSJ7kLdv0y2B3WwZGTl+4+jxCqxxYefHNV1fBemmRGsJ6Bqz46Kz/y475
+demon	K-l1MJsawswRGkK/NR0gmYKiDvjtY=
+demon	K-=1JWj
+demon	K -----END PGP PUBLIC KEY BLOCK-----
+dk	U news@news.dknet.dk
+dk	L http://www.usenet.dk/dk-admin/pubkey.html
+dk	F 7C B2 C7 50 F3 7D 5D 73  8C EE 2E 3F 55 80 72 FF
+dk	V 2.6.3ia
+dk	K------BEGIN PGP PUBLIC KEY BLOCK-----
+dk	K-Version: 2.6.3ia
+dk	K-
+dk	K-mQCNAzSoyLAAAAEEANs4Yb6Xdi2m5nJ9Ky+lS/DhXEU7drCouqCTLiOH1csVuEul
+dk	K-5c2X2mFifcSBGUbNsJQ19TQXg1Bfp9neVBU9f3WimUp4fXVH60UJGmuMxgPXxVpu
+dk	K-UuDrGrum+JaVhKhCXoYkbo8MOygWxiPPLfv4/q5LfX+lzp2Dw1A+Uwa6Eu1pAAUR
+dk	K-tBJuZXdzQG5ld3MuZGtuZXQuZGuJAJUDBRA0vf8JUD5TBroS7WkBAd2KBADDKeFa
+dk	K-nFvchkvS6Qdg5FznMyhl+fdRtEmG6fywXLPnvUWE6SDbey+9eGbLgmy/piOivbAm
+dk	K-6TdvMSoxUis1V2nzjpEkAvbcdpTka4eAk4E1OftZ0xM5+zDyLPpvkmom5RUtvG3t
+dk	K-pmy/EMI+5gxM/pBdYnHoCwiKxJ+obDeIYMHkI7QoVXNlbmV0IGF0IERLbmV0IEEv
+dk	K-UyA8bmV3c0BuZXdzLmRrbmV0LmRrPokAlQMFEDSwxvko4J5eQPKqKQEBlAcD/1Zl
+dk	K-86QpHJtjkfyNBx3k9lnOHUH2mkDBu27MsPEeO81huUJ2CsFFAbjG6ZXmXiwOY/9L
+dk	K-kPqc5HvBvl3f2/4z6MLMTkX7jOD/5J7Rc5PmZJSiZ1z2QhqP51yZcoYNqGP1+A4r
+dk	K-TKYiBDzc7reiuthuGpoS6tcxiYcyXVYEC0AbexPaiQCVAwUQNK0AkfqRupgHJQ5J
+dk	K-AQFnZwP+JWTRdWdzrBzSDAWzYay52kXqngNAD6AVPvTc4ETNZlTU1efsoC4akOxR
+dk	K-lgTP0J6g9nCVDxj8uoszcK+PGmcLnvZzQIXmCnEqpMT0Ci+/SCKLSETjHF8BFnkh
+dk	K-gi7M9n0PCfRA8ARKibTTRwcbzrFuFblTP3eSGEyQlrzfZ3IX1J2JAJUDBRA0rPEr
+dk	K-yZsYVEloQjkBATCWBACNa8mYljxQ7PzOHFNZX24+b3DSHTaHq5E+pGw+FnzdW8F8
+dk	K-MGGbd1ZcPDsLCvSdA7OfMPvxr8jlmEWZLusG3dHNmb41zjkOR4rRLMgBS95NtRVR
+dk	K-KzhmqljnoRFKC/iNYlvJK+8JQJQe0I202Yzf4eLWX8gEdmmUhgf1Cnrc1PuWG4kA
+dk	K-lQMFEDSo04nRHo2ycsieAQEBOHsEAIJIUqdeYXMX4KBa0NL3/joSRO19vKJyddzc
+dk	K-K7FUC6r4Mz5fyAIfGbYnY5SEJi4cCSLO/x4cVFxGj8ayNv3X/UcfCJBbIht1XO3G
+dk	K-T0DGS9sLVUcXZNlDdVXq8Hi0vFBQ8B8LDJfJjlQk51yxZC9PhVWTRo4hKxQkpngQ
+dk	K-Cko0vlyXiQCVAwUQNKjIslA+Uwa6Eu1pAQG0rgP6AgOl+8fdlZhSwPISp6aPB5PR
+dk	K-1rjzO0MMi4b4hySHJWVLLwRGWCWjCE7ZyBDmVQ5oSxfSumdSKmwP6AT4PwJb9kjh
+dk	K-N8m/iKwOwxUn54n8I9kkQeASytbeUKYJU6O7b3nrHVGMfEokCrR+AvE/YdJcRr/j
+dk	K-WtPVceGJHSapj0/tspc=
+dk	K-=SrO+
+dk	K -----END PGP PUBLIC KEY BLOCK-----
+easynet	U easynet.news
+easynet	V 2.6.3ia
+easynet	K------BEGIN PGP PUBLIC KEY BLOCK-----
+easynet	K-Version: 2.6.3ia
+easynet	K-
+easynet	K-mQCNAzcA310AAAEEAMHG4cqrO0lTV76f0HcEXIO2Sr1P3Fe+JRv7g1dpQB80Iewu
+easynet	K-+b5QQkMisCJd53amQ1EL0pk1P5CEakH7cpaEPgnRKhZzMsBqdX4he6egKCXqm7VB
+easynet	K-hYkvMRH2qnrwolq1CuRrOTwIdDI9Yu7ciQjY22SZ56nU0QjiYo9vPoWy7GHVAAUR
+easynet	K-tCVlYXN5bmV0Lm5ld3MgPG5ld3NtYXN0ZXJAZWFzeW5ldC5uZXQ+iQCVAwUQNwDf
+easynet	K-XY9vPoWy7GHVAQFkNQP+O9C1onjq+Mb47znTNiFT3NMBVHcMrU71H5YH4qoyld4v
+easynet	K-u3gEr2Y+v4x+WbZQI4SB59xyAPIribd/r+z8FwrSDYYXfqmXTPxRXrmi4iKhniVP
+easynet	K-q9VUcIT/SARP8lvcCzTYAS7cxuHTXgdfNAasK2e37Ya7j+U8BA8hnbKTQZevK2o=
+easynet	K-=eYSV
+easynet	K -----END PGP PUBLIC KEY BLOCK-----
+ee	U ee.news
+ee	B 2048
+ee	I 99C39705
+ee	L http://news.ut.ee/pubkey.asc
+ee	V 2.6.3ia
+ee	K------BEGIN PGP PUBLIC KEY BLOCK-----
+ee	K-Version: 2.6.3ia
+ee	K-
+ee	K-mQENAzPYu+UAAAEIAK1NNCYvPj5l/vd04qtf31Z5YsOj7ONqvoQ6M2zDoqeMz2EN
+ee	K-8WuJOzGyoJYUF342p9NTh79qPz8vnUSZxKpIK6gvl8cYw76jDSjNbt27Ro/oY0T1
+ee	K-sR3K6bk2xKq7+BhuXDA35DAVUyI5bEk3wJQTgpMaGGJi1rYol+ElCxguyzWX8m0R
+ee	K-mV3hdEZUj6Xiniu2PnvhJcm/8HCq3CRWH0u1Y/IzC2/COaIlQU4aOB061McYKVJD
+ee	K-bMoa7by1WPzkCFOLBsVrFMNjXezC1MjyLUjXtYCwtau8G1v8wl9jiGs+d5HjVB+y
+ee	K-nLCkst4KlCwEDZcvH7vNCNyIzrCZU8oP/5nDlwUABRG0B2VlLm5ld3OJARUDBRA2
+ee	K-AnlPU8oP/5nDlwUBAZU1B/9jmLOoZM5kLlE/VmVcuLxLRkkJaFgMawvdpYi5lzGR
+ee	K-WXV6fpErVraEiWc1u+IpofydbdDtP50o02pfeYh73MvRs2RbztF+DLV5C94nFVbn
+ee	K-W0ycxPc7EkJsJcsAwDBcVz7ZorOUKjFMJtxdstcTlMWbRhd/TuXjr6gSzVzfzFqf
+ee	K-Mk/ImSsMWm5d/YOD1ZNKEE4yUUFUamxLU7N2/fa3IxBUAiAaNZpsuJ0gOXI4vx/m
+ee	K-yXfc3THEgnQZ2McBZHxwPDanpfCZARAXxA6bO27lcVMBGYVGC2HUeZJ60G7VeOhK
+ee	K-tqifSXlJ7pYIUNzXGSYItjQ9LPnchhnOXIY5ZdHfMGzltB1Vc2VuZXQgTmV3cyA8
+ee	K-bmV3c0BuZXdzLnV0LmVlPokBFQMFEDPYu+VTyg//mcOXBQEBll4H/ieX/E25hzYO
+ee	K-BgKB/YoPuS5s5nFMQv1wbnPV7rSrCpBlYI9o+H3XCbzRml3c+5TEfq4loqLbN7DC
+ee	K-/SmVOvoUh2nqYFmitqxXXH/NMg3lL2Lk6qVd4TmzFWvjlq9G8XFiTqsDnu53wTcu
+ee	K-xBbnwAQTsHUeefTy2jwSuf1/mBMOofouHtenKcWupQb/UyfaH1+usZoCfaxIpQF+
+ee	K-ioLfqyfELHAbnuAEshhmvyNfnE/b7rj8vISFSZ9fdE9rLr+SAkuB+6mk4x7jq0tE
+ee	K-+1rZhVlutCixlA1KirjXB1bhXLcbRiOpNpz65cM4wtDKtzto0d2UPqZY6m+JJjVE
+ee	K-C/P77Nd9h8Q=
+ee	K-=Y45x
+ee	K -----END PGP PUBLIC KEY BLOCK-----
+efn	U eug.config
+efn	K------BEGIN PGP PUBLIC KEY BLOCK-----
+efn	K-Version: 4.0 Business Edition
+efn	K-
+efn	K-mQCNAzLXM7UAAAEEAMddVSqOf6hpg5YFwOvJYMZM0GvJut1IdM+ioq2ol1VrD5pN
+efn	K-qykjqgn8dOCvM07r64yTRFHMG2iX13ibWrlRv0ot4Wf3K4ZPyGb97lUxz47x7XKB
+efn	K-rYiNxZSo38YoecqpWXyAzKP98woBL3xzl1wc5muPssRlGPxBKawdUS4mXJCnAAUR
+efn	K-tApldWcuY29uZmlniQCVAwUQMvzweawdUS4mXJCnAQGppQP+I8CYmfETXSP6gAbQ
+efn	K-3hgcE9tgtPtewTgAlV4m0VconEtqwI3b8tjgzC0gtnprvcZ1vCfRkjVNl9kIA+sV
+efn	K-+dHLVy0EeAKXLqZaUlX3TKU8WA9U2VzABiHSPWpbkeNFUiR9hS/BBlh4WL/T8mqg
+efn	K-N7GmwFYwYCGqcrvkFkFdIZKylOM=
+efn	K-=cGP0
+efn	K -----END PGP PUBLIC KEY BLOCK-----
+england	U england-usenet
+england	B 1024
+england	I D88B01E1
+england	F DA 3E C2 01 46 E5 61 CB  A2 43 09 CA 13 6D 31 1F
+england	V 2.6.3i
+england	K------BEGIN PGP PUBLIC KEY BLOCK-----
+england	K-Version: 2.6.3i
+england	K-
+england	K-mQCNAzk1B30AAAEEAJOKxeP6Svlf64s8o3wKFUmV/7QqtJAjhy0TSqmV5C30INiz
+england	K-5yCehcoigJmy6egVK359rr9XIxti83jqwJ0EpV/aZHzhASIasrSpx8j6tl4JDPqI
+england	K-J3ZIeSE7EjpPJJF8ggq9lfHOyWLwrnM5QNtl7MubsWPQlecZAL7CAJ7YiwHhAAUR
+england	K-tA5lbmdsYW5kLXVzZW5ldIkAlQMFEDk1B32+wgCe2IsB4QEB3d4D+wfBTGm6k77c
+england	K-HVBC+uY24Oy0dpLkB8Cbd/fP1RhOl6k7m535g8V6iWC8Ki5EoK+lFkWPR/WDJnBf
+england	K-zKy78NTEBzWxTf94SzsMdcaAdW6MiPebrRdS0p9ubHrxKFc5NbURX76uaSRJVXUC
+england	K-EvHkaugFJcFOuhzReRXAAxaTLNwUVbAs
+england	K-=jgds
+england	K -----END PGP PUBLIC KEY BLOCK-----
+es	U es.news
+es	L http://www.corus-es.org/docs/esnews.asc
+es	V 2.6.3i
+es	K------BEGIN PGP PUBLIC KEY BLOCK-----
+es	K-Version: 2.6.3i
+es	K-
+es	K-mQCNAzKltbIAAAEEAM9cNJJ8gJDDOA2mN9EDBlw4jOqFywOIUU8g+vBTJXnJi389
+es	K-TSfsZTneJAw2rROf/CyNVVpM5RKIN9QotvqQV80SkpMOnShGWbp4JgeYl2Mz1dki
+es	K-Rtcs4dZ2MrnAK62eresA9f0LpPktTqV6KaFvugRewAoNnl9GnZAe7JVtRX8ZAAUR
+es	K-tAdlcy5uZXdziQCVAwUQMqW1spAe7JVtRX8ZAQFBqgP/ddF/iolVGKNIoYLHVpb9
+es	K-KcmJ0q6zB3+JynSz8Bsugg9Ojh2NlujzGeDVN8eY2eOkrAqYt806LCUEsAZTVwGv
+es	K-VufAr3jVIIZrhdnTziMdJfq5GixzkJKwDNbOp/5z85wSGrmc5FlmoJ8lEvFznuP5
+es	K-nnVjbiyR9Tqc3Ny9omAR2z8=
+es	K-=LeAj
+es	K -----END PGP PUBLIC KEY BLOCK-----
+esp	U esp.news.administracion
+esp	B 1024
+esp	I 4AF83ECD
+esp	L http://ennui.org/esp/mod-ena.asc
+esp	V 2.6.3in
+esp	K------BEGIN PGP PUBLIC KEY BLOCK-----
+esp	K-Version: 2.6.3in
+esp	K-
+esp	K-mQCNAzUynuoAAAEEAMcKpSjTfnoswTpNubS6p9W1OccFV0D/2LubRChwM1xvWJOK
+esp	K-JMJdVZ6lEw816JLvl75U6AN+bYtvHrSnCjjfWh/6w08hNTY1aicLVQI5wNSo1qaf
+esp	K-Oa6tYY/2cRtfvREuzR5rVDxWZXX+ZxsOsH4zsr/XL8ubv+Ti0/NpyDlK+D7NAAUR
+esp	K-tBdlc3AubmV3cy5hZG1pbmlzdHJhY2lvbokAlQMFEz74ntnzacg5Svg+zQEB93UE
+esp	K-AIg8ssk+aXm5Ngh5WxPHf9xGHCHSNnTBb9n5IHYdio8WYfBRCWlr6IInwgaRTlBO
+esp	K-ZbwKcpC0pPPfIJtgrHoGjLEZbyFLdaF6rKIyHq2BHfSdwQTsgkuaJjXky5Zs9kfE
+esp	K-hHqi6qZCbAn/MXp9wVI+5laIC9Y38RBtVaBmNa4DMUBziQCVAwUQNUkoE/dTeXaA
+esp	K-/Eq1AQGUKgQAlqHmSbr39rB53ig6ae6aJR5OroI5ef27OdPtl3iGs0IDMi7+2Trc
+esp	K-ojeuHDDPRfIKdd0qo1K5MZlD1d3L7A+jfy86PkvihLRTJfUry4RpCfp3IjbAAw3o
+esp	K-aBUA8dwp0me8DKjaKEwr32F2v1+F9+x5gfs15/ZVSu8SnKOcQmTXo1Y=
+esp	K-=gEsm
+esp	K -----END PGP PUBLIC KEY BLOCK-----
+eternal-september	U news@eternal-september.org
+eternal-september	B 1024
+eternal-september	I E7AF34AD
+eternal-september	L http://www.eternal-september.org/control/pgpkey.txt
+eternal-september	F B7 9A 2B C6 7D 5A FF 79  18 E2 AC 91 4B C1 25 F1
+eternal-september	V 2.6.3ia
+eternal-september	K------BEGIN PGP PUBLIC KEY BLOCK-----
+eternal-september	K-Version: 2.6.3ia
+eternal-september	K-
+eternal-september	K-mQCNA0s/HqcAAAEEANQD0+/zNogGP545f/EvPhEYHWhPe12CwdzF5/kNed0ntarr
+eternal-september	K-vafqNx3lvUkLObkFztZHSGz8demTMhq/AMWZ8F51jl0LhJPX2Y3JPuSufxRkezhg
+eternal-september	K-RjxB0oOrJv2+zhvgW9XNmDpzWi5jj0SDSd2IJTUwPG8R3kjM5aReRpDnrzStAAUR
+eternal-september	K-tBpuZXdzQGV0ZXJuYWwtc2VwdGVtYmVyLm9yZ4kAlQMFEEs/HqekXkaQ5680rQEB
+eternal-september	K-2TUEALkyrEWoQxakL2rycQDG46PVFkim4J1UtupxXKd0hLfVlC2108SphWJx3TBL
+eternal-september	K-1YLVOzoL3BcapkMMsR+PVKf431A3/ktJXLK+p8TrEmz7UxPuYBOE16QRpBaIKiSG
+eternal-september	K-K0sA2yVtgTxfKNWbSWgVl4Hho1dyeQtu6F8rH4oaF9qgHTUV
+eternal-september	K-=YZjq
+eternal-september	K -----END PGP PUBLIC KEY BLOCK-----
+eug	U eug.config
+eug	V 4.0 Business Edition
+eug	K------BEGIN PGP PUBLIC KEY BLOCK-----
+eug	K-Version: 4.0 Business Edition
+eug	K-
+eug	K-mQCNAzLXM7UAAAEEAMddVSqOf6hpg5YFwOvJYMZM0GvJut1IdM+ioq2ol1VrD5pN
+eug	K-qykjqgn8dOCvM07r64yTRFHMG2iX13ibWrlRv0ot4Wf3K4ZPyGb97lUxz47x7XKB
+eug	K-rYiNxZSo38YoecqpWXyAzKP98woBL3xzl1wc5muPssRlGPxBKawdUS4mXJCnAAUR
+eug	K-tApldWcuY29uZmlniQCVAwUQMvzweawdUS4mXJCnAQGppQP+I8CYmfETXSP6gAbQ
+eug	K-3hgcE9tgtPtewTgAlV4m0VconEtqwI3b8tjgzC0gtnprvcZ1vCfRkjVNl9kIA+sV
+eug	K-+dHLVy0EeAKXLqZaUlX3TKU8WA9U2VzABiHSPWpbkeNFUiR9hS/BBlh4WL/T8mqg
+eug	K-N7GmwFYwYCGqcrvkFkFdIZKylOM=
+eug	K-=cGP0
+eug	K -----END PGP PUBLIC KEY BLOCK-----
+europa	U group-admin@usenet.eu.org
+europa	U group-admin <group-admin@usenet.eu.org>
+europa	B 1024
+europa	I F5919CA3
+europa	L http://www.europa.usenet.eu.org/pgp/index.html
+europa	F 3A 05 A8 49 FB 16 29 25  75 E3 DE BB 69 E0 1D B4
+europa	V 2.6.3ia
+europa	K------BEGIN PGP PUBLIC KEY BLOCK-----
+europa	K-Version: 2.6.3ia
+europa	K-
+europa	K-mQCNAzpLn5UAAAEEAM7SSRvbsrDw5J/kOkg/aWO2I9uZVt0B2qKcFSLUqWkcO+AJ
+europa	K-GlSaioiAD7Ad7zcbauyCRiFxPHBl/OrOKh9qKLArOqUDr/ZlJpZJXUCabYWgB8rc
+europa	K-RxqBhL1RaxOf7u+1GhizSnOWufZzv2iGI6nWNKlrGrhkV+fkm8f+GMD1kZyjAAUR
+europa	K-tBlncm91cC1hZG1pbkB1c2VuZXQuZXUub3JniQCVAwUQOlZJhMf+GMD1kZyjAQHw
+europa	K-AQP+PFGdojhoWpFbghNN8q6pa4D3GG2OGwbCz7KfOHzVnj90T54chAyCwLAQ212f
+europa	K-WVv/3r/kXneFcCfyC8mAFeOWMpOi0BHA0JqAEwzSF/mw/LXy8C/WQmozkP9qiWu7
+europa	K-eTKLFV4f6DfqcPj2z+CLC7rN1by14UoZ3zfIC2Xywx6237S0J2dyb3VwLWFkbWlu
+europa	K-IDxncm91cC1hZG1pbkB1c2VuZXQuZXUub3JnPokAlQMFEDpLn5XH/hjA9ZGcowEB
+europa	K-NaoD/26XKy9+JYUY4bab4xBbNvUlk0L9rmNa7WGAGLdbId8+dzbJFEhY6Q5mPTuq
+europa	K-I9HlEgItuGIrnV+YGVdfoCq39SKhpDqjWmmehbkqy+UUMNopys22OVgUfvdkERks
+europa	K-d02wRzEm8BPVo4gDycMcuDBrSF8KuzQ92vjqNL6HCd1jeAodiQCVAwUQOkunj684
+europa	K-G+aJbDmvAQE7UgP9EgXupY+oRoA//YqgeAkuh8AUzv5aWKyMnjRvaHN9mbpfStWP
+europa	K-qlnsmHJRVn7Y/8A2mMpEgOZxTQ+i2IYP1tkcbyQIt6gAr9D0nLD1TQgIcH8/zLVL
+europa	K-8FdaIMWCXLTppYeEHOXoiVsDkenVSzLz93z/yK3/1ZPlVEXr7dA5ckm+PeI=
+europa	K-=xb9/
+europa	K -----END PGP PUBLIC KEY BLOCK-----
+ffm	U ffm.admin
+ffm	B 1024
+ffm	I 1B9E000D
+ffm	L ftp://ftp.arcor-online.net/pub/news/PGPKEY.FFM
+ffm	F 53 A0 82 62 6F C7 81 C9  CF 53 AB 00 A3 F8 C2 11
+ffm	V 2.6.3ia
+ffm	K------BEGIN PGP PUBLIC KEY BLOCK-----
+ffm	K-Version: 2.6.3ia
+ffm	K-
+ffm	K-mQCNAz2klUYAAAEEAMspfkgifamjP74pIUa08HvLK97SM1jzDuHVl66UVuDwtS71
+ffm	K-YJj3KcD2q7b86EScHQbc16zM6BEilC55K/FcoD1vsNZtDRq8wXqFGgnhLGnbZS3n
+ffm	K-ohgc5sl9aOBOrvyDWcXsijmtbOwnOOd7MYU5SHf9U99Ao5OVegnIq6gbngANAAUR
+ffm	K-tAlmZm0uYWRtaW6JAJUDBRA9pJVGCcirqBueAA0BAVSdA/9wlyD/S6JX92yIh6t9
+ffm	K-0pzry5kSS+Zr4NK1lurPMflfK6KxTuJtD889zla8WajPekIPQ7gGMhoEb7i9dq5D
+ffm	K-S11wIwsCq/cczMHn/6LQFyf4iv9MysBMQZkRmt8sBJ9HdrfV1bvv0itbsHcYoQPw
+ffm	K-F9ZoFvKe1QlJoJA3AXnfBkEmsw==
+ffm	K-=fCY9
+ffm	K -----END PGP PUBLIC KEY BLOCK-----
+fido.belg	U fido.belg.news
+fido.belg	V 2.6.3i
+fido.belg	K------BEGIN PGP PUBLIC KEY BLOCK-----
+fido.belg	K-Version: 2.6.3i
+fido.belg	K-
+fido.belg	K-mQCNAzPJJwAAAAEEALfkcZZHR5PhWqPXMf5qU7uf8D6cso4tzo5QfQWa7rZskmgZ
+fido.belg	K-yY/JIViT0TWc0uRuTuFtx/A5oAVsiqVWAVeUNtRN1aIJmI2nN0PDrV0kZhwHJ/O8
+fido.belg	K-Ztef6E8WOj9wkfoFcJ29g+bUrIwJZLSrdqfziq6onaWwseXd+bDMztimfbldAAUR
+fido.belg	K-tA5maWRvLmJlbGcubmV3c4kAlQMFEDPJKfTZ+PMFjw5JdQEB1DUD/R/+ypJuhyDy
+fido.belg	K-VHOIxb+jOn+5QplhdyKuOQbzzq5hO1u6wzKPVm43bdx3LKIX4pyv+SKTw3DSoEFR
+fido.belg	K-J7fYicrI0QtvqhAvRZX8dSJhMydfLNbtzIfXuu8LSCgw2eFwpL5pMEVbZdhOLczN
+fido.belg	K-AE/ILKmkZmWSvsFMfDd3peEoDMrWmW3iiQCUAwUQM8knALDMztimfbldAQHgzgP3
+fido.belg	K-UG5Z/5tZDt/hSZJBQTY2olBVVeawuaINVv1LsRN3AfLrQ1G52ZD2/0tShemuF0MV
+fido.belg	K-TjinJg4WZnt0wgjwdIQnd6+IQRBvTo1CQGbmJwzOiTBF4sILqeMfeo2lQlmLBLsQ
+fido.belg	K-jEO4nn4C6vo1Vm1KgFYD51silHnQ0t0whiBL0xcqBLQcZmlkb2JlbGdAbWFpbC56
+fido.belg	K-Mi5maWRvbmV0Lm9yZ4kAlQMFEDPJRnawzM7Ypn25XQEBg0gD/jtnIpaapuVf50kH
+fido.belg	K-tf+AW+5lwXYWGu/ilyRfJLc0xtrJ5sEuHGw+vfoxGcst41xr3cNka9HYn/+7Kohd
+fido.belg	K-CE5GFcoOafIgU110bv4it64uKJuFZVwDW80jcsartydmqqQYY57NN4qHTubtWhcX
+fido.belg	K-gYSrk3bKxKa4N1/4ePyBUqmU1rw9tB5CZWxnaWFuIEZpZG9uZXQgZ3JvdXBzIFBH
+fido.belg	K-UCBrZXmJAJUDBRAzySlIsMzO2KZ9uV0BAUhGA/4tLb797bR/CJUsFi5+GE+OzrLf
+fido.belg	K-+wMSLeZlLPqLBbxbeMQbvLJo7mZHeJmIOFb4rdP9KS5CthegeWFUJAh89c9qDqaa
+fido.belg	K-jMs2pdF8c7ACvQbqJY5UOHuFv0wFU6d79sSFuUGvJWNmOQnzrs+DZ2RQpJdDvw9/
+fido.belg	K-oC+nSA+cXGoIOjc7rw==
+fido.belg	K-=bKdx
+fido.belg	K -----END PGP PUBLIC KEY BLOCK-----
+fido.ger	U fido.ger@news.fu-berlin.de
+fido.ger	U fido.ger <fido.ger@news.fu-berlin.de>
+fido.ger	B 2048
+fido.ger	I A09C385D
+fido.ger	L ftp://ftp.fu-berlin.de/doc/news/fido.ger/PGP-Key
+fido.ger	V 2.6.3in
+fido.ger	K------BEGIN PGP PUBLIC KEY BLOCK-----
+fido.ger	K-Version: 2.6.3in
+fido.ger	K-
+fido.ger	K-mQENAzfqX7YAAAEIAM8YlxbkLtxn6qYrw+LtczGJcefVFznAig4cWpxfaDd1JLTM
+fido.ger	K-G9Ds8pbpmZ0C8tFcbtrxUnf74+vvyAtlSJG2QqB8HL6a+FMMK4o0i8FViDvf6ULN
+fido.ger	K-ESSurJBkRy6eHsYKNraOtTeE8uAGu3LHxAhuNSvDRg/4qwmPmvxvjvyjeWR99gNp
+fido.ger	K-U8uOnHyXYGgKKPnrvWQB3p9zNDzfUe6QCxOk7pHk16CRzckzjS7ma0Fzvp8Wa7FV
+fido.ger	K-5R+0O8L1x9k9AmjMH25GU8pXLCmlsVJon6AVQIwk6Dso31SPC28CHwyY0ZAZgYKI
+fido.ger	K-Qx5VpFU+RA7fYEsWRSflRNUsv3tPbtw1CaCcOF0ABRG0JWZpZG8uZ2VyIDxmaWRv
+fido.ger	K-LmdlckBuZXdzLmZ1LWJlcmxpbi5kZT6JAJUDBRM36mKL8qLy9gDw1ekBARk5A/9g
+fido.ger	K-G3bD9h02zG+jZvtGpL6KPosoYzEQN71Z9xg8pZ0OQwi6kWb0upThjVRY8JSKJGCU
+fido.ger	K-xb5uo/zo/KfloIyjCIzfzZG5z5S75GHySg730BPGvldjcxuxRBu3fvUAuSi06TKJ
+fido.ger	K-jPciEY/soiV68IEelYEzWHq830QDz04c9CTk+bjfQokBFQMFEDfqYB5u3DUJoJw4
+fido.ger	K-XQEBG5QH/3c0/TT45qwbCd0VCTLj9Ccgxnz/ow5dJaUYia1J/YRSaFVZFfpvBTnp
+fido.ger	K-omsnGCMmUnBmA5Ku0YPJEOgZVsTp1RWDCy9BXe4OYiTcFMmCwGHhKTBrDlj0xb8/
+fido.ger	K-BWV35QyFdlrm8lT6BY0HXeDKoV43zaio8zq+QWZQ3jwzeK47FAqxboBGtr7thzb1
+fido.ger	K-VkMAxrj6ean0Epl2W4t96wor+cJ4NkEL/elKG1Hz+EHYQTPddWO5+OIHSSjiOP4J
+fido.ger	K-6+huXiU6BbKDaomvrZNw9YDtRnI4vrfr8fSyQ0/AVXu1M3JGSjJCp/mCwd3eNSaQ
+fido.ger	K-t4w+uQLu/la7mBSAyYDZpTIhu8Z9J9Q=
+fido.ger	K-=48O0
+fido.ger	K -----END PGP PUBLIC KEY BLOCK-----
+fido7	U fido7.announce.newgroups
+fido7	L http://www.fido7.org/pgpcontrol.html
+fido7	V 2.6.2i
+fido7	K------BEGIN PGP PUBLIC KEY BLOCK-----
+fido7	K-Version: 2.6.2i
+fido7	K-
+fido7	K-mQCNAzHp+EYAAAEEAMPTJYTs7vtBxL3seNLTIqfKfAEtBBw9DXgf5/Oqgq9Tr1pR
+fido7	K-1iIRDNzLUxbtgYxbis7sS/9DjpjfMzxmhOAQgXPGcNPws56zj4pThKcb3+e+e2Ap
+fido7	K-/7BJwmvdStuDNZBev2gCehkAC+BDhIYmkr+glH0RlvMo6Iztnt8dj6gC0E7xAAUT
+fido7	K-tBhmaWRvNy5hbm5vdW5jZS5uZXdncm91cHOJAJUDBRAy25lJ1T70qQVgy2EBAYQA
+fido7	K-A/9A/+oiR/AjhkOi/O1cKyT6qirb+amb1S3z00BA7eBo2oZVoClxOBe2XYJYUKtm
+fido7	K-dVe6DnqmZjZfDDw8rozLuBURFVLnB37K71tzWCioRZZ9APVT/DtSEa2N7KpPInod
+fido7	K-disB9+qXPXbGWdlMjDHk8RGMlmN6CfB+yhpZGiztKo6m9Q==
+fido7	K-=Qpjh
+fido7	K -----END PGP PUBLIC KEY BLOCK-----
+fj	U fj.news.announce
+fj	B 1024
+fj	I 607F5DA9
+fj	L http://www.is.tsukuba.ac.jp/~yas/fj/fj.asc
+fj	V 2.6.3ia
+fj	K------BEGIN PGP PUBLIC KEY BLOCK-----
+fj	K-Version: 2.6.3ia
+fj	K-
+fj	K-mQCNAzXpV8UAAAEEALhiIKN7JxF+ShGlemWqXAPNmOYqsq8KgJdekqgqoGLl8h3r
+fj	K-CvxJzt8ZajyUvqmHDgYN36tncGOo1hbNHeXTVs/vY5BNUKsJXe/xP9HdUc7bZfXZ
+fj	K-SRezERxujZ2JneJmoFkx5g4TD86lj87RGVzS9pGblxNfpv4mvRf4TH9gf12pAAUR
+fj	K-tBBmai5uZXdzLmFubm91bmNliQCVAwUQNelXxhf4TH9gf12pAQFwKAQAlXkPQezd
+fj	K-xtlIVbG76NAxC6CpTyg9gc3GrjyUqCnV2pbWF/vBSlZZsYpOR/Er7JImWXRS+DL3
+fj	K-LB3d4ZXf5izHqkusP5u2ZQjUQIzfG/sqKj9XCBsPG4ZRZ2ADJ/5Itxsk106K9/03
+fj	K-cximrB7fT6PjZtzp/8wSxVvJ4pJ1OfBmROs=
+fj	K-=1lpr
+fj	K -----END PGP PUBLIC KEY BLOCK-----
+flora	U flora-news
+flora	V 2.6.3ia
+flora	K------BEGIN PGP PUBLIC KEY BLOCK-----
+flora	K-Version: 2.6.3ia
+flora	K-
+flora	K-mQCNAzNuAqEAAAEEAMUvbutdGm2Z1abbdaYD72/qrbXXZmeyo32Wr3DCjl2gg6v0
+flora	K-+vd0Dq7odKQXLaTBeEKKGXl6EhOtyxDOoZwJMKS2CZPo5Zgrkercvkl9PTOMyFhX
+flora	K-K6yMnAkCn6XZopivH5Hp6+Nx0gAqGEccJfdfs1TlXHD0UYkhlOvJiX8PXTE5AAUR
+flora	K-tApmbG9yYS1uZXdziQCVAwUQNL0mv1nBbqL7SY1BAQGrbwP+NBvKq+hCK5WVpLJj
+flora	K-6lEP4wCsWfM8bttJH+yIEXU6JYxw0N8VaeG75Lwyld/MQERFXFwb2ljN7QiglGeu
+flora	K-2xnmR5P1Dq5ZiO0aQm8jVhZ6RxCLPJQJczwg1zVW5LLtSk9JzL9Wa8+vNlTwmTFQ
+flora	K-ffFsrluX94aLxP+IZJGWfYoCXNaJAJUDBRA0vSIL68mJfw9dMTkBAcFUA/9Q+5d3
+flora	K-rPB0KdMbd2WQOqCKhWTw5vp+V+wpfGVG9Oqt+U2+9XCkr7ISoGVWaW2vG41vw1M+
+flora	K-oDt+RXlc2ztL2ow8ZDWxSHibuUDxDybDWFButskq8OreeIPGzAhXaNDhPh4Vdmr/
+flora	K-leL7YvnCGs/zyjdc2T1VjDrftS1JU90dBJhf67QbZmxvcmEtbmV3cyA8bmV3c0Bm
+flora	K-bG9yYS5vcmc+iQCVAwUQM24CoevJiX8PXTE5AQFwUgP+KJwJbGPYb2/nWShJPRNn
+flora	K-/yEB7aNOpLYSU9Eg2Xk+Uxp+1Qgkz2eKovJIF1dyAdyGO0rTxf1zXDjEfOI+MJxM
+flora	K-D7uUysrCZxgARb0sMXDW9q5Vrn44dZWciUzDN1EM5AuDX4G/XHS4h1l9seXFVUwL
+flora	K-pDpQVttHCnhrximf26fYb3A=
+flora	K-=Q/99
+flora	K -----END PGP PUBLIC KEY BLOCK-----
+fr	U control@usenet-fr.news.eu.org
+fr	B 4096
+fr	I 970EB10B
+fr	L https://www.usenet-fr.net/pgp-fr-2020.txt
+fr	F D5F3 69B2 9757 3622 0153  54E7 FA42 3E89 970E B10B
+fr	V GnuPG v2.1.18
+fr	K------BEGIN PGP PUBLIC KEY BLOCK-----
+fr	K-Version: GnuPG v2.1.18
+fr	K-Comment: fr.* hierarchy
+fr	K-
+fr	K-mQINBF+4LkcBEADLTAOPM6z/nj1zFox1KZEY44GTSwUaB5gBflJMTjC2izhh1Q6N
+fr	K-bsfya4REfRijENkqOFGV/QkWQ8Va/ru+74yOKvLDdiD0RqGjvazlgvOGRLaTcxbG
+fr	K-w6e4cAddbZ2O65XsqfNB+K11WQdgL42OAY6aGTrbj17rLANHFSiGd+gVhL3U3DNE
+fr	K-WBOnwGCVgpaAX52ZFLF1qUc3LVe36sW/zer/eftp57tI9dCUpXOBjJnmsrShMGul
+fr	K-6cEcdJ0cy4n/rGg0nGwfri8xszk/od8hPatTW4rdEDkSQBMbZJra7PHp8z/k/v7u
+fr	K-qAw9mHnB3mwGh2Ed9jf0jnubr/9gSM4m/izF6G57EJN+5bfkrK2zzbURJMggrTkx
+fr	K-DUKdge5wDN8u//KgsEltOGupqWrVbAI3pyJ/gyvq4inL7v6HvZP07suO8zbhHUt2
+fr	K-K8xgl7JoJL0bZBekaL47Fm8ZZmfvAWvvM/bqPCFSc/FwHi8oY5mMwPtxhad/yuLm
+fr	K-OfaAVqzthjhKLkkl+PZ77rpqHYWpK26ChWJ5MGmAm2MG5cetY6HK81CZK5wX9Ck7
+fr	K-rVIo2mL+wDIIFLlsrYl9v3x1yMOUVevac3owz3LGh4iFH3NBHCl5ncIonsc32A98
+fr	K-O+JlYbYoprKdZoMKnbtrSnPOe6XS85z+Rze0H6CaKXETuM3jGcYjSXCAnQARAQAB
+fr	K-tB1jb250cm9sQHVzZW5ldC1mci5uZXdzLmV1Lm9yZ4kCTgQTAQgAOBYhBNXzabKX
+fr	K-VzYiAVNU5/pCPomXDrELBQJfuC5HAhsDBQsJCAcCBhUICQoLAgQWAgMBAh4BAheA
+fr	K-AAoJEPpCPomXDrELdvsP/1GuHHDFJVejB4+O7+kWGIHn+UcE3JpiHcm59+X4I+al
+fr	K-a67l731/No1S5MzlOtKEBLOyDu7zoHsn/mQPyUKQ1yDams11PREkhmnoyI8u0JnW
+fr	K-JsmqD17N9IH5z88GeF/4KJw8fDG34qksE0yUs8T2mwvGuzb1I3gNfcTuy1hTpVKa
+fr	K-5pcccHvOn+kvHhQDfWF19b6XgWE+Mjs7QTpePI+LX9S921R9pdLS08hr/WUjOCIl
+fr	K-n4Y2gFl+Hwi2qCgbZL1RQCYH5kTO8mCjMRP88/JYAdSBiqmcEyPmRUDu/dGSQZXs
+fr	K-HitbSMYk5fsGNPbyJHG1x24OlH0X+7FQdt2szAZsh+tNKzf3R6PAdaAjHYyVJKYs
+fr	K-y4jVLTgfhTrpgcMr2Az1XRag3fu4itJCPR0qlqfrvOoK2sYLpbswxpJ5nkqInCvm
+fr	K-8PkytDMSlwP62sENy0yeHfPlI5amMWmcU1mbTBPZMiKIpiXgZSTh919cj0tlZYEJ
+fr	K-BmlA7SVT/IvMBr7xyhmRknHTo5QRpwGKi0wXEULCszDvfx6fzbdf9FRLIqGf2LzD
+fr	K-whRdPsA6tDrOJfYA4GN4QaaXBBrDeFH0fdDXmuJ7pvsLeKv1aaOijKhAAtgRheBA
+fr	K-6CY2zNAFjbHRTQzZyw9UC6CaqAXjpfUMKPAqNhMbffIHFSDVQ0pftAQ36zMRJq+R
+fr	K-uQINBF+4LkcBEADI5ZvUIMlhB9NmFkzQ0PJzpBlv1CEh2YSXReveU4KzcnN5LAc/
+fr	K-eS3Mup5daTG7IgT+SFLmfxMB02NF5Q6H0VLL9p8M5TAWKoHp3W+efr1f+ZZ8Bcqc
+fr	K-s71jeSQb/Yqyy8ll85zXF9N5Ds7NRmuaZcd3CQ2kjPT/w/ew+Rz1fg2p4fe2lPLY
+fr	K-bljgK73DmgPzGwMe9dy+WNGhlXoA3KZGQrPnUzyDUiY12DFgYMS8zXaCNwlnUya1
+fr	K-fTyh057MjAQMgmm3vH6eFc28/cvrvH2UscnOByJfgnPLUUtO5wBF5bB/UzsA2QRE
+fr	K-+5gXOFxiYqZi5toJCHxDMQVagOPEMGYFV6GCrjiUVhplxOaKCENpabF9txW6VDqq
+fr	K-a0i50Fkgye0+f0/jG3vQG26VYNB9V4CBYd6CPFqdicxojqcu7FbaOVTXYQj6xfhA
+fr	K-ZphWDXem9kMesSCgdvD8lAPEqvwJAFlKMwi9GxU3JULQJCUU7TaroVZdCTjUAuOH
+fr	K-7WJoEeQy8bodyQ6TQ0ZfAK1Ewr6MolRRhvWRw9bQkuq/mURZXMSYjMM6cYHn93a5
+fr	K-cpKof0CFoBf2WVJg8QcFxBox93nUdDuSA6WAdzctU9iqBeXJQj9PCJgc92qp+1OI
+fr	K-fIBeUQX0MAu5ZYgiKPjHJT6teO66hzzXKRG+AI3HJ5WrFEr5QZTIrLGbbwARAQAB
+fr	K-iQI2BBgBCAAgFiEE1fNpspdXNiIBU1Tn+kI+iZcOsQsFAl+4LkcCGwwACgkQ+kI+
+fr	K-iZcOsQt/vg/9HcdK87TkTRIdBHtUNcWw+V9ERt4TIut5ddl09ym4WyqBNZBBRNTL
+fr	K-GrPs6oaQXW95T/sOIrYPExQAFiGzw0jMlOGb58sPfvTgS3OyELi4rELi4l3y4eQM
+fr	K-H1+q2zFxKYs2b0jwl4OkuCEyKs4DMBDEiAcjgp6//GIHuIwqsf030DakB+bCtTut
+fr	K-tHI3zlYz8rHqfreW9bntN7jyIIxAmT70lMpg5ANPf8Wx/2H3G1bmsu2qBHdo8vkO
+fr	K-UeL3w6P3L5HPulO0dNfW359sDAjkfeL8a6USrcMHa1v+rk00K+0h2hOUb2LbR+1J
+fr	K-X/DkySeLjAvAaIjOK8QsTTCbjylA3NVAmG1/wgDsOCMfJPX21kVsAi4Qy/XSdGhx
+fr	K-hUsaifyBcuEb6b8Q2b69e59MpVWHUlskjnVGkFv14MwLtytEo6rZWuehmx5mwufJ
+fr	K-j3PCZ/wWreKLNGC3wvBt+Csmar9qQoUkLy3f0jxA9hRzvA6Kb5nb87XPQ+QADwi0
+fr	K-yEMgYmUXwc72JwA/qFKD+HmkrUT8PXSPH3uB/7jpN4qhOKZAzR/OidqkDZhnB+BP
+fr	K-MQl0h9BR9pXoSFZSUyn7ICTEqTtXgDKbEXNFBkQWdZU2Qy77RoM23qXDMDVwVuAH
+fr	K-syOTWaDCywSEKBiB/T0tL8sPlMx1BrUfkW5WSekXHP7ZMA4jQZKVooM=
+fr	K-=vYcy
+fr	K -----END PGP PUBLIC KEY BLOCK-----
+france	U control@usenet-france.news.eu.org
+france	V PGP Key Server 0.9.6
+france	K------BEGIN PGP PUBLIC KEY BLOCK-----
+france	K-Version: PGP Key Server 0.9.6
+france	K-
+france	K-mQENAz7fVD0AAAEIALpKujfuGRnNyGS6gKUv3ZbN+hirx6nqAwIIGx1wY5fSDB/0
+france	K-B7dr7Lizvt6g9iF2ZNukxLlFRhSjA5bg7gujlJpTcYdPlXomtjFe3K+S1yXxaWTE
+france	K-gfPlkbcdXXY3PYymkWReL08OgKuOkd14dc+I1G1TZ0wprMIjLjnGrUDNNM2AM372
+france	K-yowJXnmrMteRdQg0aMwn9oVizXcwfr87e2eVC919Es6hi01q/YQcSxSAv00iT4LX
+france	K-APGBcDObvslWVsckEq0Qx4YxrK4/s425wu/aoJiE5WuAVPRBFnsLhHLInRTj1+3A
+france	K-i1jz+8D3Im5CXSITXRFj6r3VJ7TluynFGDk+xFUABRG0IWNvbnRyb2xAdXNlbmV0
+france	K-LWZyYW5jZS5uZXdzLmV1Lm9yZ4kBFQMFED7fVGW7KcUYOT7EVQEBVDIH/0RvG3Vy
+france	K-aevTcIwrb+CmxhYqYcJ6i/PPInx+j5PlYZrAwO3vPp0apKLxDIzH0TqK/hWWokpT
+france	K-7f7aoHVDWv8H2ysc3gGJJaQEB8PQwkjF+aS8wOzqnrECCaAz6h9nmhGlG7sKjz7B
+france	K-fU3AtcaFyOgY0vEuoGLZrPguqLDxzsMlJmOu1zJkSVmtTUtWIPxtUd9CUIiXat7B
+france	K-0kQMjShQs2dtUAKiuaOVYCfn6s4/wk0eZPY512Gfd+uBft2k2ltQoqDzpWRJ8ud3
+france	K-zQJG3PFNnOPj56T5cMsrsAp8b752Y0dPjhZBAAYMt4CCfYOkn3HOEvgP/XvU+4WC
+france	K-krgj/8ST3TlCIGA=
+france	K-=uxFD
+france	K -----END PGP PUBLIC KEY BLOCK-----
+gnu	U usenet@gnu.org
+gnu	L http://www.gnu.org/usenet/usenet-pgp-key.txt
+gnu	V GnuPG v1.0.7
+gnu	K------BEGIN PGP PUBLIC KEY BLOCK-----
+gnu	K-Version: GnuPG v1.0.7
+gnu	K-
+gnu	K-mQCNAz1w/KoAAAEEAM7MkKeu0tgU3XC3w2ChNyN2nDJCg28sXPhiHOO6ajGhugms
+gnu	K-f7+J1ScU5wHeUl1NjSuA+c3fkZixA9BEhfbkI2FgTkc2+o1HzhOoVaAt57t1UNVN
+gnu	K-txi2aZbrhHQOmrBV2wFefWmcgh6cpTX8Ob1th6WbvZ7KtIu9ZPIyWVItWelFAAUT
+gnu	K-tA51c2VuZXRAZ251Lm9yZ4kAlQMFED1w/KryMllSLVnpRQEB+JAD/0FJ/vi9fM8c
+gnu	K-EK5e/EZP/BpxmGLJ9RQlakvzUU3NGYnCa0jFUW1/YoAHSegn+ogPMdL0K8bzICHH
+gnu	K-VqPc48hABBPUfib96oUfNdgAlp43DiwiKFV7vdqYuDXQUKHhcxiu6HGSHuvthU8V
+gnu	K-/wDAXKz8sH4Q+u0ifZT5qLywNPOOD3rS
+gnu	K-=lRPs
+gnu	K -----END PGP PUBLIC KEY BLOCK-----
+gnuu	U news@gnuu.de
+gnuu	B 1024
+gnuu	I 7F4EEDD5
+gnuu	L http://www.gnuu.de/config/PGPKEY.GNUU
+gnuu	V 2.6.3ia
+gnuu	K------BEGIN PGP PUBLIC KEY BLOCK-----
+gnuu	K-Version: 2.6.3ia
+gnuu	K-
+gnuu	K-mQCNA0RhHVAAAAEEALAVEJDMQyQUupfKcUmTaT4TvS3Mlu+P/YldPUVy5Ov4L7KE
+gnuu	K-h9tRPTrN9KUATCD9qIjFaBRW7Lko1sH/AMHDjNVG60O60Gyz225fbRKE8qm1XCSx
+gnuu	K-G4ftOYJAeAHsmy5KjYhvXt0Xvka+YOMXPjkwS6SADyfrv+TfzH4D5Kh/Tu3VAAUR
+gnuu	K-tAxuZXdzQGdudXUuZGWJAJUDBRBEYR1QfgPkqH9O7dUBAUiWBACiA6xHIm6JuiCS
+gnuu	K-O9D/AG0Tr0n4WQUJsnMNhNxzaIa9npKa0hJDQzq4WSjnpA2L44su68JMNeeHbCv0
+gnuu	K-ORJsdeiwcMd5qVoDgYc4SDGHUF2ibAx1Z6RoOW/PEso/63c1vJfGiRXHXAKhJd8t
+gnuu	K-aiyAbfO28p6YHht82lKQi9BFpoWDEQ==
+gnuu	K-=Jx+7
+gnuu	K -----END PGP PUBLIC KEY BLOCK-----
+grisbi	U grisbi-control@grisbi.org
+grisbi	U Control Grisbi <grisbi-control@grisbi.org>
+grisbi	B 2048
+grisbi	I C86CC6E1
+grisbi	L http://news.grisbi.org/public-key.asc
+grisbi	F EB35 0C03 0080 BD2A 7E0C  A4C9 F2C6 2A3D C86C C6E1
+grisbi	V GnuPG v1
+grisbi	K------BEGIN PGP PUBLIC KEY BLOCK-----
+grisbi	K-Version: GnuPG v1
+grisbi	K-
+grisbi	K-mQENBEkgfHEBCACpZEi5+GIQDUyvbZ6Q/NcHEjDNnzJwWlxjH8MEJfDiozpMAeq8
+grisbi	K-5uNxrUeR4UqiFO1CPHZvvAZECQPIp6hrlVrhjYT0x9fmBYdfSKx51PRj8Mh1BAG0
+grisbi	K-O7LDh95MwgHNGFPbuXs9HJRQNooU5sA4spfl2+JGXJV5lpFw1u1xFFGooYdBt2WF
+grisbi	K-Hn7W0jfFWjMMzdqps26U3rYMd36/xG1s53VKr/RoCWrMoeYyBsp5/Y8Yw7KHPunV
+grisbi	K-wSkbU/2S4LTRl9w4MukYejwkkr/rBjZ8plWB+yWePmTCtEh9Mm7aHQhSp36wcVYd
+grisbi	K-RJQHVqmSVtfdhNaOc4lp1Ug2VczSEcz34sEjABEBAAG0KkNvbnRyb2wgR3Jpc2Jp
+grisbi	K-IDxncmlzYmktY29udHJvbEBncmlzYmkub3JnPokBNgQTAQIAIAUCSSB+GQIbAwYL
+grisbi	K-CQgHAwIEFQIIAwQWAgMBAh4BAheAAAoJEPLGKj3IbMbhQT4H/i31VFK6ec53ha0K
+grisbi	K-cAeL+4zMVzfOeoeuRB8Lc447cU+lD9fZ280jnS/PJVEyi5vuAWH4vJmPQxKvLUrN
+grisbi	K-kLrPklFk4v8u/Hx/30scqsWMAO0QWhrFt9QOMiqFOt7eo3ntbu0HFeNlxj0+46Fz
+grisbi	K-3B52Uxj1MqetsVx0A5fejy4M2x5mzoVO7NLIsWVvnMJ9yzxkI6BsejHYT3Pt/Azq
+grisbi	K-etw166Miwb42iE1yEUSLjumHv9hq5GvZane+7yKrE3iIMqZZGdRAt/NEzloxJhn1
+grisbi	K-Q5KIUbo8EpbyyAUb0ovNRgllqx6KhW8kw085aYnYM9ym3X6IK1/TiAEiJXbXf7hY
+grisbi	K-1le2jIY=
+grisbi	K-=eqpL
+grisbi	K -----END PGP PUBLIC KEY BLOCK-----
+hacktic	U news@zhaum.xs4all.nl
+hacktic	V GnuPG v1.4.6 (GNU/Linux)
+hacktic	K------BEGIN PGP PUBLIC KEY BLOCK-----
+hacktic	K-Version: GnuPG v1.4.6 (GNU/Linux)
+hacktic	K-
+hacktic	K-mQENBEjAjcMBCADVOmDnUlz3Hvy45XkfccA++UTu9JN7Gq+ifK/UPd/whCCENGWg
+hacktic	K-wCc3OTxk1xl+LLCDovGl1/zLNjF6wvJRGKCeUj4tWqMpID+O/PUOP2LbiA710YXT
+hacktic	K-AySOwbaz9ySoNnZlKZI1uCDtQZOHKiGz/Z5Vj5mkoaNsAk4WaOHVRo+qxhxo3XZc
+hacktic	K-9twopbycKz6TyPsJbcBeb/FUMAPPIaRN54xg4kMeRzsDZ/Gw5jxlL1cmi2j2Tb+I
+hacktic	K-1/0m+1seC7VcOl42zBvcD3aL7ltKzXUCvwPGbaZtlJlmtB4ecdMxuDEVqCWkvDZQ
+hacktic	K-143YfFKvKJB+68l9a3QO3xrMTs3nrSq1jSrvABEBAAG0FG5ld3NAemhhdW0ueHM0
+hacktic	K-YWxsLm5siQE2BBMBAgAgBQJIzgdyAhsDBgsJCAcDAgQVAggDBBYCAwECHgECF4AA
+hacktic	K-CgkQOnjrTPFCDo5Pggf8ChyBY/arSe8zEw4tOn8jjXB7k4k9agClgu6BrWfbnmlQ
+hacktic	K-21kUYUVE28Ts1iUUSkFO8V1eRaa8JVyNwSF1/e8cSMIf/Aqj0K/0nf9t+VZXWXGZ
+hacktic	K-9k9sdESWL3y8e6PPIHiVQUEVtZJrKqWXZW2A0/kGXgLhcz6mes8iNN3Z9IYFQA+f
+hacktic	K-yedpXheYM8lBtPr3grzXqJpMH9nYCr2afnxMfbQat251RaKagMEiib0B+ZyPSVMk
+hacktic	K-M2VDUSCgGL9Iphs9izf03vmpyxU11OfmA2fpDs/EP6TJjZy0ebLWPUq8HOpD+P7g
+hacktic	K-+aSX6ne4uc+Y+PhUvuwtMM+PHsQEx5cV/KyOIb+hpw==
+hacktic	K-=Tr0F
+hacktic	K -----END PGP PUBLIC KEY BLOCK-----
+hamburg	U hamburg.koordination
+hamburg	B 1535
+hamburg	I BD98BCFB
+hamburg	L http://www.steering-group.net/hamburg/hamburg.koordination.txt
+hamburg	F 3E E7 0C BB 6E 01 94 EE  45 6F C5 57 F4 B9 54 8E
+hamburg	V 2.6.3in
+hamburg	K------BEGIN PGP PUBLIC KEY BLOCK-----
+hamburg	K-Version: 2.6.3in
+hamburg	K-
+hamburg	K-mQDNA0I4jBcAAAEF/1d0ip5m1EuX9RnUYeZ6xOGvQEHFCCBk4aCOsgRmqDMw+2UC
+hamburg	K-b9kXFzgxxyGRuAY2gUm+Qex4yEjLuZquagaBCO5cqP/6eOfwcFlIgjbI4mGu/5XH
+hamburg	K-z5EhGNYwaDAyoI17Sx03l33Gf8zouGx6z7sZXa51xBunjaNHshwbG9O2JtDYkBKl
+hamburg	K-33VabqoTmgVR6wUrbvCFXia54G7QY6IPw/0WMVAI9Dcch49PE9ti4/jMwQxuNC/A
+hamburg	K-21qIlRYYVL5+vZi8+wAFEbQUaGFtYnVyZy5rb29yZGluYXRpb26JANUDBRBCOIxK
+hamburg	K-GFS+fr2YvPsBAcXZBfkBJKI8qkcl4dUqaTWlqVwTrtdTYmmBROOHlWkeZ+GGfcK8
+hamburg	K-bqO9tOS+SJphFOeI6z60SAjo2uT388by86XRdSGkOBUMOQwTDIyIqPaaiYxEqH4p
+hamburg	K-9Gw4mGwcU+ilbArRCb9GiPY85Mh7TUgxmMRYrTQsDJ+ptsfIibyv7jQ4i0bbAZCH
+hamburg	K-30kY0Uj5HO6uyVuQUziIl2+E6+ZnnS9BLuHH0kxTcPmREO9piwMmVeLEj3qFwbzt
+hamburg	K-PMiSW7oVNQL7zrNu4RI=
+hamburg	K-=bcG0
+hamburg	K -----END PGP PUBLIC KEY BLOCK-----
+hamster	U hamster-control@snafu.de
+hamster	B 2048
+hamster	I 62EEFEB3
+hamster	F 12 75 A9 42 8A D6 1F 77  6A CF B4 0C 79 15 5F 93
+hamster	V 2.6.3in
+hamster	K------BEGIN PGP PUBLIC KEY BLOCK-----
+hamster	K-Version: 2.6.3in
+hamster	K-
+hamster	K-mQENAzlOpD4AAAEIAKRDVownmpv5PXE19mpRfSEYeMcbF7TVEcZwIHayPf9k89VA
+hamster	K-vIYVq3J4zxZQhkXsEQPF1ygXlrBOdviVB/n8pAp1/asR5viboo8crIrWf4DfceKn
+hamster	K-UBS6uz3256deG6eyCSt7D0OYn5wY6BlMfDT6Ko0mhGwtUV/CNc8mxS/G1xmosUkJ
+hamster	K-2dC3mVJ2PPqzWwiHBMVJ3gRpIl3e3rXyh2Q2e9IB45DC3Yrx2otQM4oWUc1xzAl9
+hamster	K-gFnu05PXU3KjaNpSV7LZovpTDsCP4jgZh9OBIqEzcckSRcbVNwqbzWWOLqBx+WMv
+hamster	K-9gKi8aJCdFRWqlOTQ9EzKhJx7D+k09P/fWLu/rMABRG0GGhhbXN0ZXItY29udHJv
+hamster	K-bEBzbmFmdS5kZYkBFQMFEDlOrKjT0/99Yu7+swEBbLkH/2toN16MklXQreKsQaFg
+hamster	K-erzNxdCf+Z8d7TiVtLdoH0tHJ4sAvVdbOSrI19VqulamUXFlIU/ZEzRpbXRBI6DY
+hamster	K-KMMu7Hc9kuHYizCTm4U/92Kc2dX4/jK7a5yMC4eVsX6X4SG0+6MDTrd97C6BpIw0
+hamster	K-E6qpgWMTTY9iyYAhSy3A6cfhCIBTX2RDJaRJGrO2YWNxxp+WlvowxYlnIC/ffllX
+hamster	K-L19zF3PjrT8VKVENS6kcqwTre4pdOUW3M+btunYuNp9LfM8tAH1FQni0lHWPOGiO
+hamster	K-P0t8A5gxOlntv1rZImCIsF7KWUtaS7O1S7nk4CkFvnBazA2lkoxlcJV1Ny5zueK+
+hamster	K-J2U=
+hamster	K-=xRt+
+hamster	K -----END PGP PUBLIC KEY BLOCK-----
+han	U han.news.admin
+han	L ftp://ftp.usenet.or.kr/pub/korea/usenet/pgp/PGPKEY.han
+han	V 2.6.3i
+han	K------BEGIN PGP PUBLIC KEY BLOCK-----
+han	K-Version: 2.6.3i
+han	K-
+han	K-mQCNAzRzhC8AAAEEAJvTcIT/+WBdosB3lQIunGuRugV4Wwlw0vD7wlGeLWRxrUbc
+han	K-3BY/vAFJLrEYLF+h6AKRjipMESxDsbR79SOGjkA1e6TeeXdKtu7nZAhzo6JqudXH
+han	K-mErIKV2mgBz9UvJ8xHpXZ0SUG8stTiVl+TzVfRR0GVXSXsn5khzmBMrAhdHdAAUR
+han	K-tA5oYW4ubmV3cy5hZG1pbokAlQMFEDRzhC8c5gTKwIXR3QEBO/0D/0vEZ0BJW5Rb
+han	K-wG2gzqQaCHSiNXfth2fC+nDNjwhUZyZEUAaIPYY7w+1Ksw6JV3NZ8TMCxqMxemj3
+han	K-e+6zMPPwsFe2Lr/Wmu2zwWPKxqVZtDfA+YRVVoyNkh46N1wicn3XInngBwGUP3Kn
+han	K-gHr9tW4UbKOJzVYq+g/2kKOe850iIemd
+han	K-=I7tQ
+han	K -----END PGP PUBLIC KEY BLOCK-----
+hiv	U news@hivnet.org
+hiv	F 5D D6 0E DC 1E 2D EA 0B  B0 56 4D D6 52 53 D7 A4
+hiv	V 2.6.3ia
+hiv	K------BEGIN PGP PUBLIC KEY BLOCK-----
+hiv	K-Version: 2.6.3ia
+hiv	K-
+hiv	K-mQCNAzhzJG0AAAEEAKULESHiReZ2NKPH4VvxzyCcy9iESHP57vdSKQJvIfAlM656
+hiv	K-fI+JrXePWckvO33GgXyeyvGpEVNBUMmVvv+tVObj1CflvVQvh3/OMi7S8UuBYBBP
+hiv	K-Jam7jJC3IG7VFP65cTZG7G7e/3AIbtMIwj9mPNevBZstZ1am9LmTyQznADIpAAUR
+hiv	K-tA9uZXdzQGhpdm5ldC5vcmeJAJUDBRA4czJjuZPJDOcAMikBASyyBACFKQq+F3gJ
+hiv	K-TZAQGUvgvwZCDYNOGk+WSkhp/XYp4QpqNwiH5fKhUcKkPBMWfyG6bGovBShqo98O
+hiv	K-DcUe9dxV71fjXyXOrSh6pSPnXIp6JengGqrUp8Ocw5aYEawGYYkQzURWNgcpIxKx
+hiv	K-MLN+6nl5sFKMShq1XgV0n7gm9xGKgEiz9A==
+hiv	K-=cbyX
+hiv	K -----END PGP PUBLIC KEY BLOCK-----
+houston	U houston.usenet.config
+houston	V 2.6.2
+houston	K------BEGIN PGP PUBLIC KEY BLOCK-----
+houston	K-Version: 2.6.2
+houston	K-
+houston	K-mQCNAzNk99kAAAEEAOtnP/aA83TNNag5ZsZwBYbTMk2zpQN1cJFEgMOgFLUTQdLe
+houston	K-T/IKeBUewDz0TP8EdutnJoH/he60AAlx+qgi2HWVkF7F+5n1wsnKs//xgmdYjVAT
+houston	K-gLzHNH4bYym/LnznlcdnxxokonAbndO4iY53l2AY+d2CJroJwFDtUyJYrHZpAAUR
+houston	K-tBVob3VzdG9uLnVzZW5ldC5jb25maWeJAJUDBRAzZPg8UO1TIlisdmkBARMBA/9L
+houston	K-GuYMTT5gOpxn0ZwaKULBaQxDB+LsXg1+LxXb3DneDSHDTSMYSmfU2LnjuUm/e+Z2
+houston	K-nVBjRqcjX2U+zk6UQ6mvdevFfSakRYGLJ5XSb32lDGoQUw09AH8H/GlaPuXaauEG
+houston	K-18SR4tLjTawRB1sKe2J6gY5WH72XuOwDKEN5hAgZSw==
+houston	K-=x1Ic
+houston	K -----END PGP PUBLIC KEY BLOCK-----
+hr	U newsmaster@carnet.hr
+hr	B 1024
+hr	I ED63AD9A
+hr	L http://newsfeed.carnet.hr/control/key.txt
+hr	F 0EE5 74FB 1C40 7ADB 0AAC  A52F 7192 1BA3 ED63 AD9A
+hr	V GnuPG v1.4.6 (GNU/Linux)
+hr	K------BEGIN PGP PUBLIC KEY BLOCK-----
+hr	K-Version: GnuPG v1.4.6 (GNU/Linux)
+hr	K-
+hr	K-mQGiBEamBzERBACKPyS+Fy1qEb2kRLgu2Of48lVwmaGMLRPD3UnzfA9V1id6sTAR
+hr	K-A0uMsysjxQl6u92aY2rfUs6EiXWCljJghmdfkWo9P9SE450FqwSXoNiZOZkM9pmw
+hr	K-kAOTF+Vgy/7j/2P6jJ72COl+OxKdCLsCOUPGR09lbJH9KNxkt2I5J4h9vwCghfUD
+hr	K-cFPoGelEDbFHW3OEK46UDYsD/3ldMNAB4j+k5QWPaYgSWt3w4Hy0Yg69JxHZNNaE
+hr	K-CKlrtQVHCFpThRhPuNgf9yZlICrMFUdSI3VGRa7PVQ186W58e7vcYAmn2r8R35k0
+hr	K-BJmthsZX6oxdyzjOtH9+fMaeV/NvZSE9Zc5IBora4ao1K3zG/eSJV9QyTeeIIhSw
+hr	K-A1RAA/0fgf1PIvNEZrVCfythCYzP1M8pPXkvmHVgQlSK5o4xPN6mIFWbpW0rEV4G
+hr	K-EWQSEEK/cN57XRYA5my3mzaHL7o/HAGIRwnhA2nwIE9XM9HMHZB8aLJ3ERMKnPUY
+hr	K-9cPE/sxR6+SJOUbBm8mKBeDqWzE47fqIrWOCAcGVETgANs+lu7QUbmV3c21hc3Rl
+hr	K-ckBjYXJuZXQuaHKIYAQTEQIAIAUCRqYHMQIbAwYLCQgHAwIEFQIIAwQWAgMBAh4B
+hr	K-AheAAAoJEHGSG6PtY62aYsQAnA1umOiu3LPTQ01I4NMLz6JLdT/eAJwOsq522QwX
+hr	K-uRzlVJt5114glzcfyrkCDQRGpgczEAgAiROZbL7Y5mxk95mGyAW5Vk7vbaLH8Nj/
+hr	K-FVEK/vhX6i7ubnHTw12aqyYGeEFX+opQI9e0ajSanvoUr8r6bvtGrrPlD+/BiPXK
+hr	K-kbS6djMA5OW5TNvSGz7tb1hnVh4cFlHnZHUIr5KVbZSGFa8GQXa7AdlZemI+jZ3/
+hr	K-KGeQ6ZNdXkwa2kiRSgOrDtVscsxMWyPkgClswS1O7zz9wvnY7qF9Tggmqxugl2lw
+hr	K-Iy0e3xOMxrVfpmsVtE1KE2T0Hu1XcXLJ4C4UBbIz7bKiPk1NPgvRipeMfE39jCEo
+hr	K-iUJSVZ0dO8XyHHa/UY3W+8a2+0zvyPjVIFuYwIzZ87yP8Lgiz6Wl4wADBQf6A3OJ
+hr	K-DOOAyrPvopWO4VcfgmBmgF8xuZEU1joowgtrwwJ9mBWxXy4F6Puq7G+LUIekc9iD
+hr	K-h0GIgEiQhdIFChdHW2xWMS+PWOnU2Vt6l610PZy0AjQF+tfotJO4dNx0HvZ6/GTF
+hr	K-kmJvtfRmgXWgXbiU1lQYBf9ghL/a7mOKAe2dZkGv0uRIyqxZXg6ANS2BhQKlNA7g
+hr	K-d03GvVFTuDgfibaHKJWw/2ckLCuZYC2VjGr12RzoFdVcBBqkXVeC9L2TUCAtmSJl
+hr	K-Vcxfwn3smbqtefVCQSJs8CIS4hhP9c9AVPHKXFvU5PNA16jGIloVuCT6brEWRFb7
+hr	K-psyqzNqq8ifcq69o34hJBBgRAgAJBQJGpgczAhsMAAoJEHGSG6PtY62a9m0An1Fp
+hr	K-7j1lUS1ZUaiCx8p3j7UvwpSuAJ9a9+n1ag83O6PZ2nN93LEENnl6og==
+hr	K-=+9qq
+hr	K -----END PGP PUBLIC KEY BLOCK-----
+humanities	U news.announce.newgroups
+humanities	F 8E18 1BEF 0BE6 3896 2C1A  5C98 FAFE 7B55 0C18 C8B7
+humanities	K------BEGIN PGP PUBLIC KEY BLOCK-----
+humanities	K-
+humanities	K-mQINBGBOQfEBEAC+5dKbl6Vh+JeBx34xyRlmqJzIPIYJdcXbna6Pk6stnfa5J8UH
+humanities	K-4ChMYdgCtM9/h33DH7dWX8/zKcABfRAC1784+ZlPFc+W8anEJoMZHeBdNfoY1qxP
+humanities	K-D1ojC7jqaRiKt+Oc4vSl4fSRjPHAaZEIvhybduXWCTV5exbOnsDOnLLJ7d2sd08R
+humanities	K-sIeQpNyCSKNcwDyHLH/UHdpHvYwuIlkjTSt0N9ghXArVWAgcFFaaihTpzGlp1+II
+humanities	K-wn4n/zETzvVlFeXrzV+s/IqZ0oB2GzZaFOYlNa11vnIaCcrfEsHBig/PUDdwoIqB
+humanities	K-YTVlE2KUIggf97bFUpLmat5kZpgbd7/n/tGWLD7HLcMwU/mjfsSG0w8BLjYZqIpV
+humanities	K-JwbwEpioIbKKsH4qZBAMBq1c7p52wXJ2fZf+v7GRDMlIl5Lmt7A8HZgbVuMYxM/d
+humanities	K-uAa6eGCMD2RKmHhInanTyYUgXYw8VRcW7NKOtSckHlBlIgsCa3R53lR+xQ/Ld8av
+humanities	K-fA1zQD+82YehxSlmSqNteHDqxkN9pqqIGVaY0ajrHrjnVkGVxo7j9eT8u2ju0icy
+humanities	K-Nf0te0OM8g/DfcpSqlDZPRgr5GZ0iN/yS1QACFudwLrmhpSrtZ8CWiK8UUmIpSBn
+humanities	K-23w59WC4ZjkdRX2fR17shIjPl4UL02D1qe9OsbVn6aE0fUmVbfSi/6a9cwARAQAB
+humanities	K-tBduZXdzLmFubm91bmNlLm5ld2dyb3Vwc4kCTgQTAQoAOBYhBI4YG+8L5jiWLBpc
+humanities	K-mPr+e1UMGMi3BQJgTkHxAhsDBQsJCAcCBhUKCQgLAgQWAgMBAh4BAheAAAoJEPr+
+humanities	K-e1UMGMi38YUP/RPrPfxiCAbzVzoPiMWA/aUzZVrAMCEH38r6N/QWyXgXye+6iUr5
+humanities	K-DEELI0vQuZiayFKyooQIdXZfubqCZSuNx/OG2w4nK23K6hiLBFebmDoIX/oB/g1T
+humanities	K-xp1nxwDW9jM3X2sxD6b8cf0zTzLvO3L8WThR2Hf94zIFiQtbrF3E+6eJNFb25JG0
+humanities	K-NPzXhytqLrOCpmBQh2JbO5KYi/NVX34NmZPdd7YNlrhrUVG5pvv7AqrWY9v2J9ry
+humanities	K-onugYYwEVnmwephjOaxFfb52R+qa7dDWpWzbV8fDMUu6N/e0nVRK8WgK+okE6st8
+humanities	K-r9CdxDDX29iztP+kXh7xS/sVPgTzUyju8Zs9/cKBjdxtMvvXB3HAps6pNVb0sGJJ
+humanities	K-h8grIAx1wJnejaR18tU6te8qFjgo5We4WNT6jBV2CMN2vxuTFrp+KNLSONlfHw2D
+humanities	K-3CcX1azNAaYu5MHDylXZ8+KEiwZyKlHPVIfXOg9t3e1e+X7oOAcqX3O+DRDO9sGY
+humanities	K-g4WYShOEJVVlKVC7bVgmAesDUN0WmmBWqQVjg6X0QVcyUwl8S/dgpDM7vQnaomPT
+humanities	K-yARxUmJUQ7DvRmJpzZ+oXZ2pR7l+G/kR5WNVSLa9hjRfsRxhz+k4nHTWBzZrdXB8
+humanities	K-7IMJ+b7Mi+JIB4KxQwTXZ8SBm8vUPYLWhv8az3MW3CRdIG8fRewmfZ/biJwEEAEI
+humanities	K-AAYFAmBOSsQACgkQwl0607iNqcFN9wP/SMRzCWNe2o1MtNrqhBrC/c0XOhvn40Vm
+humanities	K-ZnVMbHyzRuxxvbLpyGGn0qovOa47tSDwo8/KK/pCPyaN2YYYAHt+41+u0CK8fnu8
+humanities	K-5R0VToARvlHefTTEo7yPv37+2t3ZOSCurR7eIHaLxBXFkSrUxsaMnqK095c11MlW
+humanities	K-CIrXS50tJQ6JAjMEEAEKAB0WIQTnhDZOjd57s3D72erRXTE4ggBBcwUCYE5KmAAK
+humanities	K-CRDRXTE4ggBBc330D/9PyuPL2JfEWuGCtmuyhrEpXVsU/Rr6ZZCcuIa6UnfmAoi+
+humanities	K-9HOt0ae5dcTNNBybYq1c8nmMmzO+SP0zMprYTvP8O0VxnAZfoOi1TXScyO4GY18/
+humanities	K-RknS1/5jxG5D+OJ5gIZ000d87Lil/ucJic2MbYZ+a6Zh/R+uC5fK0taPx0XdlgY5
+humanities	K-7BEfdKMPa53I4QS32fVoznkoFAAeH0x2n22x1Kai7Lf4DOFoMg8d/pG8juoXex5H
+humanities	K-Vs+LI52dsUAuNfNHLzMedccxlxSG2PVHDuL79ctxCSazC+VzMAUhBrhhal8H9YBP
+humanities	K-pnse4LGA5eHB3j6ZpS+lGHwFt6fAyYXFcTnEXIjuBhveoVBHWC5g/YN3Amm9pwUE
+humanities	K-yGxV13StEjoocsxnlrdpi6vAebRqJZGZTl0S1dlT/zBTo6oX0sLqSyzUzbi/YaoX
+humanities	K-Xy2FV6onbVlTCrZW8wdirH5erveB5/cUatOxFfQFJx9Q3DnibZ06fOWfR5VImo8B
+humanities	K-8kGgmsoRzZLswAyHysgTh65yTsGReLodwEH2I+SmH23TSgVinGQTD4kowJ1DWqtG
+humanities	K-Oy09ycQgqp0aqe70DCmuAPBhP8+cTY5csYNhfvClD9q5lSClGq4tf2pTcFxXj6lr
+humanities	K-vYQp+W5WDMo9m8XqhDEuW7lJsc7SZPAGzdomO+fSk66tWgh0uITGsu91fnNmNrkC
+humanities	K-DQRgTkHxARAAuhdAV5qq2COAwxHLnVfwppToGvkIgYneHSrkUdXlKYj2hYAoS6YM
+humanities	K-EIs3fr6LAAo94oiLFkxP530UuD5N02DOtzsK1XmoNCiEn2sSIk1+tSdh60EnUhGZ
+humanities	K-GV65b4Gv4Zk2ReVoMyn6BtZR50vWeUy0wBvLWVg2hbpHLsHi02cD7/kZUov+pFk0
+humanities	K-g5R++yR5Iabshcb+dboB0NCNZ/STg06K7lL5gragW37/bKif/1mBv3oqCzX31VLj
+humanities	K-C4esx54AneIwVAflpE2p5o2zPlixxA9yDkJm2sFISbK5z8u8bFpZJWYaN0cX4E+2
+humanities	K-S+eyhjQ+3/p1645jTD1E9ZDPtGHXwF4jeeZmCfN497g/qFezd1aAoKrR17Id4Hzd
+humanities	K-2Mtlml4S8utYq54Sh0z74Sq+YGKWZ0eA4jsuULW0p7mK4Y5oqPeEebbWL/5rPDME
+humanities	K-4JfWJzz8xhew9fw69sSTLsg9lc8srB6T3W5mGqDzxXlWhxIqinE/IH8o3WkMCQP1
+humanities	K-KfHg1pEubfSn0KCwpwuj2pRmxBJcQCJG+ptuaxYHzPrDmUj7gNTnuvUm8fgmLw/o
+humanities	K-yo7RzmF368HKszCvRsqccxvaZti1W5g2YikVUoIYLKOqsU6qz1m8U1Nn3OoRfmFU
+humanities	K-ZqjTDJ/qoPhqy0zabQRjxHJDqEtzK9MU6WVHDHM/bZ8CPs8PczI9TgUAEQEAAYkC
+humanities	K-NgQYAQoAIBYhBI4YG+8L5jiWLBpcmPr+e1UMGMi3BQJgTkHxAhsMAAoJEPr+e1UM
+humanities	K-GMi3V2QQAKmqhyRWDuVdurOBX6CFy588RxJX0oH5v0Vcdb9TBWxtU9dScG86DB1u
+humanities	K-7yqObli0yyIKko4HlaDCjcrJJRXAJsA/IddSyPT3zwPAQcn1guBiB+zsE/BM0u4A
+humanities	K-1f2rgHEKR2RkXlHpFh/xtDTbgCY2h+DTvapD6975OzHQi9Jl/mLJeJyOOxHx52c1
+humanities	K-SjCvsVPx0D9cagCN4hRmU7ka3LxFa4OrEhVY5qxWYfVTaQyTsZhAiXVGV93Jw/mm
+humanities	K-HQRfUtdINGpYc6O+6ZwHbGENZ9YhHs2mciosbULnI/416220DnJA3FkcPDCcQc2d
+humanities	K-IdwF5afWLnl0eDpj/f5vmDV0LZL05wltoSQ5KuBYKYG/LtHn5Uvqb3wwPJ1XHC1D
+humanities	K-j6r0eDZZzhiWzR0u3nye24hAQaotoPlrSQ573Ytz+VB6Si2CD0iT8NvuwAD9fJGC
+humanities	K-xn15AsOkdBbD8PY+BBZdt7UwPKT3ebOC2e8vbqOJGlDGEiZmYSkSm2Vl5Nhp+Le7
+humanities	K-FzM9FfmqhjXV7ZrY/yk+a+ebQqaDCfd+sV+U3waEde6ysoMHQHfZlLS29sKSuapV
+humanities	K-apT2NWMkcwFRpPE39lj8ESEVd039Tuvk87Er+fSzd3NAH01d7CaFoUgvvBR9MRAG
+humanities	K-IFfp1dQnPMA8W5K/smDEmfGKnSoMZSH9pIR4360pReB5Jf1sCJJu
+humanities	K-=oDzt
+humanities	K -----END PGP PUBLIC KEY BLOCK-----
+humanityquest	L http://www.humanityquest.com/projects/newsgroups/PGP.htm
+humanityquest	F BA3D B306 B6F5 52AA BA8F 32F0 8C4F 5040 16F9 C046
+hun	U hun.admin.news
+hun	B 512
+hun	I 5D144299
+hun	L http://gatling.ikk.sztaki.hu/~kissg/news/hun.admin.news.asc
+hun	V 2.6.3ia
+hun	K------BEGIN PGP PUBLIC KEY BLOCK-----
+hun	K-Version: 2.6.3ia
+hun	K-
+hun	K-mQBNAzcSE9QAAAECALjFP6VEfJeH1sig+bM0cBmT6YhqtvWpIqLuwYeTgbSXdvVl
+hun	K-33slOyG0z8SSyuNuDwNmBJqeMf0bDAFWxF0UQpkABRG0Dmh1bi5hZG1pbi5uZXdz
+hun	K-iQBVAwUQNxIT1AwBVsRdFEKZAQFnkQH7B817uxxX1aDXsw87ZjcTEnM4n7ErcO1t
+hun	K-/gfL+tpk9n8w2lc9QUIj1SyPY2gzcHxtcR+v03HUxKYgrNUMSWsuDg==
+hun	K-=hr0o
+hun	K -----END PGP PUBLIC KEY BLOCK-----
+ie	U control@usenet.ie
+ie	V PGPfreeware 5.0i for non-commercial use
+ie	K------BEGIN PGP PUBLIC KEY BLOCK-----
+ie	K-Version: PGPfreeware 5.0i for non-commercial use
+ie	K-
+ie	K-mQGiBDrv/D0RBADuWCEF49cWGbe71QpDATJE6ylNDQdXEmyHB7Ld4pUEKyQexjiy
+ie	K-DE6RkQwM/eHm0510wDdr0WDFMbhd5RsG7aI+4fwv5/OnOB99anZCRgLuBlRMsSkJ
+ie	K-em0S7ASarrd2DWdAh0Ap2XKZ49GrNOf64mXVzCD+CzwwvUMTUeoaQOiL3QCg/zIV
+ie	K-E5P8x8CJTx+Ako7+tJ+Fh9kEAJsWS5cW5TwrzxSaq3D2o9/fxrwrpJiPkjLl/qdJ
+ie	K-mg2yYcZtPHMnb/l9a3BnVSCK4q7XxVs9YzoFM9kBNxB7wVy4m0nB88f9FfvVId0m
+ie	K-B5u9/rejckjnCrKox30+5w4RYroyqWmG3c1bJE4+6mn9bCw0sE6Rs17NH2K8Y1Be
+ie	K-BSFyA/9UmxYimm79fp2G3S1M0cA56oc7x+/htpMWbHXkshs4DmrPEjMazofzzYph
+ie	K-PsXr+UDoZx86ain6uRX7tJ+psQqMiUCMz4fBLO8kToG3i0yp7D+kmZZZ0xKq9ye1
+ie	K-CTUp8y/vpN+3bMRDgXb1tCpIp8T5nWmQeOmtFxOD6NcqKYngNrQRY29udHJvbEB1
+ie	K-c2VuZXQuaWWJAEsEEBECAAsFAjrv/D0ECwMBAgAKCRBidsigYk+txIAxAJ9HDbYU
+ie	K-GGF5xrN1lpheJNr9nbaCcACgnjKQfLF8kNAm4r3tgfGa7yqhdGW5AQ0EOu/8VhAE
+ie	K-AP3a2QTgDDklmQ98qvZ+BywiP73eJqQQqUmjrM/hDzwXj3O6c+K6pguJaXFm/E+1
+ie	K-5W0j2Bu7M/Bz7+dfIsrkPbUwgVxwbd6DdOWWfVwNRgdunLh3kwB5ly17VvZY74ge
+ie	K-z7GI+3SVeiCjQwoozqb2w3BmyWwL332a+BIxoq4qeYqRAAICBADN24yABCH7lCeM
+ie	K-1ZFAtq3Yk3A/MmYgRGFaaRb4vtngl37Z3QVzbrq53StHKPGt+u81t69SODoxwjrr
+ie	K-bSP+lY4WzoosCjMZqMVMkWeStMKPu5DdBX5SDxCcYqeBv7YAwnSVWY7xxK00XxAX
+ie	K-ab+mZ01RPjdlK8Awh/uCHmV9qmCLFIkAPwMFGDrv/FZidsigYk+txBECpMwAoKrc
+ie	K-aGAnyhR4PB5G7VK9yyZjUHSXAJ9LP9yMUrYjyJ3TeOKRdzhDfNGfUw==
+ie	K-=LJMB
+ie	K -----END PGP PUBLIC KEY BLOCK-----
+is	U group-admin@usenet.is
+is	U IS Group Admins <group-admin@usenet.is>
+is	B 1024
+is	I F9907F41
+is	L http://www.usenet.is/group-admin.asc
+is	F 33 32 8D 46 1E 5E 1C 7F  48 60 8E 72 E5 3E CA EA
+is	V 2.6.3ia
+is	K------BEGIN PGP PUBLIC KEY BLOCK-----
+is	K-Version: 2.6.3ia
+is	K-
+is	K-mQCNAz3KbVYAAAEEAJwNjCKtIqpoFAUVVTzqjhz+v0kNMjtMn4pznTCfacrnLze0
+is	K-hKr81oBQe/eVl0T3Y42nIStVVYSQCKhEQ/ufJ/lDnutHpgdHDRcTFooqrRdYAYeC
+is	K-YQJFy0JUD+JAC/ARIS/iKXRASZVODVS9vsPCLZ623jk6CwRXqZuzXef5kH9BAAUR
+is	K-tCdJUyBHcm91cCBBZG1pbnMgPGdyb3VwLWFkbWluQHVzZW5ldC5pcz6JAJUDBRA9
+is	K-ym3kPM8gb1TDj6UBAYZCA/wIKlQhrQV3/fse2/CzclM7EInw7jyviyD1YV/NWtbt
+is	K-Qmsq8GDgl7dDpHSN7gF/gCqvXEk7O3OzMQuDHZRfkEzF+7VxPVMWqp7kI6uVOyCA
+is	K-dQOkmugrrBdEx4urMuAzKbb3A7O50ncj+/S/KSexp7epNU/xidr7oc3MmBqhpVSI
+is	K-NokAlQMFED3KbVebs13n+ZB/QQEBDUgD/0FuYtGUmiaAQRO9G2sxc/gmC2+3dL4V
+is	K-2mgcr6SnhIwZ0dX+i+dJEmJbm+uhpBgfexZVAPZilTLZFXIZDp/ksMgpbRfKJ+f5
+is	K-OCF9e6GNmzi9OenvP1kKYcn1LtcM5heBck93TmI8SmLaGXeoAgtHbYUxkXZPKzm9
+is	K-/ik0/4pVqYoe
+is	K-=64gK
+is	K -----END PGP PUBLIC KEY BLOCK-----
+isu	U news@news.isu.edu.tw
+isu	B 1024
+isu	I E9B1927D
+isu	L http://news.isu.edu.tw/isu.asc
+isu	V PGP 6.5.8
+isu	K------BEGIN PGP PUBLIC KEY BLOCK-----
+isu	K-Version: PGP 6.5.8
+isu	K-
+isu	K-mQCNA0G1nrgAAAEEAMgoBW7pVDdHeZF6y39nZYMoLgnpcNc1hLx4saaadEzAe4SR
+isu	K-SNbFGksOtz3AFzU/OgSSsy6NJ9XAvFJ9IVoR5k8Y9euCXjussx83eWCOzZt4rfoK
+isu	K-icv7cnT7ENpGMNWehZMyAqIeYqhx8BVR4xWKdj37F6UAkdJPuOqrsN/psZJ9AAUR
+isu	K-tBRuZXdzQG5ld3MuaXN1LmVkdS50d4kAlQMFEEG1nrjqq7Df6bGSfQEBjCED/iw0
+isu	K-neuh+AvFR7vATXw7jf4xt89msP3aIvPm04XCbSnCe52AmBcepqpXMvH+U7eA4w/z
+isu	K-tXeH6zPOmgB3AnuWN6uOVZTX8PWrNmcMX1KiB6dL27LS3gF9WmOWP8mEMhq1aS+X
+isu	K-fWJSsTumGVsCl5D0C5DCjAfbeSn25BB/yDYm1Wzk
+isu	K-=3QgQ
+isu	K -----END PGP PUBLIC KEY BLOCK-----
+it	U gcn@news.nic.it
+it	B 2048
+it	I B28B9B51
+it	L http://www.news.nic.it/pgp.txt
+it	F 94 A4 F7 B5 46 96 D6 C7  A6 73 F2 98 C4 8C D0 E0
+it	K------BEGIN PGP PUBLIC KEY BLOCK-----
+it	K-Comment: GnuPG v1.0.6 - For info see http://gnupg.linux.it
+it	K-
+it	K-mQENAztpd98AAAEIAK8cTulRhuMQYFOKXz94E/ZuhzfVdvX8rDcQ074ttQ+6Mmth
+it	K-jdXc4v1TEKqPPpLGLWsR6ZIwfTo1K8Rl4W0rV/ZCdyqE++Fj6oR5Wy2shjJ+/1a0
+it	K-1CVi+OFJQYJoEzE8AUWuiOlqARHgXcFDbWLQjNCjjZhkEHwWmGA4xGMTFdBs6OD3
+it	K-39slzUc57BJbbdacvf6NOUpF95i4AHmLjgN3SKU1Yf1ffxbtikF4IA1ssSUTuGGP
+it	K-OSl2Xh7+uEvbPZbMIqccWUxlnaNST7QRIFBy1eYVk2h56ZHMsu73lg2xURkWZbSH
+it	K-kG7LWkIcyG0zrvzcq3UH20q9c3gBxIpwOLKLm1EABRG0D2djbkBuZXdzLm5pYy5p
+it	K-dIkBFQMFEDtpd9/EinA4soubUQEBZAEH/2dlv6TKUcJ3Ga8occ0eFxts1pOCNWI3
+it	K-9Dcns8rahLItIeZGX1Xpd7Td2EGxlTftlEAQdyc3r587QDooIjkTQUanY0yJRSfe
+it	K-8Jyk0VUIpcX1HidC+U/Z5er6j1cGey1NXRC7B84h4ZdxT7jNsINgeFbZoD2hQL0t
+it	K-GozH2cudGVLnvCcbUSqGA9oQMdMQ7DSpQx1FQhi6+P0jWEcVkd59iwY04aKHxtxP
+it	K-/yadRs+QADgwkRNtk6sptbaM9XZNtlwMIHOV7al2ZYlEmNmyRzkXIIDCs3JNXmbp
+it	K-+qD1xquUO9gZFV7vyzT5iUnkKpDF5RHJ4iSr/vlPbHoqr8OzLyRzWDE=
+it	K-=InDL
+it	K -----END PGP PUBLIC KEY BLOCK-----
+italia	U italia.announce.newgroups
+italia	L http://news.cineca.it/italia/italia-pgp.txt
+italia	F 0F BB 71 62 DA 5D 5D B8  D5 86 FC 28 02 67 1A 6B
+italia	V 2.6.3ia
+italia	K------BEGIN PGP PUBLIC KEY BLOCK-----
+italia	K-Version: 2.6.3ia
+italia	K-
+italia	K-mQCNAzf03aQAAAEEAOiXa8Ry7C+pa9fXt2lAxWFxonLppeQMkHJzDj/PodW/EpE4
+italia	K-dnxFQTMIOzFNw2Qw+V01yys0SvTEh70ls6Nq7G1YqRR6SGye3UfgdzFyxSNHm9Yv
+italia	K-ZMApGkL5dLEiGCDFAqona19ftS5L903uuEo9cYaUIe5DE9uu58b9qAl55RHhAAUR
+italia	K-tBlpdGFsaWEuYW5ub3VuY2UubmV3Z3JvdXBziQCVAwUQN/Tdpcb9qAl55RHhAQF3
+italia	K-TAQAi9gPCoUNrEE06Jl77aMJFKN8jbOCEUFDc+2Pw4ZC90KG8tEEGGmEe7ejUA8i
+italia	K-Zy4uHBJ4RbT3Njc13/JsFhbCZpgRT5kCQqupbnyCEYxnd8nD+Bslnmojqs2DyjgM
+italia	K-QGk3+xdCpEn4W5EzFcfj3RMTjUQ8pm3ahxYergUgVBcTrlA=
+italia	K-=M0l0
+italia	K -----END PGP PUBLIC KEY BLOCK-----
+japan	U japan.admin.announce@news.efnet.com
+japan	B 1024
+japan	I C56B3BB9
+japan	L http://grex.cyberspace.org/~tt/japan.admin.announce.asc
+japan	F 6A FA 19 47 69 1B 10 74  38 53 4B 1B D8 BA 3E 85
+japan	V 2.6.3ia
+japan	K------BEGIN PGP PUBLIC KEY BLOCK-----
+japan	K-Version: 2.6.3ia
+japan	K-
+japan	K-mQCNAzTmcd4AAAEEAMboB1DniZaaBFLbAkwp/xiXYykIvZBxSAI23OdYjp5xZu5K
+japan	K-e6ikwoFuAupOlF/7Ny1SekzYaip48zKd60np7ME34OAQ0YJAqBRALNgGzlpGct1k
+japan	K-tuQ+fqaE7f2TYQLT7BcjTkE9NhLW22bRMm9K5ggmUi0PCMrjeo4wi0XFazu5AAUR
+japan	K-tCNqYXBhbi5hZG1pbi5hbm5vdW5jZUBuZXdzLmVmbmV0LmNvbYkAlQMFEDTmcd6O
+japan	K-MItFxWs7uQEBL/8D/1jtDDCzj1Yb2DheiJ2EjCe91P/htBopg5Sh7MJvphnqHoap
+japan	K-SjN4eesBz2QqVikyRlHLa3CDaWW9iqLOynRiRaBEUUpUBatITOFcSLMl6ZvEBmrw
+japan	K-5zQdIlt7rfnGVQ/PJ/46J4ArEeRqEf4LG9Ck1hBVLsaDHJpFHf6xgbfO+Dxw
+japan	K-=aNG9
+japan	K -----END PGP PUBLIC KEY BLOCK-----
+jlug	U news@linux.or.jp
+jlug	L http://www.linux.or.jp/pgpkey/news
+jlug	V 2.6.3ia
+jlug	K------BEGIN PGP PUBLIC KEY BLOCK-----
+jlug	K-Version: 2.6.3ia
+jlug	K-
+jlug	K-mQCNAzUm4AgAAAEEAMZEaMhBlSDvD0ltgul0XSigN+SRg31Ppo688mfrs/zV9fJa
+jlug	K-YKg9d/RIkrxiNdDfsgTnRgAMH1jpMETxxENYnW4dKICbIi/0d6YjEAlfTddboVub
+jlug	K-p+CxM47DbY5sWfT1+VZWQawYSIbWjJYYdEEvdBRQkHDwP6tecUphBRwYluJlAAUR
+jlug	K-tBBuZXdzQGxpbnV4Lm9yLmpwiQCVAwUQNVAoA52lbKAOOBBVAQEyAgP9HOi7it4l
+jlug	K-HJss2G2sjPZTkvFZnyNCRN1vi2Q5IW23Z5Ly7kDgHJRt56P6cVrpdpqEKHBoJooz
+jlug	K-q3OFu+HG2F+CBe1Dk+nXs20+ENhmWFerCA/spii0u4YV+xI7vTs+oz7nxyaZJne7
+jlug	K-xZGk2AjNUglLeBlhaL+2lsGKvu5tf4qfzamJAJUDBRA1JuAISmEFHBiW4mUBAcsT
+jlug	K-BACDCFbxb48MmlD4FWiHThLJDbiYtkuFACi/G9JBqYMCBopvaYZfTYE4ouNS11h/
+jlug	K-C8mbGMyvLfikfZpYFLKz9kVrl5wyJn/0ThK5CInlPc/IlxsNyH0diu3pNYzGCxsi
+jlug	K-YvDprPe2yF/OMoWKa5e6CYpV6hhUUH3y+qIaoxwC20wIAg==
+jlug	K-=1rBA
+jlug	K -----END PGP PUBLIC KEY BLOCK-----
+ka	U usenet@karlsruhe.org
+ka	U ka.newsgroups
+ka	B 2048
+ka	I 280ED2DD
+ka	L http://www.karlsruhe.org/pubkey-news.karlsruhe.org.asc
+ka	F DE 19 BB 25 76 19 81 17  F0 67 D2 23 E8 C8 7C 90
+ka	V 2.6.3ia
+ka	K------BEGIN PGP PUBLIC KEY BLOCK-----
+ka	K-Version: 2.6.3ia
+ka	K-
+ka	K-mQENAzUBmz8AAAEIAKVN75ZHDnfOtRglcmnsw2n3yp+Hf6RQwtc+GpuwNXJKehoJ
+ka	K-V0b9iUXMoN+8fl4Voq3yIOMRJZeqzrYxrElAKMo2Zl015PtCZxFUR7+yCwyh18f5
+ka	K-vXLD3J4hwiWirpPvDbUnFkWHXJ8OHyAx2UUB8fe2chaf60wZRrf0J5BSduD9rsdd
+ka	K-xXtpta7X1wGO+1BULxJcInWYfil4sp59sT2z96FgP+nrxrLEWoJL3emztXmPnUiW
+ka	K-z9xxfw/Bo7TKM7yw6dxYzLOoQkObrYQ0G2gzTE+C/MlAMxbeA9XRrQjTHuxly4Ye
+ka	K-meKmI3TCfj/PugGGXveV10ON0h9okM0wICgO0t0ABRG0DWthLm5ld3Nncm91cHOJ
+ka	K-ARUDBRA4qufGkM0wICgO0t0BAXwqB/9I0CQlFGSiZ+l0VxrWaogTnptCmTInMqRS
+ka	K-FSCc5nFLw8zibmzx9hkf+MAowLUNSfyZiED171hw1skMljGdTi8EWmv2K5hB/a0z
+ka	K-E9sVmQBhOGNkv3+WSME5qY5FCCZL/ncAi9CoRLCt1tw/PbZ/v0J9+XuHDbHSjlmq
+ka	K-DXS+vECfzpk4DCPxbE8ct2F4L+BpQXFSoEUkKak0c7ZwT4Km8a04WlLKgqtffaqy
+ka	K-jNFitoqHKcZjLTEEOqPfBH0WY7NJ164zV9KddB2KWt2FdIn4cnqC9yfCpM8a/4Z6
+ka	K-84wBsM8nB+lQniNyK62CX1LCI2mZwCheD/A9abkunRty1ZU6n2KGtBR1c2VuZXRA
+ka	K-a2FybHNydWhlLm9yZ4kBFQMFEDiq6FmQzTAgKA7S3QEBQ7EH/35D7IhCcRxNsuhS
+ka	K-coCACKuemFz/ciOuVy7CjF2Z2gooIofXr6qntrcxNGBdCU9yIRIu16T0gv7wz7ja
+ka	K-aJ8DXhQbOTYF7EmL/K/s7c/jRRh3NlsmBx2iNkJaWpItwHtq2DM1dqHnBP426ECy
+ka	K-92GolxiY3cWUPAGloYfRF4sOWMLhwQZBZx8uGqrzlmJdkXlfQ351VoC7SrWVieim
+ka	K-S/d+Q1iPXg6a+CacjRyry2ZzZ/sEEj4dCeCjqmklS9XaPthh6tiZ0SMhtvgaaao+
+ka	K-7hGpUGcqodHp/tYBdpd1UNBRwOG8hr1qxF5qRmYovozkED+jStMjAUZWqxFldqNq
+ka	K-MO7LSQQ=
+ka	K-=Bnex
+ka	K -----END PGP PUBLIC KEY BLOCK-----
+kanto	U kanto.news.network
+kanto	V 2.6.3i
+kanto	K------BEGIN PGP PUBLIC KEY BLOCK-----
+kanto	K-Version: 2.6.3i
+kanto	K-
+kanto	K-mQCNAzMG1n8AAAEEANHuYCPlLcazem3Rc90IQwy3oS3oPlrfRu4Jaq7KK8XC5Zby
+kanto	K-yiuMm4Y6uQEE0ET63arHDtCSx0+25naYc2g57O37bbqK9nbhsFSP68Fgxl/Eseg+
+kanto	K-7hyqv4kDNz2BaAq27N/9nr5Z1sU/zREqcthjrv1QksL94VqMVUbR7Jed5tDhAAUR
+kanto	K-tBJrYW50by5uZXdzLm5ldHdvcmuJAJUDBRAzBtembnPou6pBG10BAfmSA/4y/X/k
+kanto	K-XDCSDNdiKknWkONBbmq+Eco9hc+LTawFPDz7HHpiG+eL9ZebKBpajnqmBzrbNZ1P
+kanto	K-tLjqQKSpldenmMPdB2l55IT4YdyXvzUg3muRsY087y2a2RrSQ4Xjq4kZoRY6esTQ
+kanto	K-NjW0NNNU6eMds52VSdH2RjjF6/Pe5XtCnHJvIYkAlQMFEDMG1n9G0eyXnebQ4QEB
+kanto	K-HnwEAMyRdg9bJ0pxYeC0q48girYaX0hYbxO/QoyH7x0f11X95Kwiuf1s6ixJppwE
+kanto	K-14bMWnhzLxwuRR8HWowsUPilaigBULgLB03dzscZdFKeKuL9S0mmjA3oLnKFOASx
+kanto	K-Py1ePSNIIbverEdSOv3of3HRFznAw+42AchSPZPZEmr8ZleM
+kanto	K-=3qm+
+kanto	K -----END PGP PUBLIC KEY BLOCK-----
+kassel	U kassel-admin
+kassel	B 1024
+kassel	I C4D30EE5
+kassel	V 2.6.3ia
+kassel	K------BEGIN PGP PUBLIC KEY BLOCK-----
+kassel	K-Version: 2.6.3ia
+kassel	K-
+kassel	K-mQCNAzTTimEAAAEEALyjAwtrmi68jDg/C+pqG39CuhP5WHk54jIwsKSfVwOsbX4V
+kassel	K-wFYV8mLVbwTdLvHEonM7YrjX2jj3eBaZdX0bJAYHRr2pkc3Z95SgpT61w7/XwyRq
+kassel	K-MSLAv1oU6bheODbQc72mFXTD/By/7Wwrz0bw2f/dsbbJ/umy8eSv3VvE0w7lAAUR
+kassel	K-tAxrYXNzZWwtYWRtaW6JAJUDBRA004p35RUoJTMc2l0BAS34BACrK0upz3Dx1EnS
+kassel	K-/+9WRyBP4ck3uYrFg/yu1O/7w+xNOeUZ8QM0RND6AinEcKZTmZ4RlWNI97vWoh1o
+kassel	K-p8SEYzowjAGMtIBVNaoBzmQH5NBQQxet/dOz++XLiPimlSt6/OTKdigrcsx/faNR
+kassel	K-iisnVWEmTZADQvNIzxvK/YUiJt3wm4kAlQMFEDTTimHkr91bxNMO5QEBN6kD/ArE
+kassel	K-ycUUvXt6MOuV9XfcZVwDSvgh/A1/zA5jqVxpvvvQDa/2Q5/qHmXsydxfLfgaM5LW
+kassel	K-XeYgkcuj1ua3VTkkBoo8NeVKXimKym3oz5XrWWZMRCWhTCMI8vgnvDLhV0duENwQ
+kassel	K-KDd3Ss5X1xAEKiTvlcNN8/oN8vdMtOT9zcWw98f0
+kassel	K-=500g
+kassel	K -----END PGP PUBLIC KEY BLOCK-----
+linux	U linux-admin@bofh.it
+linux	F 81 B3 27 99 4F CE 32 D1  1B C9 01 0D BB B3 2E 41
+linux	K------BEGIN PGP PUBLIC KEY BLOCK-----
+linux	K-Comment: GnuPG v1.0.0
+linux	K-
+linux	K-mQCNAznkyGYAAAEEAMaVTjuoCEUDGr+oYbhaQE0KZ8r3q9ozitEMidPATc723yY8
+linux	K-ZXevQ7mTirBxD8W5g8zAq16ZXAJ7NELwt0rA2QvOoQ3NQAVSLXTmfWgk/WaUYGdt
+linux	K-uSl+CW7Lm7uwZtxU40krvuHJNmH7+zC3N2JtLEHTuAnC3LNKSaY+DxZ9lg69AAUR
+linux	K-tBNsaW51eC1hZG1pbkBib2ZoLml0iQCVAwUTOeT9R6Y+DxZ9lg69AQH8iQP9HoLQ
+linux	K-VrlshmMYOPMH5zC7Cl546frYP5lWLkd4ZV3Hb9QQ7GrzjSH7LBPA7r8JmyXaEUfO
+linux	K-Ur3QCXJWxhwvp5vo9xpUmttrX5FXjWJh/06lYhEPtNuIERmS9hlVjJjhJPckunJy
+linux	K-AMGo/13kFkuGd5uxVfI6M/cL1Ctw1df0LrALYn0=
+linux	K-=bXOA
+linux	K -----END PGP PUBLIC KEY BLOCK-----
+malta	U malta.config
+malta	L http://www.cis.um.edu.mt/news-malta/PGP.PUBLICKEY
+malta	F 20 17 01 5C F0 D0 1A 42  E4 13 30 58 0B 14 48 A6
+malta	V 2.6.2i
+malta	K------BEGIN PGP PUBLIC KEY BLOCK-----
+malta	K-Version: 2.6.2i
+malta	K-
+malta	K-mQENAjmmghoAAAEIAL1I4uVHIlXVZ9f3iCZrQTKuYUfCJSRUwrzoQhfo5ZpEU6Ac
+malta	K-c/PuCD/L2akGoYhDky2dQqnmmV+dLyn7sxaznmEwHJrgQeeoIh4i/RizWNXJiB6P
+malta	K-GUvuUSQLQhJaQH3Lb/fSvUeLD6uZTSKE2qmOgwqgV4FS+tGeejLXd34ld6CsD9kP
+malta	K-GXzYtSYqwx9Z4xOqarvtviDr3a+vCc0Epj26IFXbfYD8ElSHVWrnbFVPMbJ71uKC
+malta	K-V8pkHz5acV3V6uw+FV7setgTj4vZcPrngjBXlAgxw1aJLWabXQqn8P9B8BoYVGV/
+malta	K-LQeCRKQtAsF8ZMlEXfsaDV1IwVTAegTENVAgq3kABRG0DG1hbHRhLmNvbmZpZ4kB
+malta	K-FQIFEDmmkmZ6BMQ1UCCreQEBjx0IAKJBa6j14XyNlPUwAsCYzzTEP1FztOTA1/0m
+malta	K-kPXheTcIieZpW82FWKkKik6AiNGjaK2LSMji+C5X4pBLEOiRLPkOJb3n5bHC9lDK
+malta	K-t4Iii6ZXxSadU/XnDg357208Y7z8CZixXeXNB+QbZu09bBm9kXiesppMJT1Ufx+U
+malta	K-LDGOJ8R8KQNxMraI/qb2qa1hmaLquCWFYBlb9QL/3LL3zh9yjWohUoYvvoQgbyWt
+malta	K-UEnGMEZmULQwSu0AU1HGdT/zmyWtPAozINMiTSb73bu/6mycXWHptiHgx2/XTTLL
+malta	K-FDjHRA4yVxN+xlU/GG+HeYf30B9qzgXjvnRLTUb9SjEn2+FFeHo=
+malta	K-=lVXx
+malta	K -----END PGP PUBLIC KEY BLOCK-----
+maus	U maus-info
+maus	F 82 52 C7 70 26 B9 72 A1  37 98 55 98 3F 26 62 3E
+maus	V 2.6.3ia
+maus	K------BEGIN PGP PUBLIC KEY BLOCK-----
+maus	K-Version: 2.6.3ia
+maus	K-
+maus	K-mQENAzNbv/YAAAEIAKdDX2KIjpxW6o7SsGFImWbGYio6yOr7YSdGImkOtjmCdSBO
+maus	K-HL1gf0XlFtCs3Ieod4ApgRYxT0I+79v7Uon8X6wnAexasx8ZO53DGiaa16Eydapz
+maus	K-AoSvT300pF5Fg77cDmMBDR59B6R+yWc/bY4cL0U/GnAqIvVACKvCIYalilymBnzt
+maus	K-g2CJUf0dcmJZjK+bPUdRvrjLVM5oAG6Z59wTxK6S2mEqzkwlQSsL7IyqrQdzqtac
+maus	K-pyLoT99DzhT/PdMveNgmpUwjYJ25sIDdYBznEQZy+qG1sjLN8/o7bvtsEHzyehxi
+maus	K-F8TICHvL3Fbl50FT5Dmq64/QvPlAfTCxujOZVmUABRG0CW1hdXMtaW5mb4kBFQMF
+maus	K-EDNbwhRmKbXRMOZHkQEBc20H/3wRpKmWyaiYAxOrNxcxdI0rmjbTS4VhMpNIxNCP
+maus	K-ABcmGodY4BivqOxCMrTtPCfYbb+tOJ7DbTT02/DLcrKQR6sroN02OlH2mCwScG4o
+maus	K-dVp5fqs8uAWf7N/jqkNg1u5AuCBw2UqKEgeR2zfqEpoQrP+cjPjTuTiydP4A2buH
+maus	K-IrxlaD/rZeQdGVNTmcPfdPrUlk3XpcH3K8WhZKRm3qJdnNmWNlgv+k7kCisggoJS
+maus	K-N2Br55Q4p66lhzXZdyovvQyWNRKc74K29KdYDVvKepUPTBaC2fE4o/Dg/ZBXB6aC
+maus	K-oMjt9/XJs2g6OqdZgJV8MApWl/7PgsTP6rLwMSNnUbZ3DvaJAFUDBRAzW8H96B+E
+maus	K-1tFYtckBAZ4IAf9GfY7OfRZqeX7Z+g8ecGeOB73mamX+XSJR6UpxoSYAvSic0MKB
+maus	K-Mokj6GxmtqkIH9ir07+HRAIqPu0Ie3TWjJGPiQEVAwUQM1u/9n0wsbozmVZlAQEM
+maus	K-Fwf/UVjaHNOXw+UVqayhlRNFSTYr78XUYTfQ7bpdK6M2y49BmiGXYX1zS28x+ViI
+maus	K-P4vgevwaN0rsg4T0vY5LtZ6cskVmAYSwEFBMmXt8aFD03CLhZ+wJdzANFw3sR0Gf
+maus	K-QhCtJrpHViDq/8ymWry44sPE8cElOBLASlemfD2oGWojdc7mWCwEzmM0iaHg6i6f
+maus	K-d7CGvLpxR2wVi5/r2L1IjtryTBiFSK5rYot3xIxXNzB2Dp/QAO+1TNH6uhK86xiU
+maus	K-Vjsoulzlf/R7kEMuI/RoEKkbkQXMCX58SmbmozKhz/3QBGO1FBGY6YUTAkW4OQ8P
+maus	K-eBRlXg0r3A8/FtQPsgc8B7LoaA==
+maus	K-=dtBe
+maus	K -----END PGP PUBLIC KEY BLOCK-----
+melb	L http://aus.news-admin.org/ausadmin.asc
+mensa	U mensa.config
+mensa	F 52B9 3963 85D9 0806 8E19  7344 973C 5005 DC7D B7A7
+mensa	V GnuPG v1.2.1 (FreeBSD)
+mensa	K------BEGIN PGP PUBLIC KEY BLOCK-----
+mensa	K-Version: GnuPG v1.2.1 (FreeBSD)
+mensa	K-
+mensa	K-mIsEPeN3GwEEANareCoUiDNGt2Md/lsCXbK4RVTKYed3ltpHOmjtt9zSi8u+XAb4
+mensa	K-XQJWiuEmkP4cXKxiy0Yy4peonscnmfJ1PFgUS6ATZ/2B5P+joMfhmsTqhlJWuV4U
+mensa	K-LYGRn3bRD6wqr1/+Nc8DlCHnTMH010L5H83BV8sASbZVKMIxgcN9Bma3AAYptAxt
+mensa	K-ZW5zYS5jb25maWeIsgQTAQIAHAUCPeN3GwIbAwQLBwMCAxUCAwMWAgECHgECF4AA
+mensa	K-CgkQlzxQBdx9t6e/KgP8DW1DsJULyuKSwrbKn/EBnlrjVRdxus6zhkOWnvhKFPQk
+mensa	K-LC9H3ubuyVIzrIylgeVgiU2SwRSnM7iVLaZ2zriySx4acoBC/gVoXBMPclphPE35
+mensa	K-CACfGWgNWBsW8NFKowvCbm3HBlahCDGRO0KyY7Qzsy3e2Ts0ZBRZ7JFF15uTAhWI
+mensa	K-fAQTAQIABgUCPeQ6oAAKCRAADvWCVm9jxedFAvwIx/GK+nFRv9RSnc2CBnXzpqTU
+mensa	K-GFUFVfO+s3P0Iw1bonXS+derv6TDqNON0RRrC42sqjroH9xix1avlQeRLlpIN+xt
+mensa	K-uxxIgLpn1g6Qui8r0Ef4PCwZkuPvWurExRF53j8=
+mensa	K-=y2CM
+mensa	K -----END PGP PUBLIC KEY BLOCK-----
+microsoft	U control-microsoft@trigofacile.com
+microsoft	B 2048
+microsoft	I E60E2FAA
+microsoft	L http://www.trigofacile.com/divers/usenet/clefs/pgpkey-microsoft.asc
+microsoft	F DF70 5FC9 F615 D52E 02DB  A3CB 63A9 8D13 E60E 2FAA
+microsoft	V GnuPG v1.4.7 (MingW32)
+microsoft	K------BEGIN PGP PUBLIC KEY BLOCK-----
+microsoft	K-Version: GnuPG v1.4.7 (MingW32)
+microsoft	K-
+microsoft	K-mQENBEYM5lkBCACzpBm74ObU7a3+YYzr4+u/tmHZSEflAsZxN0qUU5/ZdB+Qncau
+microsoft	K-HG2Sjy8CThTb48K1uf5P0sSGGdyPEGt+REv641fWiPZntqcfc0xWAzfmSHgRGH1b
+microsoft	K-I8vpHfLu86yHpa8d+xJFTSGZRejaDUZXP4ZexlVuJ1dItUZTKHfgui4RoSWvmcGb
+microsoft	K-OgE/Qc4QePXeZXWPfdZ3j/HSeM+wCCaCVrFZ25FMH3oySLV70CiqzP3EDAzxmm4F
+microsoft	K-y2/jwCa9tu5pfKt1SR2U/nmfO4alBcSUnh40xuF2cBbTLeG/PFyKaER/DQKkirVg
+microsoft	K-tFACzWI62XA73BX0L2V92TQAAD+imsjkxZDZABEBAAG0IWNvbnRyb2wtbWljcm9z
+microsoft	K-b2Z0QHRyaWdvZmFjaWxlLmNvbYkBNgQTAQIAIAUCRgzmWQIbDwYLCQgHAwIEFQII
+microsoft	K-AwQWAgMBAh4BAheAAAoJEGOpjRPmDi+qgWMH/3YTRBTs2nVFDFAM8Uw3iFV3XYdh
+microsoft	K-urs/mLlPmI/LbHxoHuGL4TqmOW3RTriEKwsgphQqY1qFuIv2cnekqH7eGrf5fQzL
+microsoft	K-E+TO9SGk76mo0qKC75HhBIZtyATBDrBiH97FiMXNgaOi6oiYikeZ11eURatVWzZl
+microsoft	K-ul6f6dr1+DpP6qDZGA+OON2baYuIYYG1LkWtu/Zg46vmGXiL6P3vQnJToLhtTtmF
+microsoft	K-xe2DftW/vVVu3i0FLBoNtTtP2fkTvux26j/2zohPWj43X9jXjW9lppLkBi0fCILX
+microsoft	K-0KLPC3zBDaI74nGooxgCE1QeMw03/BwHx3Wf7VDg4Dwbfp6iK6SM2qd1Mj8=
+microsoft	K-=IfrI
+microsoft	K -----END PGP PUBLIC KEY BLOCK-----
+milw	U milw.config
+milw	L http://usenet.mil.wi.us/pgpkey
+milw	F 6E 9B 9F 70 98 AB 9C E5  C3 C0 05 82 21 5B F4 9E
+milw	V 2.6.2
+milw	K------BEGIN PGP PUBLIC KEY BLOCK-----
+milw	K-Version: 2.6.2
+milw	K-
+milw	K-mQCNAzY/vwYAAAEEAOA1w52EYpoxwjAl9u3AlJBwh93xlwdLBfP3tqz+6goYbELU
+milw	K-fCCwnC7GaiqCpivo/7OqLltBSt3Mza4DO+XJ6sRdqZVTzeaFfJ35sqfhL2cX1A2D
+milw	K-3/mhiAagMaNhJqwvJZkWHS2g9hAIN4AgPwGovp9XKVXCbWAUrsxJ8ozkLDBxAAUR
+milw	K-tAttaWx3LmNvbmZpZw==
+milw	K-=GV3/
+milw	K -----END PGP PUBLIC KEY BLOCK-----
+misc	U news.announce.newgroups
+misc	F 8E18 1BEF 0BE6 3896 2C1A  5C98 FAFE 7B55 0C18 C8B7
+misc	K------BEGIN PGP PUBLIC KEY BLOCK-----
+misc	K-
+misc	K-mQINBGBOQfEBEAC+5dKbl6Vh+JeBx34xyRlmqJzIPIYJdcXbna6Pk6stnfa5J8UH
+misc	K-4ChMYdgCtM9/h33DH7dWX8/zKcABfRAC1784+ZlPFc+W8anEJoMZHeBdNfoY1qxP
+misc	K-D1ojC7jqaRiKt+Oc4vSl4fSRjPHAaZEIvhybduXWCTV5exbOnsDOnLLJ7d2sd08R
+misc	K-sIeQpNyCSKNcwDyHLH/UHdpHvYwuIlkjTSt0N9ghXArVWAgcFFaaihTpzGlp1+II
+misc	K-wn4n/zETzvVlFeXrzV+s/IqZ0oB2GzZaFOYlNa11vnIaCcrfEsHBig/PUDdwoIqB
+misc	K-YTVlE2KUIggf97bFUpLmat5kZpgbd7/n/tGWLD7HLcMwU/mjfsSG0w8BLjYZqIpV
+misc	K-JwbwEpioIbKKsH4qZBAMBq1c7p52wXJ2fZf+v7GRDMlIl5Lmt7A8HZgbVuMYxM/d
+misc	K-uAa6eGCMD2RKmHhInanTyYUgXYw8VRcW7NKOtSckHlBlIgsCa3R53lR+xQ/Ld8av
+misc	K-fA1zQD+82YehxSlmSqNteHDqxkN9pqqIGVaY0ajrHrjnVkGVxo7j9eT8u2ju0icy
+misc	K-Nf0te0OM8g/DfcpSqlDZPRgr5GZ0iN/yS1QACFudwLrmhpSrtZ8CWiK8UUmIpSBn
+misc	K-23w59WC4ZjkdRX2fR17shIjPl4UL02D1qe9OsbVn6aE0fUmVbfSi/6a9cwARAQAB
+misc	K-tBduZXdzLmFubm91bmNlLm5ld2dyb3Vwc4kCTgQTAQoAOBYhBI4YG+8L5jiWLBpc
+misc	K-mPr+e1UMGMi3BQJgTkHxAhsDBQsJCAcCBhUKCQgLAgQWAgMBAh4BAheAAAoJEPr+
+misc	K-e1UMGMi38YUP/RPrPfxiCAbzVzoPiMWA/aUzZVrAMCEH38r6N/QWyXgXye+6iUr5
+misc	K-DEELI0vQuZiayFKyooQIdXZfubqCZSuNx/OG2w4nK23K6hiLBFebmDoIX/oB/g1T
+misc	K-xp1nxwDW9jM3X2sxD6b8cf0zTzLvO3L8WThR2Hf94zIFiQtbrF3E+6eJNFb25JG0
+misc	K-NPzXhytqLrOCpmBQh2JbO5KYi/NVX34NmZPdd7YNlrhrUVG5pvv7AqrWY9v2J9ry
+misc	K-onugYYwEVnmwephjOaxFfb52R+qa7dDWpWzbV8fDMUu6N/e0nVRK8WgK+okE6st8
+misc	K-r9CdxDDX29iztP+kXh7xS/sVPgTzUyju8Zs9/cKBjdxtMvvXB3HAps6pNVb0sGJJ
+misc	K-h8grIAx1wJnejaR18tU6te8qFjgo5We4WNT6jBV2CMN2vxuTFrp+KNLSONlfHw2D
+misc	K-3CcX1azNAaYu5MHDylXZ8+KEiwZyKlHPVIfXOg9t3e1e+X7oOAcqX3O+DRDO9sGY
+misc	K-g4WYShOEJVVlKVC7bVgmAesDUN0WmmBWqQVjg6X0QVcyUwl8S/dgpDM7vQnaomPT
+misc	K-yARxUmJUQ7DvRmJpzZ+oXZ2pR7l+G/kR5WNVSLa9hjRfsRxhz+k4nHTWBzZrdXB8
+misc	K-7IMJ+b7Mi+JIB4KxQwTXZ8SBm8vUPYLWhv8az3MW3CRdIG8fRewmfZ/biJwEEAEI
+misc	K-AAYFAmBOSsQACgkQwl0607iNqcFN9wP/SMRzCWNe2o1MtNrqhBrC/c0XOhvn40Vm
+misc	K-ZnVMbHyzRuxxvbLpyGGn0qovOa47tSDwo8/KK/pCPyaN2YYYAHt+41+u0CK8fnu8
+misc	K-5R0VToARvlHefTTEo7yPv37+2t3ZOSCurR7eIHaLxBXFkSrUxsaMnqK095c11MlW
+misc	K-CIrXS50tJQ6JAjMEEAEKAB0WIQTnhDZOjd57s3D72erRXTE4ggBBcwUCYE5KmAAK
+misc	K-CRDRXTE4ggBBc330D/9PyuPL2JfEWuGCtmuyhrEpXVsU/Rr6ZZCcuIa6UnfmAoi+
+misc	K-9HOt0ae5dcTNNBybYq1c8nmMmzO+SP0zMprYTvP8O0VxnAZfoOi1TXScyO4GY18/
+misc	K-RknS1/5jxG5D+OJ5gIZ000d87Lil/ucJic2MbYZ+a6Zh/R+uC5fK0taPx0XdlgY5
+misc	K-7BEfdKMPa53I4QS32fVoznkoFAAeH0x2n22x1Kai7Lf4DOFoMg8d/pG8juoXex5H
+misc	K-Vs+LI52dsUAuNfNHLzMedccxlxSG2PVHDuL79ctxCSazC+VzMAUhBrhhal8H9YBP
+misc	K-pnse4LGA5eHB3j6ZpS+lGHwFt6fAyYXFcTnEXIjuBhveoVBHWC5g/YN3Amm9pwUE
+misc	K-yGxV13StEjoocsxnlrdpi6vAebRqJZGZTl0S1dlT/zBTo6oX0sLqSyzUzbi/YaoX
+misc	K-Xy2FV6onbVlTCrZW8wdirH5erveB5/cUatOxFfQFJx9Q3DnibZ06fOWfR5VImo8B
+misc	K-8kGgmsoRzZLswAyHysgTh65yTsGReLodwEH2I+SmH23TSgVinGQTD4kowJ1DWqtG
+misc	K-Oy09ycQgqp0aqe70DCmuAPBhP8+cTY5csYNhfvClD9q5lSClGq4tf2pTcFxXj6lr
+misc	K-vYQp+W5WDMo9m8XqhDEuW7lJsc7SZPAGzdomO+fSk66tWgh0uITGsu91fnNmNrkC
+misc	K-DQRgTkHxARAAuhdAV5qq2COAwxHLnVfwppToGvkIgYneHSrkUdXlKYj2hYAoS6YM
+misc	K-EIs3fr6LAAo94oiLFkxP530UuD5N02DOtzsK1XmoNCiEn2sSIk1+tSdh60EnUhGZ
+misc	K-GV65b4Gv4Zk2ReVoMyn6BtZR50vWeUy0wBvLWVg2hbpHLsHi02cD7/kZUov+pFk0
+misc	K-g5R++yR5Iabshcb+dboB0NCNZ/STg06K7lL5gragW37/bKif/1mBv3oqCzX31VLj
+misc	K-C4esx54AneIwVAflpE2p5o2zPlixxA9yDkJm2sFISbK5z8u8bFpZJWYaN0cX4E+2
+misc	K-S+eyhjQ+3/p1645jTD1E9ZDPtGHXwF4jeeZmCfN497g/qFezd1aAoKrR17Id4Hzd
+misc	K-2Mtlml4S8utYq54Sh0z74Sq+YGKWZ0eA4jsuULW0p7mK4Y5oqPeEebbWL/5rPDME
+misc	K-4JfWJzz8xhew9fw69sSTLsg9lc8srB6T3W5mGqDzxXlWhxIqinE/IH8o3WkMCQP1
+misc	K-KfHg1pEubfSn0KCwpwuj2pRmxBJcQCJG+ptuaxYHzPrDmUj7gNTnuvUm8fgmLw/o
+misc	K-yo7RzmF368HKszCvRsqccxvaZti1W5g2YikVUoIYLKOqsU6qz1m8U1Nn3OoRfmFU
+misc	K-ZqjTDJ/qoPhqy0zabQRjxHJDqEtzK9MU6WVHDHM/bZ8CPs8PczI9TgUAEQEAAYkC
+misc	K-NgQYAQoAIBYhBI4YG+8L5jiWLBpcmPr+e1UMGMi3BQJgTkHxAhsMAAoJEPr+e1UM
+misc	K-GMi3V2QQAKmqhyRWDuVdurOBX6CFy588RxJX0oH5v0Vcdb9TBWxtU9dScG86DB1u
+misc	K-7yqObli0yyIKko4HlaDCjcrJJRXAJsA/IddSyPT3zwPAQcn1guBiB+zsE/BM0u4A
+misc	K-1f2rgHEKR2RkXlHpFh/xtDTbgCY2h+DTvapD6975OzHQi9Jl/mLJeJyOOxHx52c1
+misc	K-SjCvsVPx0D9cagCN4hRmU7ka3LxFa4OrEhVY5qxWYfVTaQyTsZhAiXVGV93Jw/mm
+misc	K-HQRfUtdINGpYc6O+6ZwHbGENZ9YhHs2mciosbULnI/416220DnJA3FkcPDCcQc2d
+misc	K-IdwF5afWLnl0eDpj/f5vmDV0LZL05wltoSQ5KuBYKYG/LtHn5Uvqb3wwPJ1XHC1D
+misc	K-j6r0eDZZzhiWzR0u3nye24hAQaotoPlrSQ573Ytz+VB6Si2CD0iT8NvuwAD9fJGC
+misc	K-xn15AsOkdBbD8PY+BBZdt7UwPKT3ebOC2e8vbqOJGlDGEiZmYSkSm2Vl5Nhp+Le7
+misc	K-FzM9FfmqhjXV7ZrY/yk+a+ebQqaDCfd+sV+U3waEde6ysoMHQHfZlLS29sKSuapV
+misc	K-apT2NWMkcwFRpPE39lj8ESEVd039Tuvk87Er+fSzd3NAH01d7CaFoUgvvBR9MRAG
+misc	K-IFfp1dQnPMA8W5K/smDEmfGKnSoMZSH9pIR4360pReB5Jf1sCJJu
+misc	K-=oDzt
+misc	K -----END PGP PUBLIC KEY BLOCK-----
+muc	U muc.admin
+muc	L http://home.arcor.de/andreas-barth/muc-admin.html
+muc	F 43 C7 0E 7C 45 C7 06 E0  BD 6F 76 CE 07 39 5E 66
+muc	V 2.6.3ia
+muc	K------BEGIN PGP PUBLIC KEY BLOCK-----
+muc	K-Version: 2.6.3ia
+muc	K-
+muc	K-mQCNAjPdFSUAAAEEANgr0q6olWHFlo7LA35bGqMt8vFjVpz00CdHmeHDaGFX4W0D
+muc	K-dL8dEPIGbk7Y5KQ+e2F9DBgK0rhIdMWeya1/XRGMTfJAgTic+o7TNl3TC2bemJsC
+muc	K-P075T4WTc8m5vUCqn1YfK392Cp5GC3qA7PByygJxY/TZ12aFcvFYi875Z+npAAUR
+muc	K-tAltdWMuYWRtaW6JAJUCBRAz63X58ViLzvln6ekBAaAmA/4lN3dIZqtJT2ADJEZm
+muc	K-4HZCLxo3oYBiWQlJmWG9lUIIikN9hg1mr+GhiAls0/bljBIo5gRiUuwAc4tMmKID
+muc	K-rHZBGiDHNmcEBySEGsdcwzCbbfAoH/pgRqabTy4aYQeFjv1qjH3Fjp7NSWrQmhtu
+muc	K-LHu79OvnXqmWyENrXgcktYhnOA==
+muc	K-=j10k
+muc	K -----END PGP PUBLIC KEY BLOCK-----
+netscape	U netscape.public.admin
+netscape	U netscape.public.newsgroups <news@netscape.com>
+netscape	B 1024
+netscape	I 72A7797D
+netscape	F B7 80 55 12 1F 9C 17 0B  86 66 AD 3B DB 68 35 EC
+netscape	V 2.6.3ia
+netscape	K------BEGIN PGP PUBLIC KEY BLOCK-----
+netscape	K-Version: 2.6.3ia
+netscape	K-
+netscape	K-mQCNAzUr0q0AAAEEALm8W9QYzLx6rYGB5C4tDWBH3/lNBSuDUVWyeL106QMfSaFL
+netscape	K-ZTLjwN2e9oQgssv9MLQrTt3tJ+X9L+SVAV/ZQohIslLl5aQR5rFcgqze/gHtN31W
+netscape	K-QOPWW1NyrppzRvmdzYIEEfiX5i1Q3B7UGY/Iz+Gc5l4wyupsuiGTgw5yp3l9AAUR
+netscape	K-tBVuZXRzY2FwZS5wdWJsaWMuYWRtaW6JAJQDBRA1Pnc+IZODDnKneX0BAdzCA/d/
+netscape	K-Mx0fvxTowDoxEJoRDqrq1UWDUOTJBPgyZZY+fS64dgwSQskIOH0EqZAjPN56/oZB
+netscape	K-f6McQIIrd1hqrUf+VN6FNpBh55MuY/uKAAAREPXSSkugBdbThyJWsFDmsBPJlkLG
+netscape	K-ornEbFt2TdPqmm2HbgoZ/jynYPLuE2h5LzHl4+a7tC5uZXRzY2FwZS5wdWJsaWMu
+netscape	K-bmV3c2dyb3VwcyA8bmV3c0BuZXRzY2FwZS5jb20+iQCVAwUQNSvSrSGTgw5yp3l9
+netscape	K-AQH6XwQAiJAWUpyA4WBKaBU3SfeMKG4Qk3gmuunCw4JPPSEqInCFQpxp8fykXS72
+netscape	K-qe9MsLEAvTdMRpmHe1Zs24yRCNLaUG5laHLicARESBnI9D7NdR36CBL/yp5W023T
+netscape	K-o9BLIu4RxfurDsFkGayl64s4aubgJSUgAORgvqdwxsaGpid7FJk=
+netscape	K-=4lmK
+netscape	K -----END PGP PUBLIC KEY BLOCK-----
+news	U news.announce.newgroups
+news	F 8E18 1BEF 0BE6 3896 2C1A  5C98 FAFE 7B55 0C18 C8B7
+news	K------BEGIN PGP PUBLIC KEY BLOCK-----
+news	K-
+news	K-mQINBGBOQfEBEAC+5dKbl6Vh+JeBx34xyRlmqJzIPIYJdcXbna6Pk6stnfa5J8UH
+news	K-4ChMYdgCtM9/h33DH7dWX8/zKcABfRAC1784+ZlPFc+W8anEJoMZHeBdNfoY1qxP
+news	K-D1ojC7jqaRiKt+Oc4vSl4fSRjPHAaZEIvhybduXWCTV5exbOnsDOnLLJ7d2sd08R
+news	K-sIeQpNyCSKNcwDyHLH/UHdpHvYwuIlkjTSt0N9ghXArVWAgcFFaaihTpzGlp1+II
+news	K-wn4n/zETzvVlFeXrzV+s/IqZ0oB2GzZaFOYlNa11vnIaCcrfEsHBig/PUDdwoIqB
+news	K-YTVlE2KUIggf97bFUpLmat5kZpgbd7/n/tGWLD7HLcMwU/mjfsSG0w8BLjYZqIpV
+news	K-JwbwEpioIbKKsH4qZBAMBq1c7p52wXJ2fZf+v7GRDMlIl5Lmt7A8HZgbVuMYxM/d
+news	K-uAa6eGCMD2RKmHhInanTyYUgXYw8VRcW7NKOtSckHlBlIgsCa3R53lR+xQ/Ld8av
+news	K-fA1zQD+82YehxSlmSqNteHDqxkN9pqqIGVaY0ajrHrjnVkGVxo7j9eT8u2ju0icy
+news	K-Nf0te0OM8g/DfcpSqlDZPRgr5GZ0iN/yS1QACFudwLrmhpSrtZ8CWiK8UUmIpSBn
+news	K-23w59WC4ZjkdRX2fR17shIjPl4UL02D1qe9OsbVn6aE0fUmVbfSi/6a9cwARAQAB
+news	K-tBduZXdzLmFubm91bmNlLm5ld2dyb3Vwc4kCTgQTAQoAOBYhBI4YG+8L5jiWLBpc
+news	K-mPr+e1UMGMi3BQJgTkHxAhsDBQsJCAcCBhUKCQgLAgQWAgMBAh4BAheAAAoJEPr+
+news	K-e1UMGMi38YUP/RPrPfxiCAbzVzoPiMWA/aUzZVrAMCEH38r6N/QWyXgXye+6iUr5
+news	K-DEELI0vQuZiayFKyooQIdXZfubqCZSuNx/OG2w4nK23K6hiLBFebmDoIX/oB/g1T
+news	K-xp1nxwDW9jM3X2sxD6b8cf0zTzLvO3L8WThR2Hf94zIFiQtbrF3E+6eJNFb25JG0
+news	K-NPzXhytqLrOCpmBQh2JbO5KYi/NVX34NmZPdd7YNlrhrUVG5pvv7AqrWY9v2J9ry
+news	K-onugYYwEVnmwephjOaxFfb52R+qa7dDWpWzbV8fDMUu6N/e0nVRK8WgK+okE6st8
+news	K-r9CdxDDX29iztP+kXh7xS/sVPgTzUyju8Zs9/cKBjdxtMvvXB3HAps6pNVb0sGJJ
+news	K-h8grIAx1wJnejaR18tU6te8qFjgo5We4WNT6jBV2CMN2vxuTFrp+KNLSONlfHw2D
+news	K-3CcX1azNAaYu5MHDylXZ8+KEiwZyKlHPVIfXOg9t3e1e+X7oOAcqX3O+DRDO9sGY
+news	K-g4WYShOEJVVlKVC7bVgmAesDUN0WmmBWqQVjg6X0QVcyUwl8S/dgpDM7vQnaomPT
+news	K-yARxUmJUQ7DvRmJpzZ+oXZ2pR7l+G/kR5WNVSLa9hjRfsRxhz+k4nHTWBzZrdXB8
+news	K-7IMJ+b7Mi+JIB4KxQwTXZ8SBm8vUPYLWhv8az3MW3CRdIG8fRewmfZ/biJwEEAEI
+news	K-AAYFAmBOSsQACgkQwl0607iNqcFN9wP/SMRzCWNe2o1MtNrqhBrC/c0XOhvn40Vm
+news	K-ZnVMbHyzRuxxvbLpyGGn0qovOa47tSDwo8/KK/pCPyaN2YYYAHt+41+u0CK8fnu8
+news	K-5R0VToARvlHefTTEo7yPv37+2t3ZOSCurR7eIHaLxBXFkSrUxsaMnqK095c11MlW
+news	K-CIrXS50tJQ6JAjMEEAEKAB0WIQTnhDZOjd57s3D72erRXTE4ggBBcwUCYE5KmAAK
+news	K-CRDRXTE4ggBBc330D/9PyuPL2JfEWuGCtmuyhrEpXVsU/Rr6ZZCcuIa6UnfmAoi+
+news	K-9HOt0ae5dcTNNBybYq1c8nmMmzO+SP0zMprYTvP8O0VxnAZfoOi1TXScyO4GY18/
+news	K-RknS1/5jxG5D+OJ5gIZ000d87Lil/ucJic2MbYZ+a6Zh/R+uC5fK0taPx0XdlgY5
+news	K-7BEfdKMPa53I4QS32fVoznkoFAAeH0x2n22x1Kai7Lf4DOFoMg8d/pG8juoXex5H
+news	K-Vs+LI52dsUAuNfNHLzMedccxlxSG2PVHDuL79ctxCSazC+VzMAUhBrhhal8H9YBP
+news	K-pnse4LGA5eHB3j6ZpS+lGHwFt6fAyYXFcTnEXIjuBhveoVBHWC5g/YN3Amm9pwUE
+news	K-yGxV13StEjoocsxnlrdpi6vAebRqJZGZTl0S1dlT/zBTo6oX0sLqSyzUzbi/YaoX
+news	K-Xy2FV6onbVlTCrZW8wdirH5erveB5/cUatOxFfQFJx9Q3DnibZ06fOWfR5VImo8B
+news	K-8kGgmsoRzZLswAyHysgTh65yTsGReLodwEH2I+SmH23TSgVinGQTD4kowJ1DWqtG
+news	K-Oy09ycQgqp0aqe70DCmuAPBhP8+cTY5csYNhfvClD9q5lSClGq4tf2pTcFxXj6lr
+news	K-vYQp+W5WDMo9m8XqhDEuW7lJsc7SZPAGzdomO+fSk66tWgh0uITGsu91fnNmNrkC
+news	K-DQRgTkHxARAAuhdAV5qq2COAwxHLnVfwppToGvkIgYneHSrkUdXlKYj2hYAoS6YM
+news	K-EIs3fr6LAAo94oiLFkxP530UuD5N02DOtzsK1XmoNCiEn2sSIk1+tSdh60EnUhGZ
+news	K-GV65b4Gv4Zk2ReVoMyn6BtZR50vWeUy0wBvLWVg2hbpHLsHi02cD7/kZUov+pFk0
+news	K-g5R++yR5Iabshcb+dboB0NCNZ/STg06K7lL5gragW37/bKif/1mBv3oqCzX31VLj
+news	K-C4esx54AneIwVAflpE2p5o2zPlixxA9yDkJm2sFISbK5z8u8bFpZJWYaN0cX4E+2
+news	K-S+eyhjQ+3/p1645jTD1E9ZDPtGHXwF4jeeZmCfN497g/qFezd1aAoKrR17Id4Hzd
+news	K-2Mtlml4S8utYq54Sh0z74Sq+YGKWZ0eA4jsuULW0p7mK4Y5oqPeEebbWL/5rPDME
+news	K-4JfWJzz8xhew9fw69sSTLsg9lc8srB6T3W5mGqDzxXlWhxIqinE/IH8o3WkMCQP1
+news	K-KfHg1pEubfSn0KCwpwuj2pRmxBJcQCJG+ptuaxYHzPrDmUj7gNTnuvUm8fgmLw/o
+news	K-yo7RzmF368HKszCvRsqccxvaZti1W5g2YikVUoIYLKOqsU6qz1m8U1Nn3OoRfmFU
+news	K-ZqjTDJ/qoPhqy0zabQRjxHJDqEtzK9MU6WVHDHM/bZ8CPs8PczI9TgUAEQEAAYkC
+news	K-NgQYAQoAIBYhBI4YG+8L5jiWLBpcmPr+e1UMGMi3BQJgTkHxAhsMAAoJEPr+e1UM
+news	K-GMi3V2QQAKmqhyRWDuVdurOBX6CFy588RxJX0oH5v0Vcdb9TBWxtU9dScG86DB1u
+news	K-7yqObli0yyIKko4HlaDCjcrJJRXAJsA/IddSyPT3zwPAQcn1guBiB+zsE/BM0u4A
+news	K-1f2rgHEKR2RkXlHpFh/xtDTbgCY2h+DTvapD6975OzHQi9Jl/mLJeJyOOxHx52c1
+news	K-SjCvsVPx0D9cagCN4hRmU7ka3LxFa4OrEhVY5qxWYfVTaQyTsZhAiXVGV93Jw/mm
+news	K-HQRfUtdINGpYc6O+6ZwHbGENZ9YhHs2mciosbULnI/416220DnJA3FkcPDCcQc2d
+news	K-IdwF5afWLnl0eDpj/f5vmDV0LZL05wltoSQ5KuBYKYG/LtHn5Uvqb3wwPJ1XHC1D
+news	K-j6r0eDZZzhiWzR0u3nye24hAQaotoPlrSQ573Ytz+VB6Si2CD0iT8NvuwAD9fJGC
+news	K-xn15AsOkdBbD8PY+BBZdt7UwPKT3ebOC2e8vbqOJGlDGEiZmYSkSm2Vl5Nhp+Le7
+news	K-FzM9FfmqhjXV7ZrY/yk+a+ebQqaDCfd+sV+U3waEde6ysoMHQHfZlLS29sKSuapV
+news	K-apT2NWMkcwFRpPE39lj8ESEVd039Tuvk87Er+fSzd3NAH01d7CaFoUgvvBR9MRAG
+news	K-IFfp1dQnPMA8W5K/smDEmfGKnSoMZSH9pIR4360pReB5Jf1sCJJu
+news	K-=oDzt
+news	K -----END PGP PUBLIC KEY BLOCK-----
+nippon	U nippon.news.group
+nippon	B 1024
+nippon	I 86F67401
+nippon	L http://www.gcd.org/news/nippon/
+nippon	F BC CF 15 CD B1 3C DF B3  C3 DE 35 6F 2F F7 46 DB
+nippon	V 2.6.3ia
+nippon	K------BEGIN PGP PUBLIC KEY BLOCK-----
+nippon	K-Version: 2.6.3ia
+nippon	K-
+nippon	K-mQCNAzXuNc8AAAEEAMEPrh9LxWYvNwma7ORh91vhjiTgnggJIAqgcbuarrOiWmKV
+nippon	K-Ics/OXPWUqnbhFA9hITwYOFckYdv+em1KJvdwIGAZ3fNSNSzSduOBdqvMvEImoPO
+nippon	K-XeylZTvixDEgJwXGevmuGYb8X+rSQA57PUxUy5akq8exBZjW7ls/qJWG9nQBAAUR
+nippon	K-tBFuaXBwb24ubmV3cy5ncm91cIkAlQMFEDXuNdBbP6iVhvZ0AQEB4YwD/1w3BKNk
+nippon	K-ozEJWhhwRw2gnce0FYD1qg8Dx8S2x0wk/d/ezI7k684GsAkuNP8xkk4VJPMQPRZW
+nippon	K-SVWUFTR1Uub8DfEuLpYQ6CjShnCF6MkSREk0GptBwr5cGU5KFmz5dEXmOm3qWPkl
+nippon	K-oA0gNbkkQSDa/8jxRI0wfGc1e2zl4qgAHpZm
+nippon	K-=NRy2
+nippon	K -----END PGP PUBLIC KEY BLOCK-----
+nl	U nl.newsgroups
+nl	F 45 20 0B D5 A1 21 EA 7C  EF B2 95 6C 25 75 4D 27
+nl	V 2.6.3ia
+nl	K------BEGIN PGP PUBLIC KEY BLOCK-----
+nl	K-Version: 2.6.3ia
+nl	K-
+nl	K-mQCNAzLS7GkAAAEEAM+9XI6apW0uhXWIoWDPcRxwRYU/94rxETu0OHrPqXTSQt8D
+nl	K-Eq/UyrZ3eW7AsDG9zsC0zAVjgO2MP+N4+5fcwFtr/sjbaHGbX0j3P51w2LXqWoxM
+nl	K-Mm2EcvxC8HqIVE8Z/1Wc1K2wvhrLEzH90injzWD0nTT4WFVXYAjaI3Yj6bOpAAUR
+nl	K-tA1ubC5uZXdzZ3JvdXBziQCVAwUQMtLsagjaI3Yj6bOpAQEL9wP8CfsFzW6QdW9w
+nl	K-Ofq5EbWPa9JQ70dTtbFpaPKh3MEcv1vpAKlCrmwpEQ0cXTTgYn02VFSWueBI/69v
+nl	K-iYOh92BD3+k6Uyku4SkmnoS99H3AfMCwpWsZzgqVStcJF/Q76KCDBHjJ4KHOrR01
+nl	K-sN5wP5ohSRj/0ju05BoJ3WW18xUI/bY=
+nl	K-=mqDR
+nl	K -----END PGP PUBLIC KEY BLOCK-----
+nl-alt	F 6B 62 EB 53 4D 5D 2F 96  35 D9 C8 9C B0 65 0E 4C
+nlo	U nlo.newsgroups
+nlo	B 1024
+nlo	I 59B99EFD
+nlo	F 63 DC B2 51 0A F3 DD 72  C2 BD C6 FD C1 C5 44 CF
+nlo	V 2.6.3ia
+nlo	K------BEGIN PGP PUBLIC KEY BLOCK-----
+nlo	K-Version: 2.6.3ia
+nlo	K-
+nlo	K-mQCNAzxzxVIAAAEEAMhXkGFH38gW3YXpLEzjEfmktyRri6SxADcae/yjTE7GJpza
+nlo	K-0C8RAZsGKNy0KVkl6hlaKOWhf5r+ND/Za3d3EyIRXFqCI+M0UOXD7WDZmTF0FzxC
+nlo	K-IM9v5P3fyj4fdl4yHlJlemryUjTNVIR86cXDSBQ1Qk57B9jcvqYgLaBZuZ79AAUR
+nlo	K-tA5ubG8ubmV3c2dyb3Vwc4kAlQMFEDxzxVKmIC2gWbme/QEBPFAD/0OMnSpQooIQ
+nlo	K-Lf+aT+dSgygf/yKRFW76CBW1NSKVCpleB0viuu+0K7weV9WIHCHA6xh4l76A5Jl2
+nlo	K-jvL9wcu+jYyOKTWSJoOE8Xai/5rw/17o/eT1w1WVkPXb4XOSVMdVqoHorvmdsiS9
+nlo	K-9p+OYLtO5olTeV99swPfRQUzDc5M5uX5
+nlo	K-=h+51
+nlo	K -----END PGP PUBLIC KEY BLOCK-----
+nntpworld	U usenet@nntpworld.net
+nntpworld	B 1024
+nntpworld	I 912F2B2D
+nntpworld	L http://www.nntpworld.net/nntpworld.asc
+nntpworld	F C7 BB E0 56 7A 8A 5A 86  09 B5 E3 29 E1 BB 8C E1
+nntpworld	V 2.6.3ia
+nntpworld	K------BEGIN PGP PUBLIC KEY BLOCK-----
+nntpworld	K-Version: 2.6.3ia
+nntpworld	K-
+nntpworld	K-mQCNA00E/HUAAAEEAM1/yzqOYhdtJJkfIoOG1xYiucKGnMyS8LGSr7D38UUCIT5o
+nntpworld	K-W9RAH5nIz9VNHKM+OtOI+WWaZrOvWgnM5RLV2tPUzUk7cbevpXBk/w+oQJOvsrro
+nntpworld	K-3q/KmWGH+4IdQTS1Qh/UR5ayuySctfgdqGgUBmp/N06eJXXuwet7FmCRLystAAUR
+nntpworld	K-tBR1c2VuZXRAbm50cHdvcmxkLm5ldIkAlQMFEE0E/HXrexZgkS8rLQEBqUUD+wdB
+nntpworld	K-5q5rAi2DKd8M+51Xlz173UsjSnYdkAbJ9oSskcPlMv4Nq/4DNSWR5mrZWmhX8hwm
+nntpworld	K-BPmfpIOwzSH71/2VB5myiNrz4ZHpRRX2b3jmbr7X/ibls0XkCBdaGSE6HB+OHxKi
+nntpworld	K-IuEIkYWrP4CzAt/QuCFvdrD/4M3DBM+USpUllaj/
+nntpworld	K-=dp4h
+nntpworld	K -----END PGP PUBLIC KEY BLOCK-----
+no	U no-hir-control
+no	L http://www.usenet.no/pgp-key.txt
+no	V 2.6.3ia
+no	K------BEGIN PGP PUBLIC KEY BLOCK-----
+no	K-Version: 2.6.3ia
+no	K-
+no	K-mQCNAzOtT6IAAAEEANcYtxheOaDSDpvo0OHBEh1DbCCrp9ReA3ycwyrEzWluhBcz
+no	K-P3rNz+GCloCvzFXeuaHD8i3VbhPeYDZwsCNOCo55WgKfQaWTD/XG2b29HO+FAzb8
+no	K-Dccyp/NINfSquvNmGEcbt487Hb1lh7YbCvCJT3ho+2ste+fedTdnUOEHWSZJAAUR
+no	K-tA5uby1oaXItY29udHJvbIkAlQMFEDOtT6M3Z1DhB1kmSQEBAloEAKJuiI2Aqz71
+no	K-P/07190P+/xmItxAbT2Ha7BfwRXnk2cXy1FKzj/412Ty4NCY4NOwOtqur43SnhqZ
+no	K-2wXYaLwCfMO0JVcZ/SpN7VrwldwYiezb6MdpSlUhJ7MeXi3iJlFd3cbM3RV4gxD8
+no	K-rvYXtGzitKrFBLMhWFx9KTpbSfQQvJBo
+no	K-=cM7r
+no	K -----END PGP PUBLIC KEY BLOCK-----
+no.alt	U no-hir-control
+no.alt	V 2.6.3ia
+no.alt	K------BEGIN PGP PUBLIC KEY BLOCK-----
+no.alt	K-Version: 2.6.3ia
+no.alt	K-
+no.alt	K-mQCNAzOtT6IAAAEEANcYtxheOaDSDpvo0OHBEh1DbCCrp9ReA3ycwyrEzWluhBcz
+no.alt	K-P3rNz+GCloCvzFXeuaHD8i3VbhPeYDZwsCNOCo55WgKfQaWTD/XG2b29HO+FAzb8
+no.alt	K-Dccyp/NINfSquvNmGEcbt487Hb1lh7YbCvCJT3ho+2ste+fedTdnUOEHWSZJAAUR
+no.alt	K-tA5uby1oaXItY29udHJvbIkAlQMFEDOtT6M3Z1DhB1kmSQEBAloEAKJuiI2Aqz71
+no.alt	K-P/07190P+/xmItxAbT2Ha7BfwRXnk2cXy1FKzj/412Ty4NCY4NOwOtqur43SnhqZ
+no.alt	K-2wXYaLwCfMO0JVcZ/SpN7VrwldwYiezb6MdpSlUhJ7MeXi3iJlFd3cbM3RV4gxD8
+no.alt	K-rvYXtGzitKrFBLMhWFx9KTpbSfQQvJBo
+no.alt	K-=cM7r
+no.alt	K -----END PGP PUBLIC KEY BLOCK-----
+nrw	U moderator@nrw.usenetverwaltung.de
+nrw	U Moderation von nrw.admin.announce <moderator@nrw.usenetverwaltung.de>
+nrw	U <moderator@nrw.usenetverwaltung.de>
+nrw	B 1024
+nrw	I A195C439
+nrw	L http://nrw.usenetverwaltung.de/pgp/nrw.asc
+nrw	F 13 4A 80 FE D6 34 B4 64  AF 32 08 3F 62 0E B1 E2
+nrw	V GnuPG v1.0.7 (Darwin)
+nrw	K------BEGIN PGP PUBLIC KEY BLOCK-----
+nrw	K-Version: GnuPG v1.0.7 (Darwin)
+nrw	K-Comment: <http://nrw.usenetverwaltung.de/pgp/nrw.asc>
+nrw	K-
+nrw	K-mQCNAzxvnTYAAAEEAOqXrgF/G85EnmjDfNfkkjKoF/a2i/+GuTzhIVoMQoe0llNU
+nrw	K-ezaHBA70guD+W+1XD/hWp11C8QUNXd51lvfEV5R61SH80bnjAMKYkupOrN2Acjx4
+nrw	K-TlDxfRubm9eIM89twpv9UlknVL86uqvAaRDfIv0o+SWHfUKDwvZRuEihlcQ5AAUR
+nrw	K-tEVNb2RlcmF0aW9uIHZvbiBucncuYWRtaW4uYW5ub3VuY2UgPG1vZGVyYXRvckBu
+nrw	K-cncudXNlbmV0dmVyd2FsdHVuZy5kZT6JAJUDBRA8cADXGchMImiytrEBAYcEA/9D
+nrw	K-sEPUjax0hvADgUi39jFwSFMQJa6FRhX2B8R0irjwLhtf+Kmmqs+L8ozY0p14+iWS
+nrw	K-CGWaugsPJb3wo/JmXHAYRjinG8QV5LnqSRWgY2E3V1JCZE6tqw1yGdc8qGc37ccq
+nrw	K-PskrtrqfoURmvuxRG92c4Qr3Rznchg5jknPSKkuAyokBFQMFEDxwCd1ie6JYVEid
+nrw	K-DQEBmdAH/0tGVtiQYG/Tp/XUMBvUCaRakvrHHQHP23kTeQrFwYON5+XeLVs2v+B5
+nrw	K-j1tDq/PrBbnexr7FwdNPapRpsMC9ND9SanyfBQRQt17kb6FwgH8MKTmgc3rh2UnS
+nrw	K-j1hEUbHk0bx+PZxbEyzbGTtpY9ttS2Z5VXi4dAX7INh4Q7hJFnKGWYrcnP4GDS6E
+nrw	K-1CsjJIzuzMoochQX3uLu5osviXz1ouyMuQ0ZFoCy+lVjDOjgTZM+SGFYc+f08kFj
+nrw	K-Gkv6Y/HbTVeMMfl3CtMInNpSUegq5q1pe9HKsLPI91BRuXp3bTUYcJVQZRBE2HMY
+nrw	K-CGHrku7RRVoRI+kDvB8rRezE8W/n/JWJAJUDBRA8b5029lG4SKGVxDkBAUMeA/49
+nrw	K-v6SnSaD9ra+C82t7mpaCDf1y/AbjtaE2NMnA6z5wJ6CByE/9BuvjFpOBfaaoFzB4
+nrw	K-+9LZRqYspeM6cXae4Etlwanfg6Wcy4TE8uWdECGSZWx0xF1RdE4ZOYP6f2O7FCcn
+nrw	K-vINm39pB2lC20jGmr5pcpu5znGvN4+bBdCn2KzPTdIkBFQMFEDyA+Vb7OKsjm8vO
+nrw	K-eQEBbksIAJ0wewm9tbNLhalcTuc/BxvYX/PPYIvnw5QB3LfbcqS+OBI2p7+HO58n
+nrw	K-4+Ohz+X6kJHWaVx5Rl4N0xEPGF4kvuF+2Xo/2sUIpqgL2yy0xQM17P3zrTYp3uHq
+nrw	K-Kb+A5zazZVRyZ5Ibc19jUe1U4imrjyAXW/8go0mMGLEfxbVLFcex1kM3jxGubI0H
+nrw	K-nwPrOESPpoC6NZgaaNsjCfgh/+MWflFH3/yV5SCLt5w/z/IcA6K9ZA/y7grRNVw3
+nrw	K-aWKEal67ojPSt6W8fZYnrY6eXlSkpKeWAJI8PsGkItG1zIeKFsfYvhPMqpVqa9mJ
+nrw	K-DtrBPzdKmZULxNLcef0sr5/0rBNbooS0Izxtb2RlcmF0b3JAbnJ3LnVzZW5ldHZl
+nrw	K-cndhbHR1bmcuZGU+iQEVAwUQPJISP2J7olhUSJ0NAQEsHAf/bHehzqosbz9Pp6+d
+nrw	K-nfm033vMHUe0DUb3lnUMlWOHsV3GN8lWLcVdwqbqGDmUYoE6Pi8nMa6MwemH0YwS
+nrw	K-psKfkN3URSN1MKffNbY4SEkAPkEKdy7KNN3IfeaEhvZNCWaNyG/8zBJG8QyusGOy
+nrw	K-Z+reMYIEVpi/dfZspSL2vKaIX8xkMvq9TKHSB22D6KNtjED4BExlUums4p+Pbt3O
+nrw	K-NK75+cxChZ1koxk8VYkzUloHt/OuoQTunLxLgypBEENpNd9zqtEofbz8BIfNV4UM
+nrw	K-Tzm0L0K1/6UhSSWpvwZAfCvY5Xmce0rhCIPCRtX1Qa63JS+Hh/e5BQHy+gx9R7mZ
+nrw	K-NZOqlokAlQMFEDySEBn2UbhIoZXEOQEBNNQD/1Ot3rX3Xk7eP6qPnsD0Qkp38jCs
+nrw	K-+jn2XWt6uLKRAgKfoJv/4XUbYTlFmAyKNX/Rl1hiLwlsp8BxrPx8mgN6IjCG37Om
+nrw	K-qr+zby3nWZiYpIMPBBtOR9pYP0EczvzF9YHcEeqUC8LE2uEuRbcnbSPFW6ZEJKbU
+nrw	K-FDjQ2PJt72W6aLQViQEVAwUQPJIRz/s4qyOby855AQEuGwf/U8/CrQ+zy48XWW+5
+nrw	K-PnCmXh32YLR7Zlox1wxAtnkAqATJHcmN9TjNRbQ/44rI5yfgeYvYtBAn5BMXBDwM
+nrw	K-Pu9RNMyRdS18U794TECHHvI6nnFdfmB1uAUwHWBeGzB3QZNIXfE2qorq5WjQwwMK
+nrw	K-vXqmcByWaxkdk8G/0iydchS+YzoL1hfKjIGqh0hthcu5ZX7L8DIcbrZ/aX6ILLII
+nrw	K-dGEJLgaj1k0qAiX85NmI3E9BK0CKIOfW0ZUwvV+pjFZE4ttLS5usJd1zqaR6aTYJ
+nrw	K-MLT5C/VfdiArls9m8YWEAvYJru/XHlz/YKi6ExD+vepBsU0IHxI8AGBDDL/jwfUs
+nrw	K-hMy31Q==
+nrw	K-=YT7i
+nrw	K -----END PGP PUBLIC KEY BLOCK-----
+nz	U nz-hir-control
+nz	F 07 DF 48 AA D0 ED AA 88  16 70 C5 91 65 3D 1A 28
+nz	V 2.6.3i
+nz	K------BEGIN PGP PUBLIC KEY BLOCK-----
+nz	K-Version: 2.6.3i
+nz	K-
+nz	K-mQCNAzNYhVkAAAEEAMtQi97id2CiV5TFAqB0xWP2S+4+dEx7lqvh/yXdAmMKHgUH
+nz	K-UFckf6+Nm62JGjzAvInoKdRN59zL1dYoAB/ZHzthWOlOaleGWM729txFlk6JBuoW
+nz	K-A/esv+P0BmG/RslIhp7Cyi9oySdFdQvUzd6RFBybJEC+Q0DCvvsII0K45VLFAAUR
+nz	K-tA5uei1oaXItY29udHJvbIkAlQMFEDNYhVn7CCNCuOVSxQEBi/ED/3eZE6LDVYgA
+nz	K-IlGgKn3jXK/vECvE3URq9XKdsBQovxEJz1AQEvhJuHzjap5JfbUTqqITZMfmqL6Z
+nz	K-IOZeCdGGrKw/SqFRM5Knq1Km6uK2D84m2n2zepsvqHb4IDY6j03pZJAd0r2EAMV+
+nz	K-QOVP7HJ8qn7hgFSiZUuu4Afr7v3K2qfb
+nz	K-=aND1
+nz	K -----END PGP PUBLIC KEY BLOCK-----
+opennews	U news@news2.open-news-network.org
+opennews	V PGP Key Server 0.9.6
+opennews	K------BEGIN PGP PUBLIC KEY BLOCK-----
+opennews	K-Version: PGP Key Server 0.9.6
+opennews	K-
+opennews	K-mQBNA0Nj5kUAAAECALXkr4HcPC3USU9BnIoh++tXTsWbed2vhoudIs/erV9EyIHZ
+opennews	K-04Cm3ISwpBpoHbF2ylapwQxtRpPnHncWQ+Yq9qkABRG0IG5ld3NAbmV3czIub3Bl
+opennews	K-bi1uZXdzLW5ldHdvcmsub3JniQBVAwUQQ2PmRR53FkPmKvapAQFGRwIAhkl9hmmU
+opennews	K-iECh+h2qXBJ5fulB/GF6ue920cWwW/IlbjHBHf1zt1XbYIzhbRB0ngTBvwCJi5EH
+opennews	K-m1tdE0GvY7ORE4hGBBARAgAGBQJDY/gpAAoJEM3xsLVPIMFayhwAn36YnL6CkOQA
+opennews	K-cnz9RxxHagAdHnKEAJ4hudaSKujeUOxA6EVjoxFKSnMzIYhGBBARAgAGBQJDY/ju
+opennews	K-AAoJEFU8vTtiyTwc+p8AnivP5WYA42xOojfmn7Yp3oGLBFM/AJ4nhoNwOUoOkHf+
+opennews	K-09JemSyMO2I3CA==
+opennews	K-=yAOT
+opennews	K -----END PGP PUBLIC KEY BLOCK-----
+openwatcom	U admin@openwatcom.news-admin.org
+openwatcom	L http://cmeerw.org/files/openwatcom/pgp-openwatcom.asc
+openwatcom	V GnuPG v1.4.3 (GNU/Linux)
+openwatcom	K------BEGIN PGP PUBLIC KEY BLOCK-----
+openwatcom	K-Version: GnuPG v1.4.3 (GNU/Linux)
+openwatcom	K-
+openwatcom	K-mQCNA0Vsm64AAAEEAJwMWF1iFYDbLvw/xI2htyviJZf31zMwtRHYNAgKYG6NPOmf
+openwatcom	K-gwEoKL0PH38DG+kCCUmECZ0RRRyPB9cTnNUgWELfOCvOTfBPCuJdrmO/fhosDVz6
+openwatcom	K-MAaLXFwarpwjZveecwE8u3t5tKa++XVGdmmfkiS4rHiqaMCIMfXdyjJTph69AAUR
+openwatcom	K-tB9hZG1pbkBvcGVud2F0Y29tLm5ld3MtYWRtaW4ub3JniQCVAwUQRWybrvXdyjJT
+openwatcom	K-ph69AQEUHAP+IxJvZz9qHQDEGIz8SevnP9DxijxH/v3YJURaAsd2FtRAOl0MCY6K
+openwatcom	K-HEYIbqFAs+6R9jaqYbjUud+U533eXZ/587b0PGa6HKU4Pb88C78TcC7+1PsJrVDZ
+openwatcom	K-wkIv2FO6lnMpyGPoF5tvHUoMlvnRf2luAkvxorEgbMMDAwi7mmhE8EM=
+openwatcom	K-=RxG6
+openwatcom	K -----END PGP PUBLIC KEY BLOCK-----
+opera	U opera-group-admin
+opera	V PGP Key Server 0.9.6
+opera	K------BEGIN PGP PUBLIC KEY BLOCK-----
+opera	K-Version: PGP Key Server 0.9.6
+opera	K-
+opera	K-mI0DO01g6wAAAQQAviqcEXzned0oYYpHgJ4vUqA/UPafBMcynjXtGGcZizoj18k2
+opera	K-EE2YocXmcO3Zsi6KxcuXp3XzQm1ltlOdDANU6gVMfFbpHikxwbvkGqlcSdcPdSNK
+opera	K-0fHyIiA4maedsTR9y7lqVzP/2qxkrRoFFzKXHMAbpNF1vEdyfDQ0x7U/t1UABRG0
+opera	K-EW9wZXJhLWdyb3VwLWFkbWluiQCVAwUQO01g63w0NMe1P7dVAQGQoQQAh3B77A1C
+opera	K-WFr6h8YQUIb49TZ7F/lv2xSH57dZzipWtBe40/sI8W+QV/a9J3kgyKOokm4UnheA
+opera	K-+ZZDs6VsR5VeQ4/56k2WUAaxxnlEzTUwUyVVtjXqBVUlxSEyKXSU1x+IX0S8atK9
+opera	K-HenBB9JcaeTOCshvmcvlUNhcIfxo833RebqIRgQQEQIABgUCPPT6xAAKCRBOqa0W
+opera	K-nW1brh9sAJ4wFBEn3QnmTkDNwiU6pMTLV8HdYACgq2wfrrrOfMl7xZqGawW5mPnN
+opera	K-RcWJAEYEMBECAAYFAjz0+uMACgkQTqmtFp1tW65jhACeMqv/BZgqzcfMrAqEl2YE
+opera	K-Em5F5s4AoJ+3HMctmt12NFXfxwMb7fZ0Ru40
+opera	K-=VUzr
+opera	K -----END PGP PUBLIC KEY BLOCK-----
+pbinfo	U news@uni-paderborn.de
+pbinfo	V GnuPG v1.2.1 (GNU/Linux)
+pbinfo	K------BEGIN PGP PUBLIC KEY BLOCK-----
+pbinfo	K-Version: GnuPG v1.2.1 (GNU/Linux)
+pbinfo	K-
+pbinfo	K-mQGiBEIwmRgRBACSMWoHH7mUqYKsnO6PqSwvFGKEcD1pNc2acZrzor37thRLWKvd
+pbinfo	K-odSf/EV8r+evtBJoF+82ONliA/Vslm4D4FuI4nYCfnW2yOtX2eprKL8RSCnuLINa
+pbinfo	K-Y9W0L4h6/WdFdT+cnjDeHXem9oV6OH84uLa3Gpq1MdRHcey9h9Mr1f5+qwCg5JVQ
+pbinfo	K-RMhd1t1z2J0VZMGo+I9SikED/RKko5Ej0MZiuuVzN4TC1cYCJZHxv6uJOGwYQyxN
+pbinfo	K-wF3fs1yAi1WZv7/2bsyiWQZnyl6UyOmtgiq8yoGSCp+r1zY10VZU+hJdrY0bpO33
+pbinfo	K-QO7aqbnL6gb6Xtn+yJ7eFr6E5VR5jVmnT+E7Uf8YrJ65CjPEb9lY/Jcgt1itLJPd
+pbinfo	K-xEZ0BACQseUxIgKg9qINWhp+xdNylaTTagKgrf0wVSZIh9ToG4a/iV4v4Nr/Hlf5
+pbinfo	K-XFED7NA+P87y05KmbFglE6O1RToMnqveOtaf+YQI+YCu6CQt5fdgZVFcIdADEweT
+pbinfo	K-jb95bt4nTajgpBylp88AwpuBlaIvMFnIEOmZa6Z9lodZt8c/2bQpcGJpbmZvLW5l
+pbinfo	K-d3MtYWRtaW4gPG5ld3NAdW5pLXBhZGVyYm9ybi5kZT6IXAQTEQIAHAUCQjC4lgIb
+pbinfo	K-AwQLBwMCAxUCAwMWAgECHgECF4AACgkQcoMtOpV0wmwCrgCcDlx3zy5O+SS26Sft
+pbinfo	K-GYhEpjYBkKQAoK4AO3q8BFn0z00wqdhidOx3nH5puQENBEIwmRoQBADT7VQdhLs8
+pbinfo	K-beOfVzUuPbHk+pcfvGmBrav2AZW3AWujdweKnp5Z6aPAQBwH8wqWsc7BL3A2wvXa
+pbinfo	K-dxfZgFtSUZX/8meriq0X063hV+3cmYMpeqjRlKrSE366NjXyeGItNr/Ut2XVezUF
+pbinfo	K-JqRw/KzCCy7wMNd/8MN+KMdIGZRPW0WXBwAFEwP7Bqe4qet0v1TpvW7mzdY+yt17
+pbinfo	K-etuX4Y+Ea2uX5vxkT0g6OgkCgixqCnQaUGbF9zpbogmihLWvOOPw8CpoJrq+eBb2
+pbinfo	K-qpfmFT1bSCNLLD6PgPPFDUa0QklYsuskFwnn/doheoUgWYf4CAEYwT525t5yXjH+
+pbinfo	K-Dcf7u/0poDdNDsUn/PyIRgQYEQIABgUCQjCZGgAKCRBygy06lXTCbBqIAJ4u0Tka
+pbinfo	K-K3sbtaVfwbK6JwJwnr+fWQCgiR3PpVeCJRQUyqf8DfDy/OmP3Fc=
+pbinfo	K-=4xl1
+pbinfo	K -----END PGP PUBLIC KEY BLOCK-----
+perl	U newsadmin@perl.org
+perl	L http://www.nntp.perl.org/about/newsadmin@perl.org.pgp
+perl	F 438F D1BA 4DCC 3B1A BED8  2BCC 3298 8A7D 8B2A CFBB
+perl	K------BEGIN PGP PUBLIC KEY BLOCK-----
+perl	K-
+perl	K-mQENBEY5JJsBCACYBIeYk1jlPgEPq8lQwrKhq9BI4W1McoMEJurzgEK01xQi7EGk
+perl	K-xBjzzPd8Cg5kRFJxVPRVV/2kuOYCA5eK17sRrchTu8K96Yh6Hhmu9QXqCGlz9cPU
+perl	K-Xjcuh1VgtK3fc5er0gMz/fbF1o9xfZcRJHwfPEoABpeHBvDV1WbxBW4Ki1LXQq7Z
+perl	K-d9Nfej1TaXwbNFsU8CemPymKChbPRvCgk0WR8b2ssYHPCkfekk6rksenub2yKCcK
+perl	K-VLzZItZpDZruciHAD5fQn8OfLPOEDHX4Hv64rx1ESaljfJ3gBXD0GfUNEKfgSo5F
+perl	K-srNiDC9+A5e/pKro4R8n90J425VRmdDwDkDfABEBAAG0Em5ld3NhZG1pbkBwZXJs
+perl	K-Lm9yZ4kBNgQTAQIAIAUCRkF0pgIbAwYLCQgHAwIEFQIIAwQWAgMBAh4BAheAAAoJ
+perl	K-EDKYin2LKs+74fcH/0awACyaLpM1AcQFwtynL1GqzvgpjRmjSvUHa5kBXIDAKwiN
+perl	K-wKdPBd8is3zzCqOcZEm8CJ2c8wvM5LC8qBAsqzm0bOcP+11ZgKfNkuz0gxsyHwGR
+perl	K-9F1eRmh4SyEpWMTuYIb/nZuaVOsh7FpmwB25Ew8JlJkott61FdWyOX75LO6D3sBQ
+perl	K-KcjEyejKL/lA8W9LdT0q840q0ViX+6A/7oZE0SBgWhEyCfsDImOhdyyzE/1X3HaT
+perl	K-QyN+ispWvoHuEadosoxRIWSEmn9XcWDjgAo8NPPhmuF0so42xg0ciz0X3W3NVt3i
+perl	K-3kAWfvtm7P85IkbijReN7wbV9JY4+uuZyvsOXlU=
+perl	K-=EeNn
+perl	K -----END PGP PUBLIC KEY BLOCK-----
+pgh	U pgh.config
+pgh	V 2.6.2
+pgh	K------BEGIN PGP PUBLIC KEY BLOCK-----
+pgh	K-Version: 2.6.2
+pgh	K-
+pgh	K-mQCNAzKkdTUAAAEEAMJVCGgsorYtryCzGKYe6tTv5tgE6l4j3eKkYkdn37icoFAx
+pgh	K-VANFdTHy/1e5GQJxMcnDV3610NQNSXE2sTc8br2IBYqbt7XkyQ48xzW6/qdARQHu
+pgh	K-b9cp0epIKKOu/4Zguxw+hkLyN4leziO1ts1ThnV2Tkaixu9+BpgGy01AM7MxAAUR
+pgh	K-tApwZ2guY29uZmlniQCVAwUQMqR1aJgGy01AM7MxAQEYbwP+MZRjtrY/wiayMehw
+pgh	K-KSDwXZqHh1stPOu/Rh8msk7ebeq4KdnLIgLinwcWZM1v4+ktww4TO2OKXouIVKtL
+pgh	K-YTNVLYAF3AAmHee00XFDaaZMIOsPfEwr+P4YUjLvxPfj1IEaEQXpODQTLUCqRYZ2
+pgh	K-AupSOzmnD4HwwDt5Q5/1BosAg/c=
+pgh	K-=mXnj
+pgh	K -----END PGP PUBLIC KEY BLOCK-----
+pgsql	U news@postgresql.org
+pgsql	L http://news.hub.org/gpg_public_keys.html
+pgsql	V GnuPG v1.2.6 (FreeBSD)
+pgsql	K------BEGIN PGP PUBLIC KEY BLOCK-----
+pgsql	K-Version: GnuPG v1.2.6 (FreeBSD)
+pgsql	K-
+pgsql	K-mIsEQaZGUQEEAMRCrb5GB3wqAoU+dji7vNYCI8JblUHlF2X00JyHywxZVF1rZsU6
+pgsql	K-wGZ4Kb6nVCCylXKPbTzIyBs1DLHJ/+hLeDIjlcpAfiXQfj6wXksq46XeRiToCje5
+pgsql	K-veigcDcWPeqPN/9rQ5lwK9oIiSbiKX4ULN3oMgUSV8/uasf8iXk5Dn85AAYptBNu
+pgsql	K-ZXdzQHBvc3RncmVzcWwub3JniLQEEwECAB4FAkGmW+UCGwMGCwkIBwMCAxUCAwMW
+pgsql	K-AgECHgECF4AACgkQTNDpchYb0bcevgQAivteytrQC96SZw3U5OJflm2A6llGhWUe
+pgsql	K-GrfBSGacxEsSdW+9EMVpiLCtgFRKkacp6TItWvQFIxealxbKvsOEyJ/GORMXlRC6
+pgsql	K-s12LKwkq/mElrwSJPVKOHxcMmEbTQ+GGlls4ICJe4CG2wl9TKQYj9CP0luOutaVR
+pgsql	K-Fd5C/GfxO3o=
+pgsql	K-=kGyo
+pgsql	K -----END PGP PUBLIC KEY BLOCK-----
+pl	U pl.announce.newgroups
+pl	B 1024
+pl	I 838AF8ED
+pl	L http://www.usenet.pl/doc/news-pl-new-site-faq.html#pgp
+pl	V 2.6.2i
+pl	K------BEGIN PGP PUBLIC KEY BLOCK-----
+pl	K-Version: 2.6.2i
+pl	K-
+pl	K-mQCNAzGvEY4AAAEEAL8clpC5yydhkMN1ppivfj3E6EIyZtntScjuCyI+RwpvLf9o
+pl	K-So+FLbiMmjjCV7BNjds7c1yaDMPDFetZlqEYKof5Q0QK2bDaaou3wtnDesAXqrde
+pl	K-K24GURn0N2BYWR9sEFJ4bwn8fudHelFcAXPt24lI29bu6dX+LddKTteDivjtAAUR
+pl	K-tBVwbC5hbm5vdW5jZS5uZXdncm91cHOJAJUDBRAyc5r/10pO14OK+O0BAWq9A/0e
+pl	K-So5/56x6hkT0to92FUiIbcoHF6J20sa4edDXbzTHZTvNJh3K4iSBwkspMcx8AWyS
+pl	K-36ckftXsZP2xRTj2Dk4xgLLCcFBjPHt7q5ysa8dChkgEu8770OE5atbQZorzz757
+pl	K-xpOgKmjRXLVbzt680Z807jH/zOo+BRby3ZMJFtGPyrQXPGNvbnRyb2xAYWRtLnVz
+pl	K-ZW5ldC5wbD4=
+pl	K-=n+Qy
+pl	K -----END PGP PUBLIC KEY BLOCK-----
+pt	U control@usenet-pt.org
+pt	B 1024
+pt	I AC2AE025
+pt	L http://www.usenet-pt.org/control@usenet-pt.org.asc
+pt	V 2.6.3i
+pt	K------BEGIN PGP PUBLIC KEY BLOCK-----
+pt	K-Version: 2.6.3i
+pt	K-Comment: Requires PGP version 2.6 or later.
+pt	K-
+pt	K-mQCNAzbUOhcAAAEEAL2eYnW0UlnRUQ+hqwvArjzPydNLz//6gUPDGm4iNp01rBGN
+pt	K-lyaRu9EwW0+bfn35b3c0Ghf/BWBYCs57bdB03wbt/OrvMZiFV3hO5ocB9UsIIBDS
+pt	K-i0sgGvX6+nm/H0eKTT9ROO1dwDwwQisVhg8ILIKtbm8etzSlA1iTeAWsKuAlAAUR
+pt	K-tBVjb250cm9sQHVzZW5ldC1wdC5vcmeJAJUDBRA21D1/WJN4Bawq4CUBAQ40BACx
+pt	K-yelM6H1JcmM2vR4lK263QoKi+G9Oc1cAlTwNuqNgamSUBNLnkBCnQTx0dvoq8hiV
+pt	K-15TZhAiYctuFcHmjCPfAhNZJlChFJKQbDHKbgp3uRrEWqs2SjVRBaiZ5OsTMO9od
+pt	K-UwXsXE/Srvl8QPuhC53jXcy3qIPiPygJu0L3EJ2e3w==
+pt	K-=qNRP
+pt	K -----END PGP PUBLIC KEY BLOCK-----
+rec	U news.announce.newgroups
+rec	F 8E18 1BEF 0BE6 3896 2C1A  5C98 FAFE 7B55 0C18 C8B7
+rec	K------BEGIN PGP PUBLIC KEY BLOCK-----
+rec	K-
+rec	K-mQINBGBOQfEBEAC+5dKbl6Vh+JeBx34xyRlmqJzIPIYJdcXbna6Pk6stnfa5J8UH
+rec	K-4ChMYdgCtM9/h33DH7dWX8/zKcABfRAC1784+ZlPFc+W8anEJoMZHeBdNfoY1qxP
+rec	K-D1ojC7jqaRiKt+Oc4vSl4fSRjPHAaZEIvhybduXWCTV5exbOnsDOnLLJ7d2sd08R
+rec	K-sIeQpNyCSKNcwDyHLH/UHdpHvYwuIlkjTSt0N9ghXArVWAgcFFaaihTpzGlp1+II
+rec	K-wn4n/zETzvVlFeXrzV+s/IqZ0oB2GzZaFOYlNa11vnIaCcrfEsHBig/PUDdwoIqB
+rec	K-YTVlE2KUIggf97bFUpLmat5kZpgbd7/n/tGWLD7HLcMwU/mjfsSG0w8BLjYZqIpV
+rec	K-JwbwEpioIbKKsH4qZBAMBq1c7p52wXJ2fZf+v7GRDMlIl5Lmt7A8HZgbVuMYxM/d
+rec	K-uAa6eGCMD2RKmHhInanTyYUgXYw8VRcW7NKOtSckHlBlIgsCa3R53lR+xQ/Ld8av
+rec	K-fA1zQD+82YehxSlmSqNteHDqxkN9pqqIGVaY0ajrHrjnVkGVxo7j9eT8u2ju0icy
+rec	K-Nf0te0OM8g/DfcpSqlDZPRgr5GZ0iN/yS1QACFudwLrmhpSrtZ8CWiK8UUmIpSBn
+rec	K-23w59WC4ZjkdRX2fR17shIjPl4UL02D1qe9OsbVn6aE0fUmVbfSi/6a9cwARAQAB
+rec	K-tBduZXdzLmFubm91bmNlLm5ld2dyb3Vwc4kCTgQTAQoAOBYhBI4YG+8L5jiWLBpc
+rec	K-mPr+e1UMGMi3BQJgTkHxAhsDBQsJCAcCBhUKCQgLAgQWAgMBAh4BAheAAAoJEPr+
+rec	K-e1UMGMi38YUP/RPrPfxiCAbzVzoPiMWA/aUzZVrAMCEH38r6N/QWyXgXye+6iUr5
+rec	K-DEELI0vQuZiayFKyooQIdXZfubqCZSuNx/OG2w4nK23K6hiLBFebmDoIX/oB/g1T
+rec	K-xp1nxwDW9jM3X2sxD6b8cf0zTzLvO3L8WThR2Hf94zIFiQtbrF3E+6eJNFb25JG0
+rec	K-NPzXhytqLrOCpmBQh2JbO5KYi/NVX34NmZPdd7YNlrhrUVG5pvv7AqrWY9v2J9ry
+rec	K-onugYYwEVnmwephjOaxFfb52R+qa7dDWpWzbV8fDMUu6N/e0nVRK8WgK+okE6st8
+rec	K-r9CdxDDX29iztP+kXh7xS/sVPgTzUyju8Zs9/cKBjdxtMvvXB3HAps6pNVb0sGJJ
+rec	K-h8grIAx1wJnejaR18tU6te8qFjgo5We4WNT6jBV2CMN2vxuTFrp+KNLSONlfHw2D
+rec	K-3CcX1azNAaYu5MHDylXZ8+KEiwZyKlHPVIfXOg9t3e1e+X7oOAcqX3O+DRDO9sGY
+rec	K-g4WYShOEJVVlKVC7bVgmAesDUN0WmmBWqQVjg6X0QVcyUwl8S/dgpDM7vQnaomPT
+rec	K-yARxUmJUQ7DvRmJpzZ+oXZ2pR7l+G/kR5WNVSLa9hjRfsRxhz+k4nHTWBzZrdXB8
+rec	K-7IMJ+b7Mi+JIB4KxQwTXZ8SBm8vUPYLWhv8az3MW3CRdIG8fRewmfZ/biJwEEAEI
+rec	K-AAYFAmBOSsQACgkQwl0607iNqcFN9wP/SMRzCWNe2o1MtNrqhBrC/c0XOhvn40Vm
+rec	K-ZnVMbHyzRuxxvbLpyGGn0qovOa47tSDwo8/KK/pCPyaN2YYYAHt+41+u0CK8fnu8
+rec	K-5R0VToARvlHefTTEo7yPv37+2t3ZOSCurR7eIHaLxBXFkSrUxsaMnqK095c11MlW
+rec	K-CIrXS50tJQ6JAjMEEAEKAB0WIQTnhDZOjd57s3D72erRXTE4ggBBcwUCYE5KmAAK
+rec	K-CRDRXTE4ggBBc330D/9PyuPL2JfEWuGCtmuyhrEpXVsU/Rr6ZZCcuIa6UnfmAoi+
+rec	K-9HOt0ae5dcTNNBybYq1c8nmMmzO+SP0zMprYTvP8O0VxnAZfoOi1TXScyO4GY18/
+rec	K-RknS1/5jxG5D+OJ5gIZ000d87Lil/ucJic2MbYZ+a6Zh/R+uC5fK0taPx0XdlgY5
+rec	K-7BEfdKMPa53I4QS32fVoznkoFAAeH0x2n22x1Kai7Lf4DOFoMg8d/pG8juoXex5H
+rec	K-Vs+LI52dsUAuNfNHLzMedccxlxSG2PVHDuL79ctxCSazC+VzMAUhBrhhal8H9YBP
+rec	K-pnse4LGA5eHB3j6ZpS+lGHwFt6fAyYXFcTnEXIjuBhveoVBHWC5g/YN3Amm9pwUE
+rec	K-yGxV13StEjoocsxnlrdpi6vAebRqJZGZTl0S1dlT/zBTo6oX0sLqSyzUzbi/YaoX
+rec	K-Xy2FV6onbVlTCrZW8wdirH5erveB5/cUatOxFfQFJx9Q3DnibZ06fOWfR5VImo8B
+rec	K-8kGgmsoRzZLswAyHysgTh65yTsGReLodwEH2I+SmH23TSgVinGQTD4kowJ1DWqtG
+rec	K-Oy09ycQgqp0aqe70DCmuAPBhP8+cTY5csYNhfvClD9q5lSClGq4tf2pTcFxXj6lr
+rec	K-vYQp+W5WDMo9m8XqhDEuW7lJsc7SZPAGzdomO+fSk66tWgh0uITGsu91fnNmNrkC
+rec	K-DQRgTkHxARAAuhdAV5qq2COAwxHLnVfwppToGvkIgYneHSrkUdXlKYj2hYAoS6YM
+rec	K-EIs3fr6LAAo94oiLFkxP530UuD5N02DOtzsK1XmoNCiEn2sSIk1+tSdh60EnUhGZ
+rec	K-GV65b4Gv4Zk2ReVoMyn6BtZR50vWeUy0wBvLWVg2hbpHLsHi02cD7/kZUov+pFk0
+rec	K-g5R++yR5Iabshcb+dboB0NCNZ/STg06K7lL5gragW37/bKif/1mBv3oqCzX31VLj
+rec	K-C4esx54AneIwVAflpE2p5o2zPlixxA9yDkJm2sFISbK5z8u8bFpZJWYaN0cX4E+2
+rec	K-S+eyhjQ+3/p1645jTD1E9ZDPtGHXwF4jeeZmCfN497g/qFezd1aAoKrR17Id4Hzd
+rec	K-2Mtlml4S8utYq54Sh0z74Sq+YGKWZ0eA4jsuULW0p7mK4Y5oqPeEebbWL/5rPDME
+rec	K-4JfWJzz8xhew9fw69sSTLsg9lc8srB6T3W5mGqDzxXlWhxIqinE/IH8o3WkMCQP1
+rec	K-KfHg1pEubfSn0KCwpwuj2pRmxBJcQCJG+ptuaxYHzPrDmUj7gNTnuvUm8fgmLw/o
+rec	K-yo7RzmF368HKszCvRsqccxvaZti1W5g2YikVUoIYLKOqsU6qz1m8U1Nn3OoRfmFU
+rec	K-ZqjTDJ/qoPhqy0zabQRjxHJDqEtzK9MU6WVHDHM/bZ8CPs8PczI9TgUAEQEAAYkC
+rec	K-NgQYAQoAIBYhBI4YG+8L5jiWLBpcmPr+e1UMGMi3BQJgTkHxAhsMAAoJEPr+e1UM
+rec	K-GMi3V2QQAKmqhyRWDuVdurOBX6CFy588RxJX0oH5v0Vcdb9TBWxtU9dScG86DB1u
+rec	K-7yqObli0yyIKko4HlaDCjcrJJRXAJsA/IddSyPT3zwPAQcn1guBiB+zsE/BM0u4A
+rec	K-1f2rgHEKR2RkXlHpFh/xtDTbgCY2h+DTvapD6975OzHQi9Jl/mLJeJyOOxHx52c1
+rec	K-SjCvsVPx0D9cagCN4hRmU7ka3LxFa4OrEhVY5qxWYfVTaQyTsZhAiXVGV93Jw/mm
+rec	K-HQRfUtdINGpYc6O+6ZwHbGENZ9YhHs2mciosbULnI/416220DnJA3FkcPDCcQc2d
+rec	K-IdwF5afWLnl0eDpj/f5vmDV0LZL05wltoSQ5KuBYKYG/LtHn5Uvqb3wwPJ1XHC1D
+rec	K-j6r0eDZZzhiWzR0u3nye24hAQaotoPlrSQ573Ytz+VB6Si2CD0iT8NvuwAD9fJGC
+rec	K-xn15AsOkdBbD8PY+BBZdt7UwPKT3ebOC2e8vbqOJGlDGEiZmYSkSm2Vl5Nhp+Le7
+rec	K-FzM9FfmqhjXV7ZrY/yk+a+ebQqaDCfd+sV+U3waEde6ysoMHQHfZlLS29sKSuapV
+rec	K-apT2NWMkcwFRpPE39lj8ESEVd039Tuvk87Er+fSzd3NAH01d7CaFoUgvvBR9MRAG
+rec	K-IFfp1dQnPMA8W5K/smDEmfGKnSoMZSH9pIR4360pReB5Jf1sCJJu
+rec	K-=oDzt
+rec	K -----END PGP PUBLIC KEY BLOCK-----
+relcom	U relcom.newsgroups
+relcom	L ftp://ftp.relcom.ru/pub/relcom/netinfo/coordpubkey.txt
+relcom	V 2.6.3ia
+relcom	K------BEGIN PGP PUBLIC KEY BLOCK-----
+relcom	K-Version: 2.6.3ia
+relcom	K-
+relcom	K-mQBtAzXun1sAAAEDALof/xCxlk+clO3w6+s5FYc0gTK4AT0RhBqUULylQ8lB25Nm
+relcom	K-tkfre3ErB9hen3+/RzbsZpzteDY03PWo9dG3FFrrYw2Ro7XfOoM1tR1fmsdzwzfz
+relcom	K-ovUF4fP3l2K315dhpQAFEbQRcmVsY29tLm5ld3Nncm91cHOJAHUDBRA17p9b95di
+relcom	K-t9eXYaUBAZ1WAv9I98BzsnJjbY/fslbarT7oncMQIOzIpaGj5oqf56UgkIfBoA/u
+relcom	K-bG4FGbimSqgTIVD73ZvAgv0s5P99UXZER97gIcF+lF+BOcmekVF0BvPVI9i40/oz
+relcom	K-EoVeLqrXELM0Gvs=
+relcom	K-=U3wV
+relcom	K -----END PGP PUBLIC KEY BLOCK-----
+rocksolid	U usenet@novabbs.com
+rocksolid	L http://news.novabbs.com/hierarchy/rocksolid.txt
+rocksolid	F FF84 6D73 0B72 CC0C B69B  6480 2A1C 655B F6D1 0B13
+rocksolid	V GnuPG v1
+rocksolid	K------BEGIN PGP PUBLIC KEY BLOCK-----
+rocksolid	K-Version: GnuPG v1
+rocksolid	K-
+rocksolid	K-mQENBFxMMg4BCADKvUtOY+F4JzK3GHLUw7rkCy8+CZz6vmjo7Mvrs4KmUc4nAxQ6
+rocksolid	K-GukkeTyD/htBsp6Fhxel5WL9LgO2Z5JfFkZthzoRsGQKOM+uHX29/vk2kh6/++iA
+rocksolid	K-bqcXZZhdozED7/t5oGr0w3PN3AU30q/N1ar/MkA6t7Qb8p2mEC+chZIUYYIx4nUp
+rocksolid	K-nYvWjGNdJu/pU6E4DRQPQ7cpk3jxkYDdYovt9zjWoB4ZXMuT+R4ziLl5+/zd/pnN
+rocksolid	K-40+pCFDskDub0b/jIq7+6EtU8X9iRU5LpW3rtWr8Ik7rRLNVtmcSUb94VCOpJgxA
+rocksolid	K-Z1+Ax+Ej1oYk0W+a6OarDqN1KJxabhvZdIjbABEBAAG0JUNvbnRyb2wgKFVzZW5l
+rocksolid	K-dCkgPHVzZW5ldEBub3ZhYmJzLmNvbT6JATgEEwECACIFAlxMMg4CGwMGCwkIBwMC
+rocksolid	K-BhUIAgkKCwQWAgMBAh4BAheAAAoJECocZVv20QsTob8H/AhoIR5cv784pbZiSwFM
+rocksolid	K-HAfgFGHgg23cxD/hPMywJo5AHkNIqhvJpcYR+ljK5kGW48JY3A6iJnM5DVwGaCZZ
+rocksolid	K-dothUUw56J4jBcmg9tPJWG4M4zXGqRfYrjsQQyv89lwQllAy2hQpW4F1gjCEBguw
+rocksolid	K-5WQUyUPtwZcu8rnn2+voQSZEI8fDkCwaDLnCzRsHmIA+3lDuMiAqgrTy69oIYQdW
+rocksolid	K-TAe1d7Pd8g3PN8R4+xb0NCUTKqM64TF5X6ywKWUscrP1+wam19YH7TjQIw3y6rCh
+rocksolid	K-zTG7PpNX2+FcXEAYUYBig99rJFI+D9Zy3Zy+zcvjZEOQLd/8dNPjA21SiDW0KrbR
+rocksolid	K-c8+5AQ0EXEwyDgEIAJOjakZytjut+FyxAgVfDjHj8KeJMHcaClTZF7APSpoF37IT
+rocksolid	K-KaOIjmFtIwr9Aow8c4ycazKZLoqh4DOgmqH5N8m9ByJGd+6mGN4SOEpaznyEuEc7
+rocksolid	K-hmVQmOj5EqT2UJjCQ52ndlL0F82HWLo1NwSOsxAi9X35uBb4SvH7E6mvlZ41n8zl
+rocksolid	K-ycalpaUy+pnhFcfG7RZFF64AF6AjU3q1sm6mYmBSpKUgiXVHAMLgXG2iuEljN54X
+rocksolid	K-fJQS/imN7EXb/O+NA9j+9UlbxtHog7uU9XseW8DhLZo+aynxr4bs06kg7+j+ZDfJ
+rocksolid	K-lr7LW8dALYhx6H13KA9nZVaZ5gt4el7CzFkbF3UAEQEAAYkBHwQYAQIACQUCXEwy
+rocksolid	K-DgIbDAAKCRAqHGVb9tELExyNCACLjqyb+zTjST7X43gvXNApv0N3F67W8k2npZCe
+rocksolid	K-8cIkdZJie10BAfYIg1pfgz3/swffE+0D7DsjFPx6HE4/+ML73lkRUgJeUxC/jK6w
+rocksolid	K-VhmP585HrWb88f905QpT48vxJhfBKEheJ1Xrma39Irs+N4HjgbZsfwyQVDhCjhd2
+rocksolid	K-y80nUZh9rgvDoxvR1vYWSpHCLtV75547b81K4MjqlGDPWG4AEnvjSEOjJjYCQgzF
+rocksolid	K-wp/r2W6czYGRQuZn3hUoRpwl83+EdP2GuhdrW6PR5bx/wucjSMPrn5qlPOCeP/Tc
+rocksolid	K-ciwPqPfRylRSkXFB4p5l4Rj0EPv4X1ymApOLoQ2WofT9lmgE
+rocksolid	K-=j4Vm
+rocksolid	K -----END PGP PUBLIC KEY BLOCK-----
+saar	U saar-control
+saar	U control@saar-admin-news.de
+saar	B 2048
+saar	I 2C017393
+saar	L http://www.saar-admin-news.de/saar-control.asc
+saar	V PGPfreeware 6.5.1 Int. for non-commercial use
+saar	K------BEGIN PGP PUBLIC KEY BLOCK-----
+saar	K-Version: PGPfreeware 6.5.1 Int. for non-commercial use
+saar	K-
+saar	K-mQENAzn7czcAAAEIALihpRXfA5jSwb3FN1DGch91B2QaBsAttd00Ean0Bkhjp0I2
+saar	K-4JI1Vlx+iRzZUxvNaKwvCqE9yPWI6hI5mEXdsh0XhC1J8nOLTx/fE9YmUgw/tcqs
+saar	K-Wc+C15ls30mZSpfHFXLriWcG2TzTBquNiXo7XMGrS1w7ArYbQ1JngDjdhodwHKAB
+saar	K-hcjZnpmn9LlWvMzR//CA+sLgq/LdP7hEOowQigHB4f5kB90o13pjTwp9+lTV1G8s
+saar	K-KHaLI4v4b3Hy+r4NqI/8ElgsQ4Q8an/SiQQFjWF669WW5mzIaTKyxp/bLDE2YKPo
+saar	K-sK9cwnBChonZyw/NrOX6lb1P78LeSmtLDiwBc5MABRG0DHNhYXItY29udHJvbIkB
+saar	K-FQMFEDn7czdKa0sOLAFzkwEBEbAH/R1atdJdeJQSgJV8M6CcWNEoChiiS1MvEU43
+saar	K-zbsSlBhnepICut8a2rW6zzk6eB/UzLVgsKmD2iIQiaeOfW964+gXMSz9YZSoKVlQ
+saar	K-c1cvLgK52TIExBUvl55zveleS5zd6DtGqpCd3N2Mj9np7z1q1NYvUjCpWgWyjN8K
+saar	K-Vpn7CT1d1PnMjSk6tCbsExen3sLeVBbavYCq9Pd3x0kjO6dYkwXjsJyzPXqypsYl
+saar	K-iuIpEIo7vRxE2HQLNKSUeuVViNMcdM1Q9YGX6DeXxe33PQroO7salZFSkLjV04Bi
+saar	K-PzNlVz2AqPb+LqE+QiZ1W5rA44DCHQbTvcRPErHvyU7E0PN5JhW0GmNvbnRyb2xA
+saar	K-c2Fhci1hZG1pbi1uZXdzLmRliQEVAwUQOxdDKUprSw4sAXOTAQGIdAgAnM7xFbtC
+saar	K-Auee00ba5ZKwsekjfQBNv8tov5ppPkWb66ZjzDqsQl5bVb6PwnoIamztnHagjGNI
+saar	K-IjLbIsnrWnOPt1cfgerIY/kYot2Mru/0rrFRm4NRdAXbqKdY2tJJjS3E0Q00HNAs
+saar	K-uEWP9DH81jxp+5JCek1lJluxrC+9wYylcg4DzaaYv2jCX5hDcztsk9Ns6c5uAuXk
+saar	K-8j48vOm7poVTSFh48HKKHo+/mPvRQWOykZnfuwrJxe21ADKKrdneNLh9AcHP8qhY
+saar	K-7M+zHBwwm6rXxm1dIsqS7zWZw4C/aRirG0S45xXVmBLB+B/rVdqBa4DAIXS7qUuK
+saar	K-Wmd4azaZgd87aQ==
+saar	K-=vqxc
+saar	K -----END PGP PUBLIC KEY BLOCK-----
+sat	U satgroup@endicor.com
+sat	B 1024
+sat	I 98690EE9
+sat	V 2.6.3a
+sat	K------BEGIN PGP PUBLIC KEY BLOCK-----
+sat	K-Version: 2.6.3a
+sat	K-
+sat	K-mQCNAzHtkkUAAAEEAN9sqrBBgcjuaG+mWamDYbOz0GARQhY7dli6m6c6zBaAhvZV
+sat	K-i2CBy4deMWF5wAWY0SPFTSeowZrkI1fCIFwBt2XRdEj8YY06BpsXYaajvD10yppg
+sat	K-Lx70y662p+R7pK7GAlbsaf8o/y31pzbFssJAWA8GGkFbnpRN2gv3azuYaQ7pAAUT
+sat	K-tBRzYXRncm91cEBlbmRpY29yLmNvbYkAlQMFEDUtq30L92s7mGkO6QEBh1YD/i56
+sat	K-+SdS9ab1zdwPMCOLkuAZDqCnO72uCPlX5jg787wgVZ9FgsXnQUhKJWEdsi9lLn1y
+sat	K-K0NYe00/N54H5R0LEYuo0uN0aGfpPnVw6wq0Zyd1Bu9mICcll0GYB2p3NkeoAWg5
+sat	K-D4A1uRxI4iBKLTMB4uJUfpitMCRcRgi18CcTlwEg
+sat	K-=ziZy
+sat	K -----END PGP PUBLIC KEY BLOCK-----
+schule	U schule.konfig
+schule	B 2048
+schule	I 21DBB2A5
+schule	L http://www.afaik.de/usenet/admin/schule/control/schule.asc
+schule	F 64 06 F0 AE E1 46 85 0C  BD CA 0E 53 8B 1E 73 D2
+schule	V 2.6.3in
+schule	K------BEGIN PGP PUBLIC KEY BLOCK-----
+schule	K-Version: 2.6.3in
+schule	K-
+schule	K-mQENAzL9vYEAAAEIAOuQU8rD71soRIS6pcl4w/LbGBbfKMwDMdJxSNZTAjrLfZqB
+schule	K-9i7hUK+YsrYeJbjEE08OydBbSpFTAdxCPF1pXtY2mNtl2EqSdrrCr6Hfkyy3u6uU
+schule	K-djIC2DKOTSVVzmI4pK9knmUzUV/AayykRpZ2z7vwbM/CVZoQmHHrum/y1+qGySe6
+schule	K-rm28dW06eXP9uDa9AMSNhso21wkfA7/Q4zx+ovBGqxP1HKQOtUZlkXQPrWB3wkOf
+schule	K-JkxBmyC/PnwhHwdUfYeQtc7LGG5DIUEAI7u2sODmrNwo0k2l36/3DbfWV2qWovaZ
+schule	K-/JADHsyAw64Wg9J5aE8GxIKDxdHN2GBYViHbsqUABRG0DXNjaHVsZS5rb25maWeJ
+schule	K-AJUDBRM1XI95JaS4h9dc56kBAcKHA/9w6IR3n309W6EhAREsQVpediQQvWYIqX/j
+schule	K-Tw/Ie/vNFHLXOd7xNKLQHkXtYvJA6E0MXvum6XnGmg2bp0uqyNtgQ6ZBbMMCeuNm
+schule	K-78OI29cG77ldyYwKzmz0wRQtlvirWY/4JPZH2dMBgC4sAnPiImW+R6UfsisGcPve
+schule	K-CScx5kKNjIkBFQMFEDL9vlMJ3HA5OfN/XQEBC8IH/jtxwf/gPU16x3Rqzb/mAiLF
+schule	K-9HJdBSL+plLr0SIsdr38qF68+5Q41viDODGiPIgaA5k2cAOCCD+7jkQaLTWFauIL
+schule	K-du4+1MroEPsjHAfGZDdvGJbT8yqsvgU2FeIdiB86REGsQ+WXRhEfgGm4lQ6pPk0y
+schule	K-krDr4OD+fWDMefZlHIqfChBN68ltJLsG/6cLzpyuUTVGcg11Pfvz7gkTQ09iZFIa
+schule	K-1LfbiWTv4X7wrw3aynMg4aF4Yp8kBr43WXKNHq1B136ycDg5SmB0hqdRERsN/A6H
+schule	K-xA6qJwLi3mQR6Wo1+yrM3whyutKrrLISKsn4le1Gu7m5Y8iLENdiVXfCf5KooZ6J
+schule	K-ARUDBRAy/b2D2GBYViHbsqUBAY6dCACj7nCSHv6aIHErEy93UFUsTqq2vEWLLYPd
+schule	K-VBNDaVTf6VCbmCaaXHvMHIBctvLsmQsUzPf8CedkbsW4Zfp2yvfZdvRsx0emLHRP
+schule	K-nIsbwuthetOUD2nmdIWFS6IN7QBGRpHoDjDTwpJb4wqM+kvZvJSwACUeD+bLbhGg
+schule	K-DyxsDxinervegdCrksdihQGc/IbngLh8sEN+Fx/JpdlJa0Gp29BblqgTbP1J5yK6
+schule	K-XbgEIUedU4kxXXU5yIqfIfnuLLpajX++3ieZ1++v8o1cRJVo70SmhjMXemRgseCm
+schule	K-QoYUm9jMBpTIHc7b60fJgSlqynBoXBnpsnzVwL8nGnqtCsN00jGL
+schule	K-=Z0nI
+schule	K -----END PGP PUBLIC KEY BLOCK-----
+sci	U news.announce.newgroups
+sci	F 8E18 1BEF 0BE6 3896 2C1A  5C98 FAFE 7B55 0C18 C8B7
+sci	K------BEGIN PGP PUBLIC KEY BLOCK-----
+sci	K-
+sci	K-mQINBGBOQfEBEAC+5dKbl6Vh+JeBx34xyRlmqJzIPIYJdcXbna6Pk6stnfa5J8UH
+sci	K-4ChMYdgCtM9/h33DH7dWX8/zKcABfRAC1784+ZlPFc+W8anEJoMZHeBdNfoY1qxP
+sci	K-D1ojC7jqaRiKt+Oc4vSl4fSRjPHAaZEIvhybduXWCTV5exbOnsDOnLLJ7d2sd08R
+sci	K-sIeQpNyCSKNcwDyHLH/UHdpHvYwuIlkjTSt0N9ghXArVWAgcFFaaihTpzGlp1+II
+sci	K-wn4n/zETzvVlFeXrzV+s/IqZ0oB2GzZaFOYlNa11vnIaCcrfEsHBig/PUDdwoIqB
+sci	K-YTVlE2KUIggf97bFUpLmat5kZpgbd7/n/tGWLD7HLcMwU/mjfsSG0w8BLjYZqIpV
+sci	K-JwbwEpioIbKKsH4qZBAMBq1c7p52wXJ2fZf+v7GRDMlIl5Lmt7A8HZgbVuMYxM/d
+sci	K-uAa6eGCMD2RKmHhInanTyYUgXYw8VRcW7NKOtSckHlBlIgsCa3R53lR+xQ/Ld8av
+sci	K-fA1zQD+82YehxSlmSqNteHDqxkN9pqqIGVaY0ajrHrjnVkGVxo7j9eT8u2ju0icy
+sci	K-Nf0te0OM8g/DfcpSqlDZPRgr5GZ0iN/yS1QACFudwLrmhpSrtZ8CWiK8UUmIpSBn
+sci	K-23w59WC4ZjkdRX2fR17shIjPl4UL02D1qe9OsbVn6aE0fUmVbfSi/6a9cwARAQAB
+sci	K-tBduZXdzLmFubm91bmNlLm5ld2dyb3Vwc4kCTgQTAQoAOBYhBI4YG+8L5jiWLBpc
+sci	K-mPr+e1UMGMi3BQJgTkHxAhsDBQsJCAcCBhUKCQgLAgQWAgMBAh4BAheAAAoJEPr+
+sci	K-e1UMGMi38YUP/RPrPfxiCAbzVzoPiMWA/aUzZVrAMCEH38r6N/QWyXgXye+6iUr5
+sci	K-DEELI0vQuZiayFKyooQIdXZfubqCZSuNx/OG2w4nK23K6hiLBFebmDoIX/oB/g1T
+sci	K-xp1nxwDW9jM3X2sxD6b8cf0zTzLvO3L8WThR2Hf94zIFiQtbrF3E+6eJNFb25JG0
+sci	K-NPzXhytqLrOCpmBQh2JbO5KYi/NVX34NmZPdd7YNlrhrUVG5pvv7AqrWY9v2J9ry
+sci	K-onugYYwEVnmwephjOaxFfb52R+qa7dDWpWzbV8fDMUu6N/e0nVRK8WgK+okE6st8
+sci	K-r9CdxDDX29iztP+kXh7xS/sVPgTzUyju8Zs9/cKBjdxtMvvXB3HAps6pNVb0sGJJ
+sci	K-h8grIAx1wJnejaR18tU6te8qFjgo5We4WNT6jBV2CMN2vxuTFrp+KNLSONlfHw2D
+sci	K-3CcX1azNAaYu5MHDylXZ8+KEiwZyKlHPVIfXOg9t3e1e+X7oOAcqX3O+DRDO9sGY
+sci	K-g4WYShOEJVVlKVC7bVgmAesDUN0WmmBWqQVjg6X0QVcyUwl8S/dgpDM7vQnaomPT
+sci	K-yARxUmJUQ7DvRmJpzZ+oXZ2pR7l+G/kR5WNVSLa9hjRfsRxhz+k4nHTWBzZrdXB8
+sci	K-7IMJ+b7Mi+JIB4KxQwTXZ8SBm8vUPYLWhv8az3MW3CRdIG8fRewmfZ/biJwEEAEI
+sci	K-AAYFAmBOSsQACgkQwl0607iNqcFN9wP/SMRzCWNe2o1MtNrqhBrC/c0XOhvn40Vm
+sci	K-ZnVMbHyzRuxxvbLpyGGn0qovOa47tSDwo8/KK/pCPyaN2YYYAHt+41+u0CK8fnu8
+sci	K-5R0VToARvlHefTTEo7yPv37+2t3ZOSCurR7eIHaLxBXFkSrUxsaMnqK095c11MlW
+sci	K-CIrXS50tJQ6JAjMEEAEKAB0WIQTnhDZOjd57s3D72erRXTE4ggBBcwUCYE5KmAAK
+sci	K-CRDRXTE4ggBBc330D/9PyuPL2JfEWuGCtmuyhrEpXVsU/Rr6ZZCcuIa6UnfmAoi+
+sci	K-9HOt0ae5dcTNNBybYq1c8nmMmzO+SP0zMprYTvP8O0VxnAZfoOi1TXScyO4GY18/
+sci	K-RknS1/5jxG5D+OJ5gIZ000d87Lil/ucJic2MbYZ+a6Zh/R+uC5fK0taPx0XdlgY5
+sci	K-7BEfdKMPa53I4QS32fVoznkoFAAeH0x2n22x1Kai7Lf4DOFoMg8d/pG8juoXex5H
+sci	K-Vs+LI52dsUAuNfNHLzMedccxlxSG2PVHDuL79ctxCSazC+VzMAUhBrhhal8H9YBP
+sci	K-pnse4LGA5eHB3j6ZpS+lGHwFt6fAyYXFcTnEXIjuBhveoVBHWC5g/YN3Amm9pwUE
+sci	K-yGxV13StEjoocsxnlrdpi6vAebRqJZGZTl0S1dlT/zBTo6oX0sLqSyzUzbi/YaoX
+sci	K-Xy2FV6onbVlTCrZW8wdirH5erveB5/cUatOxFfQFJx9Q3DnibZ06fOWfR5VImo8B
+sci	K-8kGgmsoRzZLswAyHysgTh65yTsGReLodwEH2I+SmH23TSgVinGQTD4kowJ1DWqtG
+sci	K-Oy09ycQgqp0aqe70DCmuAPBhP8+cTY5csYNhfvClD9q5lSClGq4tf2pTcFxXj6lr
+sci	K-vYQp+W5WDMo9m8XqhDEuW7lJsc7SZPAGzdomO+fSk66tWgh0uITGsu91fnNmNrkC
+sci	K-DQRgTkHxARAAuhdAV5qq2COAwxHLnVfwppToGvkIgYneHSrkUdXlKYj2hYAoS6YM
+sci	K-EIs3fr6LAAo94oiLFkxP530UuD5N02DOtzsK1XmoNCiEn2sSIk1+tSdh60EnUhGZ
+sci	K-GV65b4Gv4Zk2ReVoMyn6BtZR50vWeUy0wBvLWVg2hbpHLsHi02cD7/kZUov+pFk0
+sci	K-g5R++yR5Iabshcb+dboB0NCNZ/STg06K7lL5gragW37/bKif/1mBv3oqCzX31VLj
+sci	K-C4esx54AneIwVAflpE2p5o2zPlixxA9yDkJm2sFISbK5z8u8bFpZJWYaN0cX4E+2
+sci	K-S+eyhjQ+3/p1645jTD1E9ZDPtGHXwF4jeeZmCfN497g/qFezd1aAoKrR17Id4Hzd
+sci	K-2Mtlml4S8utYq54Sh0z74Sq+YGKWZ0eA4jsuULW0p7mK4Y5oqPeEebbWL/5rPDME
+sci	K-4JfWJzz8xhew9fw69sSTLsg9lc8srB6T3W5mGqDzxXlWhxIqinE/IH8o3WkMCQP1
+sci	K-KfHg1pEubfSn0KCwpwuj2pRmxBJcQCJG+ptuaxYHzPrDmUj7gNTnuvUm8fgmLw/o
+sci	K-yo7RzmF368HKszCvRsqccxvaZti1W5g2YikVUoIYLKOqsU6qz1m8U1Nn3OoRfmFU
+sci	K-ZqjTDJ/qoPhqy0zabQRjxHJDqEtzK9MU6WVHDHM/bZ8CPs8PczI9TgUAEQEAAYkC
+sci	K-NgQYAQoAIBYhBI4YG+8L5jiWLBpcmPr+e1UMGMi3BQJgTkHxAhsMAAoJEPr+e1UM
+sci	K-GMi3V2QQAKmqhyRWDuVdurOBX6CFy588RxJX0oH5v0Vcdb9TBWxtU9dScG86DB1u
+sci	K-7yqObli0yyIKko4HlaDCjcrJJRXAJsA/IddSyPT3zwPAQcn1guBiB+zsE/BM0u4A
+sci	K-1f2rgHEKR2RkXlHpFh/xtDTbgCY2h+DTvapD6975OzHQi9Jl/mLJeJyOOxHx52c1
+sci	K-SjCvsVPx0D9cagCN4hRmU7ka3LxFa4OrEhVY5qxWYfVTaQyTsZhAiXVGV93Jw/mm
+sci	K-HQRfUtdINGpYc6O+6ZwHbGENZ9YhHs2mciosbULnI/416220DnJA3FkcPDCcQc2d
+sci	K-IdwF5afWLnl0eDpj/f5vmDV0LZL05wltoSQ5KuBYKYG/LtHn5Uvqb3wwPJ1XHC1D
+sci	K-j6r0eDZZzhiWzR0u3nye24hAQaotoPlrSQ573Ytz+VB6Si2CD0iT8NvuwAD9fJGC
+sci	K-xn15AsOkdBbD8PY+BBZdt7UwPKT3ebOC2e8vbqOJGlDGEiZmYSkSm2Vl5Nhp+Le7
+sci	K-FzM9FfmqhjXV7ZrY/yk+a+ebQqaDCfd+sV+U3waEde6ysoMHQHfZlLS29sKSuapV
+sci	K-apT2NWMkcwFRpPE39lj8ESEVd039Tuvk87Er+fSzd3NAH01d7CaFoUgvvBR9MRAG
+sci	K-IFfp1dQnPMA8W5K/smDEmfGKnSoMZSH9pIR4360pReB5Jf1sCJJu
+sci	K-=oDzt
+sci	K -----END PGP PUBLIC KEY BLOCK-----
+scot	U control@scot.news-admin.org
+scot	U control@www.scot.news-admin.org
+scot	U scot.newsgroups.announce
+scot	B 1024
+scot	I 739DB91D
+scot	L http://scot.news-admin.org/signature.html
+scot	V 2.6.3ia
+scot	K------BEGIN PGP PUBLIC KEY BLOCK-----
+scot	K-Version: 2.6.3ia
+scot	K-
+scot	K-mQCNAzdWoSIAAAEEANOOqr6L0FerlN8lpzp7O3DIidm9nHOs7aozOFccPMAQrx7q
+scot	K-mJ09BiAAC0P5otmqd7a1MiQDgeRSBrwA0SzBPSUsIrrU4rzjs7Gr1kM4VMN5xycj
+scot	K-do5Lkpio24VhizWMd1ks55zCoV8CTWg7Ln54LjxTb3wTxizyXeUBhP9znbkdAAUT
+scot	K-tBtjb250cm9sQHNjb3QubmV3cy1hZG1pbi5vcmeJAJUDBRA3ku415QGE/3OduR0B
+scot	K-ATG/BACiZRl0sOjiweDoHiCx8lKe6GrcvQx1cUcQ7oDDsKjwcUrg305DLQVYX4UF
+scot	K-iky7btduP3Zk0cc0x21q8ymCatGO50uAo6r2pC2pmntVsgNBWynHvFxetFmklFpx
+scot	K-YvV6pfzGZsBINAHPTuheoiiUidINuqAQZkbDx0AZBbqnFvy8ZrQfY29udHJvbEB3
+scot	K-d3cuc2NvdC5uZXdzLWFkbWluLm9yZ4kAlQMFEDdWoSLlAYT/c525HQEBec4D/0nS
+scot	K-p+GI1ML/x+SxpLDI4Vb0OvRLGmlbTQSS8gK+L2mlX5U2DxR/JQlF4Bfeu7iFTavh
+scot	K-kS39i5QKA2bu1hAJ1MkLkzsEm+Y/82ABdUuvPZeDQn99SCRf2G+SyOxHbx8YhXgW
+scot	K-9U0sLHdRyF2Vj8AlE3syAb/Ih4XSxVY8HQC8PR7utBhzY290Lm5ld3Nncm91cHMu
+scot	K-YW5ub3VuY2WJAJUDBRA3ku1g5QGE/3OduR0BAdadA/kBmpeMTX93g+c3XRdZCzjm
+scot	K-uxNDj4lPCGUugrDF6dIqxQpOKo7lBb0pUrfADFyTZsVXhJU+HTozBMPrnrgYp2fr
+scot	K-7iYwumsI6o42aT/3WkMxc2twi1LWtcMDlq3qgU7jgpBxJSv6iRND6NjrKFzRvGXH
+scot	K-kxN51hLSe72P/78hLpei2w==
+scot	K-=0k1+
+scot	K -----END PGP PUBLIC KEY BLOCK-----
+scout	U control@news.scoutnet.org
+scout	L http://news.scoutnet.org/scout-pgpkey.asc
+scout	V PGP 6.5.8
+scout	K------BEGIN PGP PUBLIC KEY BLOCK-----
+scout	K-Version: PGP 6.5.8
+scout	K-
+scout	K-mQCNA0A/ploAAAEEAMQWZvEn0rQ59XnOuz94gpwzsuagcxywgYcL8hhI+cQsak6e
+scout	K-iMTrUhh+GLo06vVcNXYAc87YGscGn8iRg4koX5swmM6U9WNZD5eVtfXv4phT1mvh
+scout	K-5Siyjy4CKjed6UDzsv11+iOQeBUawkmoTbth6taYMsf6dr2O2TYl07+8BrmDAAUR
+scout	K-tBljb250cm9sQG5ld3Muc2NvdXRuZXQub3JniQCVAwUQQD+0qjYl07+8BrmDAQEb
+scout	K-YQP/bhymy4CsSgQaYH/+W/Eon9zjkO9pje/XbckugVgkYNIy+IKp0PC6lZ1rjDJ8
+scout	K-xqIYwP8Gn4GJGY8ExWQqgBGxwuBeU0W9ot8MvwDetMvwYtmvdkGqJPNzCj7iiXTt
+scout	K-1ZW+ylrtKiVZeanF2fIbUtM8FVQEKTF8OdTTp0nZLanVaOi0Gzxjb250cm9sQG5l
+scout	K-d3Muc2NvdXRuZXQub3JnPokAlQMFEEA/plo2JdO/vAa5gwEBoEkD/1S58U+IVfAC
+scout	K-mcVNwZJIrz1pjGwNYmAyQ91QDypgsMVvLgSIj+Noy/Hyfp+tONgu+K5w3NwooRZ5
+scout	K-ZZVQbECTXu2cNGhK24twVo0KVJv4wo/UVm/EydL0LhuFb4z5EOHdnjEzeHrjeNRe
+scout	K-Mc81stz++h7dtBKN2h+AfqLg7Wmdcw5D
+scout	K-=zpED
+scout	K -----END PGP PUBLIC KEY BLOCK-----
+se	U usenet-se
+se	F 68 03 F0 FD 0C C3 4E 69  6F 0D 0C 60 3C 58 63 96
+se	V 2.6.3i
+se	K------BEGIN PGP PUBLIC KEY BLOCK-----
+se	K-Version: 2.6.3i
+se	K-
+se	K-mQCNAzUmnrMAAAEEAN6MDnKOZVC4RJgu68kZReudVhGe2NWphdIazagz5jBjs68M
+se	K-EQMhoHF4ZJzt7ubVEU9qz7w7MvIvNFIvQFYlGgNe/1+TxtKNeZ1Lwt4u9g33K7im
+se	K-XRUPWjp4Ft43UREFm/asuBZmKHq1dsPLyDADP/lXi+Tzxc55s+whZDvtu6MBAAUR
+se	K-tAl1c2VuZXQtc2WJAJUDBRA1Jp637CFkO+27owEBAfaCA/9tH+xo6cIdp8CyEyFd
+se	K-2NETQ43X68r3NeoFJhNG4LsFHqnQPb3OfqyNTBCbCNNGYn+KJ9ngnlVn0uPIi9Kv
+se	K-81fDeJG+sHeXENXsjDfD7gpniuPwpDSZgph32WHXYCwIWbuM5ABDW59SYIPi62Vc
+se	K-AYlctrTeh/hts+u5tGCqNMX91Q==
+se	K-=ejWf
+se	K -----END PGP PUBLIC KEY BLOCK-----
+sfnet	U sfnet@cs.tut.fi
+sfnet	F DE79 33C2 D359 D128 44E5  6A0C B6E3 0E53 6933 A636
+sfnet	V GnuPG v1.4.2 (GNU/Linux)
+sfnet	K------BEGIN PGP PUBLIC KEY BLOCK-----
+sfnet	K-Version: GnuPG v1.4.2 (GNU/Linux)
+sfnet	K-
+sfnet	K-mQGiBEP1otgRBADazQsS4dV/SCfB3ifsOD/Ps2bJbI0G+L6bBmKp9XyOEoThgsp3
+sfnet	K-VcQwUzvTEjf78wUM36AdRjacML005SiZTc7WieEohetySE5/ce2pG2wHXCXHMFvk
+sfnet	K-f4kRbKEYBo5QalJKYaTdN8rXXdfmTUXj+xLBzzsEra+CR4aIjby2WKPs4wCgphgV
+sfnet	K-dQUkbkvRehlyD7inIUvjzskD/RgzUR3Qyzzd+3EA3ygDLOlMWdvnB8tbYTi5YkLI
+sfnet	K-jM8psvFpvbgnMpS+mz47o0Fz5Bmj6P9iiIBV/Qp28Kyam2xXG2kpYd7DjItWTCSv
+sfnet	K-F9H6JRqKj/tGgxxh134ndBQCslGLkd8juH3UnihdWPUnbuPb5W0W51KPjRlgcSyi
+sfnet	K-4Q7qA/4prbKGXUKfhpuPrUPL4drsDy0zvih/R3B7DbfCS+pPOLWxpu0lR9nCzxUj
+sfnet	K-HUxJgwCZiihspgjMX7xceHz3gHzccY2qlGqJnafSQ1VDY+PMWobssCgVzhT1FD9G
+sfnet	K-vCZOAZ5cMEygTUNxlZXatFg+H86YnY0CeE5c9t2f5AcTEBPiELQPc2ZuZXRAY3Mu
+sfnet	K-dHV0LmZpiGAEExECACAFAkP1otgCGwMGCwkIBwMCBBUCCAMEFgIDAQIeAQIXgAAK
+sfnet	K-CRC24w5TaTOmNomUAJ97ZJip0b5PZm7prVfhhLkC/xOQ6wCfRtgdgWuakN4mqQt6
+sfnet	K-wNUkWWi6G5eIRgQQEQIABgUCQ/WregAKCRCS5gqLX22AFa5EAKCrkDY1Bq9tD/53
+sfnet	K-Q2ni+R3VrjknqwCfXZWsQP79eQR9sS6W75RDbgc9meW5Ag0EQ/WmMhAIAIgzVm2t
+sfnet	K-M+GjgMLEp4kvyzyeCCcM7GDPwCj9QaXUnrX8dlIU3ejp7xGhdOhrecqW+iCyKRaU
+sfnet	K-Qlms+WqrTUwvT2Hi/sI1wy79ijcnjVNlKVhZpQeaW9J6RndSCtuh91q48yz22es0
+sfnet	K-SNbCY4Tp4D8BFDs6naGfpnNxC6aNTYm98GTE1UWxz9KX4tKKPYtMcxAHyibjek5h
+sfnet	K-lpu6QRFbq+UevROuX46SLA0WPp7FtMK/8Ctj6pwZEtphxaMqAqkBg7dhXbFcnrHC
+sfnet	K-XFUvyf6TRmQHC8+zJKfzrburUC5VwdNITx0ovj2hfpGKeSAmyP0Hep6JNLOwll2j
+sfnet	K-QJXFB+n5jBiiGHcABRMH/3ePSlifQXORFv/6AzIijcf5hZ25G2dFIXkToj2LsYEC
+sfnet	K-l+GcVfUwPN90Vq00/5m1imooRhG/hw8oKGTK2OCK5y6fUfH4rLbSTO4rIUR2bgPC
+sfnet	K-hNbMqIVzDkHZ0NPqVuRr0vEKG6/nQSqGFx72YuKeQlTbBeCnbKOH9AqxS5ddMD93
+sfnet	K-iu03qo0e5vO507zqtIjk69N6RPTpc67Z1rR2lxIiVPoKcElBdGKvFmnwBcsvzwU4
+sfnet	K-AAVAzhrtxt51vv1rggkyAbmMuSa01/ZXWTfc476jAOY67nwaqbkMWHN0VWYsxTP6
+sfnet	K-S4o4xKxijHBI4/LXPyJD+PshY9NYWrB+DccnaReVGKSISQQYEQIACQUCQ/WmMgIb
+sfnet	K-DAAKCRC24w5TaTOmNsjUAKCA69S9H5IfJQMydoYC78T7SZVUZgCePRUl2R7tgn5L
+sfnet	K-06oS5eYWGwL5BNw=
+sfnet	K-=gE4u
+sfnet	K -----END PGP PUBLIC KEY BLOCK-----
+si	U si.news.announce.newsgroups
+si	B 1024
+si	I 434E1955
+si	L http://www.arnes.si/news/config/
+si	V 2.6.3ia
+si	K------BEGIN PGP PUBLIC KEY BLOCK-----
+si	K-Version: 2.6.3ia
+si	K-
+si	K-mQCNAzNDes4AAAEEAKCcPqRR5rQH0bbUd8tgSMHwdL8anJMb/6+MoYSfgJmmjEZS
+si	K-hOh8mp2aUK5mtAygDtT+uEhz1Aqz5gRKEqfcCyweXAs4Aty9RjJIUJrl3OHqny5c
+si	K-BkXXAIibaYli3tx0tzp0vDDFXZeNcipkRcSaoPhltjijKfuVIu8d3lZDThlVAAUR
+si	K-tBtzaS5uZXdzLmFubm91bmNlLm5ld3Nncm91cHOJAJUDBRAzRDJ7DHODXHe4jmkB
+si	K-AS5/BADN072wLLRs6MZ1imSSfxh6ueCJXxU078OeJmQtYfSlxwJ/dQs862eTY4Tu
+si	K-bhKZUIRgagtrN+rtXxFf4lFVazOzDvpEase50tL8r+PnpZZbwOBXDliU98HP+oN+
+si	K-TcewX2pTA+163gP9WzBiJtAN67zT4Wu035ECcUYal8J5+XhinYkAdQMFEDNDgbN4
+si	K-4MaigooJfQEB9F4C/0PP4L9GRW8Pq8HXT8H0FPFDmI9ZLAzym3ZPFh2Grtgnbc9H
+si	K-KOD6Rr0FWNL/mtacUajBsHVwUibANK0AUo8udCm80QIR7t4axjNZlttVvKPCFvdp
+si	K-9VshQIWKpxV6qWBhFYkAlQMFEDNDes7vHd5WQ04ZVQEBAPID/3VY0GooUrJQu1Rn
+si	K-zSxGNg1qZwuIEmsD/GAinE2bNKbXtqF2pm2DNSn2KNT+WG0uqss4yQO3VmXs8l/s
+si	K-XEHWeEyF/qA+xTSrQIpJW3fLtsroMTuc3d8sZ8oz0ReBenBGfHPPp1m1q8U4rLvD
+si	K-Xf0Gybil7SY5lHnP5GPI9U9vHcd/
+si	K-=EWB7
+si	K -----END PGP PUBLIC KEY BLOCK-----
+soc	U news.announce.newgroups
+soc	F 8E18 1BEF 0BE6 3896 2C1A  5C98 FAFE 7B55 0C18 C8B7
+soc	K------BEGIN PGP PUBLIC KEY BLOCK-----
+soc	K-
+soc	K-mQINBGBOQfEBEAC+5dKbl6Vh+JeBx34xyRlmqJzIPIYJdcXbna6Pk6stnfa5J8UH
+soc	K-4ChMYdgCtM9/h33DH7dWX8/zKcABfRAC1784+ZlPFc+W8anEJoMZHeBdNfoY1qxP
+soc	K-D1ojC7jqaRiKt+Oc4vSl4fSRjPHAaZEIvhybduXWCTV5exbOnsDOnLLJ7d2sd08R
+soc	K-sIeQpNyCSKNcwDyHLH/UHdpHvYwuIlkjTSt0N9ghXArVWAgcFFaaihTpzGlp1+II
+soc	K-wn4n/zETzvVlFeXrzV+s/IqZ0oB2GzZaFOYlNa11vnIaCcrfEsHBig/PUDdwoIqB
+soc	K-YTVlE2KUIggf97bFUpLmat5kZpgbd7/n/tGWLD7HLcMwU/mjfsSG0w8BLjYZqIpV
+soc	K-JwbwEpioIbKKsH4qZBAMBq1c7p52wXJ2fZf+v7GRDMlIl5Lmt7A8HZgbVuMYxM/d
+soc	K-uAa6eGCMD2RKmHhInanTyYUgXYw8VRcW7NKOtSckHlBlIgsCa3R53lR+xQ/Ld8av
+soc	K-fA1zQD+82YehxSlmSqNteHDqxkN9pqqIGVaY0ajrHrjnVkGVxo7j9eT8u2ju0icy
+soc	K-Nf0te0OM8g/DfcpSqlDZPRgr5GZ0iN/yS1QACFudwLrmhpSrtZ8CWiK8UUmIpSBn
+soc	K-23w59WC4ZjkdRX2fR17shIjPl4UL02D1qe9OsbVn6aE0fUmVbfSi/6a9cwARAQAB
+soc	K-tBduZXdzLmFubm91bmNlLm5ld2dyb3Vwc4kCTgQTAQoAOBYhBI4YG+8L5jiWLBpc
+soc	K-mPr+e1UMGMi3BQJgTkHxAhsDBQsJCAcCBhUKCQgLAgQWAgMBAh4BAheAAAoJEPr+
+soc	K-e1UMGMi38YUP/RPrPfxiCAbzVzoPiMWA/aUzZVrAMCEH38r6N/QWyXgXye+6iUr5
+soc	K-DEELI0vQuZiayFKyooQIdXZfubqCZSuNx/OG2w4nK23K6hiLBFebmDoIX/oB/g1T
+soc	K-xp1nxwDW9jM3X2sxD6b8cf0zTzLvO3L8WThR2Hf94zIFiQtbrF3E+6eJNFb25JG0
+soc	K-NPzXhytqLrOCpmBQh2JbO5KYi/NVX34NmZPdd7YNlrhrUVG5pvv7AqrWY9v2J9ry
+soc	K-onugYYwEVnmwephjOaxFfb52R+qa7dDWpWzbV8fDMUu6N/e0nVRK8WgK+okE6st8
+soc	K-r9CdxDDX29iztP+kXh7xS/sVPgTzUyju8Zs9/cKBjdxtMvvXB3HAps6pNVb0sGJJ
+soc	K-h8grIAx1wJnejaR18tU6te8qFjgo5We4WNT6jBV2CMN2vxuTFrp+KNLSONlfHw2D
+soc	K-3CcX1azNAaYu5MHDylXZ8+KEiwZyKlHPVIfXOg9t3e1e+X7oOAcqX3O+DRDO9sGY
+soc	K-g4WYShOEJVVlKVC7bVgmAesDUN0WmmBWqQVjg6X0QVcyUwl8S/dgpDM7vQnaomPT
+soc	K-yARxUmJUQ7DvRmJpzZ+oXZ2pR7l+G/kR5WNVSLa9hjRfsRxhz+k4nHTWBzZrdXB8
+soc	K-7IMJ+b7Mi+JIB4KxQwTXZ8SBm8vUPYLWhv8az3MW3CRdIG8fRewmfZ/biJwEEAEI
+soc	K-AAYFAmBOSsQACgkQwl0607iNqcFN9wP/SMRzCWNe2o1MtNrqhBrC/c0XOhvn40Vm
+soc	K-ZnVMbHyzRuxxvbLpyGGn0qovOa47tSDwo8/KK/pCPyaN2YYYAHt+41+u0CK8fnu8
+soc	K-5R0VToARvlHefTTEo7yPv37+2t3ZOSCurR7eIHaLxBXFkSrUxsaMnqK095c11MlW
+soc	K-CIrXS50tJQ6JAjMEEAEKAB0WIQTnhDZOjd57s3D72erRXTE4ggBBcwUCYE5KmAAK
+soc	K-CRDRXTE4ggBBc330D/9PyuPL2JfEWuGCtmuyhrEpXVsU/Rr6ZZCcuIa6UnfmAoi+
+soc	K-9HOt0ae5dcTNNBybYq1c8nmMmzO+SP0zMprYTvP8O0VxnAZfoOi1TXScyO4GY18/
+soc	K-RknS1/5jxG5D+OJ5gIZ000d87Lil/ucJic2MbYZ+a6Zh/R+uC5fK0taPx0XdlgY5
+soc	K-7BEfdKMPa53I4QS32fVoznkoFAAeH0x2n22x1Kai7Lf4DOFoMg8d/pG8juoXex5H
+soc	K-Vs+LI52dsUAuNfNHLzMedccxlxSG2PVHDuL79ctxCSazC+VzMAUhBrhhal8H9YBP
+soc	K-pnse4LGA5eHB3j6ZpS+lGHwFt6fAyYXFcTnEXIjuBhveoVBHWC5g/YN3Amm9pwUE
+soc	K-yGxV13StEjoocsxnlrdpi6vAebRqJZGZTl0S1dlT/zBTo6oX0sLqSyzUzbi/YaoX
+soc	K-Xy2FV6onbVlTCrZW8wdirH5erveB5/cUatOxFfQFJx9Q3DnibZ06fOWfR5VImo8B
+soc	K-8kGgmsoRzZLswAyHysgTh65yTsGReLodwEH2I+SmH23TSgVinGQTD4kowJ1DWqtG
+soc	K-Oy09ycQgqp0aqe70DCmuAPBhP8+cTY5csYNhfvClD9q5lSClGq4tf2pTcFxXj6lr
+soc	K-vYQp+W5WDMo9m8XqhDEuW7lJsc7SZPAGzdomO+fSk66tWgh0uITGsu91fnNmNrkC
+soc	K-DQRgTkHxARAAuhdAV5qq2COAwxHLnVfwppToGvkIgYneHSrkUdXlKYj2hYAoS6YM
+soc	K-EIs3fr6LAAo94oiLFkxP530UuD5N02DOtzsK1XmoNCiEn2sSIk1+tSdh60EnUhGZ
+soc	K-GV65b4Gv4Zk2ReVoMyn6BtZR50vWeUy0wBvLWVg2hbpHLsHi02cD7/kZUov+pFk0
+soc	K-g5R++yR5Iabshcb+dboB0NCNZ/STg06K7lL5gragW37/bKif/1mBv3oqCzX31VLj
+soc	K-C4esx54AneIwVAflpE2p5o2zPlixxA9yDkJm2sFISbK5z8u8bFpZJWYaN0cX4E+2
+soc	K-S+eyhjQ+3/p1645jTD1E9ZDPtGHXwF4jeeZmCfN497g/qFezd1aAoKrR17Id4Hzd
+soc	K-2Mtlml4S8utYq54Sh0z74Sq+YGKWZ0eA4jsuULW0p7mK4Y5oqPeEebbWL/5rPDME
+soc	K-4JfWJzz8xhew9fw69sSTLsg9lc8srB6T3W5mGqDzxXlWhxIqinE/IH8o3WkMCQP1
+soc	K-KfHg1pEubfSn0KCwpwuj2pRmxBJcQCJG+ptuaxYHzPrDmUj7gNTnuvUm8fgmLw/o
+soc	K-yo7RzmF368HKszCvRsqccxvaZti1W5g2YikVUoIYLKOqsU6qz1m8U1Nn3OoRfmFU
+soc	K-ZqjTDJ/qoPhqy0zabQRjxHJDqEtzK9MU6WVHDHM/bZ8CPs8PczI9TgUAEQEAAYkC
+soc	K-NgQYAQoAIBYhBI4YG+8L5jiWLBpcmPr+e1UMGMi3BQJgTkHxAhsMAAoJEPr+e1UM
+soc	K-GMi3V2QQAKmqhyRWDuVdurOBX6CFy588RxJX0oH5v0Vcdb9TBWxtU9dScG86DB1u
+soc	K-7yqObli0yyIKko4HlaDCjcrJJRXAJsA/IddSyPT3zwPAQcn1guBiB+zsE/BM0u4A
+soc	K-1f2rgHEKR2RkXlHpFh/xtDTbgCY2h+DTvapD6975OzHQi9Jl/mLJeJyOOxHx52c1
+soc	K-SjCvsVPx0D9cagCN4hRmU7ka3LxFa4OrEhVY5qxWYfVTaQyTsZhAiXVGV93Jw/mm
+soc	K-HQRfUtdINGpYc6O+6ZwHbGENZ9YhHs2mciosbULnI/416220DnJA3FkcPDCcQc2d
+soc	K-IdwF5afWLnl0eDpj/f5vmDV0LZL05wltoSQ5KuBYKYG/LtHn5Uvqb3wwPJ1XHC1D
+soc	K-j6r0eDZZzhiWzR0u3nye24hAQaotoPlrSQ573Ytz+VB6Si2CD0iT8NvuwAD9fJGC
+soc	K-xn15AsOkdBbD8PY+BBZdt7UwPKT3ebOC2e8vbqOJGlDGEiZmYSkSm2Vl5Nhp+Le7
+soc	K-FzM9FfmqhjXV7ZrY/yk+a+ebQqaDCfd+sV+U3waEde6ysoMHQHfZlLS29sKSuapV
+soc	K-apT2NWMkcwFRpPE39lj8ESEVd039Tuvk87Er+fSzd3NAH01d7CaFoUgvvBR9MRAG
+soc	K-IFfp1dQnPMA8W5K/smDEmfGKnSoMZSH9pIR4360pReB5Jf1sCJJu
+soc	K-=oDzt
+soc	K -----END PGP PUBLIC KEY BLOCK-----
+staroffice	U staroffice.admin
+staroffice	B 1024
+staroffice	I 039A3B4D
+staroffice	F C6 3E 81 6F 2A 19 D3 84  72 51 F9 1B E3 B9 B2 C9
+staroffice	V 2.6.3i
+staroffice	K------BEGIN PGP PUBLIC KEY BLOCK-----
+staroffice	K-Version: 2.6.3i
+staroffice	K-
+staroffice	K-mQCNAzi9bA0AAAEEANTQ0SyyL7yurIQ+MlLIvs+NrN9ktERffZlcm3F9U3hSkRah
+staroffice	K-vfihRxzIzqDW/n7LxZh9A8ySStZswqDRcgM0kCNkc0rCI7yIo9BH0HAYWxv38uiY
+staroffice	K-jzhZvtk+IQSyRriZLH91ZFR8Cjg2qFi6ToCjFmPG7me6/BhJNh514PADmjtNAAUT
+staroffice	K-tBBzdGFyb2ZmaWNlLmFkbWluiQCVAwUQOL1sDR514PADmjtNAQF+vAQAwiAdJEJA
+staroffice	K-/qr22zKlJioh35eTTbvELI/9VsH1a4b2ZK6zHPwIZ6h4hdWlWHIXBXiU93tYF1VS
+staroffice	K-YWX3DtqgzrdDl+3gOU+zTkn7WDIh9UJ0CutfahW0uzQ0xT3rfCRmkw+W8RqFTKkQ
+staroffice	K-/oF5qx7AYj9aE5RF7BnSv3VDww1eYtN11GY=
+staroffice	K-=C7ub
+staroffice	K -----END PGP PUBLIC KEY BLOCK-----
+stgt	U stgt-control
+stgt	B 1024
+stgt	I CFBA947D
+stgt	L http://news.uni-stuttgart.de/hierarchie/stgt/stgt-control.txt
+stgt	F BA A4 0A 54 8F F5 F5 1E  72 48 51 AE 09 51 DE 44
+stgt	V 2.6.3i
+stgt	K------BEGIN PGP PUBLIC KEY BLOCK-----
+stgt	K-Version: 2.6.3i
+stgt	K-
+stgt	K-mQCNAzn3U8MAAAEEAPYq2djl2gdZioUIuTE3uhj+iNZLcgmaPICKiqzokpJVk7dX
+stgt	K-1cXZbeQVk+PXi73XCzSvRZnxV0aF+005UhaNzdxMla7v91yGDh3rgFv5EPTyPz8B
+stgt	K-mCYHm1GiYSsMc8kQvcBU7dF6tCkAtmanuYIQhPGAYZ+smKjtS2XadhDPupR9AAUT
+stgt	K-tAxzdGd0LWNvbnRyb2yJAJUDBRA591PDZdp2EM+6lH0BAZgLBADGoU6IXrWuubp+
+stgt	K-cGZLBeWb2aJJSHY03QAE6VuV1RdrMJqTC8ZwNtxevICvG0N1A5JA+qO+Mdq11kOx
+stgt	K-+6ocPZQFbDC0yOHWhDXT+EnHtOpwG8Uj869tN0dSh8/dR7sc2mP0Cal/gc1LBXnx
+stgt	K-F4POsFk7EDlUnhcv8S82KcOoY3hgxA==
+stgt	K-=LvCn
+stgt	K -----END PGP PUBLIC KEY BLOCK-----
+syd	L http://aus.news-admin.org/ausadmin.asc
+szaf	U Hirtenrat
+szaf	L http://news.szaf.org/szaf/szaf-key.txt
+szaf	V GnuPG v1.4.2.2 (FreeBSD)
+szaf	K------BEGIN PGP PUBLIC KEY BLOCK-----
+szaf	K-Version: GnuPG v1.4.2.2 (FreeBSD)
+szaf	K-
+szaf	K-mQGiBEdigHsRBACeoN7JnXc2i3uJpTwF3gD9Fv7LgBq2za+GIoOnfHS0ifgTbvCR
+szaf	K-7PBx684a3cc5rtFrV8h2j/0tw7tWaj9YzzJvxKf67QKO/Mvrc5M3aDBZnrKHq2gN
+szaf	K-rB72M4BZXefc5GUJrLXezxvAI3XxiJiVf/L3H4nPD4jrsHVaUgwZ+Z9mzwCgyHs7
+szaf	K-+y0Y4EwkEtMJ2lgk+Dbc8+cEAJKwH2VDv+ZOo0IDF3v1szKwQ87aKg4P4c1MH68H
+szaf	K-j8h/dNxwyRK6ENN3SafwLEmim/cBF16g+1viibDzTEULfO6uTaK6WGydLpqMhh7s
+szaf	K-K2Hx1oWFruxGrawd0zKjLb7c2MxZjl6EH+cmt6V+dsAbH0K64CLsHxGWoMnNReHa
+szaf	K-UoSqA/0Yi/joL3JySNUHv+xk8a4Dag1X/Vx5CZZGGlWo0tsiRGZJtLqAiXv0v5Da
+szaf	K-u0O38Q7mFnQlyLlzgSSZpIauvbWEYbbbi+sEaWTtSx1OOS2i1N17IS1VJDphuYEZ
+szaf	K-babhpl3XfPeeFuhaWATnDnXRiMzEK70nGYU8qHG1aocrc9gOtbQySGlydGVucmF0
+szaf	K-IChNYWludGFpbmVyIHN6YWYuKikgPGhpcnRlbnJhdEBzemFmLm9yZz6IYAQTEQIA
+szaf	K-IAUCR2KAewIbAwYLCQgHAwIEFQIIAwQWAgMBAh4BAheAAAoJEAidIQSFhUI07pAA
+szaf	K-n1KMTPiRxQPG6ImFdu/X5TB00jlHAJ9SlIcj7R4CD+H8EZ7+RaiYzlLgN4hGBBAR
+szaf	K-AgAGBQJHYoDbAAoJEJNxIndLznA49TAAniBv23KA6ACXmq219Z5+t8rjQVafAJ9C
+szaf	K-0Ki7Em5QZn2m9eNhO8++hwk2x7kCDQRHYoCIEAgA1mqCQ1QwdLrd3Z+7FGvpNb0T
+szaf	K-vFVUhP9Lp8YYYexg3PNuvoRtqmprRQ0HUwezm09DGVhuSoaXYGOwh0eLoqW4AgQM
+szaf	K-lzRgjlShs43EpdocN5rnTfObXvXc8UBzoSWRogOqX8/Qg6EG0zuuE45y65Y1Ayfb
+szaf	K-waxEhhM7lET3A+/3Rp45YyG3okAsAFrZPSoPJVg6+yGj23BQM545kX/poTCSXlIa
+szaf	K-eKr3ItkB2LMqe5Q2NismhWP4Ib7kA0gB4GWwLPshQzdw6YJuLPWSj1ac3akFnssU
+szaf	K-V6zFbYeLhzQ3mKDKyrvtLC+cKYze1q0sgY8xwLP2hX4wbdwRhkTXtzw2igzafwAF
+szaf	K-Ewf/QOZjP+MgiZmonBUnCXDqjOAypl3e6gQucCrB2K1j8QPT4APSef/W6knqm44b
+szaf	K-4NL08zKxg5rvhZ11Obma88CBT3m1kVsf+8MGIxRvQgcNSmprGluOZDTKJYwZcQyf
+szaf	K-9vixGWiDlmzh9Xmbzc5xPiiMJI5oFbJCHu7mOrNwH3dwhP61dhBx6k7QZcDG155L
+szaf	K-E2W/OJ0Lyg5niqbvsFXEQ0pe29GmqDzKInyKbz6QnmAf/YOv5hXz89WTD1JXzK2y
+szaf	K-Rch9FbeGelo7aSrRYDRDjIvDa8RRON2np+oSiH0hV2CcDeRSg6VoOTMhT4K60ceU
+szaf	K-kH8hEq8cs/91q6PO45lEZbcRvYhJBBgRAgAJBQJHYoCIAhsMAAoJEAidIQSFhUI0
+szaf	K-Q7gAmwRTZqdepKdPlGvr1pJ7/qgfhNO+AJ4vttCGCQ6jdm53YOCInMlK5JQy3w==
+szaf	K-=79O+
+szaf	K -----END PGP PUBLIC KEY BLOCK-----
+talk	U news.announce.newgroups
+talk	F 8E18 1BEF 0BE6 3896 2C1A  5C98 FAFE 7B55 0C18 C8B7
+talk	K------BEGIN PGP PUBLIC KEY BLOCK-----
+talk	K-
+talk	K-mQINBGBOQfEBEAC+5dKbl6Vh+JeBx34xyRlmqJzIPIYJdcXbna6Pk6stnfa5J8UH
+talk	K-4ChMYdgCtM9/h33DH7dWX8/zKcABfRAC1784+ZlPFc+W8anEJoMZHeBdNfoY1qxP
+talk	K-D1ojC7jqaRiKt+Oc4vSl4fSRjPHAaZEIvhybduXWCTV5exbOnsDOnLLJ7d2sd08R
+talk	K-sIeQpNyCSKNcwDyHLH/UHdpHvYwuIlkjTSt0N9ghXArVWAgcFFaaihTpzGlp1+II
+talk	K-wn4n/zETzvVlFeXrzV+s/IqZ0oB2GzZaFOYlNa11vnIaCcrfEsHBig/PUDdwoIqB
+talk	K-YTVlE2KUIggf97bFUpLmat5kZpgbd7/n/tGWLD7HLcMwU/mjfsSG0w8BLjYZqIpV
+talk	K-JwbwEpioIbKKsH4qZBAMBq1c7p52wXJ2fZf+v7GRDMlIl5Lmt7A8HZgbVuMYxM/d
+talk	K-uAa6eGCMD2RKmHhInanTyYUgXYw8VRcW7NKOtSckHlBlIgsCa3R53lR+xQ/Ld8av
+talk	K-fA1zQD+82YehxSlmSqNteHDqxkN9pqqIGVaY0ajrHrjnVkGVxo7j9eT8u2ju0icy
+talk	K-Nf0te0OM8g/DfcpSqlDZPRgr5GZ0iN/yS1QACFudwLrmhpSrtZ8CWiK8UUmIpSBn
+talk	K-23w59WC4ZjkdRX2fR17shIjPl4UL02D1qe9OsbVn6aE0fUmVbfSi/6a9cwARAQAB
+talk	K-tBduZXdzLmFubm91bmNlLm5ld2dyb3Vwc4kCTgQTAQoAOBYhBI4YG+8L5jiWLBpc
+talk	K-mPr+e1UMGMi3BQJgTkHxAhsDBQsJCAcCBhUKCQgLAgQWAgMBAh4BAheAAAoJEPr+
+talk	K-e1UMGMi38YUP/RPrPfxiCAbzVzoPiMWA/aUzZVrAMCEH38r6N/QWyXgXye+6iUr5
+talk	K-DEELI0vQuZiayFKyooQIdXZfubqCZSuNx/OG2w4nK23K6hiLBFebmDoIX/oB/g1T
+talk	K-xp1nxwDW9jM3X2sxD6b8cf0zTzLvO3L8WThR2Hf94zIFiQtbrF3E+6eJNFb25JG0
+talk	K-NPzXhytqLrOCpmBQh2JbO5KYi/NVX34NmZPdd7YNlrhrUVG5pvv7AqrWY9v2J9ry
+talk	K-onugYYwEVnmwephjOaxFfb52R+qa7dDWpWzbV8fDMUu6N/e0nVRK8WgK+okE6st8
+talk	K-r9CdxDDX29iztP+kXh7xS/sVPgTzUyju8Zs9/cKBjdxtMvvXB3HAps6pNVb0sGJJ
+talk	K-h8grIAx1wJnejaR18tU6te8qFjgo5We4WNT6jBV2CMN2vxuTFrp+KNLSONlfHw2D
+talk	K-3CcX1azNAaYu5MHDylXZ8+KEiwZyKlHPVIfXOg9t3e1e+X7oOAcqX3O+DRDO9sGY
+talk	K-g4WYShOEJVVlKVC7bVgmAesDUN0WmmBWqQVjg6X0QVcyUwl8S/dgpDM7vQnaomPT
+talk	K-yARxUmJUQ7DvRmJpzZ+oXZ2pR7l+G/kR5WNVSLa9hjRfsRxhz+k4nHTWBzZrdXB8
+talk	K-7IMJ+b7Mi+JIB4KxQwTXZ8SBm8vUPYLWhv8az3MW3CRdIG8fRewmfZ/biJwEEAEI
+talk	K-AAYFAmBOSsQACgkQwl0607iNqcFN9wP/SMRzCWNe2o1MtNrqhBrC/c0XOhvn40Vm
+talk	K-ZnVMbHyzRuxxvbLpyGGn0qovOa47tSDwo8/KK/pCPyaN2YYYAHt+41+u0CK8fnu8
+talk	K-5R0VToARvlHefTTEo7yPv37+2t3ZOSCurR7eIHaLxBXFkSrUxsaMnqK095c11MlW
+talk	K-CIrXS50tJQ6JAjMEEAEKAB0WIQTnhDZOjd57s3D72erRXTE4ggBBcwUCYE5KmAAK
+talk	K-CRDRXTE4ggBBc330D/9PyuPL2JfEWuGCtmuyhrEpXVsU/Rr6ZZCcuIa6UnfmAoi+
+talk	K-9HOt0ae5dcTNNBybYq1c8nmMmzO+SP0zMprYTvP8O0VxnAZfoOi1TXScyO4GY18/
+talk	K-RknS1/5jxG5D+OJ5gIZ000d87Lil/ucJic2MbYZ+a6Zh/R+uC5fK0taPx0XdlgY5
+talk	K-7BEfdKMPa53I4QS32fVoznkoFAAeH0x2n22x1Kai7Lf4DOFoMg8d/pG8juoXex5H
+talk	K-Vs+LI52dsUAuNfNHLzMedccxlxSG2PVHDuL79ctxCSazC+VzMAUhBrhhal8H9YBP
+talk	K-pnse4LGA5eHB3j6ZpS+lGHwFt6fAyYXFcTnEXIjuBhveoVBHWC5g/YN3Amm9pwUE
+talk	K-yGxV13StEjoocsxnlrdpi6vAebRqJZGZTl0S1dlT/zBTo6oX0sLqSyzUzbi/YaoX
+talk	K-Xy2FV6onbVlTCrZW8wdirH5erveB5/cUatOxFfQFJx9Q3DnibZ06fOWfR5VImo8B
+talk	K-8kGgmsoRzZLswAyHysgTh65yTsGReLodwEH2I+SmH23TSgVinGQTD4kowJ1DWqtG
+talk	K-Oy09ycQgqp0aqe70DCmuAPBhP8+cTY5csYNhfvClD9q5lSClGq4tf2pTcFxXj6lr
+talk	K-vYQp+W5WDMo9m8XqhDEuW7lJsc7SZPAGzdomO+fSk66tWgh0uITGsu91fnNmNrkC
+talk	K-DQRgTkHxARAAuhdAV5qq2COAwxHLnVfwppToGvkIgYneHSrkUdXlKYj2hYAoS6YM
+talk	K-EIs3fr6LAAo94oiLFkxP530UuD5N02DOtzsK1XmoNCiEn2sSIk1+tSdh60EnUhGZ
+talk	K-GV65b4Gv4Zk2ReVoMyn6BtZR50vWeUy0wBvLWVg2hbpHLsHi02cD7/kZUov+pFk0
+talk	K-g5R++yR5Iabshcb+dboB0NCNZ/STg06K7lL5gragW37/bKif/1mBv3oqCzX31VLj
+talk	K-C4esx54AneIwVAflpE2p5o2zPlixxA9yDkJm2sFISbK5z8u8bFpZJWYaN0cX4E+2
+talk	K-S+eyhjQ+3/p1645jTD1E9ZDPtGHXwF4jeeZmCfN497g/qFezd1aAoKrR17Id4Hzd
+talk	K-2Mtlml4S8utYq54Sh0z74Sq+YGKWZ0eA4jsuULW0p7mK4Y5oqPeEebbWL/5rPDME
+talk	K-4JfWJzz8xhew9fw69sSTLsg9lc8srB6T3W5mGqDzxXlWhxIqinE/IH8o3WkMCQP1
+talk	K-KfHg1pEubfSn0KCwpwuj2pRmxBJcQCJG+ptuaxYHzPrDmUj7gNTnuvUm8fgmLw/o
+talk	K-yo7RzmF368HKszCvRsqccxvaZti1W5g2YikVUoIYLKOqsU6qz1m8U1Nn3OoRfmFU
+talk	K-ZqjTDJ/qoPhqy0zabQRjxHJDqEtzK9MU6WVHDHM/bZ8CPs8PczI9TgUAEQEAAYkC
+talk	K-NgQYAQoAIBYhBI4YG+8L5jiWLBpcmPr+e1UMGMi3BQJgTkHxAhsMAAoJEPr+e1UM
+talk	K-GMi3V2QQAKmqhyRWDuVdurOBX6CFy588RxJX0oH5v0Vcdb9TBWxtU9dScG86DB1u
+talk	K-7yqObli0yyIKko4HlaDCjcrJJRXAJsA/IddSyPT3zwPAQcn1guBiB+zsE/BM0u4A
+talk	K-1f2rgHEKR2RkXlHpFh/xtDTbgCY2h+DTvapD6975OzHQi9Jl/mLJeJyOOxHx52c1
+talk	K-SjCvsVPx0D9cagCN4hRmU7ka3LxFa4OrEhVY5qxWYfVTaQyTsZhAiXVGV93Jw/mm
+talk	K-HQRfUtdINGpYc6O+6ZwHbGENZ9YhHs2mciosbULnI/416220DnJA3FkcPDCcQc2d
+talk	K-IdwF5afWLnl0eDpj/f5vmDV0LZL05wltoSQ5KuBYKYG/LtHn5Uvqb3wwPJ1XHC1D
+talk	K-j6r0eDZZzhiWzR0u3nye24hAQaotoPlrSQ573Ytz+VB6Si2CD0iT8NvuwAD9fJGC
+talk	K-xn15AsOkdBbD8PY+BBZdt7UwPKT3ebOC2e8vbqOJGlDGEiZmYSkSm2Vl5Nhp+Le7
+talk	K-FzM9FfmqhjXV7ZrY/yk+a+ebQqaDCfd+sV+U3waEde6ysoMHQHfZlLS29sKSuapV
+talk	K-apT2NWMkcwFRpPE39lj8ESEVd039Tuvk87Er+fSzd3NAH01d7CaFoUgvvBR9MRAG
+talk	K-IFfp1dQnPMA8W5K/smDEmfGKnSoMZSH9pIR4360pReB5Jf1sCJJu
+talk	K-=oDzt
+talk	K -----END PGP PUBLIC KEY BLOCK-----
+thur	F 7E 3D 73 13 93 D4 CA 78  39 DE 3C E7 37 EE 22 F1
+ucb	U ucb.news
+ucb	L http://www.net.berkeley.edu/usenet/usenet.asc
+ucb	F 96 B8 8E 9A 98 09 37 7D  0E EC 81 88 DB 90 29 BF
+ucb	V GnuPG v1.4.6 (GNU/Linux)
+ucb	K------BEGIN PGP PUBLIC KEY BLOCK-----
+ucb	K-Version: GnuPG v1.4.6 (GNU/Linux)
+ucb	K-
+ucb	K-mQCNAzRH0/sAAAEEAOKnxwOdLN/tgpvLsN9JEP10MMhHYJ09TTtklZGmIhYkcsgI
+ucb	K-5kQY4G9ppZxo/CydmgpgVEFF27O6so6q5b4uq8qCCi6nWvjUS7ihy5h4KuS+4Gr6
+ucb	K-4lDyPpMWC51DSNZNfsI2yHQx3WRzTaDBFvhij+2vqzoLLW/zdUwPpNKPLC+5AAUR
+ucb	K-tAh1Y2IubmV3cw==
+ucb	K-=TNXa
+ucb	K -----END PGP PUBLIC KEY BLOCK-----
+ufra	U news.mayn.de
+ufra	F F7 AD 96 D8 7A 3F 7E 84  02 0C 83 9A DB 8F EB B8
+ufra	V PGP Key Server 0.9.6
+ufra	K------BEGIN PGP PUBLIC KEY BLOCK-----
+ufra	K-Version: PGP Key Server 0.9.6
+ufra	K-
+ufra	K-mQENAzTsKfIAAAEIALiQniRHIsKL95gPi0rpxTLz9X7UNDp3k4uUvTC+SryeR8MA
+ufra	K-NMNprudlAGkRHfoD4EQlWC4hq3kEWm3AolSIfH2pApgcKrkEkpr/t6GR0CFZBJFo
+ufra	K-f1tWbIevRZwdtrh9AgpnkGv84g+MycNmirQHc8VbP3wtmQWsPvvp5UUPf3mC3ikk
+ufra	K-1/CV7gtRsOMtYbGiz8st9j6wG5Y7wKACZm+87+bVG1MzuM6b5mKI5PbTYrPry1p1
+ufra	K-+jq7BE3viS4ntT2Ptbyw3ApPkDxqu7yhAm7hfwNr6lJhjmyyRQeLrnUyNvtLwh3w
+ufra	K-5JnHUtKAxH0wAKE8Q/Ctqn6FECmD2QAIAHdUnM0ABRG0DG5ld3MubWF5bi5kZYkB
+ufra	K-FQMFEDT5SAXZAAgAd1SczQEBM1kH/RP6G1TlKcF3ld56VrJVdunDZV9mbmZ8LuFV
+ufra	K-u/3zTu9OxZphR1WHxL1djB5IVHFs7TNv8FMFOB5sX4iYpRMUr2AeMgbtnIENKBnx
+ufra	K-DJvAaQgvWTMi/AVR+aaWXFtV/mdv9wEyvJrq17p6EaBP7RpWz+JFEL9dZUgOCXpX
+ufra	K-AWi8ZisLqhq6YbkA1/ZYnnJ/8Ds/rBcdazDqKzTtsBx7IxmaqJDmmibQH2eS+Tug
+ufra	K-Xds4+SpPjcrwmb19u7AYWFZyc3rv0l/YSqf3DvpP1QnLWe6qc/z/UmXL6cioWbLH
+ufra	K-ghSFukUJpf4KAZxiaI9pcn7JwG22iKNwDYazdSeamiqwGVGHCVGJARUDBRA5a4B6
+ufra	K-PknhBEHs9QcBAVEKB/wOWX0hzzHpCGmIOxmwwVDsOHtU4uYN9u3eveEOcxH6twCg
+ufra	K-OdYT3Vfw0VAHCSKkr7HiGKTR4D2G75Xt6vuLSDaIp/VgrTAkvtMTKAFMErpn6DAI
+ufra	K-JYLVtmT+LqVtNfytyp0kbyCVohPd90IeNBbULaMSNDqzjjD2sePUjQJgsXf3FHKa
+ufra	K-uBcnGj5h7G45JI9kiskrOunmj2rj9AYVQKwJRAtNTajAemAY/Qi7irhpdTRWq7aL
+ufra	K-zceEc923uaGZc6FjRVmcl66puc75Yz3RVH41xUEc+OKHirc44VmqZaNSZ+73GPxS
+ufra	K-KNnIPXoZZi2OximrkiAZ78c4n3JVOZPDzHy61y1E
+ufra	K-=6bqa
+ufra	K -----END PGP PUBLIC KEY BLOCK-----
+uk	U uk.net.news.announce
+uk	L http://www.usenet.org.uk/newsadmins.html
+uk	V PGPfreeware 5.0i for non-commercial use
+uk	K------BEGIN PGP PUBLIC KEY BLOCK-----
+uk	K-Version: PGPfreeware 5.0i for non-commercial use
+uk	K-
+uk	K-mQCNAjGL0cgAAAEEAJ6p7fQHn139U9zQawLixrExOUrkFhi1yLb8m8fLxmKTprKn
+uk	K-ZNM1nnxMSbRyO8vXohXKKs4G1U2jTpaCkSRrbCiJ5VxWB/B31E/p/vrBXqqQ2amq
+uk	K-3gb4Df9DZub0ZtOhHTF/pPjQmXvAv08umjZWpYlXRmUHBlBhMmOfGXkh8vHZAAUR
+uk	K-tBR1ay5uZXQubmV3cy5hbm5vdW5jZYkAlQMFEDhCcUxjnxl5IfLx2QEB6e8EAJDt
+uk	K-gIkNXdLiyL07lgDBr+Wq/Zckgm70JhNaHWxLPqckMLOJZGPFKlOlKA6W62UrwDWI
+uk	K-yktEosLHd8whbPCaMOSbIOX7mmTrIySOKf+rBxhFLlRY+fAQ4h2oEyEWYhJ80wiN
+uk	K-GgKgMJC+UqQD/ylMB1VcCsTYuZWEQ18ldKgtTsOZtBc8Y29udHJvbEB1c2VuZXQu
+uk	K-b3JnLnVrPokAlQIFEDGL1R1jnxl5IfLx2QEBF/gD/ikHjpmJuG10X3PXA/yciZ0r
+uk	K-qqVo01/4q5yy8vHBGGfopfxpqrjGnNtUV4kWluNo0/1uYZm1o7TeqHI6Siv/yWQp
+uk	K-+QldN4nED3RPauqCtj5cubmMgryXg2pcCBiY+brHWEr0tBV7cSSOHFipwM55FA22
+uk	K-ctQzQ5nIPZQ+KPC3WjdZiQB8AwUQMvCcUq1e6k0sFfGpAQE6nwMzBdaFclXiv48C
+uk	K-aMXBUG8S3bLUtx3u2OBajzpe8G2nJlCKYkCY482p2MjtfCDi7+eYDfqgKMDoGrUM
+uk	K-zSfMraDRyoXjNC/nIKf1+R2EFMyaLoC9FWggCKTov/I/2BE2+grvQ7ewQSWEUokA
+uk	K-lQIFEDGL1FGemw5PLx059QEBje0EAKx99yOZ0zQ9FjibuEBStP8t0BCsRNqkrVjx
+uk	K-O513RBXecgcdXdv9hWn+8LNRZx6JLHv/ZpWsdGXqP3oiqj+LRt7WpHnZ55He/njx
+uk	K-5DAoPAM/TjgTk7arazSjsJuFhcTP7gHitLDoHxVkUfdLX8h4HH9LWhEnrWEx82EY
+uk	K-/29z/xQ6iQCVAgUQMYvTeKSiIc7jUXyJAQHLNwP/Qz+g2RRsuSZrJ9L0HAVPLcml
+uk	K-oAEGOMFfYJDM/mvxegAYzL8i0HGFbwTH/+E94WSmsWAx1KZ/Z2DYKdI7BUaS8c09
+uk	K-a2OtqOEbCd7QBI37seyxG0rTWNpuE0ZXBo0eiQBg37oIW+Faf/tqJQZnALVsV5LD
+uk	K-Kcf+6+MhgS47HWJ6ZjQ=
+uk	K-=iInx
+uk	K -----END PGP PUBLIC KEY BLOCK-----
+un	U ungroups@news.itu.int
+un	V 2.6.3i
+un	K------BEGIN PGP PUBLIC KEY BLOCK-----
+un	K-Version: 2.6.3i
+un	K-
+un	K-mQCNAzM2VakAAAEEAMj6+3NSJItwhqTJHMsNlGIBz6FxzTohNweqqoIuHhx4Q0sL
+un	K-YP33VAhABmoSCOsbmQUaWruRoO2Xqt+2a+x4klZB9PCIk/reCqS4qNA/Va/6qi65
+un	K-HIUniiSu3JrineZUjZ7uv65Eolfm7aUi/BpQgw3ymW8Jglgq45lzddlE9iqBAAUT
+un	K-tBV1bmdyb3Vwc0BuZXdzLml0dS5pbnSJAJUDBRAzNlWqmXN12UT2KoEBAb9pBAC8
+un	K-ppqj/r373Mb5ATZ9+gXpoBk8BIAztSmK1sB+5R/K3JeDFSjKHNnSBjgMLn3KzXHW
+un	K-bJ9I6BK14AbVQ9Cdbk5rzuoVkUTuuCzi1jbgt9yZKwSeI/bStXOsvUU4Gf2dHqwL
+un	K-W4E41GioIMvKYSdymBPAYcVBc/C4PJghfb7B3E0QrA==
+un	K-=MdCR
+un	K -----END PGP PUBLIC KEY BLOCK-----
+us	U us-control@lists.killfile.org
+us	F BB96 EB2C CFD0 75C8 E9DE  C2C2 1DA2 9D87 B73C AF1B
+us	V GnuPG v1.4.6 (GNU/Linux)
+us	K------BEGIN PGP PUBLIC KEY BLOCK-----
+us	K-Version: GnuPG v1.4.6 (GNU/Linux)
+us	K-
+us	K-mQGiBEi4M/YRBAC3GfK9WcjsGB3DLC11LYcZvO76a+btJp/aaavjJ1U0gNMNoY2p
+us	K-5hwX9qQoExMNysWSdJ6n9Xe2j3uNbnkzbUzXo99J95j9L8ULTGkOnEZukYXMUJF9
+us	K-VPzLWT10afqxJaNBjUU+aySbgMh/LWY4jXJcAfKkrSQqohDtVM1MYXL21wCgmUDD
+us	K-eYN7H1uDfcs+cGEwSPs+3zsD/invqwAHfq0t9rqWv4o167sQth0pRG2DKAp71YhG
+us	K-2NxRRSUEJUGX00q6oLtkPkKMXiT2XOGnhQRntE2w6OX+n3SsmViFpG0z+TrfEnz7
+us	K-MkZ3QUYlbb9r6BRzGf/QqyG181ffBHW2e9H+OZdBkpKrqQR+R+LqsZp8+fWTV5Wx
+us	K-NnCKA/4ntal1hJWUmcQl8mbYxQtnhgWnww++mAJ/CvzjfKvq6/htbFXMT6M8MfPQ
+us	K-EM+j6+FddoZbV3EvII22tdjJfuNEpk1IM3ZNgSYbHnwI2atJEaoJucPnqW80d4W7
+us	K-ym5GRgk8y65bbirl81GBuRtcHJbXoK9NTeVO9hdvatDCiLDTCrQddXMtY29udHJv
+us	K-bEBsaXN0cy5raWxsZmlsZS5vcmeIYAQTEQIAIAUCSNBa+gIbAwYLCQgHAwIEFQII
+us	K-AwQWAgMBAh4BAheAAAoJEB2inYe3PK8bbMQAn3w4vPjBQ97FEMGBd2RjJZosdw9Y
+us	K-AJ9DRX9yfLXiC6OBI8c/jE62MtroIIhGBBARAgAGBQJI0FscAAoJEJMOxVMMLuId
+us	K-YSEAnR2/X0b3xsE2Se4uJ/LTwTsb50kcAJ9prO/PC3UlCzEHsmZjVWCLI9Y6LbkE
+us	K-DQRIuDRTEBAA6kMGYS1ZFEYfLAQ4UaCU7cuuqWXzsCJ8xmFrMD5x8ogisuo+F3aQ
+us	K-Pr6MSFanSXtcCkP+pbS2JYux0lmLFu/5UqD/ocmUAkEa+KXzP53hNkbIIrmKakZi
+us	K-8mjzUfE3ZQGSb0TlOWxs5fCDSiu5CjRNuqV8qS9cls1t4JxN48rEBumwCIf7wDEi
+us	K-KcgLYi0OOKbcq/nX4S7HhoDoCJZQ3apCy7sXEsJNwb8WXzFVG77OKrzpfANZU3Vt
+us	K-ytW0tCSxaMB7li1+gEmQCyW4Mc4oeBh2UikH1bBxduBKQZOGvpWXPdZcMBqyvvFB
+us	K-7fKRCThg11/ahu0xtExa9tpljls5Myd66g1owIxf7TRyTyDbJTzRFnIsvlukAIKK
+us	K-PaNBhtO2iqByvzzRaR8sj4aAk8pQGXsLix67KS1rXzCXUPwD0MLjw9S7nfS9aVSs
+us	K-HSbO1jti2tWQ0tJZo9uz0RI+XV9eIfIt0EvZ2dWWWcOAw7ueNzJip08pnwEoiTL9
+us	K-+aUDQL2TgFcw2LK9e+95m7SZHaeG+S97bgFxkslE/fom45mNIeh4DAZ00KyicWja
+us	K-T7bkysJ6MB3mS7EwfaoWJXD178Skf3WCHyuHyY/g5OtuZmyStsJOiDH9f9D/CFTG
+us	K-PCXugXqbPWhXwXzT2t0twKuQv8YX334leThTcgNkP1BwF4VPIf3JshcABAsQALAE
+us	K-fG8aGXcJo1XzAMK3mqgNvZSZ22XAbMgNJSsCRNcSVW7325AyNHCSv4TEx8iNu8VT
+us	K-tAbmAWcxEQoL5hGKAC7NuB28ak7dI+aBWluA6wHZmeRB2zlV2g24b4kuJ0qWS83u
+us	K-w9x5FfTUFou3NyahZ9ttzBNhwDBliixWUlQzv3Iu/N39fGOwjZTs4OKPtOBiAMKg
+us	K-SYHhUxQlfZN/DR8KCINb8ZTgwAEaoYtlQzUJyMVlEb/Uq+Fjb7mSADxQG/eSWpOE
+us	K-2pcqYW7ul4GfiWXY68ALGfTSuQn/ljoEOOXO+mXjSyA0LcWMg+KlyT2iENyQgXRY
+us	K-RuXgh7TtD3n/DiV1slwjp4VZfJOkikJONb7vkfi6cxl63OTBKvXa76PQUzqBtaMs
+us	K-m2bUwwVRpkhJuh8ttxsY+08LU4rJuOiRe4KKwVVjkAUna2ifVLcbfsx88ZfLKIVq
+us	K-4PowxR+v9SCKgrfFHlhgdz7yAG/rDt0jOvqXVEkLtJwsd1iQI65d2fD6XRFX88px
+us	K-uEe7PhM6q1euw7RU4q8TKVP6UWJmrvrQ6XyTCTpunetvPWck5YZvZ59stkznj4MR
+us	K-bZd8yZxs+O2hMQMrm3RYNshHDXx3WWqlbaNeyOrLiNt5n8VKo5t/xUiqWyboPLdm
+us	K-QCyra77Id5zjysPJUbVtLaL31sVOiMXzuNOs99ALiEkEGBECAAkFAki4NFMCGwwA
+us	K-CgkQHaKdh7c8rxuJcwCggOX54G34AZW/OzpVsx64aQlSYRwAoJDytL5Ilg6k5XuR
+us	K-YI5LPL0aaKj6
+us	K-=um00
+us	K -----END PGP PUBLIC KEY BLOCK-----
+uw	U uw.newsgroups
+uw	V GnuPG v1.2.6 (GNU/Linux)
+uw	K------BEGIN PGP PUBLIC KEY BLOCK-----
+uw	K-Version: GnuPG v1.2.6 (GNU/Linux)
+uw	K-
+uw	K-mQCNAz2l3GEAAAEEANa1NkC2AgFuhHxdfXSLJkxqhriOxZ4q3u80EnH9X6gxe9Tj
+uw	K-R3YbERe5e3HRqR1Vx0lUyEZpM1Z+pYO5ZV3MakxlItMwnRMDnURpLGrMOkKGBmb5
+uw	K-Z/8acpJgm18/n0dvxfUEefxXljM4Lm0bTRHPdoU+mihpUtqbjr+n6q4DG8yJAAUR
+uw	K-tA11dy5uZXdzZ3JvdXBziQCVAwUQPaXcYb+n6q4DG8yJAQEz9gQAoOwynnQqEIPa
+uw	K-LkrskX3uASqgn7AcxmRXeOTHrBbUukIblsgaMDg6+HZ1HA5QcDAH3g6cyQPnyZL2
+uw	K-Hts10SaQ3XJVKTOc9ePNt34xlPpjr1uaiuItobYveaMPUNkUmEgMNxAty/1jwc5j
+uw	K-JOV8pWQ4qrL0YQ0IgkUb/YxDKN7zUEc=
+uw	K-=fKcD
+uw	K -----END PGP PUBLIC KEY BLOCK-----
+wa	L http://aus.news-admin.org/ausadmin.asc
+wales	U wales-usenet
+wales	B 1024
+wales	I 86F7AA61
+wales	L http://www.wales-usenet.org/english/newsadmin.txt
+wales	F 2D 9E DE DF 12 DA 34 5C  49 E1 EE 28 E3 AB 0D AD
+wales	V 2.6.3ia
+wales	K------BEGIN PGP PUBLIC KEY BLOCK-----
+wales	K-Version: 2.6.3ia
+wales	K-
+wales	K-mQCNAzaTFFwAAAEEAL/I099TKV7a7Ow6vDdvUa4/dHXFfzotYqSsP7CN5mL/AW16
+wales	K-vXZUQJejnTvoothg9vyTaJYIDHq87ZZS7EFZWR2HszjgmypveAP6QGK1OV91KVyx
+wales	K-MXMII50S1dQo3stwPpL+HiBVqPyQ51RGhxdlYGLcmdtZnpBvxwfZCkeG96phAAUT
+wales	K-tAx3YWxlcy11c2VuZXSJAJUDBRA2kxWUQR9KqCtLo+EBAYxwA/0b1XKS9KyYuDXG
+wales	K-IRIhUbj22F3UCKfpm6yJpV/mOvQB+qyC0AluK2l2LtMRypW/ksZoa7nP7LhugFs0
+wales	K-sZMrPWySfjoEZMUrES20iwV3o8dDkBx3UaxXPX/6WSB7yWyQifKfECUL4g30RGjc
+wales	K-Lg5MZ138Cn2jHqt8FBZUrYf35bLHJYkAlQMFEDaTFF0H2QpHhveqYQEBdgAD/2ry
+wales	K-lk5JKtSYkd4efYg+Z0ap0yme1P94oilrRBx1wFuU324qzh1FPMEKTHOcI1K0WObq
+wales	K-7BGcY2WXqAfQvxNRw7LImWdR6TJVV/6/R0FR/Eh3gymPUGMqska47MSjN1Np+clb
+wales	K-PBXxge/pd21j6MJJHwNd860zf/UZIUmsLKjyBfMn
+wales	K-=p13X
+wales	K -----END PGP PUBLIC KEY BLOCK-----
+x-privat	U dmitry@x-privat.org
+x-privat	B 2048
+x-privat	I 01E40B31
+x-privat	L http://www.x-privat.org/dmitry.asc
+x-privat	F 9B 0A 7E 68 27 80 C7 96  47 6B 03 90 51 05 68 43
+x-privat	V 2.6.3ia
+x-privat	K------BEGIN PGP PUBLIC KEY BLOCK-----
+x-privat	K-Version: 2.6.3ia
+x-privat	K-
+x-privat	K-mQENAz93JnYAAAEIAMdra0Ain2LdRonbt8AbcEwPoD1UFioGbnfntZKKcwt+v+HJ
+x-privat	K-UNhzRiYdazc5775wku1cJhh2B6fwSTo++5zPHgYUpMTSMvnAEBtPE2HwFtoOdbXH
+x-privat	K-5DchyDhTVvnVAOJ61Ah3lifsjRYccV6NRjVA/+xeS9ZwrvxBOgM/gDB4BOf9fmqz
+x-privat	K-4XjQ+C98mfvPNyWzFpgqb3cmcZBhxJchI+/p+bfrenOtZkr14ADBHBZXHjuvPhbf
+x-privat	K-XbyDsGL6+qXWtIHTW10sdvEboERD0xt/NFCfCU8a8h93giF6sQJxH6iQeO8iF5qf
+x-privat	K-y2O/M96o0Kx+mrVXih6iudHEBuNatL0YrQHkCzEABRG0E2RtaXRyeUB4LXByaXZh
+x-privat	K-dC5vcmeJARUDBRA/dyZ2tL0YrQHkCzEBAeqjB/46al2c3s7GpUlrL8D+/iqwkl9O
+x-privat	K-g/6sg2R2XaPr2ZpmXQfcQH9RndonZzCSsxD+9Ejpn6Q+PfesBJgHIgasw7r0WZP9
+x-privat	K-QZGRK/YztlLN7AasQA6i+MrMFduVbNb2Len/e8NZedEKI7FPaqdUpELiuEZsL4h/
+x-privat	K-byFv7gGRoHcQhWSlt+6WjENcwN+BVV/rmZ5DT4Bsf+Ykq7oGmjNjrmti2kj8XYES
+x-privat	K-C4nOB5NnzhyRSZmfzuTrvi8a1ifvA0NnxRNvSKmzMc9hpXqWdvrYi5TBpbkTiUB4
+x-privat	K-Ro8jv+qHUQd9IapErwHvn4dKh8Fxc309EYqNqJR7EBJlI+Of7WsK/IKvoV/O
+x-privat	K-=zOUJ
+x-privat	K -----END PGP PUBLIC KEY BLOCK-----
+z-netz	U z-netz.koordination.user+sysops
+z-netz	L ftp://ftp.dinoex.de/pub/keys/z-netz.koordination.user+sysops.asc
+z-netz	V 2.6.3i
+z-netz	K------BEGIN PGP PUBLIC KEY BLOCK-----
+z-netz	K-Version: 2.6.3i
+z-netz	K-
+z-netz	K-mQENAzKYLZkAAAEIAMnGhSvvCTsAyAuHGnczJma1wWyeFBe/RkpAMSfFA6DDsk+q
+z-netz	K-VnTblHXVsAVl7gRjv2DOifB1dw52lvCXLCn+IlKvQkD2/JVYSeTxI9IDIT5Ecws0
+z-netz	K-Rf4TFHrPgS8TjZ6WKlvIEAAmb3P64ZaVZbe7+H11m2HFHV4lZiZA6ktKf1kYc56u
+z-netz	K-b09ZevKjbFLlgSHt/PY2Xaz8fjP1sSzSfh9m+CNYEoTPp4smrXK6yzeen8gtoLYU
+z-netz	K-5JPrMQ3zZqY6bzy8J9ahi58447n+AdATMQEm8G98LZ4V4MD8iJc4JXPscVtC6Zct
+z-netz	K-MHa6dQSH/T5oDJmN7ekcraPYvdpaTMWF8NWfcX0ABRG0H3otbmV0ei5rb29yZGlu
+z-netz	K-YXRpb24udXNlcitzeXNvcHOJARUDBRAymC4QCdxwOTnzf10BAZu/B/9JldQbFed7
+z-netz	K-tndj6vX285FgQKswoDJJdAJft3kLohg8ZkXOVEreLJ/Zhh50OH++mLqHcqTgDi4M
+z-netz	K-u2K+KEqxEVaLIDlANUzgy/vtO5atHnQs8n4lCvFLLSx4Wnn2LCZmb+0o69Ap/rF/
+z-netz	K-l2JWeg+oOERC9IyjrjnD8IkOJii6k42TbVfpTlcc7S/2YLFTg5tGjoRgjROpkC9A
+z-netz	K-BoDy89PcTEHBwfpsPuqFnJ90fcmaIZkZf0uUPCJRpCK9TTbCYp0z8vZZetHbhjiE
+z-netz	K-AXoVh6cIWdVwnDiaAE9Z8LvvL3mzyDA3lzDGQuBLtDjw/N0IavbDK47kV+2HYbfy
+z-netz	K-NI3ISjZXkE0ZiQEVAwUQMpgtm0zFhfDVn3F9AQH+Ngf/TKExNsoL/iH+9xaM2Z1i
+z-netz	K-LbpU17tTntmb/G5tZiPA1XbSCmFnVI8mbe09n8u9JGFco8MGTcshzB/G2DWwE8ff
+z-netz	K-PNFBJFjRbiAn9COg1hSHmosK/3BOXIsSXEkBMIbsitrKQeu6S9tNKOMVekYE6TM7
+z-netz	K-dN/73r5pGAUv2JBjmQlp3gmsbj8YzczHFcUgXu63wcYMlBBIRHndW7XS9uMTKBOp
+z-netz	K-HpefbrB3qU99GOdXNjmN4ufEWsSWkZceIgwcJ02SHlFf/pHv+CCBGXFtB0hDJvk+
+z-netz	K-hRPliao6FDCk8unlPClgNotTTtQ6Z3rwKrApJsI7zNHfQpq2UNDeQswOcgjmJ6eQ
+z-netz	K-HA==
+z-netz	K-=vT5W
+z-netz	K -----END PGP PUBLIC KEY BLOCK-----
