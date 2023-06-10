@@ -28428,19 +28428,19 @@ fnet.sps9		No description.
 fnet.test		USENET testing in France.
 fnet.tietoliikenne.televerkot	No description.
 fr.bienvenue		Aide aux nouveaux venus dans leurs premiers pas sur Usenet.
-fr.bio.medecine		Discussions sur la médecine.
+fr.bio.medecine		Médecine humaine, vétérinaire, pharmacie.
 fr.comp.algorithmes	Recherches, discussions et descriptions d'algorithmes.
 fr.comp.applications.bureautique	Les logiciels de bureautique.
 fr.comp.applications.editeurs-de-texte	Les éditeurs de texte.
 fr.comp.applications.emacs	L'éditeur de texte Emacs et ses extensions.
-fr.comp.applications.genealogie	Tout sur les logiciels de généalogie.
+fr.comp.applications.genealogie	Les logiciels de généalogie.
 fr.comp.applications.libres	Les solutions libres en informatique.
-fr.comp.applications.sgbd	Discussions sur les bases de données.
+fr.comp.applications.sgbd	Les bases de données.
 fr.comp.applications.x11	Le système de multifenêtrage X11.
-fr.comp.developpement	Méthodologies, méthodes et outils.
+fr.comp.developpement	Les méthodologies, méthodes et outils de développement.
 fr.comp.developpement.agl.windev	L'AGL (Atelier de Génie Logiciel) WinDev.
-fr.comp.divers		Discussions diverses sur l'informatique.
-fr.comp.emulateurs	Discussions sur les émulateurs.
+fr.comp.divers		L'informatique en général.
+fr.comp.emulateurs	Les émulateurs et le monde de l'émulation en général.
 fr.comp.ia		L'Intelligence Artificielle.
 fr.comp.infosystemes	Les protocoles d'Internet (Gemini, Gopher, FTP...), la conception de SI...
 fr.comp.infosystemes.www.navigateurs	Chrome, Safari, Firefox, Edge, Opera, Vivaldi...
@@ -28523,7 +28523,7 @@ fr.misc.actualite.covid19	Covid-19 : aspects médicaux, sociétaux, psychologiq
 fr.misc.assurances	Discussions à propos des assurances.
 fr.misc.automobile.electrique	Discussions sur les automobiles électriques.
 fr.misc.automoto.mecanique	Pratique de la mécanique automobile et moto.
-fr.misc.bavardages.dinosaures	Bistro des anciens du Réseau. (Moderated)
+fr.misc.bavardages.dinosaures	Le bistro des anciens du Réseau. (Moderated)
 fr.misc.bavardages.linux	Bavardages, discussions non techniques sur Linux.
 fr.misc.cryptologie	Le chiffrement : histoire, usages, techniques et réglementations.
 fr.misc.depannage	Dépannage électronique, audio-vidéo, électro-ménager.
