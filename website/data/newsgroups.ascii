@@ -28429,8 +28429,6 @@ fnet.test		USENET testing in France.
 fnet.tietoliikenne.televerkot	No description.
 fr.bienvenue		Aide aux nouveaux venus dans leurs premiers pas sur Usenet.
 fr.bio.medecine		Discussions sur la medecine.
-fr.bio.medecine.veterinaire	Discussions sur la medecine veterinaire.
-fr.bio.pharmacie	Discussions sur la pharmacie.
 fr.comp.algorithmes	Recherches, discussions et descriptions d'algorithmes.
 fr.comp.applications.bureautique	Les logiciels de bureautique.
 fr.comp.applications.editeurs-de-texte	Les editeurs de texte.
@@ -28443,18 +28441,10 @@ fr.comp.developpement	Methodologies, methodes et outils.
 fr.comp.developpement.agl.windev	L'AGL (Atelier de Genie Logiciel) WinDev.
 fr.comp.divers		Discussions diverses sur l'informatique.
 fr.comp.emulateurs	Discussions sur les emulateurs.
-fr.comp.graphisme.multimedia	Conception graphique de sites Web, de cederoms.
-fr.comp.graphisme.pao	Techniques de publication assistee par ordinateur.
 fr.comp.ia		L'Intelligence Artificielle.
 fr.comp.infosystemes	Les protocoles d'Internet (Gemini, Gopher, FTP...), la conception de SI...
-fr.comp.infosystemes.www.auteurs	DTD HTML, scripts CGI et API WWW.
-fr.comp.infosystemes.www.divers	Discussions diverses sur le WWW.
 fr.comp.infosystemes.www.navigateurs	Chrome, Safari, Firefox, Edge, Opera, Vivaldi...
-fr.comp.infosystemes.www.serveurs	Administration de serveurs WWW.
-fr.comp.integration	Integration de systemes informatiques heterogenes.
 fr.comp.internet.medias-sociaux	Le web participatif et les medias sociaux.
-fr.comp.internet.medias-sociaux.twitter	Twitter et autres plateformes de << micro-blogging >>.
-fr.comp.internet.tor	Le routage en oignon et les outils associes.
 fr.comp.lang.ada	Langage de programmation Ada.
 fr.comp.lang.c		Langages de programmation C et assimiles.
 fr.comp.lang.c++	Langage de programmation C++.
@@ -28516,9 +28506,6 @@ fr.comp.text.xml	Le langage de description XML.
 fr.comp.usenet.lecteurs-de-news	Logiciels de lecture des forums Usenet.
 fr.comp.usenet.serveurs	Discussions sur les serveurs de news Usenet.
 fr.comp.virtualisation	Tout ce qui touche les techniques de systemes virtuels.
-fr.education.divers	Ce qui concerne l'education.
-fr.education.entraide	Entraide pour les devoirs scolaires hors maths.
-fr.education.entraide.maths	Entraide pour les devoirs de maths.
 fr.lettres.ecriture	Tous les aspects lies a l'ecriture.
 fr.lettres.langue.allemande	Discussions sur la langue allemande.
 fr.lettres.langue.anglaise	Discussions sur la langue anglaise.

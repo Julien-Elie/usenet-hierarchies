@@ -1,7 +1,5 @@
 fr.bienvenue	http://www.usenet-fr.net/fur/chartes/bienvenue.html
 fr.bio.medecine	http://www.usenet-fr.net/fur/chartes/bio.medecine.html
-fr.bio.medecine.veterinaire	http://www.usenet-fr.net/fur/chartes/bio.medecine.veterinaire.html
-fr.bio.pharmacie	http://www.usenet-fr.net/fur/chartes/bio.pharmacie.html
 fr.comp.algorithmes	http://www.usenet-fr.net/fur/chartes/comp.algorithmes.html
 fr.comp.applications.bureautique	http://www.usenet-fr.net/fur/chartes/comp.applications.bureautique.html
 fr.comp.applications.editeurs-de-texte	http://www.usenet-fr.net/fur/chartes/comp.applications.editeurs-de-texte.html
@@ -14,18 +12,10 @@ fr.comp.developpement	http://www.usenet-fr.net/fur/chartes/comp.developpement.ht
 fr.comp.developpement.agl.windev	http://www.usenet-fr.net/fur/chartes/comp.developpement.agl.windev.html
 fr.comp.divers	http://www.usenet-fr.net/fur/chartes/comp.divers.html
 fr.comp.emulateurs	http://www.usenet-fr.net/fur/chartes/comp.emulateurs.html
-fr.comp.graphisme.multimedia	http://www.usenet-fr.net/fur/chartes/comp.graphisme.multimedia.html
-fr.comp.graphisme.pao	http://www.usenet-fr.net/fur/chartes/comp.graphisme.pao.html
 fr.comp.ia	http://www.usenet-fr.net/fur/chartes/comp.ia.html
 fr.comp.infosystemes	http://www.usenet-fr.net/fur/chartes/comp.infosystemes.html
-fr.comp.infosystemes.www.auteurs	http://www.usenet-fr.net/fur/chartes/comp.infosystemes.www.auteurs.html
-fr.comp.infosystemes.www.divers	http://www.usenet-fr.net/fur/chartes/comp.infosystemes.www.divers.html
 fr.comp.infosystemes.www.navigateurs	http://www.usenet-fr.net/fur/chartes/comp.infosystemes.www.navigateurs.html
-fr.comp.infosystemes.www.serveurs	http://www.usenet-fr.net/fur/chartes/comp.infosystemes.www.serveurs.html
-fr.comp.integration	http://www.usenet-fr.net/fur/chartes/comp.integration.html
 fr.comp.internet.medias-sociaux	http://www.usenet-fr.net/fur/chartes/comp.internet.medias-sociaux.html
-fr.comp.internet.medias-sociaux.twitter	http://www.usenet-fr.net/fur/chartes/comp.internet.medias-sociaux.twitter.html
-fr.comp.internet.tor	http://www.usenet-fr.net/fur/chartes/comp.internet.tor.html
 fr.comp.lang.ada	http://www.usenet-fr.net/fur/chartes/comp.lang.ada.html
 fr.comp.lang.c	http://www.usenet-fr.net/fur/chartes/comp.lang.c.html
 fr.comp.lang.c++	http://www.usenet-fr.net/fur/chartes/comp.lang.cpp.html
@@ -87,9 +77,6 @@ fr.comp.text.xml	http://www.usenet-fr.net/fur/chartes/comp.text.xml.html
 fr.comp.usenet.lecteurs-de-news	http://www.usenet-fr.net/fur/chartes/comp.usenet.lecteurs-de-news.html
 fr.comp.usenet.serveurs	http://www.usenet-fr.net/fur/chartes/comp.usenet.serveurs.html
 fr.comp.virtualisation	http://www.usenet-fr.net/fur/chartes/comp.virtualisation.html
-fr.education.divers	http://www.usenet-fr.net/fur/chartes/education.divers.html
-fr.education.entraide	http://www.usenet-fr.net/fur/chartes/education.entraide.html
-fr.education.entraide.maths	http://www.usenet-fr.net/fur/chartes/education.entraide.maths.html
 fr.lettres.ecriture	http://www.usenet-fr.net/fur/chartes/lettres.ecriture.html
 fr.lettres.langue.allemande	http://www.usenet-fr.net/fur/chartes/lettres.langue.allemande.html
 fr.lettres.langue.anglaise	http://www.usenet-fr.net/fur/chartes/lettres.langue.anglaise.html
