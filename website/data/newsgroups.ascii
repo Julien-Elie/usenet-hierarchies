@@ -28433,11 +28433,11 @@ fr.bio.pharmacie	Discussions sur la pharmacie.
 fr.comp.algorithmes	Recherches, discussions et descriptions d'algorithmes.
 fr.comp.applications.bureautique	Les logiciels de bureautique.
 fr.comp.applications.editeurs-de-texte	Les editeurs de texte.
-fr.comp.applications.emacs	Editeur de textes Emacs et ses extensions.
+fr.comp.applications.emacs	L'editeur de texte Emacs et ses extensions.
 fr.comp.applications.genealogie	Tout sur les logiciels de genealogie.
 fr.comp.applications.libres	Les solutions libres en informatique.
 fr.comp.applications.sgbd	Discussions sur les bases de donnees.
-fr.comp.applications.x11	Systeme de multifenetrage X11.
+fr.comp.applications.x11	Le systeme de multifenetrage X11.
 fr.comp.developpement	Methodologies, methodes et outils.
 fr.comp.developpement.agl.windev	L'AGL (Atelier de Genie Logiciel) WinDev.
 fr.comp.divers		Discussions diverses sur l'informatique.
@@ -28445,10 +28445,10 @@ fr.comp.emulateurs	Discussions sur les emulateurs.
 fr.comp.graphisme.multimedia	Conception graphique de sites Web, de cederoms.
 fr.comp.graphisme.pao	Techniques de publication assistee par ordinateur.
 fr.comp.ia		L'Intelligence Artificielle.
-fr.comp.infosystemes	Tous les systemes d'information reseau.
+fr.comp.infosystemes	Les protocoles d'Internet (Gemini, Gopher, FTP...), la conception de SI...
 fr.comp.infosystemes.www.auteurs	DTD HTML, scripts CGI et API WWW.
 fr.comp.infosystemes.www.divers	Discussions diverses sur le WWW.
-fr.comp.infosystemes.www.navigateurs	Logiciels de navigation sur le WWW.
+fr.comp.infosystemes.www.navigateurs	Chrome, Safari, Firefox, Edge, Opera, Vivaldi...
 fr.comp.infosystemes.www.serveurs	Administration de serveurs WWW.
 fr.comp.integration	Integration de systemes informatiques heterogenes.
 fr.comp.internet.medias-sociaux	Le web participatif et les medias sociaux.
@@ -28481,12 +28481,12 @@ fr.comp.os.bsd		Systemes BSD et derives (NetBSD, FreeBSD...).
 fr.comp.os.linux.configuration	Prise en main d'un systeme Linux.
 fr.comp.os.linux.debats	Promouvoir, critiquer et troller sur Linux.
 fr.comp.os.mac-os.x	Mac OS X, OS X, macOS, Darwin et leurs evolutions.
-fr.comp.os.ms-windows	Les Systemes d'Exploitation (SE) Microsoft Windows.
+fr.comp.os.ms-windows	Les systemes d'exploitation Microsoft Windows.
 fr.comp.os.ms-windows.programmation	Programmation sous Microsoft Windows.
 fr.comp.os.ms-windows.serveurs	Administration sous les SE serveurs Microsoft.
 fr.comp.os.msdos	Systeme MS-DOS.
 fr.comp.os.os2		Systeme OS/2 d'IBM.
-fr.comp.os.unix		Systeme Unix.
+fr.comp.os.unix		Les systemes de la famille Unix et ses derives.
 fr.comp.os.vms		Systeme VMS de Digital.
 fr.comp.os.windows-phone	Prise en main de Windows Phone.
 fr.comp.peripheriques.modems	Discussions techniques sur les modems.
@@ -28715,7 +28715,7 @@ fr.usenet.abus.rapports	Rapports reguliers sur les actions anti-abus. (Moderated
 fr.usenet.distribution	Distribution des news fr.
 fr.usenet.divers	Ce qui ne va pas ailleurs dans fr.usenet.
 fr.usenet.documents	Documents publies sur Usenet-fr.
-fr.usenet.forums.annonces	Annonces de nouveaux forums et de discussions. (Moderated)
+fr.usenet.forums.annonces	Annonces des evolutions de la hierarchie. (Moderated)
 fr.usenet.forums.evolution	Discussions sur la creation de nouveaux forums fr.
 fr.usenet.stats		Statistiques concernant les news fr. (Moderated)
 fr.usenet.usages	Discussions sur les bons usages sur Usenet-fr.
