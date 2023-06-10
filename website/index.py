@@ -39,8 +39,11 @@ _MANAGED = (
 )
 _UNMANAGED = (
     "<p>An unmanaged hierarchy is a hierarchy in which everyone can create"
-    " a newsgroup.  There is no official, generally accepted policy.  The list"
-    " of carried newsgroups is usually different between news servers.</p>\n"
+    " a newsgroup.  There is no official, generally accepted policy.  The"
+    " proponent sends creation articles himself, and there isn't any hierarchy"
+    " manager who sends a list of current newsgroups in the hierarchy.  The"
+    " list of actually carried newsgroups is usually different between news"
+    " servers.</p>\n"
 )
 _PRIVATE = (
     "<p>A private hierarchy should only be carried after making arrangements"
