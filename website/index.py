@@ -108,7 +108,13 @@ _SOURCE = (
     ' <a href="https://ftp.isc.org/pub/pgpcontrol/README.html">the list of PGP'
     " public keys for newsgroup administration</a> and"
     ' <a href="https://ftp.isc.org/pub/usenet/CONFIG/LOGS/">the logs of'
-    " control messages</a>.</em><br>\n<em>You might also want to read"
+    " control messages</a>.</em><br>\n<em>Those external data are used to"
+    " generate this web site.  To report an issue about the generation, please"
+    " use the "
+    ' <a href="https://github.com/Julien-Elie/usenet-hierarchies/issues">issue'
+    " tracker on GitHub</a> or post to"
+    ' <a href="news:news.admin.hierarchies">news.admin.hierarchies</a>.'
+    " </em><br>\n<em>You might also want to read"
     ' <a href="https://www.eyrie.org/~eagle/faqs/usenet-hier.html">the Usenet'
     " hierarchy administration FAQ</a>.</em></p>\n"
 )
