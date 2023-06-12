@@ -66,3 +66,11 @@ with something like that in the corresponding VirtualHost:
     WSGIDaemonProcess usenet.trigofacile.com
     WSGIProcessGroup usenet.trigofacile.com
 ```
+
+- If you wish to use URL rewriting to have nice URLs like
+http://usenet.trigofacile.com/hierarchies/checkgroups/fr.txt instead of
+http://usenet.trigofacile.com/hierarchies/index.py?see=FR&only=checkgroups,
+enable the `mod_rewrite` Apache module, set `_REWRITEURL` to `True` in
+`index.py`, and ensure the `RewriteRule` lines in `.htaccess` fit your
+installation.  Otherwise, just set `_REWRITEURL` to `False` and comment the
+`RewriteRule` lines in `.htaccess`.

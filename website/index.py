@@ -23,6 +23,9 @@ _FAVICON = "/favicon.ico"
 _STYLE = "/style.css"
 _SUBDIR = "/hierarchies/"
 
+# Enable if URL rewriting is on.
+_REWRITEURL = True
+
 # These URLs may be local paths if you're hosting a mirror.
 _URL_CONTROL_ISC = "https://ftp.isc.org/usenet/control/"
 _URL_LOGS_ISC = "https://ftp.isc.org/usenet/CONFIG/LOGS/"
@@ -89,11 +92,19 @@ _SEVERAL = (
     " loading a web page of the form:<br>"
     '\n<a href="'
     + _SUBDIR
-    + 'index.py?see=COMP,HUMANITIES,MISC,NEWS,REC,SCI,SOC,TALK">'
+    + (
+        'comp,humanities,misc,news,rec,sci,soc,talk.html">'
+        if _REWRITEURL
+        else 'index.py?see=COMP,HUMANITIES,MISC,NEWS,REC,SCI,SOC,TALK">'
+    )
     + _WEBSITE
     + _SUBDIR
-    + "index.py?see=COMP,HUMANITIES,MISC,NEWS,REC,SCI,SOC,TALK</a> (example"
-    " for the Big 8).</p>\n"
+    + (
+        "comp,humanities,misc,news,rec,sci,soc,talk.html"
+        if _REWRITEURL
+        else "index.py?see=COMP,HUMANITIES,MISC,NEWS,REC,SCI,SOC,TALK"
+    )
+    + "</a> (example for the Big 8).</p>\n"
 )
 
 _CHECKLOGS = (
@@ -148,19 +159,54 @@ def _html_begin(title):
 <p class="navigation">
 <a href="'''
         + _SUBDIR
-        + 'index.py?status=managed">Public managed hierarchies</a> | <a href="'
+        + (
+            "managed-hierarchies.html"
+            if _REWRITEURL
+            else "index.py?status=managed"
+        )
+        + '">Public managed hierarchies</a> | <a href="'
         + _SUBDIR
-        + 'index.py?status=unmanaged">Unmanaged hierarchies</a> | <a href="'
+        + (
+            "unmanaged-hierarchies.html"
+            if _REWRITEURL
+            else "index.py?status=unmanaged"
+        )
+        + '">Unmanaged hierarchies</a> | <a href="'
         + _SUBDIR
-        + 'index.py?status=private">Private hierarchies</a> | <a href="'
+        + (
+            "private-hierarchies.html"
+            if _REWRITEURL
+            else "index.py?status=private"
+        )
+        + '">Private hierarchies</a> | <a href="'
         + _SUBDIR
-        + 'index.py?status=local">Local hierarchies</a> | <a href="'
+        + (
+            "local-hierarchies.html"
+            if _REWRITEURL
+            else "index.py?status=local"
+        )
+        + '">Local hierarchies</a> | <a href="'
         + _SUBDIR
-        + 'index.py?status=reserved">Reserved hierarchies</a> | <a href="'
+        + (
+            "reserved-hierarchies.html"
+            if _REWRITEURL
+            else "index.py?status=reserved"
+        )
+        + '">Reserved hierarchies</a> | <a href="'
         + _SUBDIR
-        + 'index.py?status=historic">Historic hierarchies</a> | <a href="'
+        + (
+            "historic-hierarchies.html"
+            if _REWRITEURL
+            else "index.py?status=historic"
+        )
+        + '">Historic hierarchies</a> | <a href="'
         + _SUBDIR
-        + """index.py?status=defunct">Defunct hierarchies</a>
+        + (
+            "defunct-hierarchies.html"
+            if _REWRITEURL
+            else "index.py?status=defunct"
+        )
+        + """">Defunct hierarchies</a>
 </p>
 """
     )
@@ -208,7 +254,12 @@ def _print_list_hierarchies(hierlist):
     answer = "<ul>\n"
     for h, d in hierlist:
         answer += (
-            '<li><a href="' + _SUBDIR + "index.py?see=" + h + '">' + h + "</a>"
+            '<li><a href="'
+            + _SUBDIR
+            + (h.lower() + ".html" if _REWRITEURL else "index.py?see=" + h)
+            + '">'
+            + h
+            + "</a>"
         )
         if d:
             answer += " (" + _anchorify(d) + ")"
@@ -363,25 +414,46 @@ def _page_list_hierarchies(dictionary, status):
 def _page_info_hierarchies(dictionary, hierlist, controlstyle):
     """What appears when a list of hierarchies is given (information about
     them)."""
+    controlfiles = {
+        "cnews": "controlperm",
+        "dnews": "control.conf",
+        "inn": "control.ctl",
+    }
     answer = _html_begin("Information about Usenet hierarchies")
     answer += (
         _UPDATE
         + "<p>A text-only version of that page can also be retrieved for"
         ' <a href="'
         + _SUBDIR
-        + "index.py?see="
-        + ",".join(hierlist)
-        + "&amp;controlstyle="
-        + controlstyle
-        + '&amp;only=control">a control access file</a>, <a href="'
+        + (
+            controlfiles.get(controlstyle, "control.ctl")
+            + "/"
+            + ",".join(hierlist).lower()
+            + ".txt"
+            if _REWRITEURL
+            else "index.py?see="
+            + ",".join(hierlist)
+            + "&amp;controlstyle="
+            + controlstyle
+            + "&amp;only=control"
+        )
+        + '">a <em>'
+        + controlfiles[controlstyle]
+        + '</em> access file</a>, <a href="'
         + _SUBDIR
-        + "index.py?see="
-        + ",".join(hierlist)
-        + '&amp;only=pgpkeys">PGP keys</a> and <a href="'
+        + (
+            "pgpkeys/" + ",".join(hierlist).lower() + ".txt"
+            if _REWRITEURL
+            else "index.py?see=" + ",".join(hierlist) + "&amp;only=pgpkeys"
+        )
+        + '">PGP keys</a> and <a href="'
         + _SUBDIR
-        + "index.py?see="
-        + ",".join(hierlist)
-        + '&amp;only=checkgroups">a checkgroups</a>.  <a href="'
+        + (
+            "checkgroups/" + ",".join(hierlist).lower() + ".txt"
+            if _REWRITEURL
+            else "index.py?see=" + ",".join(hierlist) + "&amp;only=checkgroups"
+        )
+        + '">a checkgroups</a>.  <a href="'
         + _SUBDIR
         + 'data/">Full files</a> are also available.</p>\n'
     )
@@ -668,6 +740,20 @@ def application(environ, start_response):
     see = cgi.escape(query.get("see", [""])[0])
     controlstyle = cgi.escape(query.get("controlstyle", ["inn"])[0])
     only = cgi.escape(query.get("only", [""])[0])
+
+    # As the information is not provided in the query string after RewriteRule
+    # rewrites the URL, we need to compute it.
+    if _REWRITEURL and "controlstyle" not in query:
+        if only == "control.conf":
+            only = "control"
+            controlstyle = "dnews"
+        elif only == "controlperm":
+            only = "control"
+            controlstyle = "cnews"
+        else:
+            if only.startswith("control"):
+                only = "control"
+            controlstyle = "inn"
 
     dictionary = libusenet_hierarchies._xml2dict(
         libusenet_hierarchies._DATABASE
