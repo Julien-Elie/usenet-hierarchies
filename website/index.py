@@ -218,15 +218,10 @@ def _print_list_hierarchies(hierlist):
 
 
 def _print_control_entry(dictionary, name, text=True, controlstyle="inn"):
-    """Write a control.ctl entry."""
+    """Write a control.ctl, control.conf or controlperm entry."""
     h = libusenet_hierarchies.Hierarchy()
     h.dict2hier({name: dictionary.get(name, {})})
     answer = ""
-
-    if text:
-        endline = "\n"
-    else:
-        endline = "<br>"
 
     if text:
         # First line:
@@ -276,19 +271,18 @@ def _print_control_entry(dictionary, name, text=True, controlstyle="inn"):
             else:
                 param = "pv " + control[3]
             answer += (
-                " ".join([control[2], control[1], control[0][0], param])
-                + endline
+                " ".join([control[2], control[1], control[0][0], param]) + "\n"
             )
         elif controlstyle == "dnews":
             # pgp
             if control[3] not in ["doit", "drop", "log", "mail"]:
                 control[3] = "doit,pgp"
-            answer += ":".join(control) + endline
+            answer += ":".join(control) + "\n"
         else:
             # pgp, so add 'verify-'
             if control[3] not in ["doit", "drop", "log", "mail"]:
                 control[3] = "verify-" + control[3]
-            answer += ":".join(control) + endline
+            answer += ":".join(control) + "\n"
     return answer
 
 
