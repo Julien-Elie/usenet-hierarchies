@@ -509,45 +509,20 @@ def _page_info_hierarchies(dictionary, hierlist, controlstyle):
                 answer += "</pre></li>\n"
 
             if "control" in d:
-                link = _SUBDIR + "index.py?see=" + ",".join(hierlist)
-                if showactions == "all":
-                    link += "&amp;showactions=all"
-                link += "&amp;controlstyle="
-                if controlstyle == "cnews":
-                    answer += (
-                        "<li><p>C News' <em>controlperm</em> entry:"
-                        ' [<a href="'
-                        + link
-                        + 'dnews">DNews</a> or <a href="'
-                        + link
-                        + 'inn">INN</a> also available]</p>\n<pre'
-                        ' class="control">\n'
-                    )
-                elif controlstyle == "dnews":
-                    answer += (
-                        "<li><p>DNews' <em>control.conf</em> entry:"
-                        ' [<a href="'
-                        + link
-                        + 'cnews">C News</a> or <a href="'
-                        + link
-                        + 'inn">INN</a> also available]</p>\n<pre'
-                        ' class="control">\n'
-                    )
-                else:
-                    controlstyle = "inn"
-                    answer += (
-                        "<li><p>INN's <em>control.ctl</em> entry: [<a href=\""
-                        + link
-                        + 'cnews">C News</a> or <a href="'
-                        + link
-                        + 'dnews">DNews</a> also available]</p>\n<pre'
-                        ' class="control">\n'
-                    )
-
-                answer += _print_control_entry(
-                    dictionary, item, False, controlstyle
+                answer += (
+                    "<li><p>INN's <em>control.ctl</em> entry:</p>\n"
+                    '<pre class="control">\n'
+                    + _print_control_entry(dictionary, item, False, "inn")
+                    + "</pre>\n<details><summary>Click to see C News'"
+                    " <em>controlperm</em> entry"
+                    '</summary>\n<pre class="control">\n'
+                    + _print_control_entry(dictionary, item, False, "cnews")
+                    + "</pre></details>\n<details><summary>Click to see DNews'"
+                    " <em>control.conf</em> entry"
+                    '</summary>\n<pre class="control">\n'
+                    + _print_control_entry(dictionary, item, False, "dnews")
+                    + "</pre></details><p>&nbsp;</p></li>\n"
                 )
-                answer += "</pre></li>\n"
 
             hierarchy = item.lower() + "."
             actions = []
