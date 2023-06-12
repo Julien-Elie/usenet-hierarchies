@@ -360,7 +360,7 @@ def _page_list_hierarchies(dictionary, status):
     return answer
 
 
-def _page_info_hierarchies(dictionary, hierlist, controlstyle, showactions):
+def _page_info_hierarchies(dictionary, hierlist, controlstyle):
     """What appears when a list of hierarchies is given (information about
     them)."""
     answer = _html_begin("Information about Usenet hierarchies")
@@ -551,6 +551,7 @@ def _page_info_hierarchies(dictionary, hierlist, controlstyle, showactions):
 
             hierarchy = item.lower() + "."
             actions = []
+            nextactions = []
             changegroup = []
             for line in prettylogs:
                 elem = line.split()
@@ -585,42 +586,35 @@ def _page_info_hierarchies(dictionary, hierlist, controlstyle, showactions):
                                 + elem[3]
                                 + '.gz">by control article</a>)'
                             )
-                    # Only display the action if it occurred within the year.
-                    # 365*24*60*60 = 31536000 seconds in a year.
-                    timestamp = time.strptime(line[:19], "%Y-%m-%d %H:%M:%S")
-                    delta = time.mktime(time.gmtime()) - time.mktime(timestamp)
-                    if delta > 31536000 and showactions != "all":
-                        continue
                     if line.endswith("(manual)"):
-                        actions.append(line)
+                        pass
                     elif line.endswith("(by checkgroups)"):
-                        actions.append(
-                            line.replace(
-                                "by checkgroups",
-                                '<a href="'
-                                + _URL_CONTROL_ISC
-                                + "other.ctl/checkgroups."
-                                + elem[0][:4]
-                                + '.gz">by checkgroups</a>',
-                            )
+                        line = line.replace(
+                            "by checkgroups",
+                            '<a href="'
+                            + _URL_CONTROL_ISC
+                            + "other.ctl/checkgroups."
+                            + elem[0][:4]
+                            + '.gz">by checkgroups</a>',
                         )
                     else:
-                        actions.append(
-                            line
-                            + ' (<a href="'
+                        line += (
+                            ' (<a href="'
                             + _URL_CONTROL_ISC
                             + hierarchy[:-1]
                             + "/"
                             + elem[3]
                             + '.gz">by control article</a>)'
                         )
-            link = (
-                _SUBDIR
-                + "index.py?see="
-                + ",".join(hierlist)
-                + "&amp;controlstyle="
-                + controlstyle
-            )
+                    # Only display by default the action if it occurred within
+                    # the year.
+                    # 365*24*60*60 = 31536000 seconds in a year.
+                    timestamp = time.strptime(line[:19], "%Y-%m-%d %H:%M:%S")
+                    delta = time.mktime(time.gmtime()) - time.mktime(timestamp)
+                    if delta > 31536000:
+                        nextactions.append(line)
+                    else:
+                        actions.append(line)
             if changegroup:
                 answer += (
                     "<li><p>Newsgroups which have had retrocharters changing"
@@ -631,36 +625,36 @@ def _page_info_hierarchies(dictionary, hierlist, controlstyle, showactions):
                     answer += action + "\n"
                 answer += "</pre></li>\n"
             if actions:
-                if showactions == "all":
-                    answer += (
-                        '<li><p>Actions since May 2003: [<a href="'
-                        + link
-                        + '">see less actions</a>]</p>\n<pre'
-                        ' class="actions">\n'
-                    )
-                else:
-                    answer += (
-                        '<li><p>Actions since a year: [<a href="'
-                        + link
-                        + '&amp;showactions=all">see more'
-                        ' actions</a>]</p>\n<pre class="actions">\n'
-                    )
+                answer += (
+                    '<li><p>Actions since a year:</p>\n<pre class="actions">\n'
+                )
                 for action in actions:
                     answer += action + "\n"
-                answer += "</pre></li>\n"
+
+                answer += "</pre>\n"
+                if nextactions:
+                    answer += (
+                        "<details><summary>Click to see more actions"
+                        " (since May 2003)"
+                        '</summary>\n<pre class="actions">\n'
+                    )
+                    for nextaction in nextactions:
+                        answer += nextaction + "\n"
+                    answer += "</pre></details><p>&nbsp;</p>"
+                answer += "</li>\n"
             else:
-                if showactions == "all":
+                if nextactions:
                     answer += (
-                        "<li><p>Actions since May 2003:"
-                        " none<br>&nbsp;</p></li>\n"
+                        "<li><p>Actions since a year: none</p>\n"
+                        "<details><summary>Click to see more actions"
+                        " (since May 2003)"
+                        '</summary>\n<pre class="actions">\n'
                     )
+                    for nextaction in nextactions:
+                        answer += nextaction + "\n"
+                    answer += "</pre></details><p>&nbsp;</p></li>\n"
                 else:
-                    answer += (
-                        '<li><p>Actions since a year: none [<a href="'
-                        + link
-                        + '&amp;showactions=all">see more'
-                        " actions</a>]<br>&nbsp;</p></li>\n"
-                    )
+                    answer += "<li><p>Actions since May 2003: none</p></li>\n"
 
             matched = []
             for line in newsgroups:
@@ -699,7 +693,6 @@ def application(environ, start_response):
     see = cgi.escape(query.get("see", [""])[0])
     controlstyle = cgi.escape(query.get("controlstyle", ["inn"])[0])
     only = cgi.escape(query.get("only", [""])[0])
-    showactions = cgi.escape(query.get("showactions", [""])[0])
 
     dictionary = libusenet_hierarchies._xml2dict(
         libusenet_hierarchies._DATABASE
@@ -760,7 +753,7 @@ def application(environ, start_response):
         content_type = "text/html; charset=utf-8"
         if see:
             answer += _page_info_hierarchies(
-                dictionary, hierlist, controlstyle, showactions
+                dictionary, hierlist, controlstyle
             )
         else:
             answer += _page_list_hierarchies(dictionary, status)
