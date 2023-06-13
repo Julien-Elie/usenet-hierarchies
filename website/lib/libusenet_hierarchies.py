@@ -242,8 +242,11 @@ def _add_info(dictionary):
                 if "key" in dictionary[hierarchy]:
                     dictionary[hierarchy]["status"] = ["PGPMANAGED"]
                 else:
-                    # alt.* and free.* are special.
-                    if hierarchy in ["ALT", "FREE"]:
+                    # alt.*, free.*, it-alt.* and oesterreich.* are unmanaged
+                    # hierarchies (the proponent sends newgroup control
+                    # articles himself, and there's no hierarchy manager who
+                    # sends checkgroups).
+                    if hierarchy in ["ALT", "FREE", "IT-ALT", "OESTERREICH"]:
                         dictionary[hierarchy]["status"] = ["UNMANAGED"]
                     else:
                         dictionary[hierarchy]["status"] = ["MANAGED"]

@@ -226,7 +226,13 @@ for line in codecs.open(ISC_CONTROL_FILE, "r", "utf-8"):
                 elements2 = elements[1][:-1].split(" -- ")
                 if len(elements2) == 1:
                     for hierName in names:
-                        hierarchies_dict[hierName]["Status"] = "Complete"
+                        # free.*, it-alt.* and oesterreich.* are unmanaged
+                        # hierarchy.  Consider them as incomplete, like alt.*
+                        # below.
+                        if hierName in ["free", "it-alt", "oesterreich"]:
+                            hierarchies_dict[hierName]["Status"] = "Incomplete"
+                        else:
+                            hierarchies_dict[hierName]["Status"] = "Complete"
                         if elements2[0] not in ["?"]:
                             hierarchies_dict[hierName]["Description"] = (
                                 elements2[0]
