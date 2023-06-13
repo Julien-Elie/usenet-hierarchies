@@ -1,4 +1,4 @@
-#!/usr/bin/python2
+#!/usr/bin/python3
 # -*- encoding: utf-8 -*-
 #
 # Local script used by nas.trigofacile.com to generate the NAS database
@@ -24,7 +24,8 @@
 
 import codecs
 import os
-import urllib2
+import urllib.error
+import urllib.request
 
 # Local paths to data directories.
 DATAHIERPATH = "/home/news/nas/data/hierarchies"
@@ -336,7 +337,7 @@ for line in codecs.open(ISC_PGPKEYS_FILE, "r", "ISO-8859-1"):
                 hierarchies_dict[hierName]["Ctl-PGP-Key_U"] = [
                     line.replace("Key User ID: ", "")
                 ]
-        elif line.startswith("pub  ") or line.startswith(u"öff  "):
+        elif line.startswith("pub  ") or line.startswith("öff  "):
             keydesc = True
             elements = line.split(None, 3)
             (bits, keyid) = elements[1].split("/")
@@ -495,8 +496,8 @@ for ngp in sorted(status_dict.keys()):
         url += ".html"
 
         try:
-            response = urllib2.urlopen(url)
-        except urllib2.URLError as exception:
+            response = urllib.request.urlopen(url)
+        except urllib.error.HTTPError as exception:
             response = exception
         if response.code == 200:
             f_ngp_charter.write(ngp + "\t" + url + "\n")

@@ -26,7 +26,9 @@ site](https://github.com/Julien-Elie/usenet-hierarchies/tree/main/website).
 
 ## Requirements
 
-- The NAS server and its related support scripts are written in Python 2.
+- The NAS server and its related support scripts are written in Python 3.
+(A working version for Python 2 can be found in the history of the Git
+repository, but is no longer updated.)
 
 
 ## NAS Database
