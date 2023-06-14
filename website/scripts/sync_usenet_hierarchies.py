@@ -124,6 +124,10 @@ if parse:
         libusenet_hierarchies._NEWSGROUPS, dictionary
     )
 
+    dictionary = libusenet_hierarchies._parse_hierarchy_notes(
+        libusenet_hierarchies._HIERARCHY_NOTES, dictionary
+    )
+
     libusenet_hierarchies._dict2xml(
         dictionary, libusenet_hierarchies._DATABASE
     )

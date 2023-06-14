@@ -242,9 +242,10 @@
    <newsgroups>alive.*</newsgroups>
    <action>doit</action>
   </control>
-  <contact>thijs@kink.xs4all.nl</contact>
   <description>?</description>
+  <notes># It is not clear to tale what the status of this hierarchy is.  His latest&lt;br&gt;# messages to Sander van Minnen &lt;mattew@pobox.org.sg&gt; (or&lt;br&gt;# &lt;mattew@hacktic.nl&gt;) asking for more information regarding what the&lt;br&gt;# hierarchy is about and what its current groups are, were not answered.&lt;br&gt;# It is, however, listed in the ISC active file based on the list of&lt;br&gt;# groups he got in January 1997, and a half-dozen newgroup messages since&lt;br&gt;# then.&lt;br&gt;# Lately, the USENET Config Files FAQ's version of control.ctl says that this&lt;br&gt;# hierarchy is defunct and people should contact &lt;thijs@kink.xs4all.nl&gt; or&lt;br&gt;# &lt;mattew@xs4all.nl&gt; for more information.  It should be removed.</notes>
   <comments># This hierarchy is defunct.  Please remove it.</comments>
+  <contact>thijs@kink.xs4all.nl</contact>
  </hierarchy>
  <hierarchy>
   <name>ALT</name>
@@ -541,9 +542,10 @@
    <newsgroups>backbone.*</newsgroups>
    <action>doit</action>
   </control>
-  <contact>admin@ruhr.de</contact>
   <description>ruhr.de/ruhrgebiet.individual.net in Germany</description>
+  <notes># This hierarchy is for internal use only by ruhr.de.  Contact&lt;br&gt;# &lt;admin@ruhr.de&gt; for more information.</notes>
   <comments># For local use only, contact the above address for information.</comments>
+  <contact>admin@ruhr.de</contact>
  </hierarchy>
  <hierarchy>
   <name>BALT</name>
@@ -714,9 +716,10 @@
    <newsgroups>best.*</newsgroups>
    <action>doit</action>
   </control>
-  <contact>news@best.net</contact>
   <description>Best Internet Communications, Inc.</description>
+  <notes># For Best Internet Communications (best.net) use only.  Contact&lt;br&gt;# &lt;news@best.net&gt; for more information.</notes>
   <comments># For local use only, contact the above address for information.</comments>
+  <contact>news@best.net</contact>
  </hierarchy>
  <hierarchy>
   <name>BIH</name>
@@ -775,9 +778,10 @@
    <newsgroups>birk.*</newsgroups>
    <action>doit</action>
   </control>
-  <contact>birk-admin@ping.uio.no</contact>
   <description>University of Oslo, Norway</description>
+  <notes># Private.  Newgroups were leaked from hastur.rlyeh.net and&lt;br&gt;# starcat.rlyeh.net, two of the peers in the birk.* hierarchy.  Contact&lt;br&gt;# &lt;birk-admin@ping.uio.no&gt; (Jan Ingvoldstad) for more information.</notes>
   <comments># For local use only, contact the above address for information.</comments>
+  <contact>birk-admin@ping.uio.no</contact>
  </hierarchy>
  <hierarchy>
   <name>BIT</name>
@@ -943,6 +947,7 @@
    <action>drop</action>
   </control>
   <description>Bastard Operator From Hell</description>
+  <notes># The Bastard Operator From Hell hierarchy.  Feeds of it are restricted to&lt;br&gt;# those who can figure out how to get a feed.</notes>
   <comments># For private use only, contact the above address for information.&lt;br&gt;# The following three lines are only for authorized bofh.* sites.&lt;br&gt;#checkgroups:bofh-control@killfile.org:bofh.*:verify-bofh-control@lists.killfile.org&lt;br&gt;#newgroup:bofh-control@killfile.org:bofh.*:verify-bofh-control@lists.killfile.org&lt;br&gt;#rmgroup:bofh-control@killfile.org:bofh.*:verify-bofh-control@lists.killfile.org</comments>
   <contact>bofh-control@lists.killfile.org</contact>
   <key_fingerprint>40B5 8A56 1E00 6152 083E  38B3 CEF5 6980 7DC1 A266</key_fingerprint>
@@ -1006,9 +1011,10 @@
    <newsgroups>cais.*</newsgroups>
    <action>doit</action>
   </control>
-  <contact>news@cais.com</contact>
   <description>Capital Area Internet Services</description>
+  <notes># For Capital Area Internet Service (cais.com) use only.  Contact&lt;br&gt;# &lt;news@cais.com&gt; for more information.</notes>
   <comments># For local use only, contact the above address for information.</comments>
+  <contact>news@cais.com</contact>
  </hierarchy>
  <hierarchy>
   <name>CALGARY</name>
@@ -1144,9 +1150,10 @@
    <newsgroups>cd-online.*</newsgroups>
    <action>doit</action>
   </control>
-  <contact>newsmaster@worldonline.nl</contact>
   <description>?</description>
+  <notes># For Worldonline, Inc (worldonline.nl) use only.  Contact&lt;br&gt;# &lt;newsmaster@worldonline.nl&gt; for more information.</notes>
   <comments># For local use only, contact the above address for information.</comments>
+  <contact>newsmaster@worldonline.nl</contact>
  </hierarchy>
  <hierarchy>
   <name>CENTRAL</name>
@@ -1163,9 +1170,10 @@
    <newsgroups>central.*</newsgroups>
    <action>doit</action>
   </control>
-  <contact>usenet@iconz.co.nz</contact>
   <description>The Internet Company of New Zealand, Wellington, NZ</description>
+  <notes># For use by The Internet Company of New Zealand only.  Contact&lt;br&gt;# &lt;usenet@iconz.co.nz&gt; for more information.</notes>
   <comments># For local use only, contact the above address for information.</comments>
+  <contact>usenet@iconz.co.nz</contact>
  </hierarchy>
  <hierarchy>
   <name>CERN</name>
@@ -1241,9 +1249,10 @@
    <newsgroups>chaven.*</newsgroups>
    <action>doit</action>
   </control>
-  <contact>news@chaven.com</contact>
   <description>Celestian Haven ISP, Midwest, USA</description>
+  <notes># For internal use only by Celestial Haven ISP.  Contact &lt;news@chaven.com&gt;&lt;br&gt;# for more information.</notes>
   <comments># For local use only, contact the above address for information.</comments>
+  <contact>news@chaven.com</contact>
  </hierarchy>
  <hierarchy>
   <name>CHEESE-HOUSE</name>
@@ -1378,6 +1387,7 @@
   </control>
   <description>CL-Netz, German</description>
   <url>http://www.cl-netz.de/</url>
+  <notes># For internal use only by CL-Netz.  Contact &lt;koordination@cl-netz.de&gt; for&lt;br&gt;# more information.</notes>
   <key_url>http://www.cl-netz.de/control.txt</key_url>
   <comments># For private use only, contact above address for questions.&lt;br&gt;# The following three lines are only for authorized cl.* sites.&lt;br&gt;#checkgroups:koordination@cl-netz.de:cl.*:verify-cl.netz.infos&lt;br&gt;#newgroup:koordination@cl-netz.de:cl.*:verify-cl.netz.infos&lt;br&gt;#rmgroup:koordination@cl-netz.de:cl.*:verify-cl.netz.infos</comments>
   <admin_group>cl.admin.infos</admin_group>
@@ -1441,9 +1451,10 @@
    <newsgroups>cmi.*</newsgroups>
    <action>doit</action>
   </control>
-  <contact>news@ks.uiuc.edu</contact>
   <description>Champaign County, IL, USA</description>
+  <notes># For internal use only at the University of Illinois at Urbana-Champaign,&lt;br&gt;# per mail from Bruce Gletty, CCSO news manager @uiuc.edu, July 1998.&lt;br&gt;# Later informed by &lt;foertsch@ux1.cso.uiuc.edu&gt; that, &quot;any 'cmi' group is&lt;br&gt;# owned by prairienet and they need to bless any distribution beyond&lt;br&gt;# campus/local ISPs&quot;.</notes>
   <comments># For local use only, contact the above address for information.</comments>
+  <contact>news@ks.uiuc.edu</contact>
  </hierarchy>
  <hierarchy>
   <name>CMU</name>
@@ -1460,9 +1471,10 @@
    <newsgroups>cmu.*</newsgroups>
    <action>doit</action>
   </control>
-  <contact>Daniel Edward Lovinger &lt;del+@CMU.EDU&gt;</contact>
   <description>Carnegie-Mellon University, Pennsylvania, USA</description>
+  <notes># For Carnegie-Mellon University use only, per Dan Lovinger&lt;br&gt;# &lt;del+@cmu.edu&gt;, CMU Computing Services, August 1994.</notes>
   <comments># For local use only, contact the above address for information.</comments>
+  <contact>Daniel Edward Lovinger &lt;del+@CMU.EDU&gt;</contact>
  </hierarchy>
  <hierarchy>
   <name>CN</name>
@@ -1819,9 +1831,10 @@
    <newsgroups>cuhk.*</newsgroups>
    <action>doit</action>
   </control>
-  <contact>shlam@ie.cuhk.edu.hk (Alan S H Lam)</contact>
   <description>Chinese University of Hong Kong</description>
+  <notes># In September of 1998, 22 Usenet newgroup control messages were sent&lt;br&gt;# around the world for groups in the cuhk.* hierarchy by a half-dozen&lt;br&gt;# different people in the Engineering Faculty CUHK at cuhk.edu.hk (Hong&lt;br&gt;# Kong).  Alan S. H. Lam &lt;shlam@ie.cuhk.edu.hk&gt; reported to tale that it was&lt;br&gt;# accidental and the hierarchy is private.</notes>
   <comments># For local use only, contact the above address for information.</comments>
+  <contact>shlam@ie.cuhk.edu.hk (Alan S H Lam)</contact>
  </hierarchy>
  <hierarchy>
   <name>CUUG</name>
@@ -2064,9 +2077,10 @@
    <newsgroups>duke.*</newsgroups>
    <action>doit</action>
   </control>
-  <contact>news@newsgate.duke.edu</contact>
   <description>Duke University, USA</description>
+  <notes># For use by Duke University only.  Contact &lt;news@newsgate.duke.edu&gt; for more&lt;br&gt;# information.</notes>
   <comments># For local use only, contact the above address for information.</comments>
+  <contact>news@newsgate.duke.edu</contact>
  </hierarchy>
  <hierarchy>
   <name>DUNGEON</name>
@@ -2541,6 +2555,7 @@
  </hierarchy>
  <hierarchy>
   <name>FA</name>
+  <notes># This hierarchy is defunct since the late 1980s.  It stood for &quot;from&lt;br&gt;# ARPAnet&quot; to reflect that it was for messages gatewayed from ARPAnet&lt;br&gt;# mailing lists into newsgroups.  It should be removed.</notes>
   <description>Gated mailing lists</description>
   <comments>#&lt;br&gt;# This hierarchy was removed in the Great Renaming of 1988.&lt;br&gt;#&lt;br&gt;# A site in Norway is currently (as of 2002) gatewaying various mailing&lt;br&gt;# lists into fa.* newsgroups, but that site does not appear to be issuing&lt;br&gt;# any control messages for those groups.&lt;br&gt;#&lt;br&gt;# This hierarchy is still in use, but it has no active maintainer.&lt;br&gt;# Control messages for this hierarchy should not be honored without&lt;br&gt;# confirming that the sender is the new hierarchy maintainer.</comments>
  </hierarchy>
@@ -3022,9 +3037,10 @@
    <newsgroups>fur.*</newsgroups>
    <action>doit</action>
   </control>
-  <contact>fur-config@news.furry.net</contact>
   <description>furrynet</description>
+  <notes># For Furrynet use only.  Contact &lt;fur-config@taronga.com&gt; for more&lt;br&gt;# information.</notes>
   <comments># For private use only, contact the above address for information.</comments>
+  <contact>fur-config@news.furry.net</contact>
  </hierarchy>
  <hierarchy>
   <name>FX</name>
@@ -3933,9 +3949,10 @@
    <newsgroups>ibmnet.*</newsgroups>
    <action>doit</action>
   </control>
-  <contact>news@ibm.net</contact>
   <description>?</description>
+  <notes># For internal use by IBM Corporation (ibm.net) only.  Contact&lt;br&gt;# &lt;news@ibm.net&gt; for more information.</notes>
   <comments># For local use only, contact the above address for information.</comments>
+  <contact>news@ibm.net</contact>
  </hierarchy>
  <hierarchy>
   <name>IC</name>
@@ -3955,9 +3972,10 @@
    <newsgroups>iconz.*</newsgroups>
    <action>doit</action>
   </control>
-  <contact>usenet@iconz.co.nz</contact>
   <description>The Internet Company of New Zealand, New Zealand</description>
+  <notes># For the Internet Company of New Zealand.  Contact &lt;usenet@iconz.co.nz&gt; for&lt;br&gt;# more information.</notes>
   <comments># For local use only, contact the above address for information.</comments>
+  <contact>usenet@iconz.co.nz</contact>
  </hierarchy>
  <hierarchy>
   <name>IDOCTRA</name>
@@ -4639,9 +4657,10 @@
    <newsgroups>krst.*</newsgroups>
    <action>doit</action>
   </control>
-  <contact>jani@ifi.uio.no</contact>
   <description>University of Oslo, Norway</description>
+  <notes># Local hierarchy for the Committee for Clean Monitors in the Terminal&lt;br&gt;# Rooms (yes, that's what tale was told), University of Oslo, Norway.  Feeds&lt;br&gt;# are restricted.  Contact Jan Ingvoldstad &lt;jani@ifi.uio.no&gt; for more&lt;br&gt;# information.</notes>
   <comments># For local use only, contact the above address for information.</comments>
+  <contact>jani@ifi.uio.no</contact>
  </hierarchy>
  <hierarchy>
   <name>KS</name>
@@ -4765,6 +4784,7 @@
  </hierarchy>
  <hierarchy>
   <name>LIST</name>
+  <notes># Four Collabra newgroups from &lt;news@corp.g2networks.com&gt; on 20 Jul 1998.</notes>
  </hierarchy>
  <hierarchy>
   <name>LOCAL</name>
@@ -4787,6 +4807,7 @@
    <newsgroups>local.*</newsgroups>
    <action>drop</action>
   </control>
+  <notes># This name occurs at many sites for their own local hierarchies.&lt;br&gt;# Distributing a hierarchy by this name off of a single server is a very&lt;br&gt;# bad idea because of the high likelihood of leakage between the unrelated&lt;br&gt;# groups of different sites.</notes>
   <description>Local-only groups</description>
   <comments>#&lt;br&gt;# Historically reserved for local groups and occasionally configured for&lt;br&gt;# such groups in news software.  It is not really a good idea for sites&lt;br&gt;# to use this hierarchy for local groups, since they may occur on many&lt;br&gt;# unconnected sites and may confuse news readers that read at multiple&lt;br&gt;# sites.&lt;br&gt;#</comments>
  </hierarchy>
@@ -4882,9 +4903,10 @@
    <newsgroups>manawatu.*</newsgroups>
    <action>doit</action>
   </control>
-  <contact>alan@manawatu.gen.nz or news@manawatu.gen.nz</contact>
   <description>Manawatu district, New Zealand</description>
+  <notes># For the Manawatu district of New Zealand.  Contact &lt;news@manawatu.gen.nz&gt;&lt;br&gt;# for more information.  According to Alan, somebody in mail to tale, on 5 Feb&lt;br&gt;# 1993, &quot;... it's unlikely that you'll ever see any traffic on it - the&lt;br&gt;# New Zealand net administration prefers that we don't feed regional&lt;br&gt;# distributions through it, and so all manawatu.* groups are blocked from&lt;br&gt;# being fed to the net at the manawatu hub.&quot;</notes>
   <comments># For local use only, contact the above address for information.</comments>
+  <contact>alan@manawatu.gen.nz or news@manawatu.gen.nz</contact>
  </hierarchy>
  <hierarchy>
   <name>MAUS</name>
@@ -4982,6 +5004,7 @@
    <newsgroups>mcom.*</newsgroups>
    <action>doit</action>
   </control>
+  <notes># For Netscape Communications Corp.  Contact &lt;bpolk@netscape.com&gt; (Ben Polk)&lt;br&gt;# for more information.</notes>
   <description>Netscape Inc, USA</description>
   <comments># For local use only.</comments>
  </hierarchy>
@@ -5156,9 +5179,10 @@
    <newsgroups>metropolis.*</newsgroups>
    <action>doit</action>
   </control>
-  <contact>newsmaster@worldonline.nl</contact>
   <description>?</description>
+  <notes># For use by Worldonline, Inc (worldonline.nl) only.  Contact&lt;br&gt;# &lt;newsmaster@worldonline.nl&gt; for more information.</notes>
   <comments># For local use only, contact the above address for information.</comments>
+  <contact>newsmaster@worldonline.nl</contact>
  </hierarchy>
  <hierarchy>
   <name>MEX</name>
@@ -5223,6 +5247,7 @@
   </control>
   <description>Microsoft Corporation, USA</description>
   <url>http://www.trigofacile.com/divers/usenet/clefs/index.htm</url>
+  <notes># Microsoft does not maintain their hierarchy via Usenet control messages.&lt;br&gt;# tale used to receive a list of changes to make every week directly from&lt;br&gt;# Microsoft via email.</notes>
   <key_url>http://www.trigofacile.com/divers/usenet/clefs/pgpkey-microsoft.asc</key_url>
   <comments>#&lt;br&gt;# Control articles for that hierarchy are not issued by Microsoft itself&lt;br&gt;# but by a Usenet active participant in order to improve the quality of&lt;br&gt;# the propagation of Microsoft newsgroups.  Their official URL is:&lt;br&gt;# http://www.microsoft.com/communities/newsgroups/list/en-us/default.aspx&lt;br&gt;#</comments>
   <admin_group>microsoft.public.news.server</admin_group>
@@ -5334,6 +5359,7 @@
    <newsgroups>mod.*</newsgroups>
    <action>doit</action>
   </control>
+  <notes># In the mid-1980s, this was how all moderated newsgroups were identified.&lt;br&gt;# The mod.* hierarchy was removed in the Great Renaming in 1986 when&lt;br&gt;# support for moderated groups by any name was incorporated into B News.&lt;br&gt;# Some people have considered restarting the concept of this hierarchy&lt;br&gt;# (which tale personally thinks it is a bad idea), but as yet it has not been&lt;br&gt;# done.</notes>
   <description>Original top level moderated hierarchy</description>
   <comments># This hierarchy is defunct.  Please remove it.</comments>
  </hierarchy>
@@ -5459,6 +5485,7 @@
  </hierarchy>
  <hierarchy>
   <name>NC</name>
+  <notes># This hierarchy is in use as a regional hierarchy for North Carolina but&lt;br&gt;# has no active maintainer.  Tim Seaver used to manage the hierarchy but&lt;br&gt;# said around 2002 that he'd had no dealings with it in over two years and&lt;br&gt;# the hierarchy is basically &quot;open to anyone who wants it&quot;.</notes>
   <description>North Carolina, USA</description>
   <comments>#&lt;br&gt;# This hierarchy is still in use, but it has no active maintainer.&lt;br&gt;# Control messages for this hierarchy should not be honored without&lt;br&gt;# confirming that the sender is the new hierarchy maintainer.</comments>
  </hierarchy>
@@ -5480,9 +5507,10 @@
    <newsgroups>ncf.*</newsgroups>
    <action>doit</action>
   </control>
-  <contact>news@freenet.carleton.ca</contact>
   <description>National Capital Freenet, Ottawa, Ontario, Canada</description>
+  <notes># For the National Capital Freenet in Ottawa, Canada.  Contact&lt;br&gt;# &lt;news@freenet.carleton.ca&gt; for more information.</notes>
   <comments># For local use only, contact the above address for information.</comments>
+  <contact>news@freenet.carleton.ca</contact>
  </hierarchy>
  <hierarchy>
   <name>NCKU</name>
@@ -5559,6 +5587,7 @@
    <newsgroups>net.*</newsgroups>
    <action>drop</action>
   </control>
+  <notes># This hierarchy is only meant to be carried by sites that live by a&lt;br&gt;# strict set of rules meant to keep down abuse of Usenet and improve the&lt;br&gt;# overall quality of groups.  See &lt;http://www.usenet2.org/&gt; for more&lt;br&gt;# information about this hierarchy.</notes>
   <description>Usenet 2</description>
   <comments>#&lt;br&gt;# This was a failed experiment in a different newsgroup creation policy and&lt;br&gt;# administrative policy which has now been abandoned.&lt;br&gt;#&lt;br&gt;# (This was also the original unmoderated Usenet hierarchy from before the&lt;br&gt;# Great Renaming.  The groups that used to be in net.* in the 1980s are now&lt;br&gt;# in the Big Eight hierarchies.)&lt;br&gt;#</comments>
  </hierarchy>
@@ -5586,9 +5615,10 @@
    <newsgroups>netins.*</newsgroups>
    <action>doit</action>
   </control>
-  <contact>news@netins.net</contact>
   <description>netINS, Inc</description>
+  <notes># For use by netINS, Inc, only.  Contact &lt;kevin@netins.net&gt; (Kevin Houle)&lt;br&gt;# for more information.</notes>
   <comments># For local use only, contact the above address for information.</comments>
+  <contact>news@netins.net</contact>
  </hierarchy>
  <hierarchy>
   <name>NETLINK</name>
@@ -7090,9 +7120,10 @@
    <newsgroups>planet.*</newsgroups>
    <action>doit</action>
   </control>
-  <contact>office@pl.net</contact>
   <description>PlaNet FreeNZ co-operative, New Zealand</description>
+  <notes># Used by both the PlaNet FreeNZ Cooperative in New Zealand and Planet&lt;br&gt;# Systems Inc in Tennessee, USA.  Contact &lt;office@pl.net&gt; or&lt;br&gt;# &lt;news@news.planetc.com&gt; for more information.</notes>
   <comments># For local use only, contact the above address for information.</comments>
+  <contact>office@pl.net</contact>
  </hierarchy>
  <hierarchy>
   <name>PNW</name>
@@ -7118,9 +7149,10 @@
    <newsgroups>prima.*</newsgroups>
    <action>doit</action>
   </control>
-  <contact>admin@prima.ruhr.de</contact>
   <description>prima.ruhr.de/Prima e.V. in Germany</description>
+  <notes># For Prima e.V. in Germany.  Contact &lt;admin@prima.ruhr.de&gt; for more&lt;br&gt;# information.</notes>
   <comments># For local use only, contact the above address for information.</comments>
+  <contact>admin@prima.ruhr.de</contact>
  </hierarchy>
  <hierarchy>
   <name>PRINCETON</name>
@@ -7170,9 +7202,10 @@
    <newsgroups>psu.*</newsgroups>
    <action>doit</action>
   </control>
-  <contact>Dave Barr (barr@math.psu.edu)</contact>
   <description>Penn State University, USA</description>
+  <notes># For internal use only by the Penn State University in the USA.  Contact&lt;br&gt;# &lt;barr@math.psu.edu&gt; (Dave Barr) for more information.</notes>
   <comments># For local use only, contact the above address for information.</comments>
+  <contact>Dave Barr (barr@math.psu.edu)</contact>
  </hierarchy>
  <hierarchy>
   <name>PT</name>
@@ -7216,7 +7249,6 @@
  <hierarchy>
   <name>PUBNET</name>
   <status>DEFUNCT</status>
-  <url>ftp://ftp.isc.org/pub/usenet/control/pubnet/pubnet.config.gz</url>
   <control>
    <message>newgroup</message>
    <sender>*</sender>
@@ -7230,6 +7262,8 @@
    <action>doit</action>
   </control>
   <description>?</description>
+  <url>ftp://ftp.isc.org/pub/usenet/control/pubnet/pubnet.config.gz</url>
+  <notes># This hierarchy used to carry groups about publically available Unix&lt;br&gt;# systems, but fell into disuse.  It was formally removed for lack of&lt;br&gt;# traffic in the summer of 1991.  it should be removed.</notes>
   <comments># This hierarchy is defunct.  Please remove it.</comments>
  </hierarchy>
  <hierarchy>
@@ -7403,9 +7437,10 @@
    <newsgroups>rpi.*</newsgroups>
    <action>doit</action>
   </control>
-  <contact>sofkam@rpi.edu</contact>
   <description>Rensselaer Polytechnic Institute, Troy, NY, USA</description>
+  <notes># For Rensselaer Polytechnic Institute in Troy, NY.  This hierarchy used&lt;br&gt;# to be publically available until 1994.  Contact &lt;usenet@rpi.edu&gt; for more&lt;br&gt;# information.</notes>
   <comments># For local use only, contact the above address for information.</comments>
+  <contact>sofkam@rpi.edu</contact>
  </hierarchy>
  <hierarchy>
   <name>RU</name>
@@ -7732,6 +7767,7 @@
  </hierarchy>
  <hierarchy>
   <name>SDNET</name>
+  <notes># This hierarchy is for discussion of and within the Greater San Diego&lt;br&gt;# Area, California, USA.  It was formerly maintained by William Kronert,&lt;br&gt;# but he stepped down as hierarchy maintainer and no one else&lt;br&gt;# volunteered.  It is therefore now frozen, but the existing groups are&lt;br&gt;# still in use.</notes>
  </hierarchy>
  <hierarchy>
   <name>SDSU</name>
@@ -8331,6 +8367,7 @@
  </hierarchy>
  <hierarchy>
   <name>SYBASE</name>
+  <notes># For use through Sybase's news server only.  Configure your news reader&lt;br&gt;# to use forums.sybase.com as an NNTP server, or access the groups via&lt;br&gt;# &lt;http://support.sybase.com/newsgroups/&gt;.</notes>
  </hierarchy>
  <hierarchy>
   <name>SYD</name>
@@ -8420,6 +8457,7 @@
    <newsgroups>t-netz.*</newsgroups>
    <action>doit</action>
   </control>
+  <notes># This was a German language hierarchy for gatewayed email lists something&lt;br&gt;# akin to alt.* in that anyone could create newsgroups in it.  The&lt;br&gt;# hierarchy is now defunct, having been moved to z-netz.alt.* in a&lt;br&gt;# reorganization in 1996.  Contact &lt;lutz@jena.thur.de&gt; (Lutz Donnerhacke)&lt;br&gt;# and/or &lt;dirk.meyer@dinoex.sub.org&gt; (Dirk Meyer) for more information.  See&lt;br&gt;# also zer.* in this file.  It should be removed.</notes>
   <description>Germany</description>
   <comments># This hierarchy is defunct.  Please remove it.</comments>
  </hierarchy>
@@ -8555,9 +8593,10 @@
    <newsgroups>tele.*</newsgroups>
    <action>doit</action>
   </control>
-  <contact>usenet@tdk.net</contact>
   <description>Tele Danmark Internet</description>
+  <notes># For Tele Danmark Erhverv (Tele Denmark Internet, tele.dk or tdk.net).&lt;br&gt;# Contact &lt;usenet@tdk.net&gt; for more information.</notes>
   <comments># For local use only, contact the above address for information.</comments>
+  <contact>usenet@tdk.net</contact>
  </hierarchy>
  <hierarchy>
   <name>TERMVAKT</name>
@@ -8574,9 +8613,10 @@
    <newsgroups>termvakt.*</newsgroups>
    <action>doit</action>
   </control>
-  <contact>jani@ifi.uio.no</contact>
   <description>University of Oslo, Norway</description>
+  <notes># Local hierarchy for technical support personnel at the Department for&lt;br&gt;# Informatics, University of Oslo, Norway.  Feeds are restricted.  Contact&lt;br&gt;# Jan Ingvoldstad &lt;jani@ifi.uio.no&gt; for more information.</notes>
   <comments># For local use only, contact the above address for information.</comments>
+  <contact>jani@ifi.uio.no</contact>
  </hierarchy>
  <hierarchy>
   <name>TEST</name>
@@ -8705,6 +8745,7 @@
    <newsgroups>to.*</newsgroups>
    <action>drop</action>
   </control>
+  <notes># A pseudo-hierarchy normally used for the propagation of ihave/sendme&lt;br&gt;# control messages and test messages.  For example, SiteA and SiteB might&lt;br&gt;# each have a to.sitea and to.siteb on their machines to facilitate a&lt;br&gt;# special kind of news transport mechanism.</notes>
   <description>Special hierarchy for UUCP point-to-point messages</description>
   <comments>#&lt;br&gt;# Historically, the to.* hierarchy was used with UUCP to send special&lt;br&gt;# control messages to a particular peer.  This usage is very obsolete,&lt;br&gt;# but the hierarchy is still special-cased in some news software and&lt;br&gt;# should not be used.&lt;br&gt;#</comments>
  </hierarchy>
@@ -9432,9 +9473,10 @@
    <newsgroups>utwente.*</newsgroups>
    <action>doit</action>
   </control>
-  <contact>newsmaster@utwente.nl</contact>
   <description>University of Twente, Netherlands</description>
+  <notes># This hierarchy is for the University of Twente in the Netherlands.&lt;br&gt;# Messages sent to &lt;newsmaster@utwente.nl&gt; on 23 May 1996 and 30 Jun 1997&lt;br&gt;# received no replies.</notes>
   <comments># For local use only, contact the above address for information.</comments>
+  <contact>newsmaster@utwente.nl</contact>
  </hierarchy>
  <hierarchy>
   <name>UUNET</name>
@@ -9454,9 +9496,10 @@
    <newsgroups>uva.*</newsgroups>
    <action>doit</action>
   </control>
-  <contact>usenet@virginia.edu</contact>
   <description>University of Virginia, USA</description>
+  <notes># For the University of Virginia, USA.  Contact &lt;usenet@virginia.edu&gt;.</notes>
   <comments># For local use only, contact the above address for information.</comments>
+  <contact>usenet@virginia.edu</contact>
  </hierarchy>
  <hierarchy>
   <name>UW</name>
@@ -9861,9 +9904,10 @@
    <newsgroups>worldonline.*</newsgroups>
    <action>doit</action>
   </control>
-  <contact>newsmaster@worldonline.nl</contact>
   <description>?</description>
+  <notes># For use by Worldonline, Inc (worldonline.nl) only.  Contact&lt;br&gt;# &lt;newsmaster@worldonline.nl&gt; for more information.  As of 1 Oct 1996,&lt;br&gt;# Lennard voor den Dag at worldonline told me, &quot;The hierarchy is available&lt;br&gt;# on news.worldonline.nl:119, but is not really interesting for the&lt;br&gt;# outside world, and in Dutch only&quot;.</notes>
   <comments># For local use only, contact the above address for information.</comments>
+  <contact>newsmaster@worldonline.nl</contact>
  </hierarchy>
  <hierarchy>
   <name>WPG</name>
@@ -10102,6 +10146,7 @@
    <newsgroups>zer.*</newsgroups>
    <action>doit</action>
   </control>
+  <notes># This was a German language hierarchy for gatewayed email lists like&lt;br&gt;# t-netz.*, but was somewhat more structured regarding creation of groups&lt;br&gt;# within it.  There was a bit of a problem with gateways directing the&lt;br&gt;# same articles to both the zer.* hierarchy and the z-netz.* hierarchy,&lt;br&gt;# with the resulting Message-ID collisions causing a mess with&lt;br&gt;# propagation.  The hierarchy is now defunct, having been moved to&lt;br&gt;# z-netz.* in a reorganization in 1996.  Contact &lt;lutz@jena.thur.de&gt; (Lutz&lt;br&gt;# Donnerhacke) and/or &lt;dirk.meyer@dinoex.sub.org&gt; (Dirk Meyer) for more&lt;br&gt;# information. See also t-netz.* notes.  It should be removed.</notes>
   <description>Germany</description>
   <comments># This hierarchy is defunct.  Please remove it.</comments>
  </hierarchy>

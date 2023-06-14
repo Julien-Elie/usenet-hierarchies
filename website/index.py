@@ -206,7 +206,14 @@ def _html_begin(title):
             if _REWRITEURL
             else "index.py?status=defunct"
         )
-        + """">Defunct hierarchies</a>
+        + '">Defunct hierarchies</a> | <a href="'
+        + _SUBDIR
+        + (
+            "notes-about-hierarchies.html"
+            if _REWRITEURL
+            else "index.py?status=notes-about"
+        )
+        + """">Miscellaneous notes</a>
 </p>
 """
     )
@@ -298,6 +305,8 @@ def _print_control_entry(dictionary, name, text=True, controlstyle="inn"):
             answer += "# Key fingerprint: " + fingerprint + "\n"
         for comment in h.comments:
             answer += comment.replace("<br>", "\n") + "\n"
+        for note in h.notes:
+            answer += note.replace("<br>", "\n") + "\n"
 
     for item in h.control:
         # We need to *copy* it (a deepcopy is not necessary here).
@@ -393,6 +402,64 @@ def _page_list_hierarchies(dictionary, status):
                 dictionary, "status", "UNMANAGED"
             )
         )
+    elif status == "notes-about":
+        answer = _html_begin("Miscellaneous notes about Usenet hierarchies")
+        beginHier = False
+        beginNotes = False
+        beginPar = False
+        for line in file(libusenet_hierarchies._HIERARCHY_NOTES, "r"):
+            line = line.rstrip()
+            if line.startswith("   "):
+                # Main title.
+                continue
+            elif line.startswith(" "):
+               # We're reading the notes for a hierarchy.
+               if not beginNotes:
+                   answer += "<dd>"
+                   beginNotes = True
+               answer += cgi.escape(line[2:]) + " "
+            elif line.endswith(".*") and not line.startswith(" "):
+                # New hierarchy.
+                if not beginHier:
+                    answer += "<dl>"
+                    beginHier = True
+                if beginNotes:
+                    answer += "</dd>\n"
+                    beginNotes = False
+                hierName = line[:-2]
+                if hierName.upper() in dictionary:
+                    answer += ('<dt><a href="'
+            + _SUBDIR
+            + (hierName + ".html" if _REWRITEURL else "index.py?see=" + hierName)
+            + '">'
+            + line
+            + "</a></dt>\n")
+                else:
+                    answer += "<dt>" + line + "</dt>\n"
+            elif not line:
+                if beginPar:
+                    answer += "</p>\n"
+                    beginPar = False
+                if beginNotes:
+                    answer += "</dd>\n"
+                    beginNotes = False
+                if beginHier: 
+                    answer += "</dl>\n"
+                    beginHier = False
+            elif line.startswith("=== "):
+                answer += "<h2>" + line.replace("=", "") + "</h2>\n"
+            else:
+                if not beginPar:
+                    answer += "<p>"
+                    beginPar = True
+                line = line.replace("opening an issue at", '<a href="https://github.com/Julien-Elie/'+'usenet-hierarchies/issues">opening an issue</a>.')
+                line = line.replace("<https://github.com/Julien-Elie/"+"usenet-hierarchies/issues>.", "")
+                line = line.replace("_many_", "<em>many</em>")
+                answer += line + " "
+        if beginNotes:
+            answer += "</dd>\n"
+        if beginHier:
+            answer += "</dl>\n"
     else:
         answer = _html_begin("List of Usenet public managed hierarchies")
         answer += _UPDATE + _MANAGED
@@ -577,6 +644,14 @@ def _page_info_hierarchies(dictionary, hierlist, controlstyle):
                 for comment in d["comments"]:
                     answer += (
                         cgi.escape(comment).replace("&lt;br&gt;", "\n") + "\n"
+                    )
+                answer += "</pre></li>\n"
+
+            if "notes" in d:
+                answer += '<li><p>Historic notes:</p>\n<pre class="comment">\n'
+                for note in d["notes"]:
+                    answer += (
+                        cgi.escape(note).replace("&lt;br&gt;", "\n") + "\n"
                     )
                 answer += "</pre></li>\n"
 
