@@ -9,12 +9,6 @@ the time to follow the state of each hierarchy.  It contains information
 about the handling of particular hierarchies.  To aid in searching for a
 particular entry, all top-level names are flush left with ".*" appended.
 
-At some point, it would be good to extract the information in here about
-private and defunct hierarchies and combine it with the hierarchies FAQ
-to produce a more comprehensive guide to Usenet hierarchies.  If someone
-is looking for an interesting project in Usenet archeology, they may find
-that one interesting.
-
 Most of these notes were written by tale when he was maintaining the control
 message archive and active newsgroup database.  The last comprehensive
 work on maintaining it probably stopped somewhat earlier.  Most of the
