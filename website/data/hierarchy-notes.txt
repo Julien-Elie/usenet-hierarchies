@@ -335,11 +335,12 @@ krst.*
   information.
 manawatu.*
   For the Manawatu district of New Zealand.  Contact <news@manawatu.gen.nz>
-  for more information.  According to Alan, somebody in mail to tale, on 5 Feb
-  1993, "... it's unlikely that you'll ever see any traffic on it - the
-  New Zealand net administration prefers that we don't feed regional
-  distributions through it, and so all manawatu.* groups are blocked from
-  being fed to the net at the manawatu hub."
+  for more information.  Alan Brown, involved in Manawatu Internet Services
+  whose UUCP hub address was manawatu.gen.nz, mailed tale on 5 Feb 1993:
+  "... it's unlikely that you'll ever see any traffic on it - the New Zealand
+  net administration prefers that we don't feed regional distributions through
+  it, and so all manawatu.* groups are blocked from being fed to the net at
+  the manawatu hub."
 mcom.*
   For Netscape Communications Corp.  Contact <bpolk@netscape.com> (Ben Polk)
   for more information.

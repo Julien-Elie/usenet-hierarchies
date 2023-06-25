@@ -4904,7 +4904,7 @@
    <action>doit</action>
   </control>
   <description>Manawatu district, New Zealand</description>
-  <notes># For the Manawatu district of New Zealand.  Contact &lt;news@manawatu.gen.nz&gt;&lt;br&gt;# for more information.  According to Alan, somebody in mail to tale, on 5 Feb&lt;br&gt;# 1993, &quot;... it's unlikely that you'll ever see any traffic on it - the&lt;br&gt;# New Zealand net administration prefers that we don't feed regional&lt;br&gt;# distributions through it, and so all manawatu.* groups are blocked from&lt;br&gt;# being fed to the net at the manawatu hub.&quot;</notes>
+  <notes># For the Manawatu district of New Zealand.  Contact &lt;news@manawatu.gen.nz&gt;&lt;br&gt;# for more information.  Alan Brown, involved in Manawatu Internet Services&lt;br&gt;# whose UUCP hub address was manawatu.gen.nz, mailed tale on 5 Feb 1993:&lt;br&gt;# &quot;... it's unlikely that you'll ever see any traffic on it - the New Zealand&lt;br&gt;# net administration prefers that we don't feed regional distributions through&lt;br&gt;# it, and so all manawatu.* groups are blocked from being fed to the net at&lt;br&gt;# the manawatu hub.&quot;</notes>
   <comments># For local use only, contact the above address for information.</comments>
   <contact>alan@manawatu.gen.nz or news@manawatu.gen.nz</contact>
  </hierarchy>
