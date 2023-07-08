@@ -1,3 +1,53 @@
+2023-07-05 19:20:02 changedesc fr.comp.sys.iphone (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.lang.perl (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.sys.atari (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.lang.c (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.sys.mac.materiel (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.lang.postscript (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.text.tex (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.usenet.lecteurs-de-news (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.sys.mac.communication (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.sys.amiga (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.mail (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.lang.ada (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.lang.php (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.lang.lisp (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.reseaux.jntp (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.os.linux.configuration (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.sys.raspberry-pi (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.lang.javascript (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.lang.c++ (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.lang.general (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.mail.serveurs (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.lang.python (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.usenet.serveurs (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.virtualisation (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.materiel.optimisation (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.ordinosaures (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.os.android (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.sys.pc (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.sys.mac (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.lang.java (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.sys.mac.programmation (by checkgroups)
+2023-07-05 19:20:02 changedesc fr.comp.os.bsd (by checkgroups)
+2023-07-05 19:10:01 rmgroup fr.comp.sys.tablettes
+2023-07-05 19:00:06 rmgroup fr.comp.sys.calculatrices
+2023-07-05 19:00:06 rmgroup fr.comp.text.xml
+2023-07-05 19:00:06 rmgroup fr.comp.reseaux.supervision
+2023-07-05 19:00:06 rmgroup fr.comp.reseaux.sans-fils
+2023-07-05 19:00:05 rmgroup fr.comp.reseaux.irc
+2023-07-05 19:00:05 rmgroup fr.comp.peripheriques.modems
+2023-07-05 19:00:05 rmgroup fr.comp.os.windows-phone
+2023-07-05 19:00:05 rmgroup fr.comp.os.vms
+2023-07-05 19:00:05 rmgroup fr.comp.os.os2
+2023-07-05 19:00:04 rmgroup fr.comp.os.msdos
+2023-07-05 19:00:04 rmgroup fr.comp.os.ms-windows.serveurs
+2023-07-05 19:00:04 rmgroup fr.comp.os.ms-windows.programmation
+2023-07-05 19:00:04 rmgroup fr.comp.objet
+2023-07-05 19:00:04 rmgroup fr.comp.normes.unicode
+2023-07-05 18:50:02 rmgroup fr.comp.lang.tcl
+2023-07-05 18:50:02 rmgroup fr.comp.lang.ruby
+2023-07-05 18:50:01 rmgroup fr.comp.lang.caml
 2023-06-16 21:50:02 newgroup free.cackling.cunt.kamala.harris y
 2023-06-10 09:30:04 changedesc fr.comp.applications.genealogie (by checkgroups)
 2023-06-10 09:30:03 changedesc fr.comp.emulateurs (by checkgroups)

@@ -28445,67 +28445,49 @@ fr.comp.ia		L'Intelligence Artificielle.
 fr.comp.infosystemes	Les protocoles d'Internet (Gemini, Gopher, FTP...), la conception de SI...
 fr.comp.infosystemes.www.navigateurs	Chrome, Safari, Firefox, Edge, Opera, Vivaldi...
 fr.comp.internet.medias-sociaux	Le web participatif et les médias sociaux.
-fr.comp.lang.ada	Langage de programmation Ada.
-fr.comp.lang.c		Langages de programmation C et assimilés.
-fr.comp.lang.c++	Langage de programmation C++.
-fr.comp.lang.caml	Caml et autres langages de programmation ML.
-fr.comp.lang.general	Généralités et questions diverses sur la programmation.
-fr.comp.lang.java	Langage de développement Java.
-fr.comp.lang.javascript	ECMAScript et dérivés (JScript, ActionScript, etc.).
-fr.comp.lang.lisp	Langages de programmation LISP.
-fr.comp.lang.perl	Langage de programmation Perl.
-fr.comp.lang.php	Langage de programmation PHP Hypertext Preprocessor.
-fr.comp.lang.postscript	Discussions sur le langage PostScript.
-fr.comp.lang.python	Langage de programmation Python.
+fr.comp.lang.ada	Le langage de programmation Ada.
+fr.comp.lang.c		Les langages de programmation C et assimilés.
+fr.comp.lang.c++	Le langage de programmation C++.
+fr.comp.lang.general	La programmation en général et les langages sans forum dédié.
+fr.comp.lang.java	Le langage de développement Java.
+fr.comp.lang.javascript	ECMAScript et ses dérivés (JScript, ActionScript, etc.).
+fr.comp.lang.lisp	Les langages de programmation LISP.
+fr.comp.lang.perl	Le langage de programmation Perl.
+fr.comp.lang.php	Le langage de programmation PHP Hypertext Preprocessor.
+fr.comp.lang.postscript	Le langage de description de page PostScript.
+fr.comp.lang.python	Le langage de programmation Python.
 fr.comp.lang.regexp	Les expressions rationnelles et leur utilisation.
-fr.comp.lang.ruby	Langage de programmation Ruby.
-fr.comp.lang.tcl	Langage de programmation Tcl.
-fr.comp.mail		Logiciels de messagerie électronique.
-fr.comp.mail.serveurs	Logiciels serveurs de messagerie électronique.
-fr.comp.materiel.optimisation	Techniques d'optimisation et d'overclocking.
+fr.comp.mail		Les logiciels de messagerie électronique.
+fr.comp.mail.serveurs	Les logiciels serveurs de messagerie électronique.
+fr.comp.materiel.optimisation	Les techniques d'optimisation et d'overclocking.
 fr.comp.musique		Le traitement informatique de la musique.
-fr.comp.normes.unicode	La norme Unicode.
-fr.comp.objet		Technologie objet en informatique.
-fr.comp.ordinosaures	Ordinateurs et consoles de jeux anciens.
-fr.comp.os.android	Au sujet d'Android, le système pour terminaux mobiles.
-fr.comp.os.bsd		Systèmes BSD et dérivés (NetBSD, FreeBSD...).
-fr.comp.os.linux.configuration	Prise en main d'un système Linux.
+fr.comp.ordinosaures	Les ordinateurs et consoles de jeux anciens.
+fr.comp.os.android	Le système d'exploitation mobile Android.
+fr.comp.os.bsd		Les systèmes BSD et ses dérivés (FreeBSD, NetBSD, OpenBSD...).
+fr.comp.os.linux.configuration	Le paramétrage et la prise en main d'un système Linux.
 fr.comp.os.linux.debats	Promouvoir, critiquer et troller sur Linux.
 fr.comp.os.mac-os.x	Mac OS X, OS X, macOS, Darwin et leurs évolutions.
 fr.comp.os.ms-windows	Les systèmes d'exploitation Microsoft Windows.
-fr.comp.os.ms-windows.programmation	Programmation sous Microsoft Windows.
-fr.comp.os.ms-windows.serveurs	Administration sous les SE serveurs Microsoft.
-fr.comp.os.msdos	Système MS-DOS.
-fr.comp.os.os2		Système OS/2 d'IBM.
 fr.comp.os.unix		Les systèmes de la famille Unix et ses dérivés.
-fr.comp.os.vms		Système VMS de Digital.
-fr.comp.os.windows-phone	Prise en main de Windows Phone.
-fr.comp.peripheriques.modems	Discussions techniques sur les modems.
 fr.comp.reseaux.ethernet	Les réseaux Ethernet et matériels associés.
 fr.comp.reseaux.ip	IP : discussions techniques, protocoles connexes.
-fr.comp.reseaux.irc	Groupe de discussion sur Internet Relay Chat.
-fr.comp.reseaux.jntp	Protocole, applications et maillage jntp.
-fr.comp.reseaux.sans-fils	Réseaux informatiques sans fils.
-fr.comp.reseaux.supervision	Les logiciels de supervision de réseau.
+fr.comp.reseaux.jntp	Le protocole JNTP, ses applications et son maillage.
 fr.comp.securite	La sécurité informatique.
 fr.comp.securite.virus	Les virus informatiques.
 fr.comp.stockage	Les matériels et logiciels de stockage de données.
-fr.comp.sys.amiga	Machines de la gamme Amiga.
-fr.comp.sys.atari	Machines de la gamme Atari.
-fr.comp.sys.calculatrices	Pour tout ce qui touche aux calculatrices.
-fr.comp.sys.iphone	iPhone, le système, ses applications et déclinaisons.
-fr.comp.sys.mac		Apple Macintosh.
-fr.comp.sys.mac.communication	Réseaux et communications sous macOS.
-fr.comp.sys.mac.materiel	Discussions sur le matériel Macintosh.
-fr.comp.sys.mac.programmation	Programmation sur macOS.
-fr.comp.sys.pc		Micro-ordinateurs PC et compatibles.
-fr.comp.sys.raspberry-pi	Ordinateurs de la fondation Raspberry Pi et équivalents.
-fr.comp.sys.tablettes	Tablettes et terminaux tactiles.
-fr.comp.text.tex	Discussions concernant TeX et LaTeX.
-fr.comp.text.xml	Le langage de description XML.
-fr.comp.usenet.lecteurs-de-news	Logiciels de lecture des forums Usenet.
-fr.comp.usenet.serveurs	Discussions sur les serveurs de news Usenet.
-fr.comp.virtualisation	Tout ce qui touche les techniques de systèmes virtuels.
+fr.comp.sys.amiga	Les machines de la gamme Amiga.
+fr.comp.sys.atari	Les machines de la gamme Atari.
+fr.comp.sys.iphone	Le système iPhone, ses applications et déclinaisons.
+fr.comp.sys.mac		Les actualités et les évolutions de la plate-forme Apple Macintosh.
+fr.comp.sys.mac.communication	Les réseaux et communications sous macOS.
+fr.comp.sys.mac.materiel	Le matériel Macintosh.
+fr.comp.sys.mac.programmation	La programmation sur macOS.
+fr.comp.sys.pc		Les micro-ordinateurs PC et compatibles.
+fr.comp.sys.raspberry-pi	Les ordinateurs de la fondation Raspberry Pi et équivalents.
+fr.comp.text.tex	Les langages et systèmes de composition TeX et LaTeX.
+fr.comp.usenet.lecteurs-de-news	Les logiciels de lecture des forums Usenet.
+fr.comp.usenet.serveurs	Les logiciels serveurs de news Usenet.
+fr.comp.virtualisation	Les techniques de systèmes virtuels.
 fr.lettres.ecriture	Tous les aspects liés à l'écriture.
 fr.lettres.langue.allemande	Discussions sur la langue allemande.
 fr.lettres.langue.anglaise	Discussions sur la langue anglaise.
