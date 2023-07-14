@@ -237,19 +237,15 @@ def _anchorify(text, mailModif=True, urlModif=True):
     text = cgi.escape(text)
     if mailModif:
         text = re.sub(
-            (
-                "([_a-zA-Z0-9-+]+)(\.[_a-zA-Z0-9-+]+)*"
-                "@([a-zA-Z0-9-]+)(\.[a-zA-Z0-9-]+)*(\.[a-zA-Z]{2,4})"
-            ),
+            "([_a-zA-Z0-9-+]+)(\.[_a-zA-Z0-9-+]+)*"
+            "@([a-zA-Z0-9-]+)(\.[a-zA-Z0-9-]+)*(\.[a-zA-Z]{2,4})",
             '<a href="mailto:\g<0>">\g<0></a>',
             text,
         )
     if urlModif:
         text = re.sub(
-            (
-                "(ftp|http|https):\/\/(\w+:{0,1}\w*@)?"
-                "(\S+)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?"
-            ),
+            "(ftp|http|https):\/\/(\w+:{0,1}\w*@)?"
+            "(\S+)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?",
             '<a href="\g<0>">\g<0></a>',
             text,
         )
@@ -413,11 +409,11 @@ def _page_list_hierarchies(dictionary, status):
                 # Main title.
                 continue
             elif line.startswith(" "):
-               # We're reading the notes for a hierarchy.
-               if not beginNotes:
-                   answer += "<dd>"
-                   beginNotes = True
-               answer += cgi.escape(line[2:]) + " "
+                # We're reading the notes for a hierarchy.
+                if not beginNotes:
+                    answer += "<dd>"
+                    beginNotes = True
+                answer += cgi.escape(line[2:]) + " "
             elif line.endswith(".*") and not line.startswith(" "):
                 # New hierarchy.
                 if not beginHier:
@@ -428,12 +424,18 @@ def _page_list_hierarchies(dictionary, status):
                     beginNotes = False
                 hierName = line[:-2]
                 if hierName.upper() in dictionary:
-                    answer += ('<dt><a href="'
-            + _SUBDIR
-            + (hierName + ".html" if _REWRITEURL else "index.py?see=" + hierName)
-            + '">'
-            + line
-            + "</a></dt>\n")
+                    answer += (
+                        '<dt><a href="'
+                        + _SUBDIR
+                        + (
+                            hierName + ".html"
+                            if _REWRITEURL
+                            else "index.py?see=" + hierName
+                        )
+                        + '">'
+                        + line
+                        + "</a></dt>\n"
+                    )
                 else:
                     answer += "<dt>" + line + "</dt>\n"
             elif not line:
@@ -443,7 +445,7 @@ def _page_list_hierarchies(dictionary, status):
                 if beginNotes:
                     answer += "</dd>\n"
                     beginNotes = False
-                if beginHier: 
+                if beginHier:
                     answer += "</dl>\n"
                     beginHier = False
             elif line.startswith("=== "):
@@ -452,8 +454,16 @@ def _page_list_hierarchies(dictionary, status):
                 if not beginPar:
                     answer += "<p>"
                     beginPar = True
-                line = line.replace("opening an issue at", '<a href="https://github.com/Julien-Elie/'+'usenet-hierarchies/issues">opening an issue</a>.')
-                line = line.replace("<https://github.com/Julien-Elie/"+"usenet-hierarchies/issues>.", "")
+                line = line.replace(
+                    "opening an issue at",
+                    '<a href="https://github.com/Julien-Elie/'
+                    + 'usenet-hierarchies/issues">opening an issue</a>.',
+                )
+                line = line.replace(
+                    "<https://github.com/Julien-Elie/"
+                    + "usenet-hierarchies/issues>.",
+                    "",
+                )
                 line = line.replace("_many_", "<em>many</em>")
                 answer += line + " "
         if beginNotes:

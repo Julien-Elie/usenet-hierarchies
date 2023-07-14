@@ -442,7 +442,7 @@ def _parse_hierarchy_notes(file_hierarchy_notes, dictionary):
             # We're reading the notes for a hierarchy.
             if notes:
                 notes += "<br>"
-            notes += ("# " + line[2:])
+            notes += "# " + line[2:]
         elif line.endswith(".*") and not line.startswith(" "):
             # New hierarchy.  Let's save the notes of the previous one, if any.
             if hierName and hierName in dictionary:
