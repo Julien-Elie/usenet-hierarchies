@@ -17,8 +17,7 @@ best	news@best.net
 bionet	http://www.bio.net/
 birk	birk-admin@ping.uio.no
 bit	http://www.newsadmin.com/bit/bit.htm
-bln	news@fu-berlin.de
-bln	ftp://ftp.fu-berlin.de/doc/news/bln/bln
+bln	https://ftp.fu-berlin.de/doc/news/bln/bln-info.txt
 bne	http://bne.news-admin.org/
 bofh	bofh-control@lists.killfile.org
 ca	http://www.sbay.org/ca/

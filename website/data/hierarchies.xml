@@ -867,28 +867,44 @@
  </hierarchy>
  <hierarchy>
   <name>BLN</name>
-  <url>ftp://ftp.fu-berlin.de/doc/news/bln/bln</url>
-  <control>
-   <message>checkgroups</message>
-   <sender>news@*fu-berlin.de</sender>
-   <newsgroups>bln.*</newsgroups>
-   <action>doit</action>
-  </control>
   <control>
    <message>newgroup</message>
-   <sender>news@*fu-berlin.de</sender>
+   <sender>*</sender>
    <newsgroups>bln.*</newsgroups>
-   <action>doit</action>
+   <action>drop</action>
   </control>
   <control>
    <message>rmgroup</message>
-   <sender>news@*fu-berlin.de</sender>
+   <sender>*</sender>
    <newsgroups>bln.*</newsgroups>
-   <action>doit</action>
+   <action>drop</action>
   </control>
-  <admin_group>bln.net.news</admin_group>
-  <contact>news@fu-berlin.de</contact>
+  <control>
+   <message>checkgroups</message>
+   <sender>news@fu-berlin.de</sender>
+   <newsgroups>bln.*</newsgroups>
+   <action>news@fu-berlin.de</action>
+  </control>
+  <control>
+   <message>newgroup</message>
+   <sender>news@fu-berlin.de</sender>
+   <newsgroups>bln.*</newsgroups>
+   <action>news@fu-berlin.de</action>
+  </control>
+  <control>
+   <message>rmgroup</message>
+   <sender>news@fu-berlin.de</sender>
+   <newsgroups>bln.*</newsgroups>
+   <action>news@fu-berlin.de</action>
+  </control>
   <description>Berlin, Germany</description>
+  <url>https://ftp.fu-berlin.de/doc/news/bln/bln-info.txt</url>
+  <key_url>https://ftp.fu-berlin.de/doc/news/bln/bln-key.txt</key_url>
+  <admin_group>bln.misc</admin_group>
+  <contact>news@fu-berlin.de</contact>
+  <key>-----BEGIN PGP PUBLIC KEY BLOCK-----&lt;br&gt;&lt;br&gt;mQINBGRuRKgBEAC5JATgOsczLQUbHWx4PUTMtyRIA01Cojnn9Lyabn75HIiK4IJk&lt;br&gt;Yzt6/1YN2EfU282GqNvExFNuAnbCIv9M5Tvv9VvjmvkkbB87yinTZ3rcttYrp5TL&lt;br&gt;6cMxOrBT6Bj41Wvo7frA3YxEqx70dc6oO7jKenXv9235HaTA8p1w3A2rQwxe75ax&lt;br&gt;mSj456nL+eJe9dN7NDOVGANx6k6bH9oPptqgzJzrJMSlTv5uKkOrIZCc9d1c/dK+&lt;br&gt;WK6sWQSP1johKneyXrLf3/Z36wv6WnzsPzl1qKmodDlulxDm4NZhWo+eDK4vdJhj&lt;br&gt;rROJjjXJGXUOOrZDAHRe9jNo8dwiEcxxeUAvlXS7amiYbTg+0liqxrC6mbIUQcuf&lt;br&gt;NdkCZPasYh9KfgemzqERVcD2kjlNyEVMO8ieZaHRJmELotRpxv9uqxg71TiC+Ziu&lt;br&gt;uW+iY5/M7CrvLbav7iAEAnYGUS8Ra03ilxULvY5zrHgaz/tPsccwtsZduK6GCHc9&lt;br&gt;NB+sQUypED0a4r90FB+fFOovNzrtWErHBJHr8xFdSaEr1Z3jjNrFYeC6xFNNjwwk&lt;br&gt;JkpieJx5hy5G7hfDzJXf9UXKIcReHrIUqRPeR/NC2aA52DKV9nd29cWorY+DkGQw&lt;br&gt;Y/WlIRrWqFP2OIE5IiX2Eao1Dd+TbmNjKF20BVK5MmfLhW2ZUyrBRgus9QARAQAB&lt;br&gt;tBFuZXdzQGZ1LWJlcmxpbi5kZYkCOAQTAQgAIgUCZG5EqAIbAwYLCQgHAwIGFQgC&lt;br&gt;CQoLBBYCAwECHgECF4AACgkQKB2Qdj82jqDRgQ//ctIhcdgkQf+ezeuh1nvYIBWz&lt;br&gt;oiEdMWTIFx3xoDr3r17Y+zXm79lAv7v1ctG6+ROxPqT6ZIdlpTSiM7zHu4/MSp9m&lt;br&gt;D6V8PdAX9XWnwuE0ik4nYbIQ6T5f1EXdeNR6luJbf61ymGL5hwMdV7fZkIeaitAg&lt;br&gt;xH/mpIFrzLQegvk4gjfV9Yzm1wxP+saJdWEnUZu/J8MEpzeaLwx4f9qVjpVSrmY5&lt;br&gt;/+xwAK/lJlRS3aPI4KVBX4btl+yy2NUesraEps3V0hM+sZyCrreD8uyvP1rXBOYi&lt;br&gt;GwGuCfjd2e+OrOi9GoYKW+HeAy1OX44re7R/ciL3hX9xbiSl1RiK3Q2PPstw2kp/&lt;br&gt;6p2DaeyI5l1bmMCafLrkO3YLfCBkblN7t8Qw84e7DIkegmGHkrvjHwrmUVW+q9Zk&lt;br&gt;UxlKQV2c7VFtei097Y8FjUJf6Mmj/Z6KhYTuzg7+MWqkgp5xD2o2c7USFg3U7Q52&lt;br&gt;4CHduwXfxBZaofckO7nDOurpT21TzaQiZu9MZGElLMGSbuh9uR7yCb07+nk7/SYd&lt;br&gt;nQXoAHbpdanIh5AORLWUPsIMVlKp3C7M77StBgbyD60HQh6XtXbfso2HuoZ82f5U&lt;br&gt;JEFHCtJRPkX6M1sC5pMPrJYZXU4rxDv6+MfBBONlfTAVdjlZuyvIMIZRzJNH7vAc&lt;br&gt;jPZ6f7TthTY1TBb+0+m5Ag0EZG5EqAEQANdPpOBaOFTmitnT6OgxyP/Bj7nsAzUy&lt;br&gt;e3aoSJyC690yFR48WbRqTrvACpjlrppm5zXNjhm8vS2U6eUka4NsqXsycC2BpAm8&lt;br&gt;KZYf5OrlUq0YvaQLyKjFiqqmzKKmtcjn+i6K7rxkyWyydhMiIEKZps0EmZOA9pat&lt;br&gt;fHEtCi8HrOH8EOm4rCehG9XccwehAI73GNrGmIrjYQrVpDNLmSfNPNE3Elv/EtUT&lt;br&gt;XowcWOZxPtmhxm5zYIoaUgjYN4N+QAV9YA2KGmKFGpIRNH8zhaSPw0LTq+2Urm0x&lt;br&gt;NpwjbP1cvSpt6PXwZHeIcAK4Xz2zr1aLUDdtSbd2/ccM96JU9voykLqGkqms7UvX&lt;br&gt;0wurvuWeeykRk2dAvKdO27uljpRNe5LYld2udhKNjar+uwjLYH8Ka34SCuyUfYfC&lt;br&gt;Pl6wB9QbFsZ2bxNGhG/IpxFWmYPa+jhvz/4ASDNqxHva7LNQWTudwNjb6iXt1IRr&lt;br&gt;Twc+p2Zmd/bGxeMP5o670fXb3erw+UsGLgzcl0cOSiTxtQpPfjsoyiBY8AoTE8lR&lt;br&gt;ts+Ll0bRKO5Pbt8ytibnQ35mXF4qR3M792PzmTIXg11rq3hMt/pUrn3rtqc/c+Vj&lt;br&gt;FJUa8frE/wkUFsOg8c8BPg9eIdN1B5dOyLSvRs1bLfbMAm7KodmHLeYnPwVsbH6Q&lt;br&gt;ctWyZkCChwLJABEBAAGJAh8EGAEIAAkFAmRuRKgCGwwACgkQKB2Qdj82jqDc+RAA&lt;br&gt;rqhzhtXylLB7P69JqfxU/9M8jmZ6wULrGyT3WT75OtFEav+e3BPJte2/KiyP2EV8&lt;br&gt;KUbRBtaV/ierAJLCvxZ/F5gDFczh1QZLnNVIzbTlxPEfxnyJwB52TkXCceSh5cQ1&lt;br&gt;+iYDlEpeLPHp1xtKxfP1fY0uUrKOnMV2znHn0WApOoEyNjwwrg9h2k6TqXgLKRbP&lt;br&gt;bD4ebN6yZrw+hw926cIhlrUP9OcJwjgEMX6pCes3pGLvxM6vLo0LvgqYu2tiODVz&lt;br&gt;OcZSvNzAAPfEhETiYnlcb4GXIw52UIy7t9G7iZNMli3ptWzyALF8nzJCp61bBKXl&lt;br&gt;h6Li28CvBScF3Kstcs0xesEQN8XtJgueAiBQ33h1koyvgCvDd2/uDUtg6nhErtiL&lt;br&gt;PyIgooDpZ8xcM0j7Y3+L6W0UVqlB9t8Kbo9RrGH/MHjLQLksif0kfgjG4Od6zBR0&lt;br&gt;T+aXxB1Dd7jtbCenfmo44oGTMzshb7qOghWWuT7e/9J4VdIn5j5HCt5Od0UJi+r5&lt;br&gt;lJflFFvGtimG1o3AA4LPYv7v7bT0J8OnSZu0avLLqlVtakHuhrv9FPM6QrqYTF+c&lt;br&gt;6Sn6mAA6LlJCb8E81lnZ4uTC1brSFSIay4jGfI8D5UdQ5uiE7tZDIFkZdC4fHN2C&lt;br&gt;yEJmaaEZMjiPUv7GLKR7IodQFIMVlRWtT4efXNmh8z8=&lt;br&gt;=Qava&lt;br&gt;-----END PGP PUBLIC KEY BLOCK-----</key>
+  <key_id>news@fu-berlin.de</key_id>
+  <key_fingerprint>2B24 B5C7 8A48 6140 7BCD  5A88 281D 9076 3F36 8EA0</key_fingerprint>
  </hierarchy>
  <hierarchy>
   <name>BNE</name>
