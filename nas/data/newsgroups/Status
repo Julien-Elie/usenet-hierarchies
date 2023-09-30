@@ -29828,12 +29828,12 @@ fr.misc.automoto.mecanique	Unmoderated
 fr.misc.bavardages.dinosaures	Moderated
 fr.misc.bavardages.linux	Unmoderated
 fr.misc.cryptologie	Unmoderated
-fr.misc.depannage	Unmoderated
-fr.misc.dependances	Unmoderated
+fr.misc.depannage	Removed
+fr.misc.dependances	Removed
 fr.misc.divers	Unmoderated
 fr.misc.domotique	Unmoderated
 fr.misc.droit	Unmoderated
-fr.misc.droit.famille	Unmoderated
+fr.misc.droit.famille	Removed
 fr.misc.droit.immobilier	Unmoderated
 fr.misc.droit.internet	Unmoderated
 fr.misc.droit.travail	Unmoderated
