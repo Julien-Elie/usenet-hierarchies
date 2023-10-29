@@ -20590,12 +20590,12 @@ fnet.followup	Followups in France.
 fnet.general	Items of general interest in France.
 fnet.ia	French AI discussions
 fnet.test	USENET testing in France.
-fr.bienvenue	Aide aux nouveaux venus dans leurs premiers pas sur Usenet.
+fr.bienvenue	L'accueil des nouveaux venus dans leurs premiers pas sur Usenet.
 fr.bienvenue.questions	Les premières questions sur Usenet. (Où ? Comment ?)
-fr.bio.medecine	Médecine humaine, vétérinaire, pharmacie.
+fr.bio.medecine	La médecine (humaine, vétérinaire) et la pharmacie.
 fr.bio.medecine.veterinaire	Discussions sur la médecine vétérinaire.
 fr.bio.pharmacie	Discussions sur la pharmacie.
-fr.comp.algorithmes	Recherches, discussions et descriptions d'algorithmes.
+fr.comp.algorithmes	Les algorithmes : recherches, discussions, descriptions...
 fr.comp.applications.bureautique	Les logiciels de bureautique.
 fr.comp.applications.editeurs-de-texte	Les éditeurs de texte.
 fr.comp.applications.emacs	L'éditeur de texte Emacs et ses extensions.
@@ -20626,7 +20626,7 @@ fr.comp.lang.c++	Le langage de programmation C++.
 fr.comp.lang.caml	Caml et autres langages de programmation ML.
 fr.comp.lang.general	La programmation en général et les langages sans forum dédié.
 fr.comp.lang.java	Le langage de développement Java.
-fr.comp.lang.javascript	ECMAScript et ses dérivés (JScript, ActionScript, etc.).
+fr.comp.lang.javascript	ECMAScript et ses dérivés : JScript, ActionScript...
 fr.comp.lang.lisp	Les langages de programmation LISP.
 fr.comp.lang.pascal	Langages de programmation Pascal et assimilés.
 fr.comp.lang.perl	Le langage de programmation Perl.
@@ -20644,7 +20644,7 @@ fr.comp.normes.unicode	La norme Unicode.
 fr.comp.objet	Technologie objet en informatique.
 fr.comp.ordinosaures	Les ordinateurs et consoles de jeux anciens.
 fr.comp.os.android	Le système d'exploitation mobile Android.
-fr.comp.os.bsd	Les systèmes BSD et ses dérivés (FreeBSD, NetBSD, OpenBSD...).
+fr.comp.os.bsd	Les systèmes BSD et ses dérivés : FreeBSD, NetBSD, OpenBSD...
 fr.comp.os.firefox-os	Prise en main de Firefox OS.
 fr.comp.os.linux.configuration	Le paramétrage et la prise en main d'un système Linux.
 fr.comp.os.linux.debats	Promouvoir, critiquer et troller sur Linux.
@@ -20706,33 +20706,36 @@ fr.lettres.langues-anciennes.grec	Culture et langue grecques.
 fr.lettres.langues-anciennes.latin	Culture et langue latines.
 fr.lettres.langues-slaves	Discussions sur les langues slaves.
 fr.misc.actualite	Les événements d'actualité.
-fr.misc.actualite.covid19	Covid-19 : aspects médicaux, sociétaux, psychologiques...
-fr.misc.assurances	Discussions à propos des assurances.
-fr.misc.automobile.electrique	Discussions sur les automobiles électriques.
-fr.misc.automoto.mecanique	Pratique de la mécanique automobile et moto.
+fr.misc.actualite.covid19	Le Covid-19 : aspects médicaux, sociétaux, psychologiques...
+fr.misc.assurances	Les assurances : établissements, produits, services, recours...
+fr.misc.automobile.electrique	Tous les aspects des automobiles électriques.
+fr.misc.automoto.mecanique	La pratique de la mécanique automobile et moto.
 fr.misc.bavardages.dinosaures	Le bistro des anciens du Réseau. (Moderated)
-fr.misc.bavardages.linux	Bavardages, discussions non techniques sur Linux.
+fr.misc.bavardages.linux	Le bistro non technique sur Linux et le monde du logiciel libre.
 fr.misc.cryptologie	Le chiffrement : histoire, usages, techniques et réglementations.
 fr.misc.depannage	Dépannage électronique, audio-vidéo, électro-ménager.
 fr.misc.dependances	Toutes les formes de dépendances.
 fr.misc.divers	Ce qui n'a de place nulle part ailleurs dans fr.
-fr.misc.domotique	Objets connectés, Internet des objets (IoT), etc.
-fr.misc.droit	Discussions juridiques.
+fr.misc.domotique	Les objets connectés, l'Internet des objets (IoT)...
+fr.misc.droit	Tout thème juridique hors forum spécifique dédié.
 fr.misc.droit.famille	Le droit de la famille.
 fr.misc.droit.immobilier	Le droit immobilier : achat, vente, location...
-fr.misc.droit.internet	Problèmes juridiques en rapport avec Internet.
-fr.misc.droit.travail	Le droit du travail.
+fr.misc.droit.internet	Les problèmes juridiques en rapport avec Internet.
+fr.misc.droit.travail	Le droit du travail des secteurs public et privé.
 fr.misc.enfants	Tout ce qui concerne les enfants.
-fr.misc.engueulades	Engueulades hors-charte sur les forums initiaux.
-fr.misc.finance	Groupe de discussion dédié à la finance.
+fr.misc.enfants.bebes	Tout ce qui concerne les bébés.
+fr.misc.engueulades	Les engueulades hors-charte sur les forums initiaux.
+fr.misc.finance	Tout thème lié à la finance hors forum spécifique dédié.
 fr.misc.finance.banque	Les banques et les services bancaires.
-fr.misc.finance.immobilier	Économie des biens immobiliers.
-fr.misc.handicap	Handicaps et handicapés.
+fr.misc.finance.immobilier	L'économie des biens immobiliers.
+fr.misc.gestion	Gestion des entreprises et des associations.
+fr.misc.handicap	Le handicap : actions associatives, échange de conseils, outils...
+fr.misc.medias.presse-ecrite	Discussions sur la presse écrite.
 fr.misc.militaire	La chose militaire : techniques, matériel...
-fr.misc.securite.routiere	Discussions sur la sécurité routière.
+fr.misc.securite.routiere	La sécurité routière : prévention, formation, législation...
 fr.misc.tabac	Le tabac sous tous ses aspects.
-fr.misc.transport.rail	Informations sur les transports ferroviaires.
-fr.misc.transport.urbain	Informations sur les transports urbains.
+fr.misc.transport.rail	Les transports ferroviaires.
+fr.misc.transport.urbain	Les transports urbains, en commun ou individuels.
 fr.misc.transport.velo	Le vélo comme mode de transport.
 fr.petites-annonces.audio-video	Petites annonces de produits audio et vidéo.
 fr.petites-annonces.divers	Annonces diverses et variées entre particuliers.
