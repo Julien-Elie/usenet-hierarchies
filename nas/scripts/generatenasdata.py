@@ -66,6 +66,9 @@ if not os.path.isdir(DATAHIERPATH):
 if not os.path.isdir(DATANEWSGROUPSPATH):
     os.makedirs(DATANEWSGROUPSPATH)
 
+# Grab information for hierarchies in the following dictionary.
+hierarchies_dict = {}
+
 # Grab information for newsgroups in the following dictionaries.
 datecreate_dict = {}
 datedelete_dict = {}
@@ -95,6 +98,17 @@ for line in codecs.open(ISC_NEWSGROUPS_FILE, "r", "utf-8"):
     else:
         description_dict[h] = description
         status_dict[h] = "Unmoderated"
+
+
+# Keep trace of old descriptions from removed hierarchies, if present in an
+# already existing file.
+for line in codecs.open(NAS_HIER_DESCRIPTION, "r", "utf-8"):
+    line = line.rstrip()
+    (h, description) = line.split(None, 1)
+    if h not in hierarchies_dict:
+        description = description.lstrip()
+        hierarchies_dict[h] = {}
+        hierarchies_dict[h]["Description"] = description
 
 
 # Keep trace of old descriptions from removed newsgroups, if present in an
@@ -203,7 +217,6 @@ f_ngp_status.close()
 
 
 # Grab information in control.ctl for hierarchies.
-hierarchies_dict = {}
 beginning = False
 done = False
 for line in codecs.open(ISC_CONTROL_FILE, "r", "utf-8"):
