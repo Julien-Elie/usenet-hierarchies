@@ -465,10 +465,10 @@ def _page_list_hierarchies(dictionary, status):
                     "",
                 )
                 line = line.replace(
-                    "old Master List of Newsgroup Hierarchy",
+                    "old Master List of Newsgroup Hierarchies",
                     '<a href="https://web.archive.org/web/20160407174854/'
                     + 'http://pfx.ca/mlnh/mlnhtables.html">'
-                    + "old Master List of Newsgroup Hierarchy</a>",
+                    + "old Master List of Newsgroup Hierarchies</a>",
                 )
                 line = line.replace(
                     "<https://web.archive.org/web/20160407174854/"

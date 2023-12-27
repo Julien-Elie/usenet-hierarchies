@@ -19,7 +19,7 @@ not to add a hierarchy to the public list for some reason.  A few Usenet
 folks have also contributed to additional details for a few hierarchies.
 
 The hierarchies listed in the current
-<em>control.ctl</em> file and the old Master List of Newsgroup Hierarchy
+<em>control.ctl</em> file and the old Master List of Newsgroup Hierarchies
 <https://web.archive.org/web/20160407174854/http://pfx.ca/mlnh/mlnhtables.html>
 have been combined into
 <https://raw.githubusercontent.com/Julien-Elie/usenet-hierarchies/main/nas/data/hierarchies/Description>.
