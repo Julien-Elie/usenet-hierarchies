@@ -464,6 +464,25 @@ def _page_list_hierarchies(dictionary, status):
                     + "usenet-hierarchies/issues>.",
                     "",
                 )
+                line = line.replace(
+                    "old Master List of Newsgroup Hierarchy",
+                    '<a href="https://web.archive.org/web/20160407174854/'
+                    + 'http://pfx.ca/mlnh/mlnhtables.html">'
+                    + "old Master List of Newsgroup Hierarchy</a>",
+                )
+                line = line.replace(
+                    "<https://web.archive.org/web/20160407174854/"
+                    + "http://pfx.ca/mlnh/mlnhtables.html>",
+                    "",
+                )
+                line = line.replace(
+                    "<https://raw.githubusercontent.com/Julien-Elie/"
+                    + "usenet-hierarchies/main/nas/data/hierarchies/"
+                    + "Description>",
+                    '<a href="https://raw.githubusercontent.com/Julien-Elie/'
+                    + "usenet-hierarchies/main/nas/data/hierarchies/"
+                    + 'Description">a merged list of hierarchies</a>',
+                )
                 line = line.replace("_many_", "<em>many</em>")
                 answer += line + " "
         if beginNotes:

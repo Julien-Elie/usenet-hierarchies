@@ -18,6 +18,12 @@ Russ Allbery have sometimes added a few additional notes since, when he chose
 not to add a hierarchy to the public list for some reason.  A few Usenet
 folks have also contributed to additional details for a few hierarchies.
 
+The hierarchies listed in the current
+<em>control.ctl</em> file and the old Master List of Newsgroup Hierarchy
+<https://web.archive.org/web/20160407174854/http://pfx.ca/mlnh/mlnhtables.html>
+have been combined into
+<https://raw.githubusercontent.com/Julien-Elie/usenet-hierarchies/main/nas/data/hierarchies/Description>.
+
 === Miscellaneous notes =====================================================
 
 In the following notes about various hierarchies, "It should be removed,"
@@ -57,6 +63,8 @@ bes.*
 betanews.*
   Tests from Microsoft were escaping around the world.  It should be
   removed.
+bit.*
+  Gatewayed mailing-lists originating from BITNET (IBM mainframe).
 blackbox.*
   Newgroup for blackbox.doof, apparently a joke, sent worldwide on 25 Jan
   1998.  There *may* be a legitimate blackbox.* hierarchy (the control
@@ -68,12 +76,17 @@ bofh.*
 bugtraq.*
   Forged newgroup on 29 Dec 1999, apparently without any support of the
   Bugtraq administrators.
+clari.*
+  Commercial ClariNet news service which used to deliver traditional
+  newspaper and magazine content using newsgroups.
 cny.*
   A newgroup was sent for cny.general, for the Central New York State
   region, by Will Pierce <willp@dreamscape.com> in May 1998.  In January
   2000, Mr. Pierce reported to tale that the only group that existed in the
   hierarchy was cny.general, but it did not propagate very far and
   received an insignificant amount of traffic.  It should be removed.
+courts.*
+  United States court decisions.
 cronkite.*
   Joke newgroup for cronkite.misc, "Miscellaneous discussion of Walter
   Cronkite" by <bedwarm@cycperspace.org> (Bobby Tendinitis) in April 1998.
@@ -93,12 +106,17 @@ fr2.*
   This appears to have been some sort of protest against the policies or
   personalities of fr.*.  There were three newgroups in July of 1998 and
   nothing seems to have come of them.
+france.*
+  Regional newsgroups in France.  This hierarchy is mostly abandoned.  The
+  names of the regions are still the ones before their renaming in 2016.
 god.*
   Apparently an attempt to create alt.god.jesus and
   alt.god.jesus.holyghost that failed to include the "alt.*" part (the
   bodies of the messages use the alt prefix), two newgroups were sent in
   August 1999 and were quickly followed by a half-dozen joke newgroups.
   It should be removed.
+hacktic.*
+  Dutch/English hackers' newsgroups in Netherlands.
 ibm.*
   Originally for internal use by IBM Corporation (ibm.com) only.  The
   ibm.software.* hierarchy was available via news.software.ibm.com for a
@@ -159,6 +177,9 @@ sdnet.*
   but he stepped down as hierarchy maintainer and no one else
   volunteered.  It is therefore now frozen, but the existing groups are
   still in use.
+sk.*
+  Two different hierarchies co-exist in the same namespace: Slovakian
+  newsgroups, and regional Saskatchewan (Canada) newsgroups.
 slac.*
   This hierarchy was for discussion of the Stanford Linear Accelerator
   Center.  It was a local hierarchy that was distributed to various
@@ -186,6 +207,8 @@ um.*
   Maryland.  Their internal news server was shut down on 22 Dec 2008 and
   rmgroups were issued for all groups in this hierarchy.  It should be
   removed.
+vmsnet.*
+  Originating from Digital VAX network.
 www.*
   Apparently someone who thought a newsgroup name and domain name should
   be equivalent.  Newgroup for <www.wilhelp.com> on 7 Jul 1998.
