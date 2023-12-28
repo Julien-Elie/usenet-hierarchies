@@ -817,6 +817,7 @@
   </control>
   <description>Gatewayed Mailing lists</description>
   <url>http://www.newsadmin.com/bit/bit.htm</url>
+  <notes># Gatewayed mailing-lists originating from BITNET (IBM mainframe).</notes>
   <admin_group>bit.admin</admin_group>
   <key>-----BEGIN PGP PUBLIC KEY BLOCK-----&lt;br&gt;Version: 2.6.2&lt;br&gt;&lt;br&gt;mQCNAzpA/JMAAAEEALUuDA4puig52BrpAIuAAtJw37qbiOc+Q86EZt3uw8UBlcO6&lt;br&gt;kCTyXaHYCLyEJWU/a7F87v6U/aMSGz2A/ehouv9ut2/TlXayT3rKSEbEmlkksxxg&lt;br&gt;uO5TbYMzyNeLX/QLNssnwwIrORhykc7KL7OvIP7P/NcK73fDMWZsol7EuJDpAAUR&lt;br&gt;tBFiaXRAbmV3c2FkbWluLmNvbYkAlQMFEDpA/WxmbKJexLiQ6QEBtgkD/2wYbaqU&lt;br&gt;U6JQppbXtZNCzfDUpMYZ+K+TSKW6DPmJo7IoAfVTUvnS4s4GbULz8QQHiaX5GC7W&lt;br&gt;DOK6xsbzudrM9HNbFWSevbQzuZ1YN2fIMUxQv9Zk1fwnYqu4DlRNCnjy325tpBn2&lt;br&gt;fCHC7vNZQoBU60SU073DJ0oda7Dg7nXpJmqj&lt;br&gt;=J6Dq&lt;br&gt;-----END PGP PUBLIC KEY BLOCK-----</key>
   <key_id>bit@newsadmin.com</key_id>
@@ -1439,6 +1440,7 @@
    <action>ClariNet.Group</action>
   </control>
   <description>Features and News, available on a commercial basis</description>
+  <notes># Commercial ClariNet news service which used to deliver traditional&lt;br&gt;# newspaper and magazine content using newsgroups.</notes>
   <key_url>http://www.clari.net/tech/clarikey.txt</key_url>
   <comments># For private use only, contact the above address for information.</comments>
   <admin_group>clari.net.admin</admin_group>
@@ -1746,9 +1748,10 @@
    <newsgroups>courts.*</newsgroups>
    <action>doit</action>
   </control>
-  <contact>trier@ins.cwru.edu</contact>
   <description>Court discussion</description>
+  <notes># United States court decisions.</notes>
   <comments># This hierarchy is defunct.  Please remove it.</comments>
+  <contact>trier@ins.cwru.edu</contact>
  </hierarchy>
  <hierarchy>
   <name>CPCUIIA</name>
@@ -2965,6 +2968,7 @@
    <action>control@usenet-france.news.eu.org</action>
   </control>
   <description>France</description>
+  <notes># Regional newsgroups in France.  This hierarchy is mostly abandoned.  The&lt;br&gt;# names of the regions are still the ones before their renaming in 2016.</notes>
   <admin_group>france.admin.evolutions</admin_group>
   <contact>control@usenet-france.news.eu.org</contact>
   <key>-----BEGIN PGP PUBLIC KEY BLOCK-----&lt;br&gt;Version: PGP Key Server 0.9.6&lt;br&gt;&lt;br&gt;mQENAz7fVD0AAAEIALpKujfuGRnNyGS6gKUv3ZbN+hirx6nqAwIIGx1wY5fSDB/0&lt;br&gt;B7dr7Lizvt6g9iF2ZNukxLlFRhSjA5bg7gujlJpTcYdPlXomtjFe3K+S1yXxaWTE&lt;br&gt;gfPlkbcdXXY3PYymkWReL08OgKuOkd14dc+I1G1TZ0wprMIjLjnGrUDNNM2AM372&lt;br&gt;yowJXnmrMteRdQg0aMwn9oVizXcwfr87e2eVC919Es6hi01q/YQcSxSAv00iT4LX&lt;br&gt;APGBcDObvslWVsckEq0Qx4YxrK4/s425wu/aoJiE5WuAVPRBFnsLhHLInRTj1+3A&lt;br&gt;i1jz+8D3Im5CXSITXRFj6r3VJ7TluynFGDk+xFUABRG0IWNvbnRyb2xAdXNlbmV0&lt;br&gt;LWZyYW5jZS5uZXdzLmV1Lm9yZ4kBFQMFED7fVGW7KcUYOT7EVQEBVDIH/0RvG3Vy&lt;br&gt;aevTcIwrb+CmxhYqYcJ6i/PPInx+j5PlYZrAwO3vPp0apKLxDIzH0TqK/hWWokpT&lt;br&gt;7f7aoHVDWv8H2ysc3gGJJaQEB8PQwkjF+aS8wOzqnrECCaAz6h9nmhGlG7sKjz7B&lt;br&gt;fU3AtcaFyOgY0vEuoGLZrPguqLDxzsMlJmOu1zJkSVmtTUtWIPxtUd9CUIiXat7B&lt;br&gt;0kQMjShQs2dtUAKiuaOVYCfn6s4/wk0eZPY512Gfd+uBft2k2ltQoqDzpWRJ8ud3&lt;br&gt;zQJG3PFNnOPj56T5cMsrsAp8b752Y0dPjhZBAAYMt4CCfYOkn3HOEvgP/XvU+4WC&lt;br&gt;krgj/8ST3TlCIGA=&lt;br&gt;=uxFD&lt;br&gt;-----END PGP PUBLIC KEY BLOCK-----</key>
@@ -3324,6 +3328,7 @@
    <action>news@zhaum.xs4all.nl</action>
   </control>
   <description>XS4ALL, Netherlands</description>
+  <notes># Dutch/English hackers' newsgroups in Netherlands.</notes>
   <comments>#&lt;br&gt;# This hierarchy is not entirely defunct, but it receives very little&lt;br&gt;# traffic and is included primarily for the sake of completeness.&lt;br&gt;#</comments>
   <key>-----BEGIN PGP PUBLIC KEY BLOCK-----&lt;br&gt;Version: GnuPG v1.4.6 (GNU/Linux)&lt;br&gt;&lt;br&gt;mQENBEjAjcMBCADVOmDnUlz3Hvy45XkfccA++UTu9JN7Gq+ifK/UPd/whCCENGWg&lt;br&gt;wCc3OTxk1xl+LLCDovGl1/zLNjF6wvJRGKCeUj4tWqMpID+O/PUOP2LbiA710YXT&lt;br&gt;AySOwbaz9ySoNnZlKZI1uCDtQZOHKiGz/Z5Vj5mkoaNsAk4WaOHVRo+qxhxo3XZc&lt;br&gt;9twopbycKz6TyPsJbcBeb/FUMAPPIaRN54xg4kMeRzsDZ/Gw5jxlL1cmi2j2Tb+I&lt;br&gt;1/0m+1seC7VcOl42zBvcD3aL7ltKzXUCvwPGbaZtlJlmtB4ecdMxuDEVqCWkvDZQ&lt;br&gt;143YfFKvKJB+68l9a3QO3xrMTs3nrSq1jSrvABEBAAG0FG5ld3NAemhhdW0ueHM0&lt;br&gt;YWxsLm5siQE2BBMBAgAgBQJIzgdyAhsDBgsJCAcDAgQVAggDBBYCAwECHgECF4AA&lt;br&gt;CgkQOnjrTPFCDo5Pggf8ChyBY/arSe8zEw4tOn8jjXB7k4k9agClgu6BrWfbnmlQ&lt;br&gt;21kUYUVE28Ts1iUUSkFO8V1eRaa8JVyNwSF1/e8cSMIf/Aqj0K/0nf9t+VZXWXGZ&lt;br&gt;9k9sdESWL3y8e6PPIHiVQUEVtZJrKqWXZW2A0/kGXgLhcz6mes8iNN3Z9IYFQA+f&lt;br&gt;yedpXheYM8lBtPr3grzXqJpMH9nYCr2afnxMfbQat251RaKagMEiib0B+ZyPSVMk&lt;br&gt;M2VDUSCgGL9Iphs9izf03vmpyxU11OfmA2fpDs/EP6TJjZy0ebLWPUq8HOpD+P7g&lt;br&gt;+aSX6ne4uc+Y+PhUvuwtMM+PHsQEx5cV/KyOIb+hpw==&lt;br&gt;=Tr0F&lt;br&gt;-----END PGP PUBLIC KEY BLOCK-----</key>
   <key_id>news@zhaum.xs4all.nl</key_id>
@@ -8039,6 +8044,7 @@
    <newsgroups>sk.*</newsgroups>
    <action>doit</action>
   </control>
+  <notes># Two different hierarchies co-exist in the same namespace: Slovakian&lt;br&gt;# newsgroups, and regional Saskatchewan (Canada) newsgroups.</notes>
   <description>Slovakia</description>
  </hierarchy>
  <hierarchy>
@@ -9716,6 +9722,7 @@
    <newsgroups>vmsnet.*</newsgroups>
    <action>doit</action>
   </control>
+  <notes># Originating from Digital VAX network.</notes>
   <description>VMS Operating System</description>
  </hierarchy>
  <hierarchy>
