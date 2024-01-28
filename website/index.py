@@ -237,16 +237,16 @@ def _anchorify(text, mailModif=True, urlModif=True):
     text = cgi.escape(text)
     if mailModif:
         text = re.sub(
-            "([_a-zA-Z0-9-+]+)(\.[_a-zA-Z0-9-+]+)*"
-            "@([a-zA-Z0-9-]+)(\.[a-zA-Z0-9-]+)*(\.[a-zA-Z]{2,4})",
-            '<a href="mailto:\g<0>">\g<0></a>',
+            "([_a-zA-Z0-9-+]+)(\\.[_a-zA-Z0-9-+]+)*"
+            "@([a-zA-Z0-9-]+)(\\.[a-zA-Z0-9-]+)*(\\.[a-zA-Z]{2,4})",
+            '<a href="mailto:\\g<0>">\\g<0></a>',
             text,
         )
     if urlModif:
         text = re.sub(
-            "(ftp|http|https):\/\/(\w+:{0,1}\w*@)?"
-            "(\S+)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?",
-            '<a href="\g<0>">\g<0></a>',
+            "(ftp|http|https):\\/\\/(\w+:{0,1}\w*@)?"
+            "(\S+)(:[0-9]+)?(\\/|\\/([\w#!:.?+=&%@!\\-\\/]))?",
+            '<a href="\\g<0>">\\g<0></a>',
             text,
         )
     return text
