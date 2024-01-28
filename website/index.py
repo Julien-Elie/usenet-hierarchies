@@ -241,8 +241,8 @@ def _anchorify(text, mailModif=True, urlModif=True):
         )
     if urlModif:
         text = re.sub(
-            "(ftp|http|https):\\/\\/(\w+:{0,1}\w*@)?"
-            "(\S+)(:[0-9]+)?(\\/|\\/([\w#!:.?+=&%@!\\-\\/]))?",
+            "(ftp|http|https):\\/\\/(\\w+:{0,1}\\w*@)?"
+            "(\\S+)(:[0-9]+)?(\\/|\\/([\\w#!:.?+=&%@!\\-\\/]))?",
             '<a href="\\g<0>">\\g<0></a>',
             text,
         )
