@@ -335,14 +335,12 @@ def _parse_control(file_control, dictionary):
                             # Keep only the relevant newsgroups for the
                             # hierarchy.
                             if wildmat.startswith(name.lower()):
-                                control[name].append(
-                                    [
-                                        controllist[0],
-                                        controllist[1],
-                                        wildmat,
-                                        controllist[3],
-                                    ]
-                                )
+                                control[name].append([
+                                    controllist[0],
+                                    controllist[1],
+                                    wildmat,
+                                    controllist[3],
+                                ])
                 elif not line:
                     # All done for the hierarchy!
                     if comments:
@@ -506,23 +504,17 @@ def _list_hierarchies(dictionary, key="all", value="all"):
     for hierarchy in list(dictionary.keys()):
         if key == "all" or key in dictionary[hierarchy]:
             if value == "all":
-                hierlist.append(
-                    (
-                        hierarchy,
-                        dictionary[hierarchy].get("description", [""])[0],
-                    )
-                )
+                hierlist.append((
+                    hierarchy,
+                    dictionary[hierarchy].get("description", [""])[0],
+                ))
             else:
                 for item in dictionary[hierarchy][key]:
                     if item == value:
-                        hierlist.append(
-                            (
-                                hierarchy,
-                                dictionary[hierarchy].get("description", [""])[
-                                    0
-                                ],
-                            )
-                        )
+                        hierlist.append((
+                            hierarchy,
+                            dictionary[hierarchy].get("description", [""])[0],
+                        ))
     hierlist.sort()
     return hierlist
 

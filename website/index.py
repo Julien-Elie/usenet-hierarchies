@@ -224,10 +224,7 @@ def _html_end():
     """Return the end of the HTML page."""
     answer = (
         '<p class="bottom"><a href="#top">&uarr; Return to top of'
-        " page</a></p>\n<hr>\n"
-        + _SEVERAL
-        + _SOURCE
-        + "</body>\n</html>"
+        " page</a></p>\n<hr>\n" + _SEVERAL + _SOURCE + "</body>\n</html>"
     )
     return answer
 
@@ -871,10 +868,7 @@ def application(environ, start_response):
         content_type = "text/plain; charset=utf-8"
         if hierlist == ["ALL"]:
             answer += (
-                "## Generated at <"
-                + _WEBSITE
-                + _SUBDIR
-                + ">.\n"
+                "## Generated at <" + _WEBSITE + _SUBDIR + ">.\n"
                 "## Based on <https://ftp.isc.org/pub/usenet/CONFIG/>.\n\n"
             )
             hierlist = sorted(dictionary.keys())
