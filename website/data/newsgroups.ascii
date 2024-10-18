@@ -40931,10 +40931,13 @@ robin.maps		Routinginformationen innerhalb des RoBIN. (Moderated)
 robin.spiele		Rund um Spiele jeder Art.
 robin.test		Fuer das testen der neuen Signature.
 robin.uni		Themen rund um die Uni und das studieren.
+rocksolid.feeds.news	RSS Feeds from various news sites.
+rocksolid.feeds.tech	RSS Feeds covering tech, computers, etc.
 rocksolid.nodes		Discuss specific Rocksolid nodes.
 rocksolid.nodes.announce	Rocksolid node announcements.
 rocksolid.nodes.help	Questions and Help for node administration.
 rocksolid.programming	Computer programming discussion.
+rocksolid.religion	Let there be Rocksolid Light.
 rocksolid.shared.encryption	Public keys, encrypted messages etc.
 rocksolid.shared.entertainment	Entertainment discussion and articles.
 rocksolid.shared.freenet	Discussion and questions about Freenet.
