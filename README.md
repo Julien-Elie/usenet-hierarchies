@@ -1,6 +1,6 @@
 # usenet-hierarchies
 
-> Copyright (c) 2007-2009, 2011, 2016, 2019-2020, 2023 Julien ÉLIE
+> Copyright (c) 2007-2009, 2011, 2016, 2019, 2020, 2023-2024 Julien ÉLIE
 
 This software is distributed under the MIT license.  Please see the
 [License](#license) section below for more information.
@@ -42,7 +42,7 @@ welcome.
 The source code and manually maintained data of these projects are covered by
 the following copyright statement and license:
 
-> Copyright (c) 2007-2009, 2011, 2016, 2019-2020, 2023 Julien ÉLIE
+> Copyright (c) 2007-2009, 2011, 2016, 2019, 2020, 2023-2024 Julien ÉLIE
 >
 > Permission is hereby granted, free of charge, to any person obtaining a
 > copy of this software and associated documentation files (the "Software"),

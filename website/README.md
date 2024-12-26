@@ -1,6 +1,6 @@
 # Web site of usenet-hierarchies
 
-> Copyright (c) 2007-2009, 2011, 2016, 2023 Julien ÉLIE
+> Copyright (c) 2007-2009, 2011, 2016, 2023-2024 Julien ÉLIE
 
 See the top-level [README](../README.md) file for details about the license
 and general support.
