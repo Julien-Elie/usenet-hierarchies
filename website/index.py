@@ -410,6 +410,9 @@ def _page_list_hierarchies(dictionary, status):
                 if not beginNotes:
                     answer += "<dd>"
                     beginNotes = True
+                line = line.replace("Gabor", "Gábor")
+                line = line.replace("Nandor", "Nándor")
+                line = line.replace("Horvath", "Horváth")
                 answer += cgi.escape(line[2:]) + " "
             elif line.endswith(".*") and not line.startswith(" "):
                 # New hierarchy.

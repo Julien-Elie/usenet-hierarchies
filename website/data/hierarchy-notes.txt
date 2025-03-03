@@ -117,6 +117,11 @@ god.*
   It should be removed.
 hacktic.*
   Dutch/English hackers' newsgroups in Netherlands.
+hun.*
+  Created in April 1995 by Nandor Horvath and Gabor Kiss, the Hungarian
+  hierarchy eventually lost its normal traffic.  It was totally and properly
+  removed in March 2025 with 53 rmgroup control articles sent by Gabor, one of
+  its co-founder.
 ibm.*
   Originally for internal use by IBM Corporation (ibm.com) only.  The
   ibm.software.* hierarchy was available via news.software.ibm.com for a

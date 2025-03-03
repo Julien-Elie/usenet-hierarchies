@@ -33715,59 +33715,6 @@ humanityquest.values	Discuss the theme of values
 humanityquest.virtue	Discuss the theme of virtue
 humanityquest.wisdom	Discuss the theme of wisdom
 humanityquest.worry	Discuss the theme of worry
-hun.admin.news		News adminisztracio, a hun.* csoportok.
-hun.business.allas	Allashirdetesek.
-hun.business.egyeb	Uzleti targyu beszelgetesek.
-hun.business.reklam	Arlistak es egyeb reklamok.
-hun.comp.lang.java	A Java programozasi nyelv.
-hun.comp.lang.madach	A Madach regenyleiro nyelv
-hun.comp.net		Szamitogephalozatok muszaki vonatkozasai.
-hun.comp.os.os2		OS/2.
-hun.comp.os.solaris	Solaris es SunOS.
-hun.comp.text.tex	TeX es LaTeX.
-hun.flame		Ami mashol off-topic lenne.
-hun.fogyaszto.vedelem	Fogyasztovedelem altalaban es konkret esetekben.
-hun.general		?
-hun.hobbi		Szabadidos tevekenysegek.
-hun.hobbi.repules	Repules, ejtoernyozes.
-hun.lists.elektro	Elektronika levelezesi lista. (Moderated)
-hun.lists.hix.auto	HIX/Auto digest. (Moderated)
-hun.lists.hix.coder	HIX/Coder digest. (Moderated)
-hun.lists.hix.guru	HIX/Guru digest. (Moderated)
-hun.lists.hix.jatek	HIX/Jatek digest. (Moderated)
-hun.lists.hix.kornyesz	HIX/Kornyesz digest. (Moderated)
-hun.lists.hix.kukker	HIX/Kukker digest. (Moderated)
-hun.lists.hix.kultura	HIX/Kultura digest. (Moderated)
-hun.lists.hix.mobil	HIX/Mobil digest. (Moderated)
-hun.lists.hix.moka	HIX/Moka digest. (Moderated)
-hun.lists.hix.otthon	HIX/Otthon digest. (Moderated)
-hun.lists.hix.randi	HIX/Randi digest. (Moderated)
-hun.lists.hix.sport	HIX/Sport digest. (Moderated)
-hun.lists.hix.tanc	HIX/Tanc digest. (Moderated)
-hun.lists.hix.tipp	HIX/Tipp digest. (Moderated)
-hun.lists.hix.tudomany	HIX/Tudomany digest. (Moderated)
-hun.lists.hix.utazas	HIX/Utazas digest. (Moderated)
-hun.lists.hix.vita	HIX/Vita digest. (Moderated)
-hun.lists.hix.webmester	HIX/Webmester digest. (Moderated)
-hun.lists.mlf.gimp	A GNU kepfeldolgozo rendszer. (Moderated)
-hun.lists.mlf.linux	Linux levelezesi lista. (Moderated)
-hun.lists.mlf.linux++	Linux NEM kezdoknek. (Moderated)
-hun.lists.mlf.linux-doc	Linux levelezesi lista. (Moderated)
-hun.lists.mlf.linux-flame	Linux vitalista. (Moderated)
-hun.lists.mlf.linux-hw	Linux hardver kerdesek. (Moderated)
-hun.lists.mlf.linux-kezdo	Linux kezdoknek. (Moderated)
-hun.lists.mlf.shell-l	Shell programozas. (Moderated)
-hun.lists.mlf.unix	Linux levelezesi lista, altalanos Unix kerdesek. (Moderated)
-hun.news.neirjide	En a helyedben nem postaznek ide semmit. De komolyan!
-hun.nyelv		A magyar nyelv.
-hun.org.hungarnet.egyeni-kutatok	Hungarnet Egy. Egyeni Kutatok Szakoszt.
-hun.piac.comp.keres	Megvetelre keresett szamitogepek es alkatreszek.
-hun.piac.comp.kinal	Eladasra kinalt szamitogepek es alkatreszek.
-hun.piac.egyeb		Egyeb maganjellegu adok-veszek, cserebere.
-hun.politika		Politikai temaju vitak es beszelgetesek.
-hun.test		A news rendszer tesztelesere szolgalo csoport.
-hun.test.moderated	A news szervereden levo 'moderators' file tesztelesere. (Moderated)
-hun.vallas.szcientologia	A szcientologiarol altalaban, pro es kontra.
 hw.general		No description.
 ia.answers		Repository for periodic USENET articles.
 ia.comp.infosystems.misc	General topics about Iowa-based info-systems.
