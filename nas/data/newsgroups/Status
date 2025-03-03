@@ -43120,12 +43120,12 @@ rec.arts.comics.dc.lsh	Unmoderated
 rec.arts.comics.dc.universe	Unmoderated
 rec.arts.comics.dc.vertigo	Unmoderated
 rec.arts.comics.elfquest	Removed
-rec.arts.comics.info	Moderated
+rec.arts.comics.info	Removed
 rec.arts.comics.marketplace	Unmoderated
 rec.arts.comics.marvel.universe	Unmoderated
 rec.arts.comics.marvel.xbooks	Unmoderated
 rec.arts.comics.misc	Unmoderated
-rec.arts.comics.reviews	Moderated
+rec.arts.comics.reviews	Removed
 rec.arts.comics.strips	Unmoderated
 rec.arts.dance	Unmoderated
 rec.arts.disney.animation	Unmoderated
@@ -43703,7 +43703,7 @@ rec.radio.amateur.misc	Unmoderated
 rec.radio.amateur.moderated	Moderated
 rec.radio.amateur.policy	Unmoderated
 rec.radio.amateur.space	Unmoderated
-rec.radio.broadcasting	Moderated
+rec.radio.broadcasting	Removed
 rec.radio.cb	Unmoderated
 rec.radio.info	Moderated
 rec.radio.noncomm	Removed

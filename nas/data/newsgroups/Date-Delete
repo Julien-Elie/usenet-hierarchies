@@ -2038,6 +2038,8 @@ rec.arts.anime.music	20100205211003
 rec.arts.books.excerpts	20100817201002
 rec.arts.books.reviews	20101011201002
 rec.arts.comics.elfquest	20110511205002
+rec.arts.comics.info	20250204211004
+rec.arts.comics.reviews	20250204211004
 rec.arts.disney.announce	20070312201004
 rec.arts.drwho.info	20101011201002
 rec.arts.movies.announce	20070305210007
@@ -2083,6 +2085,7 @@ rec.music.iranian	20110512205002
 rec.parks.theme	20110512205002
 rec.pets.cats.announce	20101011201003
 rec.ponds.moderated	20150621200024
+rec.radio.broadcasting	20250204211003
 rec.radio.noncomm	20130402201002
 rec.scouting.guide+girl	20110512205002
 rec.sport.baseball.analysis	20101011201003
