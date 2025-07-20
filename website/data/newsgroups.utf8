@@ -22529,7 +22529,6 @@ comp.compilers		Compiler construction, theory, etc. (Moderated)
 comp.compilers.lcc	The lcc C Compiler and related topics.
 comp.compilers.tools.javacc	The Java Compiler Compiler and related topics.
 comp.compression	Data compression algorithms and theory.
-comp.compression.research	Discussions about data compression research. (Moderated)
 comp.constraints	Constraint processing and related topics.
 comp.data.administration	Manage data as a corporate asset: stds & methds.
 comp.databases		Database and data management issues and theory.
@@ -22583,7 +22582,6 @@ comp.dcom.wan		All topics concerned with wide area networking.
 comp.dcom.xdsl		Discussion area for different DSL technologies.
 comp.distributed	Distributed Resource Sharing and Applications.
 comp.doc.management	Document Management technologies.
-comp.doc.techreports	Lists of technical reports. (Moderated)
 comp.dsp		Digital Signal Processing using computers.
 comp.editors		Topics related to computerized text editing.
 comp.edu		Computer science education.
@@ -22650,7 +22648,6 @@ comp.infosystems.www.misc	Miscellaneous World Wide Web discussion.
 comp.infosystems.www.servers.misc	Web servers for other platforms.
 comp.infosystems.www.servers.ms-windows	Web servers for MS Windows and NT.
 comp.infosystems.www.servers.unix	Web servers for UNIX platforms.
-comp.internet.library	Discussing electronic libraries. (Moderated)
 comp.internet.services.blog.livejournal	LJ blogging service and software.
 comp.internet.services.google	Search, Gmail, Groups, Maps, Picasa, etc.
 comp.internet.services.video.youtube	Internet video for the masses.
@@ -22771,7 +22768,6 @@ comp.object		Object-oriented programming and languages.
 comp.object.corba	OMG CORBA standard.
 comp.object.logic	Integrating object-oriented and logic programming.
 comp.org.acm		Topics about the Association for Computing Machinery.
-comp.org.cauce		The Coalition Against Unsolicited Commercial E-Mail. (Moderated)
 comp.org.ieee		Issues and announcements about the IEEE & its members.
 comp.org.lisp-users	Association of Lisp Users related discussions.
 comp.org.uniforum	UniForum Association activities.
@@ -22908,7 +22904,6 @@ comp.publish.prepress	Electronic prepress.
 comp.realtime		Issues related to real-time computing.
 comp.risks		Risks to the public from computers & users. (Moderated)
 comp.robotics.misc	All aspects of robots and their applications.
-comp.robotics.research	Academic, government & industry research in robotics. (Moderated)
 comp.security.firewalls	Anything pertaining to network firewall security.
 comp.security.misc	Security issues of computers and networks.
 comp.security.pgp.discuss	PGP and its implications.
@@ -22946,7 +22941,6 @@ comp.software.testing	All aspects of testing computer systems.
 comp.software.year-2000	Year 2000 compliance: projects and issues.
 comp.sources.bugs	Bug reports, fixes, discussion for posted sources.
 comp.sources.d		For any discussion of source postings.
-comp.sources.games	Postings of recreational software. (Moderated)
 comp.sources.testers	Finding people to test software.
 comp.sources.wanted	Requests for software and fixes.
 comp.specification.misc	Formal specification methods in general.
@@ -22969,7 +22963,6 @@ comp.sys.acorn.misc	Acorn computing in general.
 comp.sys.acorn.networking	Networking of Acorn computers.
 comp.sys.acorn.programmer	Programming of Acorn computers.
 comp.sys.amiga.advocacy	Why an Amiga is better than XYZ.
-comp.sys.amiga.announce	Announcements about the Amiga. (Moderated)
 comp.sys.amiga.applications	Miscellaneous applications.
 comp.sys.amiga.audio	Music, MIDI, speech synthesis, other sounds.
 comp.sys.amiga.cd32	Technical and computing talk for Commodore Amiga CD32.
@@ -23109,7 +23102,6 @@ comp.sys.sgi.misc	General discussion about Silicon Graphics's machines.
 comp.sys.sinclair	Sinclair computers, eg. the ZX81, Spectrum and QL.
 comp.sys.stratus	Stratus products, incl. System/88, CPS-32, VOS and FTX.
 comp.sys.sun.admin	Sun system administration issues and questions.
-comp.sys.sun.announce	Sun announcements and Sunergy mailings. (Moderated)
 comp.sys.sun.apps	Software applications for Sun computer systems.
 comp.sys.sun.hardware	Sun Microsystems hardware.
 comp.sys.sun.misc	Miscellaneous discussions about Sun products.
@@ -33631,7 +33623,6 @@ humanities.language.sanskrit	The Sanskrit language and related topics.
 humanities.lit.authors.shakespeare	Poetry, plays, history of Shakespeare.
 humanities.misc		General topics in the arts & humanities.
 humanities.music.composers.wagner	The life and works of Richard Wagner.
-humanities.philosophy.objectivism	The ideas of Ayn Rand. (Moderated)
 humanityquest.addiction	Discuss the theme of addiction.
 humanityquest.admin	Administration discussions for humanityquest.*
 humanityquest.admin.announce	humanityquest.* announcements
@@ -37371,12 +37362,8 @@ milw.politics		Political topics specific to the Milwaukee Metro Area.
 milw.talk		Discussion of mostly non-Milwaukee related topics.
 milw.test		Test messages specific to the Milwaukee Metro Area.
 milw.unix		Milwaukee Metro Area UNIX discussions.
-misc.activism.progressive	Information for Progressive activists. (Moderated)
 misc.answers		Repository for periodic USENET articles. (Moderated)
 misc.books.technical	Discussion of books about technical topics.
-misc.business.consulting	The business of consulting. (Moderated)
-misc.business.marketing.moderated	Roundtable for marketing topics. (Moderated)
-misc.business.moderated	Roundtable for general business topics. (Moderated)
 misc.business.records-mgmt	All aspects of professional records management.
 misc.consumers		Consumer interests, product reviews, etc.
 misc.consumers.frugal-living	Practicing a frugal lifestyle.
@@ -37392,7 +37379,6 @@ misc.education.medical	Issues related to medical education.
 misc.education.science	Issues related to science education.
 misc.emerg-services	Forum for paramedics & other first responders.
 misc.entrepreneurs	Discussion on operating a business.
-misc.entrepreneurs.moderated	Entrepreneur/business topics. (Moderated)
 misc.facts.straight-dope	The Straight Dope column and related topics.
 misc.fitness.aerobic	All forms of aerobic activity.
 misc.fitness.misc	All other general fitness topics.
@@ -37432,7 +37418,6 @@ misc.industry.quality	Quality standards and other issues.
 misc.industry.utilities.electric	The electric utility industry.
 misc.int-property	Discussion of intellectual property rights.
 misc.invest.canada	Investing in Canadian financial markets.
-misc.invest.financial-plan	Financial planning in general. (Moderated)
 misc.invest.futures	Physical commodity and financial futures markets.
 misc.invest.marketplace	All other ads/promotions.
 misc.invest.misc	Investments not in other misc.invest.* groups.
@@ -37465,7 +37450,6 @@ misc.taxes		Tax laws and advice.
 misc.taxes.moderated	Tax professionals meeting place and answers to queries. (Moderated)
 misc.test		For testing of network software.  Very boring.
 misc.test.moderated	Testing of posting to moderated groups. (Moderated)
-misc.transport.air-industry	Airlines, airports, commercial aircraft. (Moderated)
 misc.transport.marine	Maritime and inland waterways transportation.
 misc.transport.misc	General transportation issues.
 misc.transport.rail.americas	Railroads & railways in North & South America.
@@ -37478,7 +37462,6 @@ misc.transport.urban-transit	Metropolitan public transportation systems.
 misc.wanted		Requests for things that are needed (NOT software).
 misc.writing		Discussion of writing in all of its forms.
 misc.writing.screenplays	Aspects of writing and selling screenplays.
-misc.writing.screenplays.moderated	Craft/business of screenwriting. (Moderated)
 mit.aero.unified	Aero/Astro Unified Engineering at MIT
 mit.bboard		MIT's Bulletin Board.
 mit.eecs.discuss	Electrical Engineering at Computer Science at MIT
@@ -38164,11 +38147,9 @@ news.admin.misc		General topics of network news administration.
 news.admin.moderation	Technical and social issues of newsgroup moderation. (Moderated)
 news.admin.net-abuse.email	Discussion of abuse of email systems.
 news.admin.net-abuse.misc	Network facility abuse, including spamming.
-news.admin.net-abuse.policy	Discussion of net abuse policy. (Moderated)
 news.admin.net-abuse.usenet	Discussion of abuse of the Usenet system.
 news.admin.peering	Article flow, server peering requests, & offers.
 news.admin.technical	Technical aspects of maintaining network news. (Moderated)
-news.announce.conferences	Calls for papers and conferences. (Moderated)
 news.announce.important	General announcements of interest to all. (Moderated)
 news.announce.newgroups	Calls for newgroups & announcements of same. (Moderated)
 news.announce.newusers	Explanatory postings for new users. (Moderated)
@@ -39981,10 +39962,8 @@ rec.aquaria.tech	Aquarium related technology and equipment.
 rec.arts.animation	Discussion of various kinds of animation.
 rec.arts.anime.creative	Original works by fans, related to anime/manga. (Moderated)
 rec.arts.anime.fandom	Important issues concerning Japanese animation fans.
-rec.arts.anime.info	Announcements about Japanese animation. (Moderated)
 rec.arts.anime.marketplace	Things for sale in the Japanese animation world.
 rec.arts.anime.misc	Japanese animation fan discussions.
-rec.arts.ascii		ASCII art, info on archives, art, & artists. (Moderated)
 rec.arts.bodyart	Tattoos and body decoration discussions.
 rec.arts.bonsai		Dwarfish trees and shrubbery.
 rec.arts.books		Books of all genres, and the publishing industry.
@@ -40007,8 +39986,6 @@ rec.arts.disney.merchandise	Toys, videos, music, books, art, collectibles.
 rec.arts.disney.misc	General topics pertinent to the Disney Company.
 rec.arts.disney.parks	Parks, resorts, dining, attractions, vacations.
 rec.arts.drwho		Discussion about Dr. Who.
-rec.arts.drwho.moderated	Discussion of "Doctor Who". (Moderated)
-rec.arts.erotica	Erotic fiction and verse. (Moderated)
 rec.arts.fine		Fine arts & artists.
 rec.arts.henson+muppets	The Muppets and other Jim Henson works.
 rec.arts.horror.marketplace	All horror-related commercial messages.
@@ -40026,7 +40003,6 @@ rec.arts.marching.misc	Marching-related performance activities.
 rec.arts.marching.percussion	Marching percussion.
 rec.arts.misc		Discussions about the arts not in other groups.
 rec.arts.movies.current-films	The latest movie releases.
-rec.arts.movies.erotica	Aspects of erotic films and videos. (Moderated)
 rec.arts.movies.international	Non-American art films.
 rec.arts.movies.lists+surveys	Top-N lists and general surveys.
 rec.arts.movies.local.indian	Indian movies and the Indian film industry.
@@ -40043,7 +40019,6 @@ rec.arts.origami	Ancient Asian Paper Sculpture.
 rec.arts.poems		For the posting of poems.
 rec.arts.prose		Short works of prose fiction and followup discussion.
 rec.arts.puppetry	For discussion of puppets in any form or venue.
-rec.arts.sf.announce	Major announcements of the SF world. (Moderated)
 rec.arts.sf.composition	The writing and publishing of speculative fiction.
 rec.arts.sf.fandom	Discussions of SF fan activities.
 rec.arts.sf.marketplace	Personal forsale notices of SF materials.
@@ -40053,7 +40028,6 @@ rec.arts.sf.science	Real and speculative aspects of SF science.
 rec.arts.sf.starwars.collecting.misc	Discussion of all Star Wars collecting.
 rec.arts.sf.starwars.collecting.vintage	Star Wars items made before 1990.
 rec.arts.sf.starwars.games	Star Wars games:  RPG, computer, card, etc.
-rec.arts.sf.starwars.info	General information pertaining to Star Wars. (Moderated)
 rec.arts.sf.starwars.misc	Miscellaneous topics pertaining to Star Wars.
 rec.arts.sf.superman	Discussion of Superman in any medium.
 rec.arts.sf.tv		Discussing general television SF.
@@ -40115,11 +40089,9 @@ rec.autos.rotary	Rotary engines & vehicles using them.
 rec.autos.simulators	Discussion of automotive simulators.
 rec.autos.sport.cart	Championship Auto Racing Teams.
 rec.autos.sport.f1	Formula 1 motor racing.
-rec.autos.sport.f1.moderated	Discussion of Formula One racing. (Moderated)
 rec.autos.sport.indy	Indy Car motor racing.
 rec.autos.sport.misc	Organized, legal auto competitions.
 rec.autos.sport.nascar	NASCAR and other professional stock car racing.
-rec.autos.sport.nascar.moderated	NASCAR and Stockcar Racing. (Moderated)
 rec.autos.sport.tech	Technical aspects & technology of auto racing.
 rec.autos.tech		Technical aspects of automobiles, et. al.
 rec.aviation.aerobatics	Aerobatics and unusual attitude flying.
@@ -40154,7 +40126,6 @@ rec.boats		Hobbyists interested in boating.
 rec.boats.building	Boat building, design, restoration, and repair.
 rec.boats.cruising	Cruising in boats.
 rec.boats.electronics	Electronics, hardware, software on boats.
-rec.boats.marketplace	Boating products for sale and wanted. (Moderated)
 rec.boats.paddle	Talk about any boats with oars, paddles, etc.
 rec.boats.paddle.touring	Flatwater paddling and touring.
 rec.boats.paddle.whitewater	Whitewater paddling.
@@ -40184,7 +40155,6 @@ rec.crafts.brewing	The art of making beers and meads.
 rec.crafts.carving	Exchange of information on carving and its techniques.
 rec.crafts.distilling	Discussion of distilling alcohol and other substances.
 rec.crafts.glass	All aspects of glassworking and glass.
-rec.crafts.jewelry	Jewelry making and gemology. (Moderated)
 rec.crafts.knots	Discussion on knots, how to tie and where to use them.
 rec.crafts.marketplace	Small-scale ads for craft products of all kinds.
 rec.crafts.meadmaking	The art and lore of making mead.
@@ -40203,7 +40173,6 @@ rec.crafts.textiles.sewing	Sewing: clothes, furnishings, costumes, etc.
 rec.crafts.textiles.yarn	Yarn making & use: spin, dye, knit, weave etc.
 rec.crafts.winemaking	The tasteful art of making wine.
 rec.crafts.woodturning	Woodturning and turned objects.
-rec.drugs.announce	Announcements about drugs and related issues. (Moderated)
 rec.drugs.cannabis	The drug cannabis (marijuana).
 rec.drugs.chemistry	Chemistry, pharmacology and related issues.
 rec.drugs.misc		Stimulants, sedatives, smart drugs, et cetera.
@@ -40214,7 +40183,6 @@ rec.folk-dancing	Folk dances, dancers, and dancing.
 rec.food.baking		Baking and baked goods, e.g. bread, pastries.
 rec.food.chocolate	Chocolate.
 rec.food.cooking	Food, cooking, cookbooks, and recipes.
-rec.food.cuisine.jewish	All matters concerning Jewish cuisine. (Moderated)
 rec.food.drink		Wines and spirits.
 rec.food.drink.beer	All things beer.
 rec.food.drink.coffee	The making and drinking of coffee.
@@ -40223,7 +40191,6 @@ rec.food.equipment	Food-related equipment, appliances, utensils.
 rec.food.historic	The history of food making arts.
 rec.food.marketplace	Buying and selling food-related items.
 rec.food.preserving	Preserving foodstuffs, herbs, and medicinals.
-rec.food.recipes	Recipes for interesting food and drink. (Moderated)
 rec.food.restaurants	Discussion of dining out.
 rec.food.sourdough	Making and baking with sourdough.
 rec.food.veg		Vegetarians.
@@ -40329,7 +40296,6 @@ rec.games.video.sony	Sony game hardware and software.
 rec.games.video.sony.playstation3	Sony PS3 comsole.
 rec.gardens		Gardening, methods and results.
 rec.gardens.bamboo	All aspects of bamboo growing and uses.
-rec.gardens.ecosystems	Ecosystems and organic gardening. (Moderated)
 rec.gardens.edible	Edible gardening topics.
 rec.gardens.orchids	Growing, hybridizing, and general care of orchids.
 rec.gardens.roses	Gardening information related to roses.
@@ -40348,7 +40314,6 @@ rec.knives		Anything that goes cut or has an edge.
 rec.mag			Magazine summaries, tables of contents, etc.
 rec.mag.dargon		DargonZine fantasy fiction emag issues and discussion.
 rec.martial-arts	Discussion of the various martial art forms.
-rec.martial-arts.moderated	Martial-arts in general. (Moderated)
 rec.media.players.portable	Portable media players.
 rec.media.players.portable.ipod	Apple's iPod media players.
 rec.misc		General topics about recreational/participant sports.
@@ -40387,8 +40352,6 @@ rec.music.artists.reb-st-james	All aspects of Rebecca St. James' career.
 rec.music.artists.springsteen	Forum for fans of Bruce Springsteen's music.
 rec.music.barbershop	Barbershop quartet and chorus singing.
 rec.music.beatles	Postings about the Fab Four & their music.
-rec.music.beatles.info	Latest press notes about the Beatles. (Moderated)
-rec.music.beatles.moderated	Fab Four analytical & investigative articles. (Moderated)
 rec.music.bluenote	Discussion of jazz, blues, and related types of music.
 rec.music.bluenote.blues	The Blues in all forms and all aspects.
 rec.music.brazilian	All aspects of brazilian music.
@@ -40414,13 +40377,11 @@ rec.music.filk		Music genre originated in the sf/fantasy fan community.
 rec.music.folk		Folks discussing folk music of various sorts.
 rec.music.folk.tablature	Folk Music Tune Discussion and Trade.
 rec.music.funky		Funk, soul, rhythm & blues and related.
-rec.music.gaffa		Discussion of Kate Bush & other alternative music. (Moderated)
 rec.music.gdead		A group for (Grateful) Dead-heads.
 rec.music.hip-hop	Hip-Hop music and culture in general.
 rec.music.indian.classical	Hindustani and Carnatic Indian classical music.
 rec.music.indian.misc	Discussing Indian music in general.
 rec.music.industrial	Discussion of all industrial-related music styles.
-rec.music.info		News and announcements on musical topics. (Moderated)
 rec.music.makers	For performers and their discussions.
 rec.music.makers.bagpipe	Music and playing of all types of bagpipes.
 rec.music.makers.bands	For musicians who play in groups with others.
@@ -40434,7 +40395,6 @@ rec.music.makers.french-horn	About horn players and playing.
 rec.music.makers.guitar	Electric and acoustic guitar techniques and equipment.
 rec.music.makers.guitar.acoustic	Discussion of acoustic guitar playing.
 rec.music.makers.guitar.jazz	All aspects of jazz guitar.
-rec.music.makers.guitar.tablature	Guitar tablature and performance. (Moderated)
 rec.music.makers.jazz	Discussion by and for musicians on the making of jazz.
 rec.music.makers.marketplace	Buying & selling used music-making equipment.
 rec.music.makers.percussion	Drum & other percussion techniques & equipment.
@@ -40454,11 +40414,9 @@ rec.music.newage	"New Age" music discussions.
 rec.music.opera		All aspects of opera.
 rec.music.phish		Discussing the musical group Phish.
 rec.music.progressive	Symphonic rock, art rock, fusion, Canterbury, RIO, etc.
-rec.music.promotional	Information and promo materials from record companies. (Moderated)
 rec.music.ragtime	Ragtime and related music styles.
 rec.music.reggae	Roots, Rockers, Dancehall Reggae.
 rec.music.rem		The musical group R.E.M.
-rec.music.reviews	Reviews of music of all genres and mediums. (Moderated)
 rec.music.rock-pop-r+b.1950s	1950s Rock, Pop, and Rhythm & Blues music.
 rec.music.rock-pop-r+b.1960s	1960s Rock, Pop, and Rhythm & Blues music.
 rec.music.rock-pop-r+b.1970s	1970s Rock, Pop, Soul, and Rhythm & Blues music.
@@ -40489,10 +40447,8 @@ rec.pets.dogs.activities	Dog events: showing, obedience, agility, etc.
 rec.pets.dogs.behavior	Behaviors and problems: housetraining, chewing, etc.
 rec.pets.dogs.breeds	Breed specific -- breed traits, finding breeders, etc.
 rec.pets.dogs.health	Info about health problems & how to care for dogs.
-rec.pets.dogs.info	General information and FAQs posted here. (Moderated)
 rec.pets.dogs.misc	All other topics, chat, humor, etc.
 rec.pets.dogs.rescue	Information about breed rescue, placing and adopting.
-rec.pets.ferrets	Forum on ferret care and husbandry. (Moderated)
 rec.pets.herp		Reptiles, amphibians and other exotic vivarium pets.
 rec.photo.darkroom	Developing, printing and other darkroom issues.
 rec.photo.digital	Digital cameras, scanners, printers, software, PhotoCD.
@@ -40546,8 +40502,6 @@ rec.scuba		Hobbyists interested in SCUBA diving.
 rec.scuba.equipment	Scuba equipment, purchase, pros/cons, use.
 rec.scuba.locations	Scuba travel, location questions.
 rec.skiing.alpine	Downhill skiing technique, equipment, etc.
-rec.skiing.alpine.moderated	Alpine (downhill) skiing. (Moderated)
-rec.skiing.announce	FAQ, competition results, automated snow reports. (Moderated)
 rec.skiing.backcountry	Backcountry skiing.
 rec.skiing.marketplace	Items for sale/wanted.
 rec.skiing.nordic	Cross-country skiing technique, equipment, etc.
@@ -41046,7 +41000,6 @@ schule.schueler.schwatz	Spassiges Geschwaetz.
 schule.software		Einsatz von Lehr- und Lernsoftware.
 schule.sprachen		Deutsch, Englisch, Esperanto etc.
 schule.test		Tests in schule-Gruppen. Vorsicht, Reflektoren!
-sci.aeronautics		The science of aeronautics & related technology. (Moderated)
 sci.agriculture		Farming, agriculture and related topics.
 sci.agriculture.beekeeping	Beekeeping, bee-culture and hive products.
 sci.agriculture.fruit	Agricultural techniques for fruit, berries & nuts.
@@ -41057,7 +41010,6 @@ sci.anthropology	All aspects of studying humankind.
 sci.anthropology.paleo	Evolution of man and other primates.
 sci.archaeology		Studying antiquities of the world.
 sci.archaeology.mesoamerican	The field of mesoamerican archaeology.
-sci.archaeology.moderated	All aspects of archaeology. (Moderated)
 sci.astro		Astronomy discussions and information.
 sci.astro.amateur	Amateur astronomy equipment, techniques, info, etc.
 sci.astro.ccd-imaging	Astronomical digital image capture and processing.
@@ -41073,7 +41025,6 @@ sci.bio.entomology.homoptera	Research on homopteran (sap-sucking) insects.
 sci.bio.entomology.lepidoptera	Lepidoptera: butterflies & moths.
 sci.bio.entomology.misc	General insect study and related issues.
 sci.bio.ethology	Animal behavior and behavioral ecology.
-sci.bio.evolution	Discussions of evolutionary biology. (Moderated)
 sci.bio.fisheries	All aspects of fisheries science and fish biology.
 sci.bio.food-science	Topics related to food science and technology.
 sci.bio.herp		Biology of amphibians and reptiles.
@@ -41081,7 +41032,6 @@ sci.bio.immunocytochem	Immuno-labelling of biological material.
 sci.bio.microbiology	Protists, fungi, algae, other microscopic organisms.
 sci.bio.misc		Biology and related sciences.
 sci.bio.paleontology	Life of the past (but no creation vs evolution!).
-sci.bio.phytopathology	All aspects of plant diseases and pests. (Moderated)
 sci.bio.systematics	Systematics, taxonomy, and the tree of life.
 sci.bio.technology	Any topic relating to biotechnology.
 sci.chem		Chemistry and related sciences.
@@ -41090,7 +41040,6 @@ sci.chem.coatings	Paints and Coatings practitioners.
 sci.chem.electrochem	The field of electrochemistry.
 sci.chem.electrochem.battery	Analyzing all aspects of all types of batteries.
 sci.chem.labware	Chemical laboratory equipment.
-sci.chem.organic.synthesis	Synthetic organic chemistry related topics. (Moderated)
 sci.chem.organomet	Organometallic chemistry.
 sci.cognitive		Perception, memory, judgement and reasoning.
 sci.comp-aided		The use of computers as tools in scientific research.
@@ -41100,7 +41049,6 @@ sci.crypt.random-numbers	Generating cryptographic strength randomness.
 sci.crypt.research	Cryptography, cryptanalysis, and related issues. (Moderated)
 sci.data.formats	Modelling, storage and retrieval of scientific data.
 sci.econ		The science of economics.
-sci.econ.research	Research in all fields of economics. (Moderated)
 sci.edu			The science of education.
 sci.electronics.basics	Elementary questions about electronics.
 sci.electronics.cad	Schematic drafting, printed circuit layout, simulation.
@@ -41179,7 +41127,6 @@ sci.med.informatics	Computer applications in medical care.
 sci.med.laboratory	All aspects of laboratory medicine and management.
 sci.med.nursing		Nursing questions and discussion.
 sci.med.nutrition	Physiological impacts of diet.
-sci.med.orthopedics	Orthopedic Surgery, related issues and management. (Moderated)
 sci.med.pathology	Pathology and laboratory medicine.
 sci.med.pharmacy	The teaching and practice of pharmacy.
 sci.med.physics		Issues of physics in medical testing/care.
@@ -41192,10 +41139,8 @@ sci.med.radiology.interventional	Vascular and interventional radiology.
 sci.med.telemedicine	Hospital/physician networks. No diagnosis questions.
 sci.med.transcription	Information for and about medical transcriptionists.
 sci.med.vision		Human vision, visual correction, and visual science.
-sci.military.moderated	Military technology. (Moderated)
 sci.military.naval	Navies of the world, past, present and future.
 sci.misc		Short-lived discussions on subjects in the sciences.
-sci.nanotech		Self-reproducing molecular-scale machines. (Moderated)
 sci.nonlinear		Chaotic systems and other nonlinear scientific study.
 sci.op-research		Research, teaching & application of operations research.
 sci.optics		Discussion relating to the science of optics.
@@ -41208,13 +41153,11 @@ sci.physics.acoustics	Topics in acoustics and vibrations.
 sci.physics.computational.fluid-dynamics	Computational fluid dynamics.
 sci.physics.cond-matter	Condensed matter physics, theory and experiment.
 sci.physics.electromag	Electromagnetic theory and applications.
-sci.physics.foundations	Fundamental and philosophical physics. (Moderated)
 sci.physics.fusion	Info on fusion, esp. "cold" fusion.
 sci.physics.particle	Particle physics discussions.
 sci.physics.plasma	Plasma Science & Technology community exchange. (Moderated)
 sci.physics.relativity	The theory of relativity.
 sci.physics.research	Current physics research. (Moderated)
-sci.physics.strings	String theory and related fields. (Moderated)
 sci.polymers		All aspects of polymer science.
 sci.psychology.announce	Psychology-related announcements. (Moderated)
 sci.psychology.misc	General discussion of psychology.
@@ -41227,8 +41170,6 @@ sci.research.careers	Issues relevant to careers in scientific research.
 sci.research.postdoc	Anything about postdoctoral studies, including offers.
 sci.skeptic		Skeptics discussing pseudo-science.
 sci.space.history	Historical manned and unmanned space flight programs.
-sci.space.moderated	Discussions about space related topics. (Moderated)
-sci.space.news		Announcements of space-related news items. (Moderated)
 sci.space.policy	Discussions about space policy.
 sci.space.science	Space and planetary science and related technical work. (Moderated)
 sci.space.shuttle	The space shuttle and the STS program.
@@ -41893,9 +41834,7 @@ slo.test		San Luis Obispo, CA, Usenet test group.
 slo.unix		Unix in San Luis Obispo, CA.
 slo.unix.linux		A Unix-like OS for PCs in San Luis Obispo, CA.
 slo.www			San Luis Obispo, CA, World-Wide Web.
-soc.adoption.adoptees	Discussion of adoption by adoptees. (Moderated)
 soc.answers		Repository for periodic USENET articles. (Moderated)
-soc.atheism		Living as an atheist and atheism in society. (Moderated)
 soc.bi			Discussions of bisexuality.
 soc.college		College, college activities, campus life, etc.
 soc.college.admissions	The university admissions process.
@@ -41909,7 +41848,6 @@ soc.couples.wedding	Wedding planning.
 soc.culture.afghanistan	Discussion of the Afghan society.
 soc.culture.african	Discussions about Africa & things African.
 soc.culture.african.american	Discussions about Afro-American issues.
-soc.culture.african.american.moderated	African-American perspectives. (Moderated)
 soc.culture.albanian	Albania and Albanians around the world.
 soc.culture.algeria	From A to Z about Algeria.
 soc.culture.arabic	Technological & cultural issues, *not* politics.
@@ -41922,8 +41860,6 @@ soc.culture.australian	Australian culture and society.
 soc.culture.austria	Austria and its people.
 soc.culture.baltics	People of the Baltic states.
 soc.culture.bangladesh	Issues & discussion about Bangladesh.
-soc.culture.basque	Basque culture and related issues. (Moderated)
-soc.culture.belarus	All things about Belarus. (Moderated)
 soc.culture.belgium	Belgian society, culture(s) and people.
 soc.culture.bengali	Sociocultural identity of worldwide Bengali population.
 soc.culture.berber	The berber language, history, and culture.
@@ -41961,14 +41897,12 @@ soc.culture.german	Discussions about German culture and history.
 soc.culture.greek	Group about Greeks.
 soc.culture.guinea-conakry	Guinea (ne French Guinea, in West Africa).
 soc.culture.haiti	Haiti specific development and cultural issues.
-soc.culture.hawaii	Aloha kakou, E KOMO MAI! Eh, no forget hemo da shoes. (Moderated)
 soc.culture.hmong	Discussion of Hmong people and its culture.
 soc.culture.honduras	General topics regarding Honduras and Central-America.
 soc.culture.hongkong	Discussions pertaining to Hong Kong.
 soc.culture.hongkong.entertainment	Entertainment in Hong Kong.
 soc.culture.indian	Group for discussion about India & things Indian.
 soc.culture.indian.delhi	Information related to Delhi, capital of India.
-soc.culture.indian.goa	About Goa, India's smallest state. (Moderated)
 soc.culture.indian.gujarati	Gujarati cultural group.
 soc.culture.indian.jammu-kashmir	The culture of Jammu & Kashmir.
 soc.culture.indian.karnataka	Karnataka's culture, history, and present.
@@ -41985,13 +41919,11 @@ soc.culture.japan	Everything Japanese, except the Japanese language.
 soc.culture.japan.moderated	Anything Japanese. (Moderated)
 soc.culture.jewish	Jewish culture & religion (cf. talk.politics.mideast).
 soc.culture.jewish.moderated	Discussion of Jewish culture and religion. (Moderated)
-soc.culture.jewish.parenting	Issues about raising Jewish children. (Moderated)
 soc.culture.jordan	All topics concerning The Hashemite Kingdom of Jordan.
 soc.culture.kenya	Kenyan peoples, politics, culture, and affairs.
 soc.culture.korean	Discussions about Korea & things Korean.
 soc.culture.kurdish	People from Kurdistan and Kurds around the world.
 soc.culture.kuwait	Kuwaiti culture, society, and history.
-soc.culture.kuwait.moderated	Kuwaiti culture, society, and history. (Moderated)
 soc.culture.laos	Cultural and Social Aspects of Laos.
 soc.culture.latin-america	Topics about Latin-America.
 soc.culture.lebanon	Discussion about things Lebanese.
@@ -42045,7 +41977,6 @@ soc.culture.taiwan	Discussion about things Taiwanese.
 soc.culture.tamil	Tamil language, history and culture.
 soc.culture.thai	Thai people and their culture.
 soc.culture.turkish	Discussion about things Turkish.
-soc.culture.turkish.moderated	Issues related to Turks/Turkey. (Moderated)
 soc.culture.ukrainian	The lives and times of the Ukrainian people.
 soc.culture.uruguay	Discussions of Uruguay for those at home and abroad.
 soc.culture.usa		The culture of the United States of America.
@@ -42054,8 +41985,6 @@ soc.culture.vietnamese	Issues and discussions of Vietnamese culture.
 soc.culture.welsh	The people, language and history of Wales.
 soc.culture.yugoslavia	Discussions of Yugoslavia and its people.
 soc.culture.zimbabwe	Culture and other issues pertaining to Zimbabwe.
-soc.feminism		Discussion of feminism & feminist issues. (Moderated)
-soc.genealogy.african	Genealogy of Africa and the African Diaspora. (Moderated)
 soc.genealogy.australia+nz	Australia, New Zealand, and their territories.
 soc.genealogy.benelux	Genealogy in Belgium, the Netherlands and Luxembourg.
 soc.genealogy.britain	Genealogy in Great Britain and the islands.
@@ -42073,19 +42002,13 @@ soc.genealogy.misc	General genealogical discussions.
 soc.genealogy.nordic	Genealogy in the Scandinavian countries.
 soc.genealogy.slavic	Genealogy of Slavic peoples.
 soc.genealogy.surnames.britain	Surnames queries - Great Britain. (Moderated)
-soc.genealogy.surnames.canada	Surnames queries - Canada. (Moderated)
-soc.genealogy.surnames.german	Surnames queries - German speaking countries. (Moderated)
-soc.genealogy.surnames.global	Surnames queries central database. (Moderated)
 soc.genealogy.surnames.ireland	Surnames queries - Ireland & Northern Ireland. (Moderated)
-soc.genealogy.surnames.misc	Surnames - regions not covered elsewhere. (Moderated)
-soc.genealogy.surnames.usa	Surnames queries - USA. (Moderated)
 soc.genealogy.west-indies	Genealogy of the West Indies.
 soc.history		Discussions of things historical.
 soc.history.ancient	Ancient history (up to AD 700).
 soc.history.early-modern	Early modern history worldwide, to 1800.
 soc.history.living	Living history and reenactment, issues and info.
 soc.history.medieval	The historic period of the middle ages.
-soc.history.moderated	All aspects of history. (Moderated)
 soc.history.science	History of science and related areas.
 soc.history.war.misc	History & events of wars in general.
 soc.history.war.us-civil-war	Aspects of the U.S. Civil War. (Moderated)
@@ -42100,24 +42023,14 @@ soc.net-people		Announcements, requests, etc. about people on the net.
 soc.org.nonprofit	Nonprofit organizations.
 soc.org.service-clubs.misc	General info on all service topics.
 soc.penpals		In search of net.friendships.
-soc.personals		Personal ads -- people in search of (ISO) others. (Moderated)
-soc.politics		Political problems, systems, solutions. (Moderated)
-soc.politics.marxism	Karl Marx and his legacy in theory and practice. (Moderated)
-soc.religion.asatru	Following the Gods and Goddesses of Northern Europe. (Moderated)
-soc.religion.bahai	Discussion of the Baha'i Faith. (Moderated)
-soc.religion.hindu	Discussion about the Hindu dharma, philosophy, culture. (Moderated)
 soc.religion.islam	Discussions of the Islamic faith. (Moderated)
-soc.religion.mormon	The Church of Jesus Christ of Latter-day Saints. (Moderated)
-soc.religion.paganism	Networking for Pagans. (Moderated)
 soc.religion.quaker	The Religious Society of Friends.
 soc.religion.satanism	Satanism and the Satanic way of life.
-soc.religion.unitarian-univ	Unitarian-Universalism & non-creedal religions. (Moderated)
 soc.retirement		For seniors:  retirement, aging, gerontology issues.
 soc.rights.human	Human rights & activism (e.g., Amnesty International).
 soc.senior.health+fitness	Health, fitness, health-care for seniors.
 soc.senior.issues	Issues relevant to seniors and aging.
 soc.sexuality.general	Human sexuality in general. (Moderated)
-soc.sexuality.spanking	Adult sexual spanking. (Moderated)
 soc.singles		Newsgroup for single people, their activities, etc.
 soc.singles.moderated	Conversations among people who are or were single. (Moderated)
 soc.subculture.bondage-bdsm	Bondage/Dominance/S&M discussion & support.
@@ -42130,12 +42043,9 @@ soc.support.depression.manic	Bipolar/manic-depression.
 soc.support.depression.misc	Depression and mood disorders.
 soc.support.depression.treatment	Treatments of depression.
 soc.support.fat-acceptance	Self-acceptance for fat people.  No diet talk.
-soc.support.fat-acceptance.moderated	Self-acceptance for fat people. (Moderated)
-soc.support.loneliness	Mutual help and chat for those of us who feel alone. (Moderated)
 soc.support.stroke	Family and survivors recovering from strokes.
 soc.support.transgendered	Transgendered and intersexed persons.
 soc.support.vision-impaired	Living with visual impairment or blindness.
-soc.support.youth.gay-lesbian-bi	Gay youths helping each other. (Moderated)
 soc.veterans		Social issues relating to military veterans.
 soc.women		Issues related to women, their problems & relationships.
 sol.forsale		Solaria users offering items for sale or trade
