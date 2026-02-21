@@ -28516,88 +28516,45 @@ fr.misc.tabac		Le tabac sous tous ses aspects.
 fr.misc.transport.rail	Les transports ferroviaires.
 fr.misc.transport.urbain	Les transports urbains, en commun ou individuels.
 fr.misc.transport.velo	Le velo comme mode de transport.
-fr.rec.animaux		Discussions sur les animaux classiques ou exotiques...
-fr.rec.anime		Discussions sur les DA/BD japonais.
-fr.rec.apiculture	Forum sur l'apiculture.
-fr.rec.aquariophilie	Groupe de discussion relatif a l'aquariophilie.
-fr.rec.aquariophilie.marine	Aquariophilie marine et recifale.
-fr.rec.arts.bd		Groupe de discussion sur la bande dessinee.
-fr.rec.arts.fantasy	OEuvres et auteurs de fantasy.
-fr.rec.arts.litterature	Discussions sur la litterature.
-fr.rec.arts.musique.autre	Toute musique sans groupe dedie.
-fr.rec.arts.musique.classique	Tout sur la musique classique.
-fr.rec.arts.musique.electronique	Musiques electroniques.
-fr.rec.arts.musique.jazz	Tout sur le jazz.
-fr.rec.arts.musique.metal	Tout sur le metal et le hard rock.
-fr.rec.arts.musique.pratique	La pratique instrumentale et vocale.
-fr.rec.arts.musique.rock	Tout sur le rock.
+fr.rec.arts.bd		Les bandes dessinees, mangas, manhwas, comics...
+fr.rec.arts.fantasy	Les oeuvres et les auteurs de fantasy.
+fr.rec.arts.musique.autre	Toute musique sans forum specifique.
+fr.rec.arts.musique.classique	La musique classique.
+fr.rec.arts.musique.jazz	Le jazz.
+fr.rec.arts.musique.metal	Le metal et le hard rock.
 fr.rec.arts.musique.variete	La musique de variete.
-fr.rec.arts.plastiques	Discussions sur les arts plastiques.
-fr.rec.arts.polar	Le monde du polar.
-fr.rec.arts.sf		Discussions sur les oeuvres de science-fiction.
-fr.rec.arts.sf.starwars	L'univers de << Star Wars >> ou << La Guerre des Etoiles >>.
-fr.rec.arts.spectacles	Theatre, mime, cirque, tous spectacles vivants.
-fr.rec.arts.theatre	Tout sur le theatre.
-fr.rec.audio		Techniques de sonorisation et d'enregistrement.
-fr.rec.automobile.4x4	Les vehicules 4x4 et la pratique du tout-terrain.
-fr.rec.automobile.ancienne	Les vehicules anciens.
-fr.rec.aviation		Discussions sur l'aviation, le pilotage.
-fr.rec.bateaux		Forum sur tous les bateaux.
-fr.rec.beaute-mode	Echanges et debats sur la mode et la beaute physique.
-fr.rec.bibliophilie	Discussions sur les livres anciens, les livres d'art.
-fr.rec.boissons.bieres	Discussions sur les bieres.
-fr.rec.boissons.vins	Commentaires et discussions sur le vin.
-fr.rec.bricolage	Conseils et savoir-faire concernant le bricolage.
-fr.rec.brocante		Discussions sur le monde de la brocante.
-fr.rec.champignons	Mycologie, mycophilie et mycophagie...
-fr.rec.cinema.discussion	Discussions concernant le cinema.
-fr.rec.collections	Discussions sur les collections en tous genres.
-fr.rec.cuisine		Tous les plaisirs du palais.
-fr.rec.cuisine.bonnes-adresses	Echanges de bonnes adresses gourmandes.
-fr.rec.genealogie	Informations se rapportant a la genealogie.
-fr.rec.humour		L'humour en soi.
-fr.rec.jardinage	Groupe de discussion sur le jardinage.
-fr.rec.jardinage.bonsai	L'art du bonsai.
-fr.rec.jeux.cartes.poker	Le poker et ses variantes.
-fr.rec.jeux.divers	Discussions diverses sur les jeux.
-fr.rec.jeux.echecs	Discussions sur les jeux d'echecs.
-fr.rec.jeux.enigmes	Enigmes en tous genres (charades, devinettes, etc.).
-fr.rec.jeux.jdr		Jeux de roles.
-fr.rec.jeux.jdr.par-forum	Forum destine aux jeux de roles via Usenet.
-fr.rec.jeux.nomic	Jeu de Nomic par forum.
-fr.rec.jeux.societe	Jeux de plateau ou jeux de societe.
-fr.rec.jeux.video	Les jeux video sous tous leurs aspects.
-fr.rec.jeux.video.materiel	Conseils, discussions et problemes de materiel.
-fr.rec.jeux.wargames	Jeux strategiques ou tactiques simulant des batailles.
-fr.rec.loisirs-creatifs	Scrapbooking, pochoirs, origami, broderie, tricot...
-fr.rec.modelisme	Tout ce qui concerne le modelisme.
-fr.rec.montagne		Forum de discussion sur la montagne.
-fr.rec.moto		Pour les amateurs de moto.
-fr.rec.peche		Discussions et informations sur la peche a la ligne.
-fr.rec.philatelie	Discussions sur les timbres et l'histoire postale.
-fr.rec.photo		Discussions sur la photographie.
-fr.rec.photo.materiel	Le materiel photo.
-fr.rec.photo.pratique	Pratique de la photographie.
-fr.rec.plongee		Plongee sous-marine.
-fr.rec.radio		Discussions sur la radio (tous domaines confondus).
-fr.rec.son-image.hifi	Tout sur la Hi-Fi.
-fr.rec.son-image.home-cinema	Le home-cinema.
-fr.rec.son-image.video.materiel	Materiel : prise de vue et montage video.
-fr.rec.son-image.video.realisation	Techniques de realisation video.
-fr.rec.sport.automobile	Tout sur le sport automobile.
-fr.rec.sport.basketball	Discussions consacrees au basket.
-fr.rec.sport.cyclisme	Discussions sur le cyclisme.
-fr.rec.sport.divers	Tous les sports qui n'ont pas de forum specifique.
-fr.rec.sport.equitation	Tout ce qui tourne autour de l'equitation.
-fr.rec.sport.football	Tout ce qui est en rapport avec le football.
+fr.rec.arts.sf		Les oeuvres et les auteurs de science-fiction.
+fr.rec.audio		Les techniques de sonorisation et d'enregistrement.
+fr.rec.bateaux		Les bateaux, les voiliers, la navigation, la marine...
+fr.rec.boissons.vins	Le vin : avis, conseils, bons plans...
+fr.rec.bricolage	Les techniques, conseils, savoir-faire sur le bricolage.
+fr.rec.champignons	La mycologie, la mycophilie, la mycophagie...
+fr.rec.cinema.discussion	Le cinema : critiques de film, salles, debats...
+fr.rec.divers		Tout sujet recreatif sans forum specifique.
+fr.rec.genealogie	La genealogie : informations, logiciels, demandes...
+fr.rec.humour		L'humour en soi, les humoristes, les blagues...
+fr.rec.jardinage	Le jardinage : culture, maladies, outils, techniques...
+fr.rec.jeux.divers	Tout type de jeux sans forum specifique.
+fr.rec.jeux.echecs	Les jeux d'echecs sous toutes ses formes et variantes.
+fr.rec.jeux.enigmes	Les enigmes : charades, devinettes, histoires, mots...
+fr.rec.modelisme	Le modelisme : partage de connaissances et d'experience.
+fr.rec.montagne		La montagne : activites, actualites, culture...
+fr.rec.moto		La moto : accessoires, techniques, temoignages...
+fr.rec.philatelie	Les timbres et l'histoire postale.
+fr.rec.photo		La photographie argentique et numerique.
+fr.rec.photo.materiel	Le materiel photo : objectifs, flashs, posemetres...
+fr.rec.radio		La radio : echange d'informations et d'opinions.
+fr.rec.son-image.hifi	La Hi-Fi et le home-cinema : produits, temoignages...
+fr.rec.son-image.video.realisation	Le materiel, montage, techniques video.
+fr.rec.sport.cyclisme	Le cyclisme : pratique, materiel, entrainement...
+fr.rec.sport.divers	Tout sport sans forum specifique.
+fr.rec.sport.equitation	L'equitation, l'hippologie, les chevaux, les poneys...
+fr.rec.sport.football	Le football tant theorique que pratique.
 fr.rec.sport.rugby	Le rugby a 15, 13, 10 et a 7.
-fr.rec.sport.tennis	Tout ce qui touche au tennis.
-fr.rec.tv.programmes	Discussions relatives aux programmes televisuels.
-fr.rec.tv.satellite	Reception satellite de chaines de television.
-fr.rec.tv.series	Discussions sur les series televisees.
-fr.rec.tv.series.sf	Forum sur l'univers des series de science-fiction.
-fr.rec.tv.terrestre	Television terrestre.
-fr.rec.voyages		Discussions sur les voyages, le tourisme.
+fr.rec.sport.tennis	Le tennis : materiel, surfaces, pratique, joueurs...
+fr.rec.tv.programmes	Les series et programmes televisuels.
+fr.rec.tv.satellite	La reception par satellite des chaines de television.
+fr.rec.tv.terrestre	La television terrestre analogique ou numerique (TNT).
 fr.reseaux.internet.cable	Echanges sur l'acces a Internet par le cable.
 fr.reseaux.internet.fournisseurs	Les fournisseurs d'acces a Internet.
 fr.reseaux.internet.hebergement	Discussions sur l'hebergement sur Internet.

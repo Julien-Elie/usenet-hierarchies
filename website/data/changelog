@@ -1,3 +1,84 @@
+2026-02-13 19:10:02 changedesc fr.rec.radio (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.arts.musique.autre (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.sport.cyclisme (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.arts.musique.classique (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.audio (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.modelisme (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.bateaux (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.genealogie (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.moto (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.son-image.hifi (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.sport.football (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.photo.materiel (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.philatelie (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.jeux.echecs (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.arts.sf (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.photo (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.humour (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.sport.tennis (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.cinema.discussion (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.bricolage (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.arts.fantasy (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.jeux.enigmes (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.arts.bd (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.arts.musique.jazz (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.sport.equitation (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.sport.divers (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.tv.satellite (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.son-image.video.realisation (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.montagne (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.champignons (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.jeux.divers (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.arts.musique.metal (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.jardinage (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.tv.programmes (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.boissons.vins (by checkgroups)
+2026-02-13 19:10:02 changedesc fr.rec.tv.terrestre (by checkgroups)
+2026-02-13 19:00:06 rmgroup fr.rec.voyages
+2026-02-13 19:00:05 rmgroup fr.rec.tv.series.sf
+2026-02-13 19:00:05 rmgroup fr.rec.tv.series
+2026-02-13 19:00:05 rmgroup fr.rec.sport.basketball
+2026-02-13 19:00:05 rmgroup fr.rec.sport.automobile
+2026-02-13 19:00:05 rmgroup fr.rec.son-image.video.materiel
+2026-02-13 19:00:05 rmgroup fr.rec.son-image.home-cinema
+2026-02-13 19:00:05 rmgroup fr.rec.plongee
+2026-02-13 19:00:05 rmgroup fr.rec.photo.pratique
+2026-02-13 19:00:05 rmgroup fr.rec.peche
+2026-02-13 19:00:05 rmgroup fr.rec.loisirs-creatifs
+2026-02-13 19:00:04 rmgroup fr.rec.jeux.wargames
+2026-02-13 19:00:04 rmgroup fr.rec.jeux.video.materiel
+2026-02-13 19:00:04 rmgroup fr.rec.jeux.video
+2026-02-13 19:00:04 rmgroup fr.rec.jeux.societe
+2026-02-13 19:00:04 rmgroup fr.rec.jeux.nomic
+2026-02-13 19:00:04 rmgroup fr.rec.jeux.jdr.par-forum
+2026-02-13 19:00:04 rmgroup fr.rec.jeux.jdr
+2026-02-13 19:00:04 rmgroup fr.rec.jeux.cartes.poker
+2026-02-13 18:50:03 rmgroup fr.rec.jardinage.bonsai
+2026-02-13 18:50:03 rmgroup fr.rec.cuisine.bonnes-adresses
+2026-02-13 18:50:03 rmgroup fr.rec.cuisine
+2026-02-13 18:50:03 rmgroup fr.rec.collections
+2026-02-13 18:50:03 rmgroup fr.rec.brocante
+2026-02-13 18:50:03 rmgroup fr.rec.boissons.bieres
+2026-02-13 18:50:03 rmgroup fr.rec.bibliophilie
+2026-02-13 18:50:03 rmgroup fr.rec.beaute-mode
+2026-02-13 18:50:02 rmgroup fr.rec.aviation
+2026-02-13 18:50:02 rmgroup fr.rec.automobile.ancienne
+2026-02-13 18:50:02 rmgroup fr.rec.automobile.4x4
+2026-02-13 18:50:02 rmgroup fr.rec.arts.theatre
+2026-02-13 18:50:02 rmgroup fr.rec.arts.spectacles
+2026-02-13 18:50:02 rmgroup fr.rec.arts.sf.starwars
+2026-02-13 18:50:02 rmgroup fr.rec.arts.polar
+2026-02-13 18:50:02 rmgroup fr.rec.arts.plastiques
+2026-02-13 18:50:02 rmgroup fr.rec.arts.musique.rock
+2026-02-13 18:50:02 rmgroup fr.rec.arts.musique.pratique
+2026-02-13 18:50:02 rmgroup fr.rec.arts.musique.electronique
+2026-02-13 18:50:02 rmgroup fr.rec.arts.litterature
+2026-02-13 18:40:02 rmgroup fr.rec.aquariophilie.marine
+2026-02-13 18:40:02 rmgroup fr.rec.aquariophilie
+2026-02-13 18:40:02 rmgroup fr.rec.apiculture
+2026-02-13 18:40:02 rmgroup fr.rec.anime
+2026-02-13 18:40:01 rmgroup fr.rec.animaux
+2026-01-27 18:40:01 newgroup fr.rec.divers y
 2025-08-11 20:10:02 rmgroup soc.culture.jewish.moderated
 2025-08-09 09:30:02 newgroup free.digital-archiving y
 2025-08-03 10:30:02 newgroup free.3d-printing y
