@@ -1,3 +1,22 @@
+2026-02-21 14:20:02 changedesc fr.soc.divers (by checkgroups)
+2026-02-21 14:20:02 changedesc fr.soc.sectes (by checkgroups)
+2026-02-21 14:20:02 changedesc fr.soc.economie (by checkgroups)
+2026-02-21 14:20:02 changedesc fr.soc.religion (by checkgroups)
+2026-02-21 14:20:02 changedesc fr.soc.feminisme (by checkgroups)
+2026-02-21 14:20:02 changedesc fr.soc.politique (by checkgroups)
+2026-02-21 14:20:02 changedesc fr.soc.histoire.antique (by checkgroups)
+2026-02-21 14:20:02 changedesc fr.soc.environnement (by checkgroups)
+2026-02-21 14:20:02 changedesc fr.soc.histoire (by checkgroups)
+2026-02-21 14:20:02 rmgroup fr.soc.travail.independant
+2026-02-21 14:20:02 rmgroup fr.soc.travail
+2026-02-21 14:20:02 rmgroup fr.soc.rural
+2026-02-21 14:10:02 rmgroup fr.soc.internet
+2026-02-21 14:10:02 rmgroup fr.soc.homosexualite
+2026-02-21 14:10:01 rmgroup fr.soc.drogues
+2026-02-21 14:10:01 rmgroup fr.soc.culture.japon
+2026-02-21 14:10:01 rmgroup fr.soc.culture.chine
+2026-02-21 14:10:01 rmgroup fr.soc.alternatives
+2026-02-21 14:10:01 rmgroup fr.soc.alcoolisme
 2026-02-13 19:10:02 changedesc fr.rec.radio (by checkgroups)
 2026-02-13 19:10:02 changedesc fr.rec.arts.musique.autre (by checkgroups)
 2026-02-13 19:10:02 changedesc fr.rec.sport.cyclisme (by checkgroups)
