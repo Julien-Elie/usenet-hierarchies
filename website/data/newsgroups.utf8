@@ -28566,30 +28566,21 @@ fr.reseaux.telecoms.operateurs.mobiles	Les services des opérateurs mobiles.
 fr.reseaux.telecoms.pabx	Les centraux téléphoniques privés.
 fr.reseaux.telecoms.rnis	Toute discussion autour du RNIS (ISDN/xDSL...).
 fr.reseaux.telecoms.techniques	Techniques de télécommunications.
-fr.sci.astronautique	Activité spatiale humaine.
-fr.sci.astronomie	Discussions sur l'astronomie.
-fr.sci.astronomie.amateur	Tout sur la pratique de l'astronomie amateur.
-fr.sci.astrophysique	Discussions, débats autour de l'astrophysique.
-fr.sci.automatique	Automatique et commande optimale.
-fr.sci.biologie		Étude scientifique du vivant.
-fr.sci.biologie.botanique	Les plantes : études, classification...
-fr.sci.chimie		La chimie.
-fr.sci.divers		Discussions diverses ou générales en sciences.
-fr.sci.electronique	Conception, réalisation ou réparation de circuits.
-fr.sci.electrotechnique	Disciplines relatives à l'électrotechnique.
-fr.sci.geosciences	Discussions relatives aux sciences de la Terre.
-fr.sci.jargon		Équivalents français de termes techniques étrangers.
-fr.sci.linguistique	L'étude scientifique du langage humain.
-fr.sci.maths		Discussions sur les mathématiques.
-fr.sci.paleontologie	Science des formes de vie des temps géologiques.
-fr.sci.philo		Groupe de philosophie.
-fr.sci.physique		Les sciences physiques.
-fr.sci.psychanalyse	Discussions sur la psychanalyse.
-fr.sci.psychologie	Étude du psychisme humain.
-fr.sci.sociologie	Science des faits sociaux étudiés dans leur ensemble.
-fr.sci.techniques.energies	Exploitation des énergies.
-fr.sci.techniques.geolocalisation.gps	Positionnement et navigation GPS.
-fr.sci.zetetique	Analyse critique de l'extraordinaire.
+fr.sci.astronautique	L'activité spatiale humaine.
+fr.sci.astronomie	La pratique et la théorie de l'astronomie.
+fr.sci.biologie		L'étude scientifique du vivant.
+fr.sci.chimie		La chimie sous toutes ses formes.
+fr.sci.divers		Tout sujet scientifique sans forum spécifique.
+fr.sci.electronique	La conception, réalisation, réparation de circuits.
+fr.sci.electrotechnique	Les dispositifs électrotechniques.
+fr.sci.geosciences	Les sciences de la Terre et les techniques associées.
+fr.sci.maths		Les mathématiques sous toutes ses formes.
+fr.sci.philo		La philosophie sous toutes ses modalités.
+fr.sci.physique		Les sciences physiques sous toutes ses formes.
+fr.sci.psychanalyse	La psychanalyse, l'exploration de l'inconscient.
+fr.sci.psychologie	L'étude scientifique ou empirique du psychisme humain.
+fr.sci.sociologie	La science des faits sociaux étudiés dans leur ensemble.
+fr.sci.zetetique	L'analyse critique de l'extraordinaire.
 fr.soc.complots		Les conspirations fourbes contre le public.
 fr.soc.divers		Tout sujet de société sans forum spécifique.
 fr.soc.economie		L'actualité économique et l'économie politique.
