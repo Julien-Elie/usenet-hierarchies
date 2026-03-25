@@ -599,6 +599,7 @@ de.etc.finanz.boerse.misc	20040401065019
 de.etc.handel.versandhaeuser	20080312004003
 de.etc.landwirtschaft	20090409234003
 de.etc.lists	20070613233005
+de.etc.notfallrettung	20260322212001
 de.etc.selbsthilfe.angst	20110127004003
 de.etc.selbsthilfe.gehoer	20110202004004
 de.etc.selbsthilfe.misc	20131208004003
@@ -630,9 +631,11 @@ de.markt.wohnen	20220512205002
 de.org.mensa	20220713222002
 de.org.politik.misc	20220713223002
 de.org.politik.spd	20220713223002
+de.rec.alpinismus	20260314074002
 de.rec.bodyart	20111111075003
 de.rec.drachen	20110114004002
 de.rec.film.kritiken	20110116004003
+de.rec.geocaching	20260322212001
 de.rec.kunst.misc	20111203192003
 de.rec.kunst.theater	20111203192003
 de.rec.musik.elektronisch	20100527234003
@@ -666,6 +669,7 @@ de.rec.sport.laufen.trainingswoche	20110705234002
 de.rec.sport.laufen.veranstaltungen	20110705234002
 de.rec.sport.paintball	20060111223010
 de.rec.tanz	20131208004003
+de.rec.teich	20260314074002
 de.rec.tiere.ratten	20110127004003
 de.rec.tiere.terraristik	20111227210004
 de.rec.tiere.voegel	20111117210004
@@ -680,6 +684,7 @@ de.sci.medizin.pflege	20090513233003
 de.sci.paedagogik	20110126004001
 de.sci.politologie	20100726234003
 de.sci.soziologie	20110116004003
+de.soc.arbeit	20260325022001
 de.soc.familie.kinder	20220627071002
 de.soc.familie.misc	20220627071002
 de.soc.familie.vaeter	20220214192002
