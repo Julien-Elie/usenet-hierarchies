@@ -23430,21 +23430,13 @@ de.comp.datenbanken.misc	Datenbanken aller Art.
 de.comp.datenbanken.ms-access	Die Software MS Access.
 de.comp.datenbanken.mysql	Relationale Datenbanken mit MySQL.
 de.comp.editoren	Text- und Hexeditoren.
-de.comp.hardware.cpu+mainboard.amd	AMD-CPUs und passende Mainboards.
-de.comp.hardware.cpu+mainboard.intel	Intel-CPUs und passende Mainboards.
-de.comp.hardware.cpu+mainboard.misc	Prozessoren und Mainboards.
-de.comp.hardware.drucker	Drucker und Plotter.
-de.comp.hardware.graphik	Grafikkarten und Co.
-de.comp.hardware.kuehlung+laermdaemmung	Waerme und Laerm bei Computern.
 de.comp.hardware.laufwerke.brenner	CD-Brenner und DVD-Brenner.
 de.comp.hardware.laufwerke.cd+dvd	Glaenzende Scheiben am Computer.
 de.comp.hardware.laufwerke.festplatten	Festplattenlaufwerke.
 de.comp.hardware.laufwerke.misc	Sonstige Laufwerke.
 de.comp.hardware.misc	Sonstige Computer-Hardware.
-de.comp.hardware.monitore	Computer-Displays aller Art.
 de.comp.hardware.netzwerke.misc	Verkabeln, Vernetzen, Verschalten.
 de.comp.hardware.netzwerke.wireless	WLAN, Bluetooth und Funknetze.
-de.comp.hardware.scanner	Vom Blatt auf den Monitor.
 de.comp.lang.assembler	Programmierung in Assembler.
 de.comp.lang.c		Die Programmiersprache C (ISO, ANSI, K&R).
 de.comp.lang.delphi.misc	Delphi, Lazarus und Derivate.
@@ -23586,7 +23578,6 @@ de.rec.tiere.pferde	Alles rund um Pferde.
 de.rec.tv.misc		Ich glotz TV.
 de.rec.tv.serien	Fortsetzung folgt.
 de.rec.tv.technik	Geraete und Technik fuer Fernsehen und Video.
-de.sci.architektur	Architektur, Bauwesen und Staedtebau.
 de.sci.astronomie	Astronomie als Wissenschaft.
 de.sci.biologie		Biologie als Wissenschaft.
 de.sci.chemie		Chemie als Wissenschaft.
@@ -23604,7 +23595,6 @@ de.sci.medizin.misc	Rund um die Medizin.
 de.sci.medizin.psychiatrie	Psychiatrische Themen im Trialog.
 de.sci.meteorologie	Wetter, Klima und Meteorologie.
 de.sci.misc		Diverse Themen aus der Wissenschaft.
-de.sci.oekonomie	Wirtschaftswissenschaften.
 de.sci.philosophie	Philosophie als Wissenschaft.
 de.sci.physik		Physik.
 de.sci.psychologie	Psychologie.

@@ -542,7 +542,15 @@ de.comp.cad	20220430071002
 de.comp.gnu	20110127004003
 de.comp.graphik	20040224225002
 de.comp.hardware.announce	20040905155005
+de.comp.hardware.cpu+mainboard.amd	20260402170005
+de.comp.hardware.cpu+mainboard.intel	20260402170006
+de.comp.hardware.cpu+mainboard.misc	20260402170005
 de.comp.hardware.cpu+mainboard.uebertakten	20070720234003
+de.comp.hardware.drucker	20260402170005
+de.comp.hardware.graphik	20260402170005
+de.comp.hardware.kuehlung+laermdaemmung	20260402170005
+de.comp.hardware.monitore	20260402170005
+de.comp.hardware.scanner	20260402171002
 de.comp.lang.assembler.misc	20060927152002
 de.comp.lang.assembler.x86	20060927152002
 de.comp.lang.delphi.datenbanken	20150118003002
@@ -679,8 +687,10 @@ de.rec.tv.futurama	20031201192002
 de.rec.tv.lindenstrasse	20220607222001
 de.rec.tv.simpsons	20220607222001
 de.sci.alternativ	20121122004002
+de.sci.architektur	20260402170005
 de.sci.medizin.allergie	20111107162003
 de.sci.medizin.pflege	20090513233003
+de.sci.oekonomie	20260403045002
 de.sci.paedagogik	20110126004001
 de.sci.politologie	20100726234003
 de.sci.soziologie	20110116004003
