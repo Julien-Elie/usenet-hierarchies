@@ -3129,6 +3129,7 @@ alt.comp.microsoft.office	Microsoft Office discussion, multi-lingual
 alt.comp.microsoft.windows	Microsoft Windows (all versions) discussion, multi-lingual
 alt.comp.misc	Miscellaneous topics, multi-lingual
 alt.comp.networking.connectivity	Internet and other network connectivity issues, multi-lingual
+alt.comp.networking.design	Discussions relating to Design of Local Area Networks, private or commercial.
 alt.comp.networking.firewalls	Firewall discussion, multi-lingual
 alt.comp.networking.ip6	IP version 6 discussion, multi-lingual
 alt.comp.networking.routers	Router discussion, multi-lingual
@@ -20607,7 +20608,7 @@ fr.comp.applications.sgbd	Les bases de données.
 fr.comp.applications.x11	Le système de multifenêtrage X11.
 fr.comp.developpement	Les méthodologies, méthodes et outils de développement.
 fr.comp.developpement.agl.windev	L'AGL (Atelier de Génie Logiciel) WinDev.
-fr.comp.divers	L'informatique en général.
+fr.comp.divers	Tout sujet d'informatique sans forum spécifique.
 fr.comp.emulateurs	Les émulateurs et le monde de l'émulation en général.
 fr.comp.graphisme.multimedia	Conception graphique de sites Web, de cédéroms.
 fr.comp.graphisme.pao	Techniques de publication assistée par ordinateur.
@@ -20623,7 +20624,7 @@ fr.comp.internet.medias-sociaux.twitter	Twitter et autres plateformes de « micr
 fr.comp.internet.tor	Le routage en oignon et les outils associés.
 fr.comp.lang.ada	Le langage de programmation Ada.
 fr.comp.lang.basic	Langages de programmation Basic et assimilés.
-fr.comp.lang.c	Les langages de programmation C et assimilés.
+fr.comp.lang.c	Les langages de programmation C, C++ et assimilés.
 fr.comp.lang.c++	Le langage de programmation C++.
 fr.comp.lang.caml	Caml et autres langages de programmation ML.
 fr.comp.lang.general	La programmation en général et les langages sans forum dédié.
@@ -20843,7 +20844,7 @@ fr.rec.tv.terrestre	La télévision terrestre analogique ou numérique (TNT).
 fr.rec.voyages	Discussions sur les voyages, le tourisme.
 fr.reseaux.internet.cable	Échanges sur l'accès à Internet par le câble.
 fr.reseaux.internet.fournisseurs	Les fournisseurs d'accès à Internet.
-fr.reseaux.internet.hebergement	Discussions sur l'hébergement sur Internet.
+fr.reseaux.internet.hebergement	L'hébergement sur Internet.
 fr.reseaux.telecoms.adsl	ADSL (Asymetric Digital Subscriber Line).
 fr.reseaux.telecoms.fibre-optique	La technologie « fibre optique ».
 fr.reseaux.telecoms.mobiles	Les téléphones mobiles et messagers de poche.

@@ -1,3 +1,32 @@
+2026-05-01 22:50:02 rmgroup de.rec.denksport
+2026-05-01 09:50:03 rmgroup de.rec.sport.motorsport.formel1
+2026-05-01 09:50:03 rmgroup de.rec.sport.motorsport.misc
+2026-05-01 09:50:02 rmgroup de.rec.sport.motorsport.motorrad
+2026-05-01 09:50:02 rmgroup de.rec.sport.tauchen
+2026-05-01 09:40:02 rmgroup de.sci.genealogie
+2026-05-01 09:40:02 rmgroup de.sci.meteorologie
+2026-05-01 09:40:02 rmgroup de.talk.romance
+2026-05-01 09:40:02 rmgroup de.comm.chatsystems
+2026-05-01 09:40:02 rmgroup de.soc.zensur
+2026-04-26 04:10:02 newgroup alt.comp.networking.design y
+2026-04-23 19:00:07 changedesc fr.comp.lang.c (by checkgroups)
+2026-04-23 19:00:06 changedesc fr.reseaux.internet.hebergement (by checkgroups)
+2026-04-23 19:00:06 changedesc fr.comp.divers (by checkgroups)
+2026-04-23 19:00:06 rmgroup fr.reseaux.telecoms.techniques
+2026-04-23 19:00:05 rmgroup fr.reseaux.telecoms.rnis
+2026-04-23 18:50:03 rmgroup fr.reseaux.telecoms.pabx
+2026-04-23 18:50:03 rmgroup fr.reseaux.telecoms.operateurs.mobiles
+2026-04-23 18:50:03 rmgroup fr.reseaux.telecoms.operateurs.fixes
+2026-04-23 18:50:03 rmgroup fr.reseaux.telecoms.adsl
+2026-04-23 18:50:03 rmgroup fr.reseaux.internet.cable
+2026-04-23 18:50:02 rmgroup fr.comp.virtualisation
+2026-04-23 18:50:02 rmgroup fr.comp.securite.virus
+2026-04-23 18:50:02 rmgroup fr.comp.reseaux.jntp
+2026-04-23 18:50:02 rmgroup fr.comp.materiel.optimisation
+2026-04-23 18:50:02 rmgroup fr.comp.lang.postscript
+2026-04-23 18:50:02 rmgroup fr.comp.lang.lisp
+2026-04-23 18:50:02 rmgroup fr.comp.lang.c++
+2026-04-23 18:50:02 rmgroup fr.comp.developpement.agl.windev
 2026-04-18 08:40:02 rmgroup de.soc.subkultur.misc
 2026-04-18 08:40:02 rmgroup de.soc.subkultur.gothic
 2026-04-18 08:40:02 rmgroup de.soc.subkultur.bdsm

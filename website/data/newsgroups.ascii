@@ -4861,6 +4861,7 @@ alt.comp.microsoft.windows	Microsoft Windows (all versions) discussion, multi-li
 alt.comp.misc		Miscellaneous topics, multi-lingual
 alt.comp.misc.scripting	No description.
 alt.comp.networking.connectivity	Internet and other network connectivity issues, multi-lingual
+alt.comp.networking.design	Discussions relating to Design of Local Area Networks, private or commercial.
 alt.comp.networking.firewalls	Firewall discussion, multi-lingual
 alt.comp.networking.ip6	IP version 6 discussion, multi-lingual
 alt.comp.networking.routers	Router discussion, multi-lingual
@@ -23383,7 +23384,6 @@ de.alt.test.moderated	Tests von Moderationssoftware. <de-alt-test-moderated@mode
 de.alt.ufo		Unidentifizierte fliegende Objekte und ihre Freunde.
 de.answers		Fundgruppe fuer regelmaessige deutschspr. USENET-Artikel. <news-answers@mit.edu> (Moderated)
 de.comm.abuse		Missbraeuchliche Nutzung von Fax, Telefon, SMS etc.
-de.comm.chatsystems	Chat-Systeme, IRC: Technik, Benutzung und Suchtbekaempfung.
 de.comm.funk.amateur	Technik und Betriebstechnik des Amateurfunks.
 de.comm.funk.cb		CB-Funk und anderer Jedermannsfunk.
 de.comm.funk.misc	Sonstige Funkthemen.
@@ -23527,7 +23527,6 @@ de.newusers.questions	Hilfe zum Usenet. <moderator@dnq.priggish.de> (Moderated)
 de.org.ccc		Chaos Computer Club: Kreativer Umgang mit Technik.
 de.org.misc		Organisationen ohne eigene Gruppe.
 de.rec.buecher		Rund ums Buch.
-de.rec.denksport	Denksport aller Art.
 de.rec.fahrrad		Alles rund um's Fahrrad.
 de.rec.film.heimkino	Filmerlebnis im Wohnzimmer.
 de.rec.film.misc	Film ab! Nicht nur im Kino.
@@ -23565,11 +23564,7 @@ de.rec.spiele.rpg.misc	Pen&Paper-Rollenspiele ohne eigene Gruppe.
 de.rec.sport.fussball	Der Ball ist rund.
 de.rec.sport.laufen	Joggen, Laufen, Rennen, Gehen und mehr.
 de.rec.sport.misc	Sport allgemein.
-de.rec.sport.motorsport.formel1	Die Formel1-Rennsportserie.
-de.rec.sport.motorsport.misc	Sonstige Motorsport-Serien.
-de.rec.sport.motorsport.motorrad	Motorrad-Rennsport.
 de.rec.sport.segeln	Segeln und alles, was dazugehoert.
-de.rec.sport.tauchen	Fragen zum Sporttauchen.
 de.rec.tiere.aquaristik	Aquaristik.
 de.rec.tiere.hunde	Rund um den Hund.
 de.rec.tiere.katzen	Alles, was mit Katzen zu tun hat.
@@ -23582,7 +23577,6 @@ de.sci.astronomie	Astronomie als Wissenschaft.
 de.sci.biologie		Biologie als Wissenschaft.
 de.sci.chemie		Chemie als Wissenschaft.
 de.sci.electronics	Elektronik in Theorie und Praxis.
-de.sci.genealogie	Familienforschung und verwandte Themen.
 de.sci.geo		Geowissenschaften (inkl. Geographie).
 de.sci.geschichte	Geschichtswissenschaft.
 de.sci.informatik.ki	Kuenstliche Intelligenz.
@@ -23593,7 +23587,6 @@ de.sci.mathematik	Reine und angewandte Mathematik.
 de.sci.medizin.diabetes	Diabetes-Forum.
 de.sci.medizin.misc	Rund um die Medizin.
 de.sci.medizin.psychiatrie	Psychiatrische Themen im Trialog.
-de.sci.meteorologie	Wetter, Klima und Meteorologie.
 de.sci.misc		Diverse Themen aus der Wissenschaft.
 de.sci.philosophie	Philosophie als Wissenschaft.
 de.sci.physik		Physik.
@@ -23622,12 +23615,10 @@ de.soc.weltanschauung.islam	Islam als Religion und Kultur.
 de.soc.weltanschauung.misc	Alles was nicht in den anderen d.s.w-Gruppen passt.
 de.soc.weltanschauung.scientology	Rund um die Organisation Scientology.
 de.soc.wirtschaft	Wirtschaft allgemein.
-de.soc.zensur		Zensur.
 de.talk.bizarre		Fuer Liebhaber des Unsinnigen, Hintergruendigen, Bizarren.
 de.talk.jokes		Witze etc.
 de.talk.jokes.d		Diskussion ueber Witze.
 de.talk.misc		Diverse Endlosthemen. ;-).
-de.talk.romance		Zwischenmenschliche (Liebes-)Beziehungen.
 de.talk.tagesgeschehen	Worueber man zur Zeit spricht.
 de.test			Tests. Vorsicht Reflektoren!
 demon.adverts		Personal and commercial adverts by Demon users.
@@ -28408,28 +28399,23 @@ fr.comp.applications.libres	Les solutions libres en informatique.
 fr.comp.applications.sgbd	Les bases de donnees.
 fr.comp.applications.x11	Le systeme de multifenetrage X11.
 fr.comp.developpement	Les methodologies, methodes et outils de developpement.
-fr.comp.developpement.agl.windev	L'AGL (Atelier de Genie Logiciel) WinDev.
-fr.comp.divers		L'informatique en general.
+fr.comp.divers		Tout sujet d'informatique sans forum specifique.
 fr.comp.emulateurs	Les emulateurs et le monde de l'emulation en general.
 fr.comp.ia		L'Intelligence Artificielle.
 fr.comp.infosystemes	Les protocoles d'Internet (Gemini, Gopher, FTP...), la conception de SI...
 fr.comp.infosystemes.www.navigateurs	Chrome, Safari, Firefox, Edge, Opera, Vivaldi...
 fr.comp.internet.medias-sociaux	Le web participatif et les medias sociaux.
 fr.comp.lang.ada	Le langage de programmation Ada.
-fr.comp.lang.c		Les langages de programmation C et assimiles.
-fr.comp.lang.c++	Le langage de programmation C++.
+fr.comp.lang.c		Les langages de programmation C, C++ et assimiles.
 fr.comp.lang.general	La programmation en general et les langages sans forum dedie.
 fr.comp.lang.java	Le langage de developpement Java.
 fr.comp.lang.javascript	ECMAScript et ses derives : JScript, ActionScript...
-fr.comp.lang.lisp	Les langages de programmation LISP.
 fr.comp.lang.perl	Le langage de programmation Perl.
 fr.comp.lang.php	Le langage de programmation PHP Hypertext Preprocessor.
-fr.comp.lang.postscript	Le langage de description de page PostScript.
 fr.comp.lang.python	Le langage de programmation Python.
 fr.comp.lang.regexp	Les expressions rationnelles et leur utilisation.
 fr.comp.mail		Les logiciels de messagerie electronique.
 fr.comp.mail.serveurs	Les logiciels serveurs de messagerie electronique.
-fr.comp.materiel.optimisation	Les techniques d'optimisation et d'overclocking.
 fr.comp.musique		Le traitement informatique de la musique.
 fr.comp.ordinosaures	Les ordinateurs et consoles de jeux anciens.
 fr.comp.os.android	Le systeme d'exploitation mobile Android.
@@ -28441,9 +28427,7 @@ fr.comp.os.ms-windows	Les systemes d'exploitation Microsoft Windows.
 fr.comp.os.unix		Les systemes de la famille Unix et ses derives.
 fr.comp.reseaux.ethernet	Les reseaux Ethernet et materiels associes.
 fr.comp.reseaux.ip	IP : discussions techniques, protocoles connexes.
-fr.comp.reseaux.jntp	Le protocole JNTP, ses applications et son maillage.
 fr.comp.securite	La securite informatique.
-fr.comp.securite.virus	Les virus informatiques.
 fr.comp.stockage	Les materiels et logiciels de stockage de donnees.
 fr.comp.sys.amiga	Les machines de la gamme Amiga.
 fr.comp.sys.atari	Les machines de la gamme Atari.
@@ -28457,7 +28441,6 @@ fr.comp.sys.raspberry-pi	Les ordinateurs de la fondation Raspberry Pi et equival
 fr.comp.text.tex	Les langages et systemes de composition TeX et LaTeX.
 fr.comp.usenet.lecteurs-de-news	Les logiciels de lecture des forums Usenet.
 fr.comp.usenet.serveurs	Les logiciels serveurs de news Usenet.
-fr.comp.virtualisation	Les techniques de systemes virtuels.
 fr.lettres.ecriture	Tous les aspects lies a l'ecriture.
 fr.lettres.langue.anglaise	Discussions sur la langue anglaise.
 fr.lettres.langue.chinoise	Discussions sur la langue chinoise.
@@ -28530,17 +28513,10 @@ fr.rec.sport.tennis	Le tennis : materiel, surfaces, pratique, joueurs...
 fr.rec.tv.programmes	Les series et programmes televisuels.
 fr.rec.tv.satellite	La reception par satellite des chaines de television.
 fr.rec.tv.terrestre	La television terrestre analogique ou numerique (TNT).
-fr.reseaux.internet.cable	Echanges sur l'acces a Internet par le cable.
 fr.reseaux.internet.fournisseurs	Les fournisseurs d'acces a Internet.
-fr.reseaux.internet.hebergement	Discussions sur l'hebergement sur Internet.
-fr.reseaux.telecoms.adsl	ADSL (Asymetric Digital Subscriber Line).
+fr.reseaux.internet.hebergement	L'hebergement sur Internet.
 fr.reseaux.telecoms.fibre-optique	La technologie << fibre optique >>.
 fr.reseaux.telecoms.mobiles	Les telephones mobiles et messagers de poche.
-fr.reseaux.telecoms.operateurs.fixes	Les services des operateurs fixes.
-fr.reseaux.telecoms.operateurs.mobiles	Les services des operateurs mobiles.
-fr.reseaux.telecoms.pabx	Les centraux telephoniques prives.
-fr.reseaux.telecoms.rnis	Toute discussion autour du RNIS (ISDN/xDSL...).
-fr.reseaux.telecoms.techniques	Techniques de telecommunications.
 fr.sci.astronautique	L'activite spatiale humaine.
 fr.sci.astronomie	La pratique et la theorie de l'astronomie.
 fr.sci.biologie		L'etude scientifique du vivant.
