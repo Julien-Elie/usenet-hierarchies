@@ -604,11 +604,16 @@ de.comp.text.dtp	20220721050004
 de.comp.text.ms-word	20101107004003
 de.comp.text.xml	20220721050004
 de.etc.bahn.announce	20220613232002
+de.etc.beruf.misc	20260517121002
+de.etc.beruf.selbstaendig	20260517121002
 de.etc.finanz.boerse.misc	20040401065019
 de.etc.handel.versandhaeuser	20080312004003
 de.etc.landwirtschaft	20090409234003
 de.etc.lists	20070613233005
 de.etc.notfallrettung	20260322212001
+de.etc.schreiben.lyrik	20260517121002
+de.etc.schreiben.misc	20260517121002
+de.etc.schreiben.prosa	20260517122001
 de.etc.selbsthilfe.angst	20110127004003
 de.etc.selbsthilfe.gehoer	20110202004004
 de.etc.selbsthilfe.misc	20131208004003
@@ -644,8 +649,10 @@ de.rec.alpinismus	20260314074002
 de.rec.bodyart	20111111075003
 de.rec.denksport	20260501225002
 de.rec.drachen	20110114004002
+de.rec.film.heimkino	20260517115002
 de.rec.film.kritiken	20110116004003
 de.rec.geocaching	20260322212001
+de.rec.kunst	20260517115002
 de.rec.kunst.misc	20111203192003
 de.rec.kunst.theater	20111203192003
 de.rec.musik.elektronisch	20100527234003
@@ -653,6 +660,7 @@ de.rec.musik.nachtleben	20031229211002
 de.rec.orakel	20140119004002
 de.rec.sammeln	20110126004001
 de.rec.sf.babylon5.infos	20030516220320
+de.rec.sf.stargate	20260517115002
 de.rec.sf.startrek.10vorne	20090415233008
 de.rec.sf.startrek.deep-space-9	20031129125002
 de.rec.sf.startrek.enterprise	20090415233008
@@ -674,6 +682,7 @@ de.rec.sport.fallschirm	20111117210004
 de.rec.sport.gleitschirm	20131208004003
 de.rec.sport.golf	20131208004003
 de.rec.sport.inlineskating	20110928201003
+de.rec.sport.laufen	20260517115002
 de.rec.sport.laufen.misc	20110705234002
 de.rec.sport.laufen.trainingswoche	20110705234002
 de.rec.sport.laufen.veranstaltungen	20110705234002
@@ -684,6 +693,9 @@ de.rec.sport.paintball	20060111223010
 de.rec.sport.tauchen	20260501095002
 de.rec.tanz	20131208004003
 de.rec.teich	20260314074002
+de.rec.tiere.aquaristik	20260517115002
+de.rec.tiere.hunde	20260517122001
+de.rec.tiere.pferde	20260517122001
 de.rec.tiere.ratten	20110127004003
 de.rec.tiere.terraristik	20111227210004
 de.rec.tiere.voegel	20111117210004

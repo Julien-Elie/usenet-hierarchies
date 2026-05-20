@@ -24135,8 +24135,8 @@ de.etc.bahn.historisch	Unmoderated
 de.etc.bahn.misc	Unmoderated
 de.etc.bahn.stadtverkehr	Unmoderated
 de.etc.bahn.tarif+service	Unmoderated
-de.etc.beruf.misc	Unmoderated
-de.etc.beruf.selbstaendig	Unmoderated
+de.etc.beruf.misc	Removed
+de.etc.beruf.selbstaendig	Removed
 de.etc.fahrzeug.auto	Unmoderated
 de.etc.fahrzeug.misc	Unmoderated
 de.etc.finanz.banken+broker	Unmoderated
@@ -24154,9 +24154,9 @@ de.etc.militaer	Unmoderated
 de.etc.misc	Unmoderated
 de.etc.notfallrettung	Removed
 de.etc.post	Unmoderated
-de.etc.schreiben.lyrik	Unmoderated
-de.etc.schreiben.misc	Unmoderated
-de.etc.schreiben.prosa	Unmoderated
+de.etc.schreiben.lyrik	Removed
+de.etc.schreiben.misc	Removed
+de.etc.schreiben.prosa	Removed
 de.etc.selbsthilfe.angst	Removed
 de.etc.selbsthilfe.gehoer	Removed
 de.etc.selbsthilfe.misc	Removed
@@ -24201,7 +24201,7 @@ de.rec.buecher	Unmoderated
 de.rec.denksport	Removed
 de.rec.drachen	Removed
 de.rec.fahrrad	Unmoderated
-de.rec.film.heimkino	Unmoderated
+de.rec.film.heimkino	Removed
 de.rec.film.kritiken	Removed
 de.rec.film.misc	Unmoderated
 de.rec.fotografie	Unmoderated
@@ -24209,7 +24209,7 @@ de.rec.garten	Unmoderated
 de.rec.geocaching	Removed
 de.rec.heimwerken	Unmoderated
 de.rec.hoerspiel	Unmoderated
-de.rec.kunst	Unmoderated
+de.rec.kunst	Removed
 de.rec.kunst.misc	Removed
 de.rec.kunst.theater	Removed
 de.rec.luftfahrt	Unmoderated
@@ -24236,7 +24236,7 @@ de.rec.sf.babylon5.infos	Removed
 de.rec.sf.babylon5.misc	Unmoderated
 de.rec.sf.misc	Unmoderated
 de.rec.sf.perry-rhodan	Unmoderated
-de.rec.sf.stargate	Unmoderated
+de.rec.sf.stargate	Removed
 de.rec.sf.startrek	Unmoderated
 de.rec.sf.startrek.10vorne	Removed
 de.rec.sf.startrek.deep-space-9	Removed
@@ -24245,6 +24245,7 @@ de.rec.sf.startrek.misc	Removed
 de.rec.sf.startrek.technologie	Removed
 de.rec.sf.startrek.voyager	Removed
 de.rec.sf.starwars	Removed
+de.rec.spiele	Unmoderated
 de.rec.spiele.brett+karten	Removed
 de.rec.spiele.computer.action	Unmoderated
 de.rec.spiele.computer.adventure	Unmoderated
@@ -24265,7 +24266,7 @@ de.rec.sport.fussball	Unmoderated
 de.rec.sport.gleitschirm	Removed
 de.rec.sport.golf	Removed
 de.rec.sport.inlineskating	Removed
-de.rec.sport.laufen	Unmoderated
+de.rec.sport.laufen	Removed
 de.rec.sport.laufen.misc	Removed
 de.rec.sport.laufen.trainingswoche	Removed
 de.rec.sport.laufen.veranstaltungen	Removed
@@ -24278,11 +24279,11 @@ de.rec.sport.segeln	Unmoderated
 de.rec.sport.tauchen	Removed
 de.rec.tanz	Removed
 de.rec.teich	Removed
-de.rec.tiere.aquaristik	Unmoderated
-de.rec.tiere.hunde	Unmoderated
+de.rec.tiere.aquaristik	Removed
+de.rec.tiere.hunde	Removed
 de.rec.tiere.katzen	Unmoderated
 de.rec.tiere.misc	Unmoderated
-de.rec.tiere.pferde	Unmoderated
+de.rec.tiere.pferde	Removed
 de.rec.tiere.ratten	Removed
 de.rec.tiere.terraristik	Removed
 de.rec.tiere.voegel	Removed

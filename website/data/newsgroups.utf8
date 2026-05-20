@@ -23502,8 +23502,6 @@ de.etc.bahn.historisch	Bahnen aus alten Zeiten.
 de.etc.bahn.misc	Bahnthemen ohne Spezialgruppe.
 de.etc.bahn.stadtverkehr	Strassenbahn, U-Bahn, S-Bahn.
 de.etc.bahn.tarif+service	Preise und Dienste.
-de.etc.beruf.misc	Berufsbezogene Fragestellungen.
-de.etc.beruf.selbstaendig	Existenzgruendung.
 de.etc.fahrzeug.auto	Technik, Fahren, Geschichte und Zukunft.
 de.etc.fahrzeug.misc	Sonstige Fahrzeuge.
 de.etc.finanz.banken+broker	Die mit dem grossen Geld spielen.
@@ -23516,9 +23514,6 @@ de.etc.haushalt		Haushaltsfuehrung, -tips und -geraete.
 de.etc.militaer		Ausruestung, Taktik, Strategie und Anekdoten.
 de.etc.misc		Alles, was woanders nicht hinpasst.
 de.etc.post		Briefe, Paeckchen, Pakete.
-de.etc.schreiben.lyrik	Selbstgeschriebene Lyrik und Kritiken.
-de.etc.schreiben.misc	Sonstige Themen und Infotexte ueber das Schreiben.
-de.etc.schreiben.prosa	Selbstgeschriebene Prosa und Kritiken.
 de.etc.sprache.deutsch	Die deutsche Sprache: Fragen, Antworten und Diskussionen.
 de.etc.sprache.misc	Das Sammelbecken fuer andere Sprachen.
 de.markt		Angebote/Gesuche. Aussagekraeftige Themen bitte!
@@ -23528,13 +23523,11 @@ de.org.ccc		Chaos Computer Club: Kreativer Umgang mit Technik.
 de.org.misc		Organisationen ohne eigene Gruppe.
 de.rec.buecher		Rund ums Buch.
 de.rec.fahrrad		Alles rund um's Fahrrad.
-de.rec.film.heimkino	Filmerlebnis im Wohnzimmer.
 de.rec.film.misc	Film ab! Nicht nur im Kino.
 de.rec.fotografie	Fotografie, EBV und verwandte Themen.
 de.rec.garten		Gartenbau und Zimmerpflanzen.
 de.rec.heimwerken	Doityourself, Tips, Heimwerken.
 de.rec.hoerspiel	Hoerspiele im Radio und auf Tontraegern.
-de.rec.kunst		Darstellende, bildende und sonstige Kunst allgemein.
 de.rec.luftfahrt	Ueber den Wolken.
 de.rec.mampf		Alles, was mit Essen und Trinken etc. zu tun hat.
 de.rec.misc		Diverse Themen im Bereich Freizeit.
@@ -23554,22 +23547,18 @@ de.rec.reisen.misc	Sonstige Reisethemen.
 de.rec.sf.babylon5.misc	Die SF-Fernsehserie "Babylon 5".
 de.rec.sf.misc		Sonstiges im Bereich Speculative Fiction (Phantastik).
 de.rec.sf.perry-rhodan	Perry Rhodan, die groesste Weltraumserie.
-de.rec.sf.stargate	Stargate - Kommando SG1.
 de.rec.sf.startrek	Der Weltraum - unendliche Weiten.
+de.rec.spiele		Spiele aller Art.
 de.rec.spiele.computer.action	Ballern und Treten, was das Zeug haelt.
 de.rec.spiele.computer.adventure	Adventurespiele.
 de.rec.spiele.computer.misc	Computerspielthemen ohne eigene Gruppe.
 de.rec.spiele.misc	Sonstige Spiele aller Art.
 de.rec.spiele.rpg.misc	Pen&Paper-Rollenspiele ohne eigene Gruppe.
 de.rec.sport.fussball	Der Ball ist rund.
-de.rec.sport.laufen	Joggen, Laufen, Rennen, Gehen und mehr.
 de.rec.sport.misc	Sport allgemein.
 de.rec.sport.segeln	Segeln und alles, was dazugehoert.
-de.rec.tiere.aquaristik	Aquaristik.
-de.rec.tiere.hunde	Rund um den Hund.
 de.rec.tiere.katzen	Alles, was mit Katzen zu tun hat.
 de.rec.tiere.misc	Alles rund um Tiere allgemein.
-de.rec.tiere.pferde	Alles rund um Pferde.
 de.rec.tv.misc		Ich glotz TV.
 de.rec.tv.serien	Fortsetzung folgt.
 de.rec.tv.technik	Geraete und Technik fuer Fernsehen und Video.
