@@ -15518,6 +15518,7 @@ dc.urban-planning	Discussion of transportation, land use in the DC area
 de.admin.infos	Infotexte zum Netz. <de-admin-infos@spamfence.net> (Moderated)
 de.admin.lists	Fuer Statistiken. <de-admin-lists@moderators.dana.de> (Moderated)
 de.admin.misc	Allgemeine Themen zum Netz.
+de.admin.net-abuse	Netzmissbrauch.
 de.admin.net-abuse.announce	Massnahmen gegen Netzmissbrauch. <dan-aa@moderation.szaf.org> (Moderated)
 de.admin.net-abuse.mail	E-Mail-Missbrauch.
 de.admin.net-abuse.misc	Sonstiger Netzmissbrauch.
@@ -15590,7 +15591,7 @@ de.comm.infosystems.misc	Sonstige Informationssysteme (Hyper-G, gopher, WAIS).
 de.comm.infosystems.suchmaschinen	Finden und gefunden werden.
 de.comm.infosystems.www.authoring.misc	Webseiten, (X)HTML, CSS und mehr.
 de.comm.internet.infrastruktur	Router, Topologie und Administrativa.
-de.comm.internet.misc	Sonstige Themen zum Internet ausser Infosystems.
+de.comm.internet.misc	Sonstige Themen zum Internet.
 de.comm.internet.telefonie	Voice over IP (VoIP).
 de.comm.misc	Kommunikation: Hardware, Protokolle und Probleme.
 de.comm.protocols.misc	Sonstige Protokolle (IPX, DECnet, Appletalk etc).
@@ -15640,6 +15641,7 @@ de.comp.hardware.laufwerke.brenner	CD-Brenner und DVD-Brenner.
 de.comp.hardware.laufwerke.cd+dvd	Glaenzende Scheiben am Computer.
 de.comp.hardware.laufwerke.festplatten	Festplattenlaufwerke.
 de.comp.hardware.laufwerke.misc	Sonstige Laufwerke.
+de.comp.hardware.massenspeicher	Massenspeicher.
 de.comp.hardware.misc	Sonstige Computer-Hardware.
 de.comp.hardware.monitore	Computer-Displays aller Art.
 de.comp.hardware.netzwerke.misc	Verkabeln, Vernetzen, Verschalten.
@@ -15668,7 +15670,7 @@ de.comp.office-pakete.ms-office.excel	Von der Zelle zur Tabelle.
 de.comp.office-pakete.ms-office.misc	Microsoft-Office-Pakete.
 de.comp.office-pakete.ms-office.outlook	Outlook - das Office im Griff.
 de.comp.office-pakete.ms-office.word	Aus Wort wird Text.
-de.comp.office-pakete.staroffice.misc	OpenOffice.org und StarOffice.
+de.comp.office-pakete.staroffice.misc	StarOffice, OpenOffice, LibreOffice und Co.
 de.comp.office-pakete.staroffice.writer	Textverarbeitung und Formeln.
 de.comp.os.misc	Diverse Betriebssysteme (z.B. MVS, RTOS).
 de.comp.os.ms-windows.anwendungssoftware	Start -> Programme.

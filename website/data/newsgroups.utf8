@@ -23337,10 +23337,7 @@ dc.urban-planning	Discussion of transportation, land use in the DC area
 de.admin.infos		Infotexte zum Netz. <de-admin-infos@spamfence.net> (Moderated)
 de.admin.lists		Fuer Statistiken. <de-admin-lists@moderators.dana.de> (Moderated)
 de.admin.misc		Allgemeine Themen zum Netz.
-de.admin.net-abuse.announce	Massnahmen gegen Netzmissbrauch. <dan-aa@moderation.szaf.org> (Moderated)
-de.admin.net-abuse.mail	E-Mail-Missbrauch.
-de.admin.net-abuse.misc	Sonstiger Netzmissbrauch.
-de.admin.net-abuse.news	Fehlverhalten im Usenet.
+de.admin.net-abuse	Netzmissbrauch.
 de.admin.news.announce	RFDs, CFVs, Zwischen- und Endergebnisse. <moderator@dana.de> (Moderated)
 de.admin.news.groups	Diskussionen ueber (neue) Newsgruppen.
 de.admin.news.misc	Sonstige Themen rund um NetNews.
@@ -23390,10 +23387,8 @@ de.comm.funk.misc	Sonstige Funkthemen.
 de.comm.funk.vereine	Funkvereine und ihre Aktivitaeten.
 de.comm.geraete.misc	Sonstige Kommunikations-Geraete.
 de.comm.geraete.mobil	Mobile Endgeraete und Zubehoer.
-de.comm.infosystems.misc	Sonstige Informationssysteme (Hyper-G, gopher, WAIS).
-de.comm.infosystems.suchmaschinen	Finden und gefunden werden.
 de.comm.infosystems.www.authoring.misc	Webseiten, (X)HTML, CSS und mehr.
-de.comm.internet.misc	Sonstige Themen zum Internet ausser Infosystems.
+de.comm.internet.misc	Sonstige Themen zum Internet.
 de.comm.internet.telefonie	Voice over IP (VoIP).
 de.comm.misc		Kommunikation: Hardware, Protokolle und Probleme.
 de.comm.protocols.misc	Sonstige Protokolle (IPX, DECnet, Appletalk etc).
@@ -23427,23 +23422,13 @@ de.comm.technik.mobil	Technik der Mobilkommunikations-Netze.
 de.comm.uucp		UUCP: Protokolle, Programme und Probleme.
 de.comp.audio		Verarbeitung von Audiodaten am Computer.
 de.comp.datenbanken.misc	Datenbanken aller Art.
-de.comp.datenbanken.ms-access	Die Software MS Access.
-de.comp.datenbanken.mysql	Relationale Datenbanken mit MySQL.
 de.comp.editoren	Text- und Hexeditoren.
-de.comp.hardware.laufwerke.brenner	CD-Brenner und DVD-Brenner.
-de.comp.hardware.laufwerke.cd+dvd	Glaenzende Scheiben am Computer.
-de.comp.hardware.laufwerke.festplatten	Festplattenlaufwerke.
-de.comp.hardware.laufwerke.misc	Sonstige Laufwerke.
+de.comp.hardware.massenspeicher	Massenspeicher.
 de.comp.hardware.misc	Sonstige Computer-Hardware.
 de.comp.hardware.netzwerke.misc	Verkabeln, Vernetzen, Verschalten.
 de.comp.hardware.netzwerke.wireless	WLAN, Bluetooth und Funknetze.
-de.comp.lang.assembler	Programmierung in Assembler.
 de.comp.lang.c		Die Programmiersprache C (ISO, ANSI, K&R).
-de.comp.lang.delphi.misc	Delphi, Lazarus und Derivate.
-de.comp.lang.forth	Forth, Anwendungen in Forth, Forth-Hardware.
 de.comp.lang.iso-c++	ISO-konformes C++. <dclisocpp@elaboris.de> (Moderated)
-de.comp.lang.java	Die Programmiersprache Java.
-de.comp.lang.javascript	Programmiersprache JavaScript.
 de.comp.lang.misc	Alle Programmiersprachen ohne eigene Gruppe.
 de.comp.lang.perl	Perl (von Larry Wall).
 de.comp.lang.php	Fragen zu Anwendung und Programmierung von PHP.
@@ -23451,46 +23436,25 @@ de.comp.lang.python	Programmieren mit Python.
 de.comp.lang.vbclassic	VisualBasic bis Version 6.
 de.comp.misc		Uebrige Computerthemen.
 de.comp.office-pakete.misc	Office-Pakete allgemein.
-de.comp.office-pakete.ms-office.excel	Von der Zelle zur Tabelle.
 de.comp.office-pakete.ms-office.misc	Microsoft-Office-Pakete.
-de.comp.office-pakete.ms-office.outlook	Outlook - das Office im Griff.
-de.comp.office-pakete.ms-office.word	Aus Wort wird Text.
-de.comp.office-pakete.staroffice.misc	OpenOffice.org und StarOffice.
-de.comp.office-pakete.staroffice.writer	Textverarbeitung und Formeln.
+de.comp.office-pakete.staroffice.misc	StarOffice, OpenOffice, LibreOffice und Co.
 de.comp.os.misc		Diverse Betriebssysteme (z.B. MVS, RTOS).
-de.comp.os.ms-windows.anwendungssoftware	Start -> Programme.
 de.comp.os.ms-windows.misc	Die Betriebssysteme der MS-Windows-Familie.
 de.comp.os.ms-windows.netzwerke	Desktop -> Netzwerkumgebung.
-de.comp.os.ms-windows.programmer	Programmierung unter MS-Windows.
-de.comp.os.msdos	MS-DOS und kompatible Betriebssysteme.
-de.comp.os.os2		Die Betriebssysteme OS/2 und eComStation.
-de.comp.os.unix.apps.gnome	Das GNU Network Object Model Environment.
-de.comp.os.unix.apps.kde	Das K Desktop Environment.
 de.comp.os.unix.apps.misc	Die Anwendungen von Unix.
 de.comp.os.unix.bsd	Gottes eigenes Betriebssystem.
 de.comp.os.unix.linux.hardware	Hardwarefragen zu Linux.
 de.comp.os.unix.linux.misc	Alles, was sich nicht anders einordnen laesst.
 de.comp.os.unix.misc	Unix-Systeme ohne eigene Gruppe.
 de.comp.os.unix.networking.misc	Rund um Netzwerke und Kommunikation.
-de.comp.os.unix.networking.samba	Unix tanzt Samba - mit Windows & Co.
-de.comp.os.unix.programming	Programmierung unter Unix.
 de.comp.os.unix.shell	Shell, Skripte und Tools.
 de.comp.os.unix.x11	Alles zum X Window System unter Unix.
-de.comp.os.vms		OpenVMS und VAX/VMS (Betriebssystem von DEC), FreeVMS.
-de.comp.security.firewall	Sicherheit trotz Netz.
 de.comp.security.misc	Computer- und Datensicherheit.
 de.comp.software.graphik	Grafik, insbesondere auf Computern.
 de.comp.software.misc	Programme ohne eigene Gruppe.
-de.comp.sys.amiga	Allgemeine Themen des Rechners Amiga.
-de.comp.sys.atari	Ataris, kompatible Systeme und Emulatoren.
-de.comp.sys.mac.internet	Der Mac und das Internet.
-de.comp.sys.mac.lokale-netze	Macs im (lokalen) Netzwerk.
 de.comp.sys.mac.misc	Diskussion zum Mac.
-de.comp.sys.mac.programmieren	Programmieren am und fuer den Mac.
-de.comp.sys.mac.soc	Usertreffen, Erfahrungsberichte, Szene-Tratsch.
 de.comp.sys.misc	Andere Systeme.
 de.comp.sys.notebooks	Computer fuer moderne Nomaden.
-de.comp.sys.novell	Rund um Novell NetWare.
 de.comp.text.misc	Textverarbeitung und elektronisches Publizieren allgemein.
 de.comp.text.pdf	Mehr als Acrobat.
 de.comp.text.tex	TeX, LaTeX & Co.: Fragen und Antworten, Diskussion und Codeschnipsel.
@@ -23531,8 +23495,6 @@ de.rec.hoerspiel	Hoerspiele im Radio und auf Tontraegern.
 de.rec.luftfahrt	Ueber den Wolken.
 de.rec.mampf		Alles, was mit Essen und Trinken etc. zu tun hat.
 de.rec.misc		Diverse Themen im Bereich Freizeit.
-de.rec.modelle.bahn	Alles ueber Modellbahnen.
-de.rec.modelle.misc	Bau von und Spiel mit Modellen.
 de.rec.motorrad		Alles rund ums Motorrad.
 de.rec.motorroller	Alles rund um Motorroller.
 de.rec.musik.hifi	HiFi-Audio-Technik.
@@ -23549,11 +23511,6 @@ de.rec.sf.misc		Sonstiges im Bereich Speculative Fiction (Phantastik).
 de.rec.sf.perry-rhodan	Perry Rhodan, die groesste Weltraumserie.
 de.rec.sf.startrek	Der Weltraum - unendliche Weiten.
 de.rec.spiele		Spiele aller Art.
-de.rec.spiele.computer.action	Ballern und Treten, was das Zeug haelt.
-de.rec.spiele.computer.adventure	Adventurespiele.
-de.rec.spiele.computer.misc	Computerspielthemen ohne eigene Gruppe.
-de.rec.spiele.misc	Sonstige Spiele aller Art.
-de.rec.spiele.rpg.misc	Pen&Paper-Rollenspiele ohne eigene Gruppe.
 de.rec.sport.fussball	Der Ball ist rund.
 de.rec.sport.misc	Sport allgemein.
 de.rec.sport.segeln	Segeln und alles, was dazugehoert.
