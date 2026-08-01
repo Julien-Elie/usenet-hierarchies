@@ -79,7 +79,7 @@ status_dict = {}
 # status and description.
 for line in codecs.open(ISC_NEWSGROUPS_FILE, "r", "utf-8"):
     line = line.rstrip()
-    (h, description) = line.split(None, 1)
+    h, description = line.split(None, 1)
     description = description.lstrip()
     # Do not keep the description if none is provided.
     if description in ["No description.", "No description", "?"]:
@@ -104,7 +104,7 @@ for line in codecs.open(ISC_NEWSGROUPS_FILE, "r", "utf-8"):
 # already existing file.
 for line in codecs.open(NAS_HIER_DESCRIPTION, "r", "utf-8"):
     line = line.rstrip()
-    (h, description) = line.split(None, 1)
+    h, description = line.split(None, 1)
     if h not in hierarchies_dict:
         description = description.lstrip()
         hierarchies_dict[h] = {}
@@ -115,7 +115,7 @@ for line in codecs.open(NAS_HIER_DESCRIPTION, "r", "utf-8"):
 # already existing file.
 for line in codecs.open(NAS_NEWSGROUPS_DESCRIPTION, "r", "utf-8"):
     line = line.rstrip()
-    (h, description) = line.split(None, 1)
+    h, description = line.split(None, 1)
     if h not in status_dict:
         status_dict[h] = "Removed"
         description = description.lstrip()
@@ -359,7 +359,7 @@ for line in codecs.open(ISC_PGPKEYS_FILE, "r", "ISO-8859-1"):
         elif line.startswith("pub  ") or line.startswith("öff  "):
             keydesc = True
             elements = line.split(None, 3)
-            (bits, keyid) = elements[1].split("/")
+            bits, keyid = elements[1].split("/")
             for hierName in names:
                 hierarchies_dict[hierName]["Ctl-PGP-Key_B"] = bits.rstrip(
                     "R"
