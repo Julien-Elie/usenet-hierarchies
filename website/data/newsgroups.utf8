@@ -28334,7 +28334,7 @@ fnet.sm90		No description.
 fnet.sps9		No description.
 fnet.test		USENET testing in France.
 fnet.tietoliikenne.televerkot	No description.
-fr.bienvenue		L'accueil des nouveaux venus dans leurs premiers pas sur Usenet.
+fr.bienvenue		L'accueil des nouveaux venus sur Usenet-fr.
 fr.bio.medecine		La médecine (humaine, vétérinaire) et la pharmacie.
 fr.comp.algorithmes	Les algorithmes : recherches, discussions, descriptions...
 fr.comp.applications.bureautique	Les logiciels de bureautique.
@@ -28387,38 +28387,27 @@ fr.comp.sys.raspberry-pi	Les ordinateurs de la fondation Raspberry Pi et équiva
 fr.comp.text.tex	Les langages et systèmes de composition TeX et LaTeX.
 fr.comp.usenet.lecteurs-de-news	Les logiciels de lecture des forums Usenet.
 fr.comp.usenet.serveurs	Les logiciels serveurs de news Usenet.
-fr.lettres.ecriture	Tous les aspects liés à l'écriture.
-fr.lettres.langue.anglaise	Discussions sur la langue anglaise.
-fr.lettres.langue.chinoise	Discussions sur la langue chinoise.
-fr.lettres.langue.francaise	Discussions sur la langue française.
-fr.lettres.langue.italienne	Discussions sur la langue italienne.
-fr.lettres.langue.japonaise	Discussions sur la langue japonaise.
-fr.lettres.langues-anciennes.grec	Culture et langue grecques.
-fr.lettres.langues-anciennes.latin	Culture et langue latines.
-fr.misc.actualite	Les événements d'actualité.
-fr.misc.assurances	Les assurances : établissements, produits, services, recours...
-fr.misc.automobile.electrique	Tous les aspects des automobiles électriques.
+fr.lettres.langue.anglaise	La culture anglaise et sa langue.
+fr.lettres.langue.chinoise	La culture chinoise et sa langue.
+fr.lettres.langue.francaise	La culture française et sa langue.
+fr.lettres.langue.italienne	La culture italienne et sa langue.
+fr.lettres.langue.japonaise	La culture japonaise et sa langue.
+fr.lettres.langues-anciennes.grec	La culture grecque et sa langue.
+fr.lettres.langues-anciennes.latin	La culture latine et sa langue.
+fr.misc.automobile.electrique	Les automobiles électriques.
 fr.misc.automoto.mecanique	La pratique de la mécanique automobile et moto.
 fr.misc.bavardages.dinosaures	Le bistro des anciens du Réseau. (Moderated)
-fr.misc.bavardages.linux	Le bistro non technique sur Linux et le monde du logiciel libre.
-fr.misc.cryptologie	Le chiffrement : histoire, usages, techniques et réglementations.
-fr.misc.divers		Ce qui n'a de place nulle part ailleurs dans fr.
+fr.misc.bavardages.linux	Le bistro non technique du libre et Linux.
+fr.misc.divers		Tout sujet sans forum mieux approprié dans Usenet-fr.
 fr.misc.domotique	Les objets connectés, l'Internet des objets (IoT)...
-fr.misc.droit		Tout thème juridique hors forum spécifique dédié.
+fr.misc.droit		Tout thème juridique sans forum spécifique.
 fr.misc.droit.immobilier	Le droit immobilier : achat, vente, location...
 fr.misc.droit.internet	Les problèmes juridiques en rapport avec Internet.
-fr.misc.droit.travail	Le droit du travail des secteurs public et privé.
-fr.misc.enfants		Tout ce qui concerne les enfants.
 fr.misc.engueulades	Les engueulades hors-charte sur les forums initiaux.
-fr.misc.finance		Tout thème lié à la finance hors forum spécifique dédié.
+fr.misc.finance		Tout thème lié à la finance sans forum spécifique.
 fr.misc.finance.banque	Les banques et les services bancaires.
 fr.misc.finance.immobilier	L'économie des biens immobiliers.
-fr.misc.handicap	Le handicap : actions associatives, échange de conseils, outils...
-fr.misc.militaire	La chose militaire : techniques, matériel...
-fr.misc.securite.routiere	La sécurité routière : prévention, formation, législation...
-fr.misc.tabac		Le tabac sous tous ses aspects.
-fr.misc.transport.rail	Les transports ferroviaires.
-fr.misc.transport.urbain	Les transports urbains, en commun ou individuels.
+fr.misc.securite.routiere	La sécurité routière : prévention, formation...
 fr.misc.transport.velo	Le vélo comme mode de transport.
 fr.rec.arts.bd		Les bandes dessinées, mangas, manhwas, comics...
 fr.rec.arts.fantasy	Les œuvres et les auteurs de fantasy.
@@ -28488,16 +28477,15 @@ fr.soc.histoire.antique	L'Antiquité et les techniques de l'historien.
 fr.soc.politique	La politique et les matières connexes comme l'économie.
 fr.soc.religion		Les religions, les croyances et la spiritualité.
 fr.soc.sectes		Les mouvements à caractère sectaire et leurs pratiques.
-fr.test			Testez la diffusion de vos articles dans fr.
-fr.usenet.abus.d	Discussion des mesures contre les abus du réseau.
-fr.usenet.abus.rapports	Rapports réguliers sur les actions anti-abus. (Moderated)
-fr.usenet.distribution	Distribution des news fr.
-fr.usenet.divers	Ce qui ne va pas ailleurs dans fr.usenet.
-fr.usenet.documents	Documents publiés sur Usenet-fr.
-fr.usenet.forums.annonces	Annonces des évolutions de la hiérarchie. (Moderated)
-fr.usenet.forums.evolution	Discussions sur la création de nouveaux forums fr.
-fr.usenet.stats		Statistiques concernant les news fr. (Moderated)
-fr.usenet.usages	Discussions sur les bons usages sur Usenet-fr.
+fr.test			Testez la diffusion de vos articles dans Usenet-fr !
+fr.usenet.abus.d	Les abus du réseau : annonces, mesures, stratégies...
+fr.usenet.abus.rapports	Les rapports sur les actions anti-abus. (Moderated)
+fr.usenet.distribution	La diffusion des articles dans Usenet-fr.
+fr.usenet.divers	Tout sujet lié à Usenet-fr sans forum spécifique.
+fr.usenet.documents	Les documents publiés périodiquement sur Usenet-fr.
+fr.usenet.forums.annonces	Les annonces d'évolutions de fr.*. (Moderated)
+fr.usenet.forums.evolution	Les discussions d'évolutions de la hiérarchie.
+fr.usenet.usages	La nétiquette, les us et coutumes sur Usenet-fr.
 france.admin.accueil	Les documents de bienvenue.
 france.admin.distribution	Diffusion de la hiérarchie france.
 france.admin.evolutions	Discussions sur les changements dans la hiérarchie france.

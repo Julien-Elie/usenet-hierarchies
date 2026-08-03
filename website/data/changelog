@@ -1,3 +1,38 @@
+2026-08-01 10:50:02 changedesc fr.bienvenue (by checkgroups)
+2026-08-01 10:50:02 changedesc fr.usenet.abus.d (by checkgroups)
+2026-08-01 10:50:02 changedesc fr.misc.securite.routiere (by checkgroups)
+2026-08-01 10:50:02 changedesc fr.misc.finance (by checkgroups)
+2026-08-01 10:50:02 changedesc fr.usenet.forums.annonces (by checkgroups)
+2026-08-01 10:50:02 changedesc fr.usenet.distribution (by checkgroups)
+2026-08-01 10:50:02 changedesc fr.lettres.langue.japonaise (by checkgroups)
+2026-08-01 10:50:02 changedesc fr.usenet.documents (by checkgroups)
+2026-08-01 10:50:02 changedesc fr.usenet.abus.rapports (by checkgroups)
+2026-08-01 10:50:02 changedesc fr.lettres.langues-anciennes.grec (by checkgroups)
+2026-08-01 10:50:02 changedesc fr.lettres.langue.francaise (by checkgroups)
+2026-08-01 10:50:02 changedesc fr.lettres.langue.italienne (by checkgroups)
+2026-08-01 10:50:02 changedesc fr.usenet.forums.evolution (by checkgroups)
+2026-08-01 10:50:01 changedesc fr.lettres.langue.chinoise (by checkgroups)
+2026-08-01 10:50:01 changedesc fr.lettres.langue.anglaise (by checkgroups)
+2026-08-01 10:50:01 changedesc fr.misc.bavardages.linux (by checkgroups)
+2026-08-01 10:50:01 changedesc fr.misc.automobile.electrique (by checkgroups)
+2026-08-01 10:50:01 changedesc fr.misc.divers (by checkgroups)
+2026-08-01 10:50:01 changedesc fr.lettres.langues-anciennes.latin (by checkgroups)
+2026-08-01 10:50:01 changedesc fr.test (by checkgroups)
+2026-08-01 10:50:01 changedesc fr.usenet.divers (by checkgroups)
+2026-08-01 10:50:01 changedesc fr.misc.droit (by checkgroups)
+2026-08-01 10:50:01 changedesc fr.usenet.usages (by checkgroups)
+2026-08-01 10:40:02 rmgroup fr.usenet.stats
+2026-08-01 10:40:02 rmgroup fr.lettres.ecriture
+2026-08-01 10:40:02 rmgroup fr.misc.transport.urbain
+2026-08-01 10:40:02 rmgroup fr.misc.transport.rail
+2026-08-01 10:40:02 rmgroup fr.misc.tabac
+2026-08-01 10:40:02 rmgroup fr.misc.militaire
+2026-08-01 10:40:02 rmgroup fr.misc.handicap
+2026-08-01 10:40:02 rmgroup fr.misc.enfants
+2026-08-01 10:40:02 rmgroup fr.misc.droit.travail
+2026-08-01 10:40:01 rmgroup fr.misc.cryptologie
+2026-08-01 10:40:01 rmgroup fr.misc.assurances
+2026-08-01 10:40:01 rmgroup fr.misc.actualite
 2026-06-27 07:40:02 rmgroup de.admin.net-abuse.misc
 2026-06-27 07:40:02 rmgroup de.admin.net-abuse.news
 2026-06-27 07:40:02 rmgroup de.admin.net-abuse.mail
