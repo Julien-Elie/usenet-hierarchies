@@ -28336,7 +28336,7 @@ fnet.test		USENET testing in France.
 fnet.tietoliikenne.televerkot	No description.
 fr.bienvenue		L'accueil des nouveaux venus sur Usenet-fr.
 fr.bio.medecine		La medecine (humaine, veterinaire) et la pharmacie.
-fr.comp.algorithmes	Les algorithmes : recherches, discussions, descriptions...
+fr.comp.algorithmes	Les algorithmes : recherche, description, complexite...
 fr.comp.applications.bureautique	Les logiciels de bureautique.
 fr.comp.applications.editeurs-de-texte	Les editeurs de texte.
 fr.comp.applications.emacs	L'editeur de texte Emacs et ses extensions.
@@ -28348,12 +28348,12 @@ fr.comp.developpement	Les methodologies, methodes et outils de developpement.
 fr.comp.divers		Tout sujet d'informatique sans forum specifique.
 fr.comp.emulateurs	Les emulateurs et le monde de l'emulation en general.
 fr.comp.ia		L'Intelligence Artificielle.
-fr.comp.infosystemes	Les protocoles d'Internet (Gemini, Gopher, FTP...), la conception de SI...
-fr.comp.infosystemes.www.navigateurs	Chrome, Safari, Firefox, Edge, Opera, Vivaldi...
+fr.comp.infosystemes	Les protocoles (Gemini, Gopher, FTP...), conception SI...
+fr.comp.infosystemes.www.navigateurs	Chrome, Safari, Firefox, Edge, Opera...
 fr.comp.internet.medias-sociaux	Le web participatif et les medias sociaux.
 fr.comp.lang.ada	Le langage de programmation Ada.
 fr.comp.lang.c		Les langages de programmation C, C++ et assimiles.
-fr.comp.lang.general	La programmation en general et les langages sans forum dedie.
+fr.comp.lang.general	La programmation et les langages sans forum dedie.
 fr.comp.lang.java	Le langage de developpement Java.
 fr.comp.lang.javascript	ECMAScript et ses derives : JScript, ActionScript...
 fr.comp.lang.perl	Le langage de programmation Perl.
@@ -28365,8 +28365,8 @@ fr.comp.mail.serveurs	Les logiciels serveurs de messagerie electronique.
 fr.comp.musique		Le traitement informatique de la musique.
 fr.comp.ordinosaures	Les ordinateurs et consoles de jeux anciens.
 fr.comp.os.android	Le systeme d'exploitation mobile Android.
-fr.comp.os.bsd		Les systemes BSD et ses derives : FreeBSD, NetBSD, OpenBSD...
-fr.comp.os.linux.configuration	Le parametrage et la prise en main d'un systeme Linux.
+fr.comp.os.bsd		Les systemes BSD et derives : FreeBSD, OpenBSD...
+fr.comp.os.linux.configuration	Le parametrage et la prise en main de Linux.
 fr.comp.os.linux.debats	Promouvoir, critiquer et troller sur Linux.
 fr.comp.os.mac-os.x	Mac OS X, OS X, macOS, Darwin et leurs evolutions.
 fr.comp.os.ms-windows	Les systemes d'exploitation Microsoft Windows.
@@ -28378,12 +28378,12 @@ fr.comp.stockage	Les materiels et logiciels de stockage de donnees.
 fr.comp.sys.amiga	Les machines de la gamme Amiga.
 fr.comp.sys.atari	Les machines de la gamme Atari.
 fr.comp.sys.iphone	Le systeme iPhone, ses applications et declinaisons.
-fr.comp.sys.mac		Les actualites et les evolutions de la plate-forme Apple Macintosh.
+fr.comp.sys.mac		Les actualites et les evolutions des Apple Macintosh.
 fr.comp.sys.mac.communication	Les reseaux et communications sous macOS.
 fr.comp.sys.mac.materiel	Le materiel Macintosh.
 fr.comp.sys.mac.programmation	La programmation sur macOS.
 fr.comp.sys.pc		Les micro-ordinateurs PC et compatibles.
-fr.comp.sys.raspberry-pi	Les ordinateurs de la fondation Raspberry Pi et equivalents.
+fr.comp.sys.raspberry-pi	Les ordinateurs Raspberry Pi et equivalents.
 fr.comp.text.tex	Les langages et systemes de composition TeX et LaTeX.
 fr.comp.usenet.lecteurs-de-news	Les logiciels de lecture des forums Usenet.
 fr.comp.usenet.serveurs	Les logiciels serveurs de news Usenet.
@@ -28410,18 +28410,13 @@ fr.misc.finance.immobilier	L'economie des biens immobiliers.
 fr.misc.securite.routiere	La securite routiere : prevention, formation...
 fr.misc.transport.velo	Le velo comme mode de transport.
 fr.rec.arts.bd		Les bandes dessinees, mangas, manhwas, comics...
-fr.rec.arts.fantasy	Les oeuvres et les auteurs de fantasy.
 fr.rec.arts.musique.autre	Toute musique sans forum specifique.
 fr.rec.arts.musique.classique	La musique classique.
 fr.rec.arts.musique.jazz	Le jazz.
-fr.rec.arts.musique.metal	Le metal et le hard rock.
-fr.rec.arts.musique.variete	La musique de variete.
 fr.rec.arts.sf		Les oeuvres et les auteurs de science-fiction.
 fr.rec.audio		Les techniques de sonorisation et d'enregistrement.
 fr.rec.bateaux		Les bateaux, les voiliers, la navigation, la marine...
-fr.rec.boissons.vins	Le vin : avis, conseils, bons plans...
 fr.rec.bricolage	Les techniques, conseils, savoir-faire sur le bricolage.
-fr.rec.champignons	La mycologie, la mycophilie, la mycophagie...
 fr.rec.cinema.discussion	Le cinema : critiques de film, salles, debats...
 fr.rec.divers		Tout sujet recreatif sans forum specifique.
 fr.rec.genealogie	La genealogie : informations, logiciels, demandes...
@@ -28430,8 +28425,6 @@ fr.rec.jardinage	Le jardinage : culture, maladies, outils, techniques...
 fr.rec.jeux.divers	Tout type de jeux sans forum specifique.
 fr.rec.jeux.echecs	Les jeux d'echecs sous toutes ses formes et variantes.
 fr.rec.jeux.enigmes	Les enigmes : charades, devinettes, histoires, mots...
-fr.rec.modelisme	Le modelisme : partage de connaissances et d'experience.
-fr.rec.montagne		La montagne : activites, actualites, culture...
 fr.rec.moto		La moto : accessoires, techniques, temoignages...
 fr.rec.philatelie	Les timbres et l'histoire postale.
 fr.rec.photo		La photographie argentique et numerique.
@@ -28445,7 +28438,6 @@ fr.rec.sport.equitation	L'equitation, l'hippologie, les chevaux, les poneys...
 fr.rec.sport.football	Le football tant theorique que pratique.
 fr.rec.sport.rugby	Le rugby a 15, 13, 10 et a 7.
 fr.rec.sport.tennis	Le tennis : materiel, surfaces, pratique, joueurs...
-fr.rec.tv.programmes	Les series et programmes televisuels.
 fr.rec.tv.satellite	La reception par satellite des chaines de television.
 fr.rec.tv.terrestre	La television terrestre analogique ou numerique (TNT).
 fr.reseaux.internet.fournisseurs	Les fournisseurs d'acces a Internet.

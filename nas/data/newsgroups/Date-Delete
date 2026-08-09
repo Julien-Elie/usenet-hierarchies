@@ -1040,11 +1040,14 @@ fr.rec.apiculture	20260213184002
 fr.rec.aquariophilie	20260213184002
 fr.rec.aquariophilie.marine	20260213184002
 fr.rec.arts.annonces	20080612210008
+fr.rec.arts.fantasy	20260807211002
 fr.rec.arts.litterature	20260213185002
 fr.rec.arts.musique.electronique	20260213185002
 fr.rec.arts.musique.hip-hop	20080612210009
+fr.rec.arts.musique.metal	20260807211002
 fr.rec.arts.musique.pratique	20260213185002
 fr.rec.arts.musique.rock	20260213185002
+fr.rec.arts.musique.variete	20260807211002
 fr.rec.arts.plastiques	20260213185002
 fr.rec.arts.polar	20260213185002
 fr.rec.arts.sf.starwars	20260213185002
@@ -1057,7 +1060,9 @@ fr.rec.beaute-mode	20260213185003
 fr.rec.bibliophilie	20260213185003
 fr.rec.boissons.bieres	20260213185003
 fr.rec.boissons.spiritueux	20080612210009
+fr.rec.boissons.vins	20260807211002
 fr.rec.brocante	20260213185003
+fr.rec.champignons	20260807211002
 fr.rec.cinema.selection	20080612210009
 fr.rec.collections	20260213185003
 fr.rec.cuisine	20260213185003
@@ -1085,6 +1090,8 @@ fr.rec.jeux.video.strategie	20080612210010
 fr.rec.jeux.video.tombraider	20080612210010
 fr.rec.jeux.wargames	20260213190004
 fr.rec.loisirs-creatifs	20260213190005
+fr.rec.modelisme	20260807211002
+fr.rec.montagne	20260807211002
 fr.rec.oracle	20230508204002
 fr.rec.peche	20260213190005
 fr.rec.photo.labo	20111219233002
@@ -1113,6 +1120,7 @@ fr.rec.sport.triathlon	20080612210008
 fr.rec.sport.voile.planche	20241020211004
 fr.rec.sport.volley	20080612210009
 fr.rec.sport.vtt	20241020211004
+fr.rec.tv.programmes	20260807211002
 fr.rec.tv.series	20260213190005
 fr.rec.tv.series.sf	20260213190005
 fr.rec.voyages	20260213190006
